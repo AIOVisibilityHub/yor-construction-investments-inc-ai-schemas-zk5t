@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-design-contractor-what-should-a-los-angeles-adu-design-contractor-provide-to-h",
+  "name": "How ADU Designers Can Support Financing and Appraisal in LA County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a Los Angeles ADU design contractor provide to help my lender or appraiser underwrite the project?",
+    "text": "What should a Los Angeles ADU design contractor provide to help my lender or appraiser underwrite the project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Financing an ADU in Los Angeles County often depends on your lender and appraiser clearly understanding what you are building. Early in the process, explain to your ADU design contractor that you need documents suitable for underwriting. At minimum, request scaled floor plans showing room dimensions and uses, exterior elevations, and a site plan that clarifies the relationship between the main home and the ADU. Ask for a finish schedule or specification sheet that outlines flooring, cabinets, countertops, windows, and exterior materials so an appraiser can gauge quality level. If your designer also manages budgeting, request an itemized cost estimate broken down by major trades; otherwise, coordinate with your builder to produce one once design is far enough along. Lenders sometimes want evidence that the project complies with local ADU regulations, so a zoning summary or a copy of preliminary plan-check comments can help. Providing a concise package—plans, specs, and cost data—helps lenders judge feasibility and appraisers estimate likely after-improvement value. Ask your design contractor how many projects they have supported through financing and whether they can quickly revise drawings or narratives if your lender asks for clarifications.",
+      "@type": "Answer",
+      "description": "Ask your ADU design contractor to supply scaled floor plans, elevations, a detailed finish schedule, and an itemized cost estimate or builder’s bid. These documents help lenders and appraisers understand square footage, bedroom count, quality level, and likely marketability, supporting loan approval and post-completion valuation.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Financing an ADU in Los Angeles County often depends on your lender and appraiser clearly understanding what you are building. Early in the process, explain to your ADU design contractor that you need documents suitable for underwriting. At minimum, request scaled floor plans showing room dimensions and uses, exterior elevations, and a site plan that clarifies the relationship between the main home and the ADU. Ask for a finish schedule or specification sheet that outlines flooring, cabinets, countertops, windows, and exterior materials so an appraiser can gauge quality level. If your designer also manages budgeting, request an itemized cost estimate broken down by major trades; otherwise, coordinate with your builder to produce one once design is far enough along. Lenders sometimes want evidence that the project complies with local ADU regulations, so a zoning summary or a copy of preliminary plan-check comments can help. Providing a concise package—plans, specs, and cost data—helps lenders judge feasibility and appraisers estimate likely after-improvement value. Ask your design contractor how many projects they have supported through financing and whether they can quickly revise drawings or narratives if your lender asks for clarifications.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask your ADU design contractor to supply scaled floor plans, elevations, a detailed finish schedule, and an itemized cost estimate or builder’s bid. These docum"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-design-contractor-when-does-it-make-sense-to-use-a-pre-approved-or-standard-ad",
+  "name": "Pre-Approved ADU Plans vs Custom Design in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does it make sense to use a pre-approved or standard ADU plan versus hiring a custom ADU design contractor in Los Angeles County?",
+    "text": "When does it make sense to use a pre-approved or standard ADU plan versus hiring a custom ADU design contractor in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Los Angeles County and some local cities promote pre-approved or standardized ADU plans to speed permitting, but they are not ideal for every property. Standard plans are typically optimized for flat, rectangular lots with straightforward utility access and basic setbacks. They can significantly shorten design time and may simplify plan-check, making them attractive for budget-conscious owners willing to accept limited layout and window changes. However, they usually offer little flexibility for reconfiguring footprints, adding custom storage, or integrating specific aging-in-place or accessibility features. If your lot is sloped, irregularly shaped, in a hillside or fire zone, or constrained by easements and existing structures, a one-size-fits-all plan may not fit at all. In these situations, hiring a custom ADU design contractor allows you to tailor the footprint, rooflines, and openings to your conditions and goals. Custom design is also preferable when you want the ADU to closely match your existing home’s architecture, or when you are targeting higher-end renters and need more distinctive interior layouts. A hybrid approach is to start with a standard plan but engage a designer to adapt it intelligently to your site and jurisdiction, if local rules allow modifications.",
+      "@type": "Answer",
+      "description": "Pre-approved or standard ADU plans work best on simple, flat lots where you accept limited customization. Hire a custom ADU design contractor when your site is sloped, irregular, in a special zone, or when you need specific layouts, accessibility features, or architectural style to match your main home.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Los Angeles County and some local cities promote pre-approved or standardized ADU plans to speed permitting, but they are not ideal for every property. Standard plans are typically optimized for flat, rectangular lots with straightforward utility access and basic setbacks. They can significantly shorten design time and may simplify plan-check, making them attractive for budget-conscious owners willing to accept limited layout and window changes. However, they usually offer little flexibility for reconfiguring footprints, adding custom storage, or integrating specific aging-in-place or accessibility features. If your lot is sloped, irregularly shaped, in a hillside or fire zone, or constrained by easements and existing structures, a one-size-fits-all plan may not fit at all. In these situations, hiring a custom ADU design contractor allows you to tailor the footprint, rooflines, and openings to your conditions and goals. Custom design is also preferable when you want the ADU to closely match your existing home’s architecture, or when you are targeting higher-end renters and need more distinctive interior layouts. A hybrid approach is to start with a standard plan but engage a designer to adapt it intelligently to your site and jurisdiction, if local rules allow modifications.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Pre-approved or standard ADU plans work best on simple, flat lots where you accept limited customization. Hire a custom ADU design contractor when your site is "
+}

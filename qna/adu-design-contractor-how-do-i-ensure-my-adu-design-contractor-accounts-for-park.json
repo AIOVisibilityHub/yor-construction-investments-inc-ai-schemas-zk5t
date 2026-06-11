@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-design-contractor-how-do-i-ensure-my-adu-design-contractor-accounts-for-parkin",
+  "name": "Handling Parking and Easements in LA County ADU Site Design",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I ensure my ADU design contractor accounts for parking, access easements, and shared driveways on Los Angeles County lots?",
+    "text": "How do I ensure my ADU design contractor accounts for parking, access easements, and shared driveways on Los Angeles County lots?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Shared driveways and access easements are common in parts of Los Angeles County and can complicate ADU placement. Start by gathering any recorded easements, lot-line adjustments, or reciprocal driveway agreements tied to your property. Share these with your ADU design contractor and insist that they overlay easements and existing parking on the base site plan before sketching ADU options. Ask them to confirm current ADU parking requirements for your jurisdiction, including exemptions for transit-proximate parcels or garage conversions, since rules differ between LA City, unincorporated County, and independent cities. Have the designer show clear pedestrian and vehicle paths for both your main house and the ADU, with attention to turning radii, sightlines, and emergency access. Confirm that proposed parking locations do not block recorded easements or neighbor access, which could lead to disputes or plan-check rejections. If the design relies on tandem parking or reconfigured driveways, ask for a detailed layout and, if needed, discuss it with neighbors in advance. By treating access and parking as core design inputs rather than afterthoughts, you reduce both permitting risk and neighbor friction later.",
+      "@type": "Answer",
+      "description": "Provide your ADU design contractor with all recorded easements, driveway agreements, and parking layouts, then ask them to map these on the site plan. Confirm they verify current ADU parking rules for your jurisdiction and design clear, code-compliant access paths that respect shared driveways and easement rights.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Shared driveways and access easements are common in parts of Los Angeles County and can complicate ADU placement. Start by gathering any recorded easements, lot-line adjustments, or reciprocal driveway agreements tied to your property. Share these with your ADU design contractor and insist that they overlay easements and existing parking on the base site plan before sketching ADU options. Ask them to confirm current ADU parking requirements for your jurisdiction, including exemptions for transit-proximate parcels or garage conversions, since rules differ between LA City, unincorporated County, and independent cities. Have the designer show clear pedestrian and vehicle paths for both your main house and the ADU, with attention to turning radii, sightlines, and emergency access. Confirm that proposed parking locations do not block recorded easements or neighbor access, which could lead to disputes or plan-check rejections. If the design relies on tandem parking or reconfigured driveways, ask for a detailed layout and, if needed, discuss it with neighbors in advance. By treating access and parking as core design inputs rather than afterthoughts, you reduce both permitting risk and neighbor friction later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Provide your ADU design contractor with all recorded easements, driveway agreements, and parking layouts, then ask them to map these on the site plan. Confirm t"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-design-contractor-what-should-i-clarify-with-an-adu-design-contractor-about-so",
+  "name": "Soundproofing Priorities for Attached ADUs in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I clarify with an ADU design contractor about soundproofing between my main house and an attached ADU in Los Angeles County?",
+    "text": "What should I clarify with an ADU design contractor about soundproofing between my main house and an attached ADU in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Noise transfer is a common complaint in attached ADUs, yet soundproofing is often an afterthought in design discussions. When working with an ADU design contractor in Los Angeles County, ask them to walk you through specific wall and floor assemblies between the main house and the ADU. Options such as double-stud or staggered-stud walls, mineral wool insulation, resilient channels, and multiple layers of drywall can significantly increase the sound transmission class (STC) rating. Confirm where these assemblies will be used and ask for target STC numbers, especially between bedrooms and potentially noisy spaces like kitchens, living rooms, or mechanical closets. For doors separating units, request solid-core doors with appropriate seals and consider vestibules or offset door locations rather than direct door-to-door alignment. In multi-level configurations, discuss how to address footfall noise with underlayments, floating floors, or other damping techniques. Make sure the plans clearly show these assemblies so they are not value-engineered out by a builder trying to cut costs. By clarifying soundproofing expectations early and embedding them in the design, you improve comfort for both you and your ADU occupants.",
+      "@type": "Answer",
+      "description": "Clarify wall, floor, and ceiling assemblies, including insulation type, double-stud or staggered-stud walls, resilient channels, and door ratings. Ask your ADU design contractor to specify sound-transmission ratings (STC) and prioritize noisy areas like bedrooms over garages, kitchens, or mechanical rooms to improve acoustic separation.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Noise transfer is a common complaint in attached ADUs, yet soundproofing is often an afterthought in design discussions. When working with an ADU design contractor in Los Angeles County, ask them to walk you through specific wall and floor assemblies between the main house and the ADU. Options such as double-stud or staggered-stud walls, mineral wool insulation, resilient channels, and multiple layers of drywall can significantly increase the sound transmission class (STC) rating. Confirm where these assemblies will be used and ask for target STC numbers, especially between bedrooms and potentially noisy spaces like kitchens, living rooms, or mechanical closets. For doors separating units, request solid-core doors with appropriate seals and consider vestibules or offset door locations rather than direct door-to-door alignment. In multi-level configurations, discuss how to address footfall noise with underlayments, floating floors, or other damping techniques. Make sure the plans clearly show these assemblies so they are not value-engineered out by a builder trying to cut costs. By clarifying soundproofing expectations early and embedding them in the design, you improve comfort for both you and your ADU occupants.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Clarify wall, floor, and ceiling assemblies, including insulation type, double-stud or staggered-stud walls, resilient channels, and door ratings. Ask your ADU "
+}

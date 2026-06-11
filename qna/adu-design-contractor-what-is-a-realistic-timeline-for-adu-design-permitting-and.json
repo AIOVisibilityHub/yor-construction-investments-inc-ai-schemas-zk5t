@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-design-contractor-what-is-a-realistic-timeline-for-adu-design-permitting-and-c",
+  "name": "Typical Pre-Construction Timeline for an ADU in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is a realistic timeline for ADU design, permitting, and contractor selection in Los Angeles County before construction starts?",
+    "text": "What is a realistic timeline for ADU design, permitting, and contractor selection in Los Angeles County before construction starts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Homeowners often underestimate how long the pre-construction phase for an ADU takes in Los Angeles County. From first meeting to ground-breaking, a realistic expectation is 3–6 months, sometimes longer on complex or hillside lots. Concept design typically takes 4–8 weeks, including measuring the existing home, producing as-built plans, exploring layout options, and iterating until you settle on a scheme. Construction documents—detailed drawings, structural engineering, and Title 24 reports—usually add another 4–8 weeks. Once plans are submitted, plan-check times vary widely by jurisdiction: some LA-area cities turn around ADU reviews in 4–6 weeks, while others may take 8–12 weeks including corrections. During plan-check, your design contractor should respond to city comments and resubmit until approval, which can add several weeks. Parallel to the latter stages of plan-check, budget-conscious owners often begin talking to builders, sharing near-final plans to collect bids. Waiting until after final approval to start contractor selection can delay your start date by an extra 4–8 weeks. Planning with these time bands in mind helps you avoid rushed decisions, allows you to lock in financing, and sets a realistic move-in or rental target date.",
+      "@type": "Answer",
+      "description": "Most Los Angeles County ADU projects require 3–6 months from initial design to permit-ready plans and contractor selection. Concept design may take 4–8 weeks, construction drawings another 4–8 weeks, and city or county plan-check plus revisions 4–12 weeks, depending on jurisdiction and complexity.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Homeowners often underestimate how long the pre-construction phase for an ADU takes in Los Angeles County. From first meeting to ground-breaking, a realistic expectation is 3–6 months, sometimes longer on complex or hillside lots. Concept design typically takes 4–8 weeks, including measuring the existing home, producing as-built plans, exploring layout options, and iterating until you settle on a scheme. Construction documents—detailed drawings, structural engineering, and Title 24 reports—usually add another 4–8 weeks. Once plans are submitted, plan-check times vary widely by jurisdiction: some LA-area cities turn around ADU reviews in 4–6 weeks, while others may take 8–12 weeks including corrections. During plan-check, your design contractor should respond to city comments and resubmit until approval, which can add several weeks. Parallel to the latter stages of plan-check, budget-conscious owners often begin talking to builders, sharing near-final plans to collect bids. Waiting until after final approval to start contractor selection can delay your start date by an extra 4–8 weeks. Planning with these time bands in mind helps you avoid rushed decisions, allows you to lock in financing, and sets a realistic move-in or rental target date.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most Los Angeles County ADU projects require 3–6 months from initial design to permit-ready plans and contractor selection. Concept design may take 4–8 weeks, c"
+}

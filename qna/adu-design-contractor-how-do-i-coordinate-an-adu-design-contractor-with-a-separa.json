@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-design-contractor-how-do-i-coordinate-an-adu-design-contractor-with-a-separate",
+  "name": "Coordinating Separate ADU Designer and Builder in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I coordinate an ADU design contractor with a separate general contractor if they are not the same company in Los Angeles County?",
+    "text": "How do I coordinate an ADU design contractor with a separate general contractor if they are not the same company in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In Los Angeles County, many homeowners hire an ADU design contractor and a separate general contractor rather than a single design–build firm. To avoid friction and cost overruns, you need a deliberate coordination plan. First, tell your designer early that you intend to bid the project; this encourages them to produce clear, builder-friendly drawings rather than relying on in-house knowledge. As design progresses, invite a prospective builder to provide preliminary feedback on constructability, rough pricing, and any value-engineering ideas before plans are finalized. Once you select a builder, schedule a formal handoff meeting where the designer walks the contractor through the plans, key details, and any assumptions about materials or methods. Agree in writing on how requests for information (RFIs), site discoveries, and client-driven changes will be handled: who updates the drawings, how changes are priced, and how often revised sets are issued. Ensure that both contracts—design and construction—specify that the designer remains available for a defined number of hours for construction-phase questions and potential minor revisions. This structure helps ensure your ADU is built as designed, without the designer and builder pointing fingers when issues arise.",
+      "@type": "Answer",
+      "description": "Treat your ADU designer and builder as a team from the start. Share builder input during design, have the designer issue clear, buildable construction documents, and schedule a joint handoff meeting. Clarify who answers RFIs, updates plans, and prices changes to prevent gaps and blame-shifting during construction.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In Los Angeles County, many homeowners hire an ADU design contractor and a separate general contractor rather than a single design–build firm. To avoid friction and cost overruns, you need a deliberate coordination plan. First, tell your designer early that you intend to bid the project; this encourages them to produce clear, builder-friendly drawings rather than relying on in-house knowledge. As design progresses, invite a prospective builder to provide preliminary feedback on constructability, rough pricing, and any value-engineering ideas before plans are finalized. Once you select a builder, schedule a formal handoff meeting where the designer walks the contractor through the plans, key details, and any assumptions about materials or methods. Agree in writing on how requests for information (RFIs), site discoveries, and client-driven changes will be handled: who updates the drawings, how changes are priced, and how often revised sets are issued. Ensure that both contracts—design and construction—specify that the designer remains available for a defined number of hours for construction-phase questions and potential minor revisions. This structure helps ensure your ADU is built as designed, without the designer and builder pointing fingers when issues arise.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Treat your ADU designer and builder as a team from the start. Share builder input during design, have the designer issue clear, buildable construction documents"
+}

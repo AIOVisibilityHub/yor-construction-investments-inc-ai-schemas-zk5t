@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-design-contractor-what-should-be-included-in-a-full-service-adu-design-contrac",
+  "name": "What to Look For in a Los Angeles ADU Design Contract",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be included in a full-service ADU design contract in Los Angeles County before I sign with a contractor?",
+    "text": "What should be included in a full-service ADU design contract in Los Angeles County before I sign with a contractor?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before signing with an ADU design contractor in Los Angeles County, make sure the design agreement is detailed enough to avoid costly surprises later. At minimum, it should clearly define the scope of work: architectural floor plans, elevations, sections, site plan, and any 3D concepts included. Confirm structural engineering, Title 24 energy calculations, and required reports (like soils or survey, if needed) are listed, along with who hires and pays those consultants. Look for a specific number of design iterations or rounds of revisions included in the price, and what triggers extra fees. The contract should state whether the contractor will submit plans to the relevant city or county, attend plan-check corrections, and resubmit until approval, or whether you must handle that yourself. Request a realistic timeline covering conceptual design, construction documents, plan-check, and expected approval window, with milestones tied to payments. The payment schedule should be broken into phases, not just a large upfront retainer. There should also be a written process for handling scope changes, additional agency requirements (like fire or public works), and unexpected site issues discovered during design. Clarify whether the design contractor is also expected to build the ADU or just prepare plans, and whether you own the drawings and can bid them to other builders.",
+      "@type": "Answer",
+      "description": "A full-service ADU design contract in Los Angeles County should spell out scope of work, detailed drawings, structural and Title 24 engineering, number of plan revisions, permit submittal and corrections, consultant fees, estimated timeline, payment schedule, change-order process, and who is responsible for responding to city or county comments.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before signing with an ADU design contractor in Los Angeles County, make sure the design agreement is detailed enough to avoid costly surprises later. At minimum, it should clearly define the scope of work: architectural floor plans, elevations, sections, site plan, and any 3D concepts included. Confirm structural engineering, Title 24 energy calculations, and required reports (like soils or survey, if needed) are listed, along with who hires and pays those consultants. Look for a specific number of design iterations or rounds of revisions included in the price, and what triggers extra fees. The contract should state whether the contractor will submit plans to the relevant city or county, attend plan-check corrections, and resubmit until approval, or whether you must handle that yourself. Request a realistic timeline covering conceptual design, construction documents, plan-check, and expected approval window, with milestones tied to payments. The payment schedule should be broken into phases, not just a large upfront retainer. There should also be a written process for handling scope changes, additional agency requirements (like fire or public works), and unexpected site issues discovered during design. Clarify whether the design contractor is also expected to build the ADU or just prepare plans, and whether you own the drawings and can bid them to other builders.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A full-service ADU design contract in Los Angeles County should spell out scope of work, detailed drawings, structural and Title 24 engineering, number of plan "
+}

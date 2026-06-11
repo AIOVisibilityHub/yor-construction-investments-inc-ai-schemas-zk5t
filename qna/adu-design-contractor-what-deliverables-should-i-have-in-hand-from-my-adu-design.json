@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-design-contractor-what-deliverables-should-i-have-in-hand-from-my-adu-design-c",
+  "name": "Essential ADU Design Deliverables Before Bidding Construction in LA",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What deliverables should I have in hand from my ADU design contractor before requesting final construction bids in Los Angeles County?",
+    "text": "What deliverables should I have in hand from my ADU design contractor before requesting final construction bids in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Requesting detailed construction bids too early often leads to misleadingly low numbers and change orders later. In Los Angeles County, you should wait until your ADU design contractor has produced a near-complete set of documents. Ideally, you will have permit-ready or already submitted architectural drawings, including floor plans, elevations, sections, details, and a site plan with grading and drainage notes if relevant. Structural drawings and calculations should be substantially complete so builders can see footing sizes, framing specifications, and shear-wall layouts. Title 24 energy documents should be available to clarify required insulation levels, windows, and mechanical systems. Ask your designer for a finish schedule specifying flooring, cabinetry, countertops, plumbing fixtures, lighting, and exterior materials at least to a baseline quality, even if you reserve the right to upgrade later. Door and window schedules with sizes and types help builders get accurate vendor quotes. The site plan should indicate utility connections and approximate trenching routes. With this package, builders can produce bids that reflect real scopes and methods rather than guesswork, giving you a much firmer sense of true project cost before you sign a construction contract.",
+      "@type": "Answer",
+      "description": "Before seeking final ADU bids, have a full set of permitted or near-permit-ready drawings, structural and Title 24 documents, a finish schedule, door and window schedule, and site utilities shown. These details let Los Angeles County builders price accurately and reduce change orders during construction.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Requesting detailed construction bids too early often leads to misleadingly low numbers and change orders later. In Los Angeles County, you should wait until your ADU design contractor has produced a near-complete set of documents. Ideally, you will have permit-ready or already submitted architectural drawings, including floor plans, elevations, sections, details, and a site plan with grading and drainage notes if relevant. Structural drawings and calculations should be substantially complete so builders can see footing sizes, framing specifications, and shear-wall layouts. Title 24 energy documents should be available to clarify required insulation levels, windows, and mechanical systems. Ask your designer for a finish schedule specifying flooring, cabinetry, countertops, plumbing fixtures, lighting, and exterior materials at least to a baseline quality, even if you reserve the right to upgrade later. Door and window schedules with sizes and types help builders get accurate vendor quotes. The site plan should indicate utility connections and approximate trenching routes. With this package, builders can produce bids that reflect real scopes and methods rather than guesswork, giving you a much firmer sense of true project cost before you sign a construction contract.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before seeking final ADU bids, have a full set of permitted or near-permit-ready drawings, structural and Title 24 documents, a finish schedule, door and window"
+}

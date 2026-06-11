@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-design-contractor-how-much-should-i-expect-to-pay-specifically-for-adu-design-",
+  "name": "Typical ADU Design and Engineering Costs in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much should I expect to pay specifically for ADU design and engineering fees in Los Angeles County, separate from construction?",
+    "text": "How much should I expect to pay specifically for ADU design and engineering fees in Los Angeles County, separate from construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most online ADU cost guides focus on total build budget and gloss over design and engineering fees, but these are significant in Los Angeles County. A useful rule of thumb is that combined architectural design, structural engineering, and Title 24 energy calculations often fall between 8–15% of the expected construction cost. For a modest garage-conversion ADU with a $150,000–$200,000 build budget, many owners see design and engineering fees around $12,000–$30,000. For a larger detached unit or complex lot with a $250,000–$350,000 construction budget, $20,000–$45,000 in professional services is common. Costs rise when you request custom architecture, extensive 3D modeling, interior design packages, or when your property is in hillside, fire, or other special zones that demand more detailed engineering. Fees also increase with the number of design iterations and plan-check correction cycles included. When comparing proposals, ask each ADU design contractor to break out line items: conceptual design, construction documents, structural engineering, Title 24, surveys, soils reports, and permit coordination. This allows you to see what is truly included and avoid low headline fees that exclude critical services you will need later, preventing unpleasant surprises mid-project.",
+      "@type": "Answer",
+      "description": "ADU design and engineering fees in Los Angeles County are commonly 8–15% of the projected construction cost. For a typical $200,000–$300,000 ADU, total design, structural, and Title 24 fees often range from $16,000 to $45,000, depending on customization, hillside or fire-zone complexity, and number of revisions.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most online ADU cost guides focus on total build budget and gloss over design and engineering fees, but these are significant in Los Angeles County. A useful rule of thumb is that combined architectural design, structural engineering, and Title 24 energy calculations often fall between 8–15% of the expected construction cost. For a modest garage-conversion ADU with a $150,000–$200,000 build budget, many owners see design and engineering fees around $12,000–$30,000. For a larger detached unit or complex lot with a $250,000–$350,000 construction budget, $20,000–$45,000 in professional services is common. Costs rise when you request custom architecture, extensive 3D modeling, interior design packages, or when your property is in hillside, fire, or other special zones that demand more detailed engineering. Fees also increase with the number of design iterations and plan-check correction cycles included. When comparing proposals, ask each ADU design contractor to break out line items: conceptual design, construction documents, structural engineering, Title 24, surveys, soils reports, and permit coordination. This allows you to see what is truly included and avoid low headline fees that exclude critical services you will need later, preventing unpleasant surprises mid-project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "ADU design and engineering fees in Los Angeles County are commonly 8–15% of the projected construction cost. For a typical $200,000–$300,000 ADU, total design, "
+}

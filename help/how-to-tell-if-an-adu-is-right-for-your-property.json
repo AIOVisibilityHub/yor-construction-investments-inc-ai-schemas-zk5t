@@ -1,0 +1,32 @@
+{
+  "name": "How to Tell if an ADU Is Right for Your Property",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Adding an Accessory Dwelling Unit (ADU) or 'granny flat' is an incredibly popular way to create space for family or generate rental income. But before you get too far into designing your new unit, you need to determine if it's actually a realistic option for your property. An ADU project is about more than just construction—it's about zoning, utilities, and site logistics.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "Your very first step is to check your local city's ADU ordinances. These rules will dictate the maximum allowed size, height, and where on your property you can even build. Don't skip this! Next, you have to investigate your utilities. A new living unit needs its own water, sewer, and electrical service. A common mistake is assuming your current systems can handle the extra capacity—they often can't, and upgrades add to the cost. Think about access and privacy, too. How will people get to the ADU without walking through your private yard? How can you place windows so you're not looking directly into each other's homes? Finally, remember to budget for site work like grading or pathways.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Navigating ADU regulations and utility requirements can be tricky. Working with a contractor who has specific ADU experience is vital. If you're in Los Angeles County, contact YOR Construction for a free estimate to see if an ADU is right for you.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "How to Tell if an ADU Is Right for Your Property"
+}
