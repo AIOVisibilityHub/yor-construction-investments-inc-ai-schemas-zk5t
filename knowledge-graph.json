@@ -4649,13 +4649,1057 @@
     {
       "@context": "https://schema.org",
       "@type": "Place",
-      "name": "Los Angeles County",
+      "name": "Los Angeles County Agoura Hills  ",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Los Angeles County",
+        "addressLocality": "Los Angeles County Agoura Hills  ",
         "addressCountry": "US"
       },
-      "areaServed": "Los Angeles County",
+      "areaServed": "Los Angeles County Agoura Hills  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Alhambra  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Alhambra  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Alhambra  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Arcadia  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Arcadia  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Arcadia  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Artesia  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Artesia  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Artesia  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Avalon  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Avalon  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Avalon  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Azusa  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Azusa  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Azusa  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Baldwin Park  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Baldwin Park  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Baldwin Park  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Bell  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bell  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Bell  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Bell Gardens  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bell Gardens  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Bell Gardens  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Bellflower  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bellflower  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Bellflower  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Beverly Hills  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Beverly Hills  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Beverly Hills  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Bradbury  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bradbury  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Bradbury  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Burbank  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Burbank  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Burbank  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Calabasas  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calabasas  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Calabasas  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Carson  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Carson  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Carson  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Cerritos  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Cerritos  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Cerritos  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Claremont  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Claremont  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Claremont  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Commerce  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Commerce  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Commerce  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Compton  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Compton  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Compton  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Covina  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Covina  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Covina  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Cudahy  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Cudahy  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Cudahy  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Culver City  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Culver City  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Culver City  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Diamond Bar  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Diamond Bar  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Diamond Bar  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Downey  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Downey  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Downey  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Duarte  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Duarte  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Duarte  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "El Monte  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "El Monte  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "El Monte  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "El Segundo  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "El Segundo  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "El Segundo  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Gardena  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gardena  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Gardena  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Glendale  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Glendale  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Glendale  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Glendora  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Glendora  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Glendora  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Hawaiian Gardens  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Hawaiian Gardens  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Hawaiian Gardens  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Hawthorne  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Hawthorne  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Hawthorne  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Hermosa Beach  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Hermosa Beach  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Hermosa Beach  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Hidden Hills  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Hidden Hills  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Hidden Hills  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Huntington Park  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Huntington Park  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Huntington Park  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Industry  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Industry  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Industry  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Inglewood  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Inglewood  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Inglewood  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Irwindale  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Irwindale  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Irwindale  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "La Cañada Flintridge  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Cañada Flintridge  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "La Cañada Flintridge  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "La Habra Heights  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Habra Heights  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "La Habra Heights  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "La Mirada  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Mirada  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "La Mirada  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "La Puente  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Puente  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "La Puente  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "La Verne  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Verne  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "La Verne  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Lakewood  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lakewood  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Lakewood  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Lancaster  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lancaster  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Lancaster  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Lawndale  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lawndale  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Lawndale  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Lomita  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lomita  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Lomita  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Long Beach  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Long Beach  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Long Beach  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Los Angeles  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Los Angeles  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Los Angeles  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Lynwood  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lynwood  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Lynwood  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Malibu  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Malibu  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Malibu  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Manhattan Beach  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Manhattan Beach  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Manhattan Beach  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Maywood  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Maywood  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Maywood  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Monrovia  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Monrovia  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Monrovia  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Montebello  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montebello  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Montebello  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Monterey Park  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Monterey Park  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Monterey Park  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Norwalk  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Norwalk  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Norwalk  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Palmdale  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Palmdale  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Palmdale  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Palos Verdes Estates  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Palos Verdes Estates  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Palos Verdes Estates  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Paramount  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Paramount  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Paramount  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Pasadena  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pasadena  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Pasadena  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Pico Rivera  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pico Rivera  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Pico Rivera  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Pomona  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pomona  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Pomona  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Rancho Palos Verdes  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rancho Palos Verdes  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Rancho Palos Verdes  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Redondo Beach  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Redondo Beach  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Redondo Beach  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Rolling Hills  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rolling Hills  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Rolling Hills  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Rolling Hills Estates  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rolling Hills Estates  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Rolling Hills Estates  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Rosemead  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rosemead  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Rosemead  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "San Dimas  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "San Dimas  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "San Dimas  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "San Fernando  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "San Fernando  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "San Fernando  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "San Gabriel  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "San Gabriel  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "San Gabriel  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "San Marino  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "San Marino  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "San Marino  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Santa Clarita  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Santa Clarita  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Santa Clarita  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Santa Fe Springs  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Santa Fe Springs  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Santa Fe Springs  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Santa Monica  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Santa Monica  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Santa Monica  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Sierra Madre  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sierra Madre  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Sierra Madre  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Signal Hill  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Signal Hill  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Signal Hill  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "South El Monte  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "South El Monte  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "South El Monte  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "South Gate  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "South Gate  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "South Gate  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "South Pasadena  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "South Pasadena  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "South Pasadena  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Temple City  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Temple City  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Temple City  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Torrance  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Torrance  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Torrance  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Vernon  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Vernon  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Vernon  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Walnut  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Walnut  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Walnut  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "West Covina  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "West Covina  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "West Covina  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "West Hollywood  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "West Hollywood  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "West Hollywood  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Westlake Village  ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Westlake Village  ",
+        "addressCountry": "US"
+      },
+      "areaServed": "Westlake Village  ",
+      "url": "yorconstruction.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "Whittier",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Whittier",
+        "addressCountry": "US"
+      },
+      "areaServed": "Whittier",
       "url": "yorconstruction.com"
     }
   ]
