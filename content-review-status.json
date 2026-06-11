@@ -1,6 +1,6 @@
 {
   "entity": "YOR Construction & Investments, Inc.",
-  "generatedAt": "2026-06-11T21:42:39.464Z",
+  "generatedAt": "2026-06-11T21:55:36.729Z",
   "workflow": "research → review → approval → public",
   "notes": "Research and Q&A items require explicit approval before publishing. Non-research entity files (services, locations, attorneys, FAQs) are produced from supplied entity data.",
   "files": [
@@ -111,27 +111,6 @@
     },
     {
       "path": "organization/yor-construction-investments-inc-organization.json",
-      "status": "entity-data",
-      "visibility": "published",
-      "reviewedAt": null,
-      "reviewedBy": null
-    },
-    {
-      "path": "reviews/marion-zeddy-review.json",
-      "status": "entity-data",
-      "visibility": "published",
-      "reviewedAt": null,
-      "reviewedBy": null
-    },
-    {
-      "path": "reviews/nandy-milan-review.json",
-      "status": "entity-data",
-      "visibility": "published",
-      "reviewedAt": null,
-      "reviewedBy": null
-    },
-    {
-      "path": "reviews/larry-kenjoshua-review.json",
       "status": "entity-data",
       "visibility": "published",
       "reviewedAt": null,
@@ -5515,6 +5494,258 @@
       "reviewedAt": "2026-06-11T21:03:02.385+00:00",
       "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
       "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "reviews/anonymous-1-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/mario-s-2-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-3-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-4-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-5-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-6-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-7-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-8-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-9-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-10-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-11-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-12-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-13-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-14-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-15-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-16-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-17-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-18-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-19-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-20-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-21-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-22-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-23-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-24-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-25-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-26-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-27-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-28-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-29-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-30-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-31-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-32-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-33-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-34-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-35-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/aggregate-rating.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
     },
     {
       "path": "index.html",

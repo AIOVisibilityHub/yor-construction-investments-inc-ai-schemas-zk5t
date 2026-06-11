@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T21:42:39.456Z",
+  "generatedAt": "2026-06-11T21:55:36.720Z",
   "links": [
     {
       "path": "services/additions-service.json",
@@ -64,18 +64,6 @@
     {
       "path": "organization/yor-construction-investments-inc-organization.json",
       "category": "organization"
-    },
-    {
-      "path": "reviews/marion-zeddy-review.json",
-      "category": "reviews"
-    },
-    {
-      "path": "reviews/nandy-milan-review.json",
-      "category": "reviews"
-    },
-    {
-      "path": "reviews/larry-kenjoshua-review.json",
-      "category": "reviews"
     },
     {
       "path": "help/what-should-i-budget-for-a-home-addition.json",
@@ -3020,6 +3008,150 @@
     {
       "path": "research-source/adu-construction-what-policy-and-market-factors-have-driven-the-rapid-growth--68.json",
       "category": "research-source"
+    },
+    {
+      "path": "reviews/anonymous-1-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/mario-s-2-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-3-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-4-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-5-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-6-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-7-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-8-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-9-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-10-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-11-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-12-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-13-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-14-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-15-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-16-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-17-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-18-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-19-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-20-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-21-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-22-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-23-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-24-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-25-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-26-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-27-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-28-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-29-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-30-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-31-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-32-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-33-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-34-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-35-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/aggregate-rating.json",
+      "category": "reviews"
     },
     {
       "path": "index.html",

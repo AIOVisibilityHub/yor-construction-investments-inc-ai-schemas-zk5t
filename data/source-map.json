@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T21:42:39.457Z",
+  "generatedAt": "2026-06-11T21:55:36.720Z",
   "files": [
     {
       "path": "services/additions-service.json",
@@ -111,27 +111,6 @@
       "category": "organization",
       "purpose": "schema",
       "bytes": 1326,
-      "mime": "application/ld+json"
-    },
-    {
-      "path": "reviews/marion-zeddy-review.json",
-      "category": "reviews",
-      "purpose": "schema",
-      "bytes": 498,
-      "mime": "application/ld+json"
-    },
-    {
-      "path": "reviews/nandy-milan-review.json",
-      "category": "reviews",
-      "purpose": "schema",
-      "bytes": 590,
-      "mime": "application/ld+json"
-    },
-    {
-      "path": "reviews/larry-kenjoshua-review.json",
-      "category": "reviews",
-      "purpose": "schema",
-      "bytes": 491,
       "mime": "application/ld+json"
     },
     {
@@ -5287,17 +5266,269 @@
       "mime": "application/ld+json"
     },
     {
+      "path": "reviews/anonymous-1-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 596,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/mario-s-2-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 657,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-3-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 668,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-4-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 659,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-5-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 660,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-6-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 661,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-7-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 658,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-8-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 624,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-9-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 677,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-10-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 660,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-11-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 660,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-12-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 623,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-13-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 651,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-14-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 672,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-15-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 688,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-16-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 612,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-17-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 555,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-18-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 535,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-19-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 551,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-20-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 577,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-21-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 563,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-22-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 584,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-23-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 584,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-24-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 550,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-25-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 599,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-26-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 585,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-27-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 557,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-28-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 573,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-29-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 585,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-30-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 564,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-31-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 565,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-32-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 560,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-33-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 564,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-34-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 566,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-35-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 605,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/aggregate-rating.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 224,
+      "mime": "application/ld+json"
+    },
+    {
       "path": "index.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 2044,
+      "bytes": 2050,
       "mime": "text/html"
     },
     {
       "path": "about.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 3764,
+      "bytes": 3968,
       "mime": "text/html"
     },
     {
@@ -5311,7 +5542,7 @@
       "path": "testimonials.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 3553,
+      "bytes": 41271,
       "mime": "text/html"
     },
     {
@@ -5626,14 +5857,14 @@
       "path": "reviews.jsonld",
       "category": "reviews",
       "purpose": "Reviews ItemList",
-      "bytes": 2380,
+      "bytes": 34648,
       "mime": "application/octet-stream"
     },
     {
       "path": "testimonials.jsonld",
       "category": "reviews",
       "purpose": "Testimonials ItemList",
-      "bytes": 2385,
+      "bytes": 34653,
       "mime": "application/octet-stream"
     },
     {
@@ -5738,7 +5969,7 @@
       "path": "reviews.html",
       "category": "pages",
       "purpose": "Reviews page",
-      "bytes": 2025,
+      "bytes": 3215,
       "mime": "text/html"
     },
     {
@@ -5822,7 +6053,7 @@
       "path": "data/reviews.json",
       "category": "data",
       "purpose": "Reviews data",
-      "bytes": 2023,
+      "bytes": 30236,
       "mime": "application/ld+json"
     },
     {
@@ -5843,7 +6074,7 @@
       "path": "data/internal-links.json",
       "category": "data",
       "purpose": "Internal links index",
-      "bytes": 110345,
+      "bytes": 113332,
       "mime": "application/ld+json"
     }
   ]

@@ -11,21 +11,13 @@ Canonical AI Data Package for YOR Construction & Investments, Inc..
 ## Stats
 - 734 qna
 - 431 faqs
-- 3 reviews
+- 35 reviews
 - 265 research
 - 25 services
 - 27 webpages
 - 41 helpArticles
 - 1 organization
-- **1527** total
-
-## Cross-Destination Index — Related AI Data Sources
-- [canonical] YOR Construction & Investments, Inc. — canonical website — yorconstruction.com
-- [ai-data-hub] YOR Construction & Investments, Inc. — AI Data Hub — https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/ai-data.html
-- [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-zk5t
-- [mirror-pages] GitHub — AI Data Hub mirror — https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/ai-data.html
-
-Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
+- **1560** total
 
 
 ## Package Contents
@@ -835,11 +827,44 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`services.html`](./services.html) — LLM-optimized public page
 - [`testimonials.html`](./testimonials.html) — LLM-optimized public page
 
-### Reviews (5)
+### Reviews (38)
 - [`reviews.jsonld`](./reviews.jsonld) — Reviews ItemList
-- [`reviews/larry-kenjoshua-review.json`](./reviews/larry-kenjoshua-review.json) — schema
-- [`reviews/marion-zeddy-review.json`](./reviews/marion-zeddy-review.json) — schema
-- [`reviews/nandy-milan-review.json`](./reviews/nandy-milan-review.json) — schema
+- [`reviews/aggregate-rating.json`](./reviews/aggregate-rating.json) — schema
+- [`reviews/anonymous-1-review.json`](./reviews/anonymous-1-review.json) — schema
+- [`reviews/anonymous-10-review.json`](./reviews/anonymous-10-review.json) — schema
+- [`reviews/anonymous-11-review.json`](./reviews/anonymous-11-review.json) — schema
+- [`reviews/anonymous-12-review.json`](./reviews/anonymous-12-review.json) — schema
+- [`reviews/anonymous-13-review.json`](./reviews/anonymous-13-review.json) — schema
+- [`reviews/anonymous-14-review.json`](./reviews/anonymous-14-review.json) — schema
+- [`reviews/anonymous-15-review.json`](./reviews/anonymous-15-review.json) — schema
+- [`reviews/anonymous-16-review.json`](./reviews/anonymous-16-review.json) — schema
+- [`reviews/anonymous-17-review.json`](./reviews/anonymous-17-review.json) — schema
+- [`reviews/anonymous-18-review.json`](./reviews/anonymous-18-review.json) — schema
+- [`reviews/anonymous-19-review.json`](./reviews/anonymous-19-review.json) — schema
+- [`reviews/anonymous-20-review.json`](./reviews/anonymous-20-review.json) — schema
+- [`reviews/anonymous-21-review.json`](./reviews/anonymous-21-review.json) — schema
+- [`reviews/anonymous-22-review.json`](./reviews/anonymous-22-review.json) — schema
+- [`reviews/anonymous-23-review.json`](./reviews/anonymous-23-review.json) — schema
+- [`reviews/anonymous-24-review.json`](./reviews/anonymous-24-review.json) — schema
+- [`reviews/anonymous-25-review.json`](./reviews/anonymous-25-review.json) — schema
+- [`reviews/anonymous-26-review.json`](./reviews/anonymous-26-review.json) — schema
+- [`reviews/anonymous-27-review.json`](./reviews/anonymous-27-review.json) — schema
+- [`reviews/anonymous-28-review.json`](./reviews/anonymous-28-review.json) — schema
+- [`reviews/anonymous-29-review.json`](./reviews/anonymous-29-review.json) — schema
+- [`reviews/anonymous-3-review.json`](./reviews/anonymous-3-review.json) — schema
+- [`reviews/anonymous-30-review.json`](./reviews/anonymous-30-review.json) — schema
+- [`reviews/anonymous-31-review.json`](./reviews/anonymous-31-review.json) — schema
+- [`reviews/anonymous-32-review.json`](./reviews/anonymous-32-review.json) — schema
+- [`reviews/anonymous-33-review.json`](./reviews/anonymous-33-review.json) — schema
+- [`reviews/anonymous-34-review.json`](./reviews/anonymous-34-review.json) — schema
+- [`reviews/anonymous-35-review.json`](./reviews/anonymous-35-review.json) — schema
+- [`reviews/anonymous-4-review.json`](./reviews/anonymous-4-review.json) — schema
+- [`reviews/anonymous-5-review.json`](./reviews/anonymous-5-review.json) — schema
+- [`reviews/anonymous-6-review.json`](./reviews/anonymous-6-review.json) — schema
+- [`reviews/anonymous-7-review.json`](./reviews/anonymous-7-review.json) — schema
+- [`reviews/anonymous-8-review.json`](./reviews/anonymous-8-review.json) — schema
+- [`reviews/anonymous-9-review.json`](./reviews/anonymous-9-review.json) — schema
+- [`reviews/mario-s-2-review.json`](./reviews/mario-s-2-review.json) — schema
 - [`testimonials.jsonld`](./testimonials.jsonld) — Testimonials ItemList
 
 ### Press (1)
