@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "Our garage conversion to an ADU was handled perfectly. YOR managed all inspections and paperwork and delivered a high-quality living space that matched the main house.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "yorconstruction.com",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Garage conversion / ADU"
+      }
+    }
+  }
+}

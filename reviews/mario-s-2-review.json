@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Mario S."
+  },
+  "reviewBody": "The team was very professional and good. The roof replacement and addition project was completed on time with no surprises. I can’t believe how smoothly it went compared to what I’d expected from past experiences with contractors.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2020",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "yorconstruction.com",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Roof replacement and home addition"
+      }
+    }
+  }
+}

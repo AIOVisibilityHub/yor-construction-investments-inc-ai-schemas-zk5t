@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "YOR remodeled both our kitchen and bathroom. They offered helpful design suggestions and coordinated all trades efficiently. The result looks modern and high quality.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "yorconstruction.com",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Kitchen and bathroom remodeling"
+      }
+    }
+  }
+}
