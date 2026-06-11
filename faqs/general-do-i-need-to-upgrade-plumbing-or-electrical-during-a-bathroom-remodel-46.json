@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-do-i-need-to-upgrade-plumbing-or-electrical-during-a-bathroom-remodel-46",
+  "name": "Do I need to upgrade plumbing or electrical during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Do I need to upgrade plumbing or electrical during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You may need upgrades if the existing system is old, undersized, unsafe, or not suited to the new design. Bathroom remodels often reveal outdated wiring, weak ventilation, or plumbing that should be corrected before new finishes go in. It is better to address those issues during construction than after the room is finished.",
+        "@type": "Answer",
+        "description": "Sometimes yes, especially if the systems are old, unsafe, or not compatible with the new bathroom design."
+      }
+    }
+  ],
+  "description": "Sometimes yes, especially if the systems are old, unsafe, or not compatible with the new bathroom design."
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-how-do-i-make-sure-the-finished-space-is-ada-compliant-144",
+  "name": "How do I make sure the finished space is ADA compliant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I make sure the finished space is ADA compliant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADA compliance should be part of design and construction from the start, not a last-minute fix. The contractor should coordinate layout, clearances, accessible routes, hardware, and restroom details so the finished space functions properly for users with disabilities.",
+        "@type": "Answer",
+        "description": "Build ADA requirements into the plan early. Waiting until the end usually creates expensive fixes and delays."
+      }
+    }
+  ],
+  "description": "Build ADA requirements into the plan early. Waiting until the end usually creates expensive fixes and delays."
+}

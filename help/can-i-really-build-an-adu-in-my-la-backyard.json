@@ -1,0 +1,27 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles County",
+        "@type": "AdministrativeArea"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I Really Build an ADU in My LA Backyard?",
+    "text": "Can I Really Build an ADU in My LA Backyard?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Accessory Dwelling Units (ADUs) are sweeping across Los Angeles, but building one is more complex than it looks. Before you start planning your new guest house or rental unit, it’s important to understand the real-world process.\n\nFirst, you have to confirm what's even possible on your property. LA's zoning rules, setback requirements, and lot size will determine if you can build a detached unit, an attached one, or a garage conversion. Don't make the common mistake of assuming a garage conversion is a simple drywall job; they require significant structural and safety upgrades to be legal. Also, be prepared for the permitting journey. Getting your plans approved by the LADBS isn't instant and involves detailed plan checks, potential corrections, and multiple inspections. It's a timeline you must factor in. Lastly, don't forget your utilities. A new living unit needs power, water, and sewer, and your home's existing systems might not be enough. Many projects require costly electrical panel or sewer line upgrades.\n\nAn ADU is essentially a small house, with all the same rules. Working with an experienced contractor who knows the LA system is critical. Contact YOR Construction & Investments today to get a free, realistic estimate for your ADU project.",
+      "@type": "Answer",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      }
+    }
+  }
+}

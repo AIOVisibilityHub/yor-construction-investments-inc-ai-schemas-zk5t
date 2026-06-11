@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/seismic-retrofitting-can-i-do-any-seismic-retrofitting-myself-or-is-this-always-something-that-needs--102",
+  "name": "Can I do any seismic retrofitting myself, or is this always something that needs a professional contractor and engineer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I do any seismic retrofitting myself, or is this always something that needs a professional contractor and engineer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor strengthening on an owner-occupied single-family home can sometimes be DIY, but code-compliant, permitted seismic retrofitting—especially in cities like Los Angeles—almost always requires licensed professionals. For multifamily and commercial buildings, using an engineer and licensed contractor is effectively mandatory.\n\nEarthquake performance depends on the entire load path, not just individual bolts or braces. Poorly executed DIY work can create weak links or hide hazards while giving a false sense of security.\n\nKey factors:\n- Local building codes and retrofit ordinances\n- Whether plans and engineering stamps are required to get permits\n- Scope of work (simple foundation bolting vs. frames, shear walls, and structural steel)\n- Liability and insurance implications if something fails\n\nIf you want to save money, focus on doing prep and non-structural tasks (clearing access, moving storage, coordinating tenants) rather than structural work. Always have an engineer design the retrofit and a licensed contractor perform the critical structural installation.\n\nA qualified retrofit specialist will tell you where DIY support is safe and where it’s not.",
+        "@type": "Answer",
+        "description": "Basic home-strengthening can sometimes be DIY, but true seismic retrofitting—especially for permitted work in cities like Los Angeles—needs a structural engineer’s design and a licensed contractor. Improper DIY structural work can create hidden weak points and liability, so reserve critical structural tasks for professionals."
+      }
+    }
+  ],
+  "description": "Basic home-strengthening can sometimes be DIY, but true seismic retrofitting—especially for permitted work in cities like Los Angeles—needs a structural enginee"
+}

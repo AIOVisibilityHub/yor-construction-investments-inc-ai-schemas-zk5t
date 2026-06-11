@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/can-i-live-in-my-house-during-a-major-addition-or-do-i-need-to-move-out",
+  "name": "Can I live in my house during a major addition, or do I need to move out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I live in my house during a major addition, or do I need to move out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many people stay in their homes during additions, but it’s loud, dusty, and disruptive. For larger or more invasive projects, temporary relocation can actually be safer and faster.\n\nWhether you can stay depends on where the work is happening, how utilities are affected, and your tolerance for disruption. Families with young children or people working from home often struggle more.\n\nKey factors:\n- Whether the kitchen, bathrooms, and bedrooms remain usable\n- Noise, dust, and safety issues like open framing and tools\n- Utility shutdowns or temporary power/water arrangements\n- Impact on pets, kids, sleep, and work\n\nDiscuss a phasing and access plan with your contractor, including site fencing, daily cleanup, and work hours. If living in the home would significantly extend the schedule or stress, compare that cost to renting nearby for a few months.",
+        "@type": "Answer",
+        "description": "You can often stay during an addition, but expect serious noise, dust, and lifestyle disruption. Whether it makes sense depends on what areas are affected, how utilities are handled, and your tolerance. Ask your contractor about phasing, safety, and schedule impacts, then realistically compare that with a short‑term rental."
+      }
+    }
+  ],
+  "description": "You can often stay during an addition, but expect serious noise, dust, and lifestyle disruption. Whether it makes sense depends on what areas are affected, how"
+}

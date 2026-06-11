@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/seismic-retrofitting-how-much-does-seismic-retrofitting-usually-cost-for-a-small-to-mid-size-apartmen-101",
+  "name": "How much does seismic retrofitting usually cost for a small to mid-size apartment building in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How much does seismic retrofitting usually cost for a small to mid-size apartment building in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For typical LA soft‑story apartment buildings, seismic retrofit costs often range from tens of thousands into the low hundreds of thousands of dollars, depending on size and complexity. Many 10–40 unit wood soft‑story buildings land somewhere in the middle of that range.\n\nCosts are driven more by structural configuration than just square footage. A simple carport-style soft story may only need a few frames or shear walls, while irregular layouts or hillside sites can be significantly more expensive.\n\nKey factors:\n- Number of units and parking bays\n- Whether steel frames, new shear walls, or foundation work are required\n- Access constraints and required temporary shoring or tenant impacts\n- Design/engineering, permits, and inspection fees\n\nGet at least two detailed, line‑item proposals based on stamped engineering plans, not ballpark phone estimates. Ask each bidder to explain what’s included, what’s excluded, and what could drive change orders.\n\nA seasoned LA retrofit contractor can usually give you a realistic range once they’ve seen your building and preliminary engineering.",
+        "@type": "Answer",
+        "description": "For many Los Angeles soft‑story apartment buildings, seismic retrofit costs typically run from the low tens of thousands up to the low hundreds of thousands of dollars. The exact price depends on unit count, structural complexity, required frames/foundations, and local permit and engineering costs."
+      }
+    }
+  ],
+  "description": "For many Los Angeles soft‑story apartment buildings, seismic retrofit costs typically run from the low tens of thousands up to the low hundreds of thousands of"
+}

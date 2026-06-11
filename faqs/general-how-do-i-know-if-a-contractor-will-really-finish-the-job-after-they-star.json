@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-how-do-i-know-if-a-contractor-will-really-finish-the-job-after-they-start-146",
+  "name": "How do I know if a contractor will really finish the job after they start?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if a contractor will really finish the job after they start?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for signs of capacity: active project management, realistic scheduling, clear communication, and references that speak to follow-through. A contractor with a strong closeout process is more likely to finish punch-list items, warranty tasks, and final documentation on time.",
+        "@type": "Answer",
+        "description": "Check capacity, communication, references, and closeout process before hiring. Finishing well depends on follow-through, not just starting strong."
+      }
+    }
+  ],
+  "description": "Check capacity, communication, references, and closeout process before hiring. Finishing well depends on follow-through, not just starting strong."
+}

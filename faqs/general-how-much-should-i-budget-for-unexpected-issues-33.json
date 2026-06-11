@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-how-much-should-i-budget-for-unexpected-issues-33",
+  "name": "How much should I budget for unexpected issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How much should I budget for unexpected issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A contingency reserve of about 10% to 20% of the project cost is a practical starting point. That buffer can help cover hidden repairs, code-related upgrades, or material substitutions without stalling the project. If your home is older, the safer end of that range is usually more realistic.",
+        "@type": "Answer",
+        "description": "Set aside about 10% to 20% of the remodel budget for surprises like hidden damage or code-related repairs."
+      }
+    }
+  ],
+  "description": "Set aside about 10% to 20% of the remodel budget for surprises like hidden damage or code-related repairs."
+}

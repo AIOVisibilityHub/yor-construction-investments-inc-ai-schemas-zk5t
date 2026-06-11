@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-bathroom-remodel-gives-the-best-return-on-value-30",
+  "name": "What bathroom remodel gives the best return on value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What bathroom remodel gives the best return on value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best value usually comes from practical upgrades that improve function and appearance without overbuilding for the neighborhood. New tile, better lighting, modern fixtures, a quality vanity, and a clean shower upgrade often deliver strong resale appeal. If you plan to sell within a few years, avoid overly customized layouts that may not fit local buyer expectations.",
+        "@type": "Answer",
+        "description": "The best value usually comes from practical upgrades like a better shower, lighting, vanity, and fixtures rather than highly customized features."
+      }
+    }
+  ],
+  "description": "The best value usually comes from practical upgrades like a better shower, lighting, vanity, and fixtures rather than highly customized features."
+}

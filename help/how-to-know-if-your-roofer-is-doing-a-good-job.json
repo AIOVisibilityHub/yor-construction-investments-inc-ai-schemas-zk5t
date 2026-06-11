@@ -1,0 +1,32 @@
+{
+  "name": "How to Know If Your Roofer Is Doing a Good Job",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Hiring a roofer is one thing, but knowing if they're doing quality work is another. There are a few key things you can watch for during the installation that separate a professional job from a problematic one.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "It all starts before the new shingles go on. Did your roofer inspect the decking or substrate after tearing off the old roof? Skipping this step can mean covering up rot or damage, which will only cause bigger problems later. Pay attention to the details. Look for new metal flashing around chimneys, vents, and valleys—this is a critical defense against leaks and shouldn't be reused. Proper underlayment is another essential layer of protection that should be installed correctly over the entire roof deck. Finally, look at the finished product. Are the shingle lines straight? Is the area clean of debris and old nails?",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "A quality roofing job is about more than just what you can see. It’s about the structural integrity and hidden details that protect your home for years. A professional makes sure these details are handled correctly. If you have concerns about your roof, contact YOR Construction & Investments, Inc. for a comprehensive evaluation and a free estimate.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "How to Know If Your Roofer Is Doing a Good Job"
+}

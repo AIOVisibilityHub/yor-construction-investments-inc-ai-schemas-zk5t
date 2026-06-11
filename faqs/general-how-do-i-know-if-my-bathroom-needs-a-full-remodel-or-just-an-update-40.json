@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-how-do-i-know-if-my-bathroom-needs-a-full-remodel-or-just-an-update-40",
+  "name": "How do I know if my bathroom needs a full remodel or just an update?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if my bathroom needs a full remodel or just an update?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the layout works and the core systems are in good shape, an update may be enough. If you have recurring leaks, damaged tile, failing plumbing, poor ventilation, or a layout that no longer fits your needs, a full remodel may be the better long-term choice. A contractor can inspect the hidden conditions before you decide.",
+        "@type": "Answer",
+        "description": "If the layout and systems are sound, an update may be enough. Recurring leaks, damage, or a bad layout usually point to a full remodel."
+      }
+    }
+  ],
+  "description": "If the layout and systems are sound, an update may be enough. Recurring leaks, damage, or a bad layout usually point to a full remodel."
+}

@@ -1,0 +1,44 @@
+{
+  "name": "How to Avoid Common Kitchen Remodel Mistakes in Los Angeles",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "A kitchen remodel is a big investment, so the last thing you want is a costly and stressful mistake. After years of working on projects across Los Angeles County, we've seen a few common slip-ups that are easy to avoid.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First, don't assume you don't need a permit. Moving even one plumbing line or electrical outlet usually requires one. Starting work without it can lead to fines and having to tear out finished work for inspections. It's the number-one pitfall.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Second, plan your layout according to code. California's Electrical Code has specific rules for outlet spacing over countertops (basically, you need them every four feet) and required clearances. A poorly planned layout can fail inspection and force a costly redesign.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "Third, get your ventilation right. A common mistake is venting a range hood into an attic or wall cavity. Code requires it to vent all the way to the exterior. Inspectors definitely look for this!",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5",
+      "text": "Finally, don't forget lead times. Custom cabinets and specialty appliances can take weeks or months to arrive. Ordering these items before demolition even starts is key to keeping your project on schedule. When you need a team that sweats these details for you, call YOR Construction for a free estimate.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "How to Avoid Common Kitchen Remodel Mistakes in Los Angeles"
+}

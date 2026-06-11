@@ -1,0 +1,27 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles County",
+        "@type": "AdministrativeArea"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I Need a Permit for My Kitchen Remodel?",
+    "text": "Do I Need a Permit for My Kitchen Remodel?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "That's a question we get all the time. In Los Angeles County, the answer is usually 'yes' if your remodel is more than just a simple cosmetic facelift. Think of it this way: if you're changing the kitchen's footprint, moving walls, or altering the plumbing and electrical systems, you're almost certainly going to need a permit.\n\nWhy is this so important? Permits trigger inspections, and inspections ensure the work is done safely and up to code. This isn't just about bureaucracy; it's about protecting your home and your family. Work done without a permit can cause major problems down the line, especially when you decide to sell your home. However, if you're just doing surface-level updates—like painting existing cabinets, swapping out a faucet in the same spot, or installing new flooring—you typically don't need to go through the permit process.\n\nNavigating the permitting process can feel overwhelming, but it doesn't have to be. An experienced, professional contractor handles all of this for you, ensuring everything is done correctly. The team at YOR Construction & Investments, Inc. has the expertise to manage your project from design to final inspection. Call us to discuss your vision for your new kitchen.",
+      "@type": "Answer",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      }
+    }
+  }
+}

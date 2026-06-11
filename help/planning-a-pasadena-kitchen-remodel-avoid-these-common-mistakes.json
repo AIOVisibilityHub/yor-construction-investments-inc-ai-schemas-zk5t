@@ -1,0 +1,32 @@
+{
+  "name": "Planning a Pasadena Kitchen Remodel? Avoid These Common Mistakes.",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Dreaming of a new kitchen is exciting, but tackling a remodel, especially in a classic Pasadena home, can be tricky. It's easy to get lost in tile choices and cabinet styles, but a smooth project starts with avoiding a few common pitfalls.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First, don't underestimate the planning phase. Before any walls come down, have a detailed layout finalized. This includes knowing the exact specs for your new appliances and planning where every outlet and light switch will go. Making these decisions mid-project often leads to delays and compromises. Second, never assume you don't need a permit. In Pasadena, moving a gas line, altering plumbing, or adding a new electrical circuit almost always requires a permit and inspections. It's a crucial step for safety and compliance. Finally, prepare for the unexpected. Older homes can hide surprises like outdated plumbing or rotted wood. A smart budget includes a contingency fund (around 10-15%) to cover unforeseen issues without derailing your project.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Navigating permits and unexpected repairs is where a professional shines. To ensure your project is built to last, contact YOR Construction & Investments for a free consultation to get started.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "Planning a Pasadena Kitchen Remodel? Avoid These Common Mistakes."
+}

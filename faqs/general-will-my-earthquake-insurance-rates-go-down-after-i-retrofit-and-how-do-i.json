@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-will-my-earthquake-insurance-rates-go-down-after-i-retrofit-and-how-do-i-prove-i-120",
+  "name": "Will my earthquake insurance rates go down after I retrofit, and how do I prove it to the insurer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Will my earthquake insurance rates go down after I retrofit, and how do I prove it to the insurer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Some insurers offer reduced premiums or better coverage terms for seismically strengthened buildings, but discounts are not guaranteed. You must provide clear evidence of the upgrades and, in some cases, an engineer’s statement.\n\nInsurers are primarily interested in reduced expected losses and building resilience. The more specific your documentation, the easier it is for underwriters to recognize the risk improvement.\n\nKey factors:\n- Insurer’s mitigation or retrofit discount policies\n- Stamped engineering plans and completion letters\n- City permits and final inspection approvals\n- Photos and descriptions of key structural improvements\n\nContact your insurer before starting to clarify what documentation they require and whether specific standards must be met. After completion, submit the full packet and ask them to re‑underwrite the risk.\n\nA well‑documented retrofit strengthens both your building and your position in insurance negotiations.",
+        "@type": "Answer",
+        "description": "Some insurers do lower earthquake premiums or improve terms for retrofitted buildings, but it depends on their policies. To qualify, you’ll typically need stamped engineering plans, final inspection records, and clear documentation of the upgrades. Talk to your insurer before and after the retrofit about available credits."
+      }
+    }
+  ],
+  "description": "Some insurers do lower earthquake premiums or improve terms for retrofitted buildings, but it depends on their policies. To qualify, you’ll typically need stamp"
+}

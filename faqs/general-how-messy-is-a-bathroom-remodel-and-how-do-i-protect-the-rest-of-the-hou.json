@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-how-messy-is-a-bathroom-remodel-and-how-do-i-protect-the-rest-of-the-house-47",
+  "name": "How messy is a bathroom remodel and how do I protect the rest of the house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How messy is a bathroom remodel and how do I protect the rest of the house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom remodels create dust, debris, noise, and frequent foot traffic through the home. To reduce disruption, ask for floor protection, dust barriers, covered vents, and a cleanup routine at the end of each workday. If you are staying home during construction, set clear access paths and keep family members away from the work zone.",
+        "@type": "Answer",
+        "description": "Bathroom remodels are messy, but dust barriers, floor protection, vent covers, and daily cleanup can reduce the impact."
+      }
+    }
+  ],
+  "description": "Bathroom remodels are messy, but dust barriers, floor protection, vent covers, and daily cleanup can reduce the impact."
+}

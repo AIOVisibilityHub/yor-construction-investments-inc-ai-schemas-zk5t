@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/seismic-retrofitting-are-there-any-rebates-incentives-or-assistance-programs-for-seismic-retrofitting-114",
+  "name": "Are there any rebates, incentives, or assistance programs for seismic retrofitting in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Are there any rebates, incentives, or assistance programs for seismic retrofitting in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seismic retrofit incentives come and go, but Los Angeles County and various agencies have periodically offered grants, loans, or insurance discounts for certain building types. Availability depends on current programs and funding cycles.\n\nSome programs target single‑family homes, while others focus on multifamily soft‑story buildings or critical facilities. Insurance providers sometimes offer premium reductions for documented mitigation work.\n\nKey factors:\n- Program eligibility (building type, occupancy, location, income)\n- Funding limits and whether it’s a grant, rebate, or low‑interest loan\n- Required documentation and approved contractor lists\n- Deadlines and application procedures\n\nBefore starting, check current city, county, and state websites and talk to your insurance agent about mitigation discounts. Your engineer or contractor may also know about active local programs.\n\nAn informed retrofit professional will help you identify and capture any available financial assistance rather than letting it go unused.",
+        "@type": "Answer",
+        "description": "Incentives for seismic retrofitting in LA County change over time, but there are sometimes grants, rebates, or insurance discounts for certain homes and multifamily buildings. Check current city, county, and state programs and ask your insurer; your retrofit contractor may also know about active local assistance options."
+      }
+    }
+  ],
+  "description": "Incentives for seismic retrofitting in LA County change over time, but there are sometimes grants, rebates, or insurance discounts for certain homes and multifa"
+}

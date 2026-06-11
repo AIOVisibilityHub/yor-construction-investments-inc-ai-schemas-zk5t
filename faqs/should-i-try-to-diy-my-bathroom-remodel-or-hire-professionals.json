@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/should-i-try-to-diy-my-bathroom-remodel-or-hire-professionals",
+  "name": "Should I try to DIY my bathroom remodel or hire professionals?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Should I try to DIY my bathroom remodel or hire professionals?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIY can make sense for small tasks like painting, hardware, or maybe demo, but full bathroom remodels are usually better left to licensed pros. Bathrooms mix plumbing, electrical, waterproofing, and code issues in a very small space.\n\nMistakes in a bathroom—especially waterproofing and slope—can cause expensive leaks, mold, and structural damage. Even experienced DIYers often hire out tile, shower pans, and rough‑in work.\n\nKEY FACTORS:\n- Your skill level and experience with plumbing and electrical\n- Complexity of the design and layout changes\n- Local permit and inspection requirements\n- Time availability and tolerance for disruption\n\nIf you want to DIY, be realistic and consider a hybrid approach: you do demo and finishes, pros handle critical trades. Get at least one professional estimate so you understand the true scope and risk before committing to full DIY.",
+        "@type": "Answer",
+        "description": "DIY is fine for small items like painting, hardware, or maybe demo, but full bathroom remodels are usually best done by licensed pros. Bathrooms combine plumbing, electrical, and waterproofing—mistakes can lead to leaks, mold, and failed inspections."
+      }
+    }
+  ],
+  "description": "DIY is fine for small items like painting, hardware, or maybe demo, but full bathroom remodels are usually best done by licensed pros. Bathrooms combine plumbin"
+}

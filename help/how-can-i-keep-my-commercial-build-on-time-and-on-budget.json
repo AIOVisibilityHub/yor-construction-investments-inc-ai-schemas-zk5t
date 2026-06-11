@@ -1,0 +1,44 @@
+{
+  "name": "How Can I Keep My Commercial Build On-Time and On-Budget?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Scope creep, delays, and budget overruns are some of the biggest fears in commercial construction. The good news is that most of these headaches can be avoided with smart planning and strong project management from the very beginning. A successful project is all about clarity and coordination.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First, a clearly defined scope is non-negotiable. Before any dirt is moved, you need to have a detailed understanding of the project's requirements and performance goals. Vague ideas or undefined finishes are a recipe for change orders down the line, which add both time and cost. Taking the time for detailed programming and feasibility studies upfront will save you major trouble later.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Second, ensure tight coordination between all design disciplines. The architectural, structural, and MEP (mechanical, electrical, plumbing) plans must work together perfectly. When they don't, you get on-site clashes that require costly and time-consuming rework. Using a design-build approach, where designers and builders are on the same team from the start, is one of the best ways to prevent these conflicts.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "Finally, a proactive approach to procurement and scheduling is critical. Long-lead items, like specialized equipment or certain finishes, need to be ordered well in advance. A good contractor creates a detailed project schedule and manages it actively, ensuring materials arrive on time and trade contractors are available when needed.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5",
+      "text": "At YOR Construction, our design-build process is built to deliver predictable outcomes. Get in touch for a free consulting and estimate to get your project started on the right foot.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "How Can I Keep My Commercial Build On-Time and On-Budget?"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/commercial-construction-what-should-i-ask-a-contractor-before-signing-a-commercial-construction-contract-126",
+  "name": "What should I ask a contractor before signing a commercial construction contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I ask a contractor before signing a commercial construction contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask about similar project experience, schedule, staffing, permit handling, insurance, change-order procedures, and warranty support. You should also confirm how they will manage disruptions to tenants, employees, or customers if the work happens in an occupied space.",
+        "@type": "Answer",
+        "description": "Ask about similar projects, schedule, permits, insurance, change orders, disruption management, and warranty support before you sign."
+      }
+    }
+  ],
+  "description": "Ask about similar projects, schedule, permits, insurance, change orders, disruption management, and warranty support before you sign."
+}

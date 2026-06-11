@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-questions-should-i-ask-before-signing-a-remodel-contract-35",
+  "name": "What questions should I ask before signing a remodel contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What questions should I ask before signing a remodel contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask who will manage the job, what is included in the price, how change orders work, and whether permits are handled by the contractor. Also confirm payment schedule, expected timeline, cleanup responsibilities, and warranty coverage. Getting these answers in writing reduces the chance of disputes once construction begins.",
+        "@type": "Answer",
+        "description": "Ask about scope, permits, schedule, payment terms, change orders, cleanup, and warranty before you sign."
+      }
+    }
+  ],
+  "description": "Ask about scope, permits, schedule, payment terms, change orders, cleanup, and warranty before you sign."
+}

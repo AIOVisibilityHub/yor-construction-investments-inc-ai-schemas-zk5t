@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-are-the-typical-steps-in-a-seismic-retrofit-project-for-a-soft-story-buildi-111",
+  "name": "What are the typical steps in a seismic retrofit project for a soft‑story building in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What are the typical steps in a seismic retrofit project for a soft‑story building in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process runs from evaluation and design through permits, construction, and final inspection. Each step involves both technical and administrative tasks.\n\nIn Los Angeles, soft‑story retrofit projects must meet city ordinance requirements and pass multiple inspections. Proper sequencing keeps the project moving and minimizes surprises.\n\nKey factors:\n- Structural assessment and engineering design tailored to the building\n- Permit submission, plan check revisions, and permit issuance\n- Construction: mobilization, framing/steel installation, concrete work, and inspections\n- Final inspection, punch list completion, and documentation delivery\n\nAsk your engineer and contractor to map these steps on a timeline specific to your building, including city review times. Clarify who handles submittals and communication with the city.\n\nA well‑organized team will keep you informed at each milestone so you’re not guessing where things stand.",
+        "@type": "Answer",
+        "description": "A soft‑story retrofit usually involves: structural assessment and design, permit submittal and plan check, on‑site construction (frames, shear walls, foundations), staged inspections, then final sign‑off and documentation. In LA, your team must also comply with the city’s specific soft‑story ordinance requirements."
+      }
+    }
+  ],
+  "description": "A soft‑story retrofit usually involves: structural assessment and design, permit submittal and plan check, on‑site construction (frames, shear walls, foundation"
+}

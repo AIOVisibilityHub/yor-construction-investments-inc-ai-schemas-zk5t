@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-if-my-building-s-original-plans-are-missing-can-i-still-move-forward-with-a-115",
+  "name": "What if my building’s original plans are missing—can I still move forward with a seismic retrofit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What if my building’s original plans are missing—can I still move forward with a seismic retrofit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can still retrofit even if original drawings are missing; it just requires more field investigation and careful documentation. Engineers routinely work with older buildings that lack complete records.\n\nWithout plans, the engineer will rely on on‑site measurements, selective opening of finishes, and structural testing if needed. This can add some time and cost but does not block the project.\n\nKey factors:\n- Detailed site measurements and visual inspection\n- Opening small areas of walls or ceilings to confirm framing and connections\n- Possible material testing (e.g., concrete, rebar locating) in complex projects\n- Creation of new as‑built drawings to support design and future work\n\nGather any partial documents you do have (old remodel permits, photos, reports) and share them with your engineer. Expect some contingency in the design and budget for discoveries.\n\nAn experienced retrofit engineer knows how to safely design upgrades for buildings with incomplete records.",
+        "@type": "Answer",
+        "description": "Yes, you can retrofit without original plans. Your engineer will do a detailed site inspection, measurements, and possibly limited exploratory openings to understand the structure, then create new as‑built drawings. It adds some time and cost but is common with older buildings and doesn’t stop the project."
+      }
+    }
+  ],
+  "description": "Yes, you can retrofit without original plans. Your engineer will do a detailed site inspection, measurements, and possibly limited exploratory openings to under"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-s-the-difference-between-a-home-addition-and-a-remodel-and-why-does-it-matt",
+  "name": "What’s the difference between a home addition and a remodel, and why does it matter?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What’s the difference between a home addition and a remodel, and why does it matter?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An addition increases your home’s footprint or adds new enclosed space, while a remodel reconfigures existing space. Additions typically trigger more structural, zoning, and site considerations.\n\nThe difference affects permits, engineering, and cost. Many codes treat additions more like new construction, with stricter structural and energy requirements.\n\nKey factors:\n- Whether you’re expanding the building envelope or staying inside it\n- Need for new foundations, rooflines, and exterior walls\n- Zoning limits like setbacks, height, and lot coverage\n- Utility capacity and site drainage impacts\n\nWhen describing your project, be clear about whether you’re adding square footage or just changing interior walls. This helps professionals give you accurate guidance on requirements, costs, and timelines from the start.",
+        "@type": "Answer",
+        "description": "An addition adds new square footage or enclosed space, while a remodel changes what’s inside your existing footprint. Additions usually require more structural work, zoning checks, and site considerations. Being clear about which you’re planning helps you get accurate expectations on permits, engineering, cost, and schedule."
+      }
+    }
+  ],
+  "description": "An addition adds new square footage or enclosed space, while a remodel changes what’s inside your existing footprint. Additions usually require more structural"
+}

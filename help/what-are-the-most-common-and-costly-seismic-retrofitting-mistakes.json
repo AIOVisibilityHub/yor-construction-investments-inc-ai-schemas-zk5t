@@ -1,0 +1,22 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What are the Most Common (and Costly) Seismic Retrofitting Mistakes?",
+  "publisher": {
+    "url": "yorconstruction.com",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "articleBody": "When it comes to seismic retrofitting, the details make all the difference. Doing it wrong can not only waste your investment but also fail to protect your building when you need it most. As experts in Southern California construction, we've seen a few common and costly mistakes that are easily avoided with the right approach.\n\nOne of the biggest errors is failing to create a \"continuous load path.\" Think of it like a chain. A retrofit might add strong foundation bolts (one strong link), but if those bolts aren't connected to properly braced walls, and the walls aren't properly tied to the floors and roof, the chain is broken. The entire system has to work together to safely transfer earthquake forces to the ground. An incomplete system is a failed system.\n\nAnother frequent oversight is ignoring non-structural hazards. Many people focus only on the building's frame. But in an earthquake, heavy elements like ceilings, light fixtures, and mechanical equipment can fall, causing major damage and potential injury, even if the building itself remains standing. A thorough retrofit addresses these risks, too.\n\nFinally, a one-size-fits-all approach can be dangerous. Adding very stiff elements to one part of a building without considering how it affects the rest of the structure can create new problems, like a \"soft story\" that takes on a disproportionate amount of force. A professional retrofit analyzes the entire building to ensure the solution works as a whole.\n\nAvoiding these mistakes requires experience. The team at YOR Construction has the expertise to design and build a complete solution for your property. Contact us today for a free estimate and expert guidance.",
+  "datePublished": "2026-06-03"
+}

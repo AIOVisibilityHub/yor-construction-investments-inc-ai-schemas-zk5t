@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-how-do-i-know-if-my-property-is-even-eligible-for-an-addition-under-local-zoning-5",
+  "name": "How do I know if my property is even eligible for an addition under local zoning rules?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if my property is even eligible for an addition under local zoning rules?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You’re eligible for an addition only if your lot, existing house, and proposed size all meet local zoning and building rules. The quickest way to check is to compare your idea against setback, height, and floor‑area limits for your zoning zone.\n\nMany homeowners design in a vacuum and then discover the city won’t approve the size or location they want. A zoning check before detailed design can save thousands of dollars and months of delay.\n\nKey factors:\n- Zoning designation and allowed lot coverage/FAR\n- Setbacks from front, side, and rear property lines\n- Maximum building height and stories\n- HOA or neighborhood overlay restrictions, if any\n\nCall your city’s planning or building department with your address, or ask a contractor or designer who routinely works in your city to run a preliminary zoning check. Don’t pay for full construction drawings until you’re confident the general concept is approvable.",
+        "@type": "Answer",
+        "description": "Eligibility depends on local zoning: setbacks, height limits, lot coverage, and floor‑area rules must all allow what you want to build. Have your city or a local contractor/designer check your zoning and setbacks early, before you invest in full plans or commit to a specific size and location."
+      }
+    }
+  ],
+  "description": "Eligibility depends on local zoning: setbacks, height limits, lot coverage, and floor‑area rules must all allow what you want to build. Have your city or a loca"
+}

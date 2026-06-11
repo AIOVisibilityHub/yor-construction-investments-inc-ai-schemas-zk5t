@@ -1,0 +1,27 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles County",
+        "@type": "AdministrativeArea"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is My Building a Candidate for a Seismic Retrofit?",
+    "text": "Is My Building a Candidate for a Seismic Retrofit?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "If you own an older building in Los Angeles County, you've probably wondered if it's prepared for an earthquake. A seismic retrofit is a series of upgrades that strengthen a structure's ability to withstand seismic forces, but not every building needs one. So, how do you know if yours is a good candidate?\n\nFirst, consider the building's age and type. Many older structures, especially those built before modern seismic codes were enforced, have known vulnerabilities. Unreinforced masonry (URM), soft-story wood-frame buildings (like those with ground-floor parking or retail), and older concrete buildings are often primary candidates for retrofitting. The goal is to reduce the risk of collapse and major damage during a quake.\n\nNext, a retrofit focuses on creating a continuous \"load path.\" This ensures that seismic forces are safely transferred from the roof and floors down through the walls to the foundation. Common weak points include poorly connected foundations, cripple walls in crawl spaces, and inadequate connections between walls, floors, and the roof. A professional assessment will identify these specific weaknesses in your structure.\n\nUltimately, you can't be sure without a professional evaluation. While a simple visual inspection can spot some red flags, a qualified contractor needs to assess the building's plans, structure, and overall condition. They can determine your building's specific risks and recommend the most effective solutions.\n\nIf you're unsure about your property's safety, the best first step is to get an expert opinion. Contact us at YOR Construction for a free consultation and estimate to help you understand your options. ",
+      "@type": "Answer",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      }
+    }
+  }
+}

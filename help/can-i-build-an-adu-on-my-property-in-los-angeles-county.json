@@ -1,0 +1,27 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles County",
+        "@type": "AdministrativeArea"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I Build an ADU on My Property in Los Angeles County?",
+    "text": "Can I Build an ADU on My Property in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Thinking about adding an Accessory Dwelling Unit (ADU)? It's a great way to add value and space, but the first question is always, 'Can I even build one on my lot?' It's more than just having a big backyard.\n\nFirst, every city in Los Angeles County has its own specific zoning rules. These dictate setbacks (how far the ADU must be from your property lines), maximum height, and how much of your lot can be covered by buildings. These rules are the absolute first thing to check, as they determine what's possible.\n\nNext, think about the type of ADU. A brand-new, detached unit in the backyard has different requirements than converting your existing garage or basement. Conversions can often be a great option for smaller lots where a new structure wouldn't fit.\n\nFinally, remember that an ADU is a complete, independent home. It needs its own kitchen, bathroom, and entrance. The design has to be functional and meet all building codes for a long-term dwelling, not just a guest room. It can get complicated fast, which is why getting professional advice early is so important.\n\nFeeling unsure where to start? A quick chat with an experienced design-build team can clear things up. At YOR Construction & Investments, we offer a free consultation to assess your property's feasibility and help you understand your options. Contact us today!",
+      "@type": "Answer",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      }
+    }
+  }
+}

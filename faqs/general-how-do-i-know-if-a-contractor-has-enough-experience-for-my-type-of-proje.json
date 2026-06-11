@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-how-do-i-know-if-a-contractor-has-enough-experience-for-my-type-of-project-129",
+  "name": "How do I know if a contractor has enough experience for my type of project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if a contractor has enough experience for my type of project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for completed projects that match your building type, budget range, and level of complexity. Experience matters most when the contractor can explain how they handled permits, scheduling, occupied-site work, and coordination on similar jobs.",
+        "@type": "Answer",
+        "description": "Check for similar completed projects, not just general construction experience. Ask how they handled permits, occupied spaces, and trade coordination."
+      }
+    }
+  ],
+  "description": "Check for similar completed projects, not just general construction experience. Ask how they handled permits, occupied spaces, and trade coordination."
+}

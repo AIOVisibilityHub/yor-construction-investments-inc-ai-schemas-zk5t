@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-are-the-main-steps-in-the-bathroom-remodeling-process",
+  "name": "What are the main steps in the bathroom remodeling process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What are the main steps in the bathroom remodeling process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical bathroom remodel follows five main phases: planning and design, permitting and ordering, demolition, rough‑in work, and then finishes and final inspection. Each phase builds on the previous one, so changes late in the process can be costly.\n\nUnderstanding the sequence helps you know what to expect and when key decisions are due. It also clarifies why “just changing one thing” mid‑stream can snowball into delays and extra cost.\n\nKEY FACTORS:\n- Design decisions and product selections early on\n- Permit approvals and inspection milestones\n- Coordination between trades (plumbing, electrical, tile, glass)\n- Final walkthrough and punch‑list corrections\n\nAsk your contractor to walk you through their process step‑by‑step and who your main point of contact will be. Keep a shared list of decisions and deadlines so you’re not making tile or fixture choices at the last minute. A structured process is a good sign you’re working with a pro.",
+        "@type": "Answer",
+        "description": "Most bathroom remodels follow a clear process: design and selections, permits and ordering, demolition, rough plumbing/electrical, then tile, fixtures, and final inspection. Knowing this sequence helps you time decisions and avoid delays."
+      }
+    }
+  ],
+  "description": "Most bathroom remodels follow a clear process: design and selections, permits and ordering, demolition, rough plumbing/electrical, then tile, fixtures, and fina"
+}

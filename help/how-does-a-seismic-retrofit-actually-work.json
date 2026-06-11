@@ -1,0 +1,44 @@
+{
+  "name": "How Does a Seismic Retrofit Actually Work?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Seismic retrofitting sounds complex, but the process is pretty straightforward when broken down. It's all about methodically strengthening a building so it can better resist earthquake shaking. While every project is unique, they all follow a similar path from assessment to construction.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "It all starts with an assessment. A contractor or engineer will review your building's current condition, looking at existing drawings and conducting a physical inspection. This helps identify the key vulnerabilities, whether it's an unbraced crawl space (cripple walls), a weak foundation, or poor connections between structural elements.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Next, we select a retrofit strategy. Based on the assessment, we decide on the best way to strengthen the building. For a wood-frame house, this might involve bolting the foundation and adding plywood shear walls. For larger commercial buildings, strategies could include adding steel brace frames, strengthening concrete columns, or creating new shear walls. The right approach depends entirely on the building's type, condition, and your performance goals.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "Finally, it's time for construction. Our teams work to implement the design, carefully sequencing the work to minimize disruption. This could involve working in crawl spaces, adding new steel frames, or reinforcing existing masonry. The focus is always on creating a continuous load path to ensure the entire building works as a single, resilient system.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5",
+      "text": "A proper retrofit requires careful planning and execution. If you're ready to make your building safer, give YOR Construction a call at 1-888-457-7746 to discuss how we can help.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "How Does a Seismic Retrofit Actually Work?"
+}

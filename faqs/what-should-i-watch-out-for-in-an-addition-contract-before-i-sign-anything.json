@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-should-i-watch-out-for-in-an-addition-contract-before-i-sign-anything",
+  "name": "What should I watch out for in an addition contract before I sign anything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I watch out for in an addition contract before I sign anything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You want a contract that clearly defines scope, price, payment schedule, timeline, and how changes and disputes are handled. Ambiguity is where most conflicts and surprises arise.\n\nA strong contract protects both you and the contractor and sets expectations for the whole project. Rushing this step is risky.\n\nKey factors:\n- Detailed description of work and reference to plans/specs\n- Fixed or clearly defined pricing structure and allowances\n- Payment milestones tied to progress, not just dates\n- Clear terms for change orders, delays, and warranty\n\nRead the entire document slowly and ask questions about anything unclear. Confirm that verbal promises are written in, and don’t be afraid to request clarifications or adjustments before you sign.",
+        "@type": "Answer",
+        "description": "Look for a clear written scope tied to plans, defined pricing and allowances, a fair payment schedule, and explicit terms for change orders, delays, and warranties. Don’t rely on verbal promises—make sure everything important is in the contract, and ask for clarification on any vague language before signing."
+      }
+    }
+  ],
+  "description": "Look for a clear written scope tied to plans, defined pricing and allowances, a fair payment schedule, and explicit terms for change orders, delays, and warrant"
+}

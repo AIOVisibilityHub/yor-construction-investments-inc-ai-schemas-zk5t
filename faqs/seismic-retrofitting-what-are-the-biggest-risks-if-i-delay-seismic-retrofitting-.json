@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/seismic-retrofitting-what-are-the-biggest-risks-if-i-delay-seismic-retrofitting-on-an-older-building--104",
+  "name": "What are the biggest risks if I delay seismic retrofitting on an older building in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What are the biggest risks if I delay seismic retrofitting on an older building in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Delaying seismic retrofitting increases both life‑safety risk during an earthquake and your financial and legal exposure afterward. Older soft‑story, masonry, and brittle concrete buildings are disproportionately likely to suffer severe damage or collapse in strong shaking.\n\nBeyond life safety, unretrofitted buildings can be red‑tagged, forcing tenants out and cutting off your rental income. There can also be enforcement actions for ignoring mandatory retrofit orders, and future insurance coverage may tighten for non‑compliant properties.\n\nKey factors:\n- Higher risk of partial or full collapse and injury\n- Longer downtime for repairs or demolition after a major quake\n- Potential code enforcement penalties and reduced insurability\n- Reduced property value and buyer interest compared to retrofitted peers\n\nIf you truly can’t retrofit immediately, at least get a structural evaluation and a phased plan so you know your worst vulnerabilities. Use that to prioritize the highest‑impact fixes as budget allows.\n\nA proactive retrofit strategy usually costs less than rebuilding or losing the property after a major quake.",
+        "@type": "Answer",
+        "description": "Waiting to retrofit an older LA building raises life‑safety risk and the chance of severe damage, red‑tagging, and long vacancies after a big quake. It can also lead to enforcement issues, insurance complications, and lower property value compared to similar buildings that have already been strengthened."
+      }
+    }
+  ],
+  "description": "Waiting to retrofit an older LA building raises life‑safety risk and the chance of severe damage, red‑tagging, and long vacancies after a big quake. It can also"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/roofing-how-do-i-compare-roofing-quotes-so-i-m-not-just-picking-the-cheapest-one-91",
+  "name": "How do I compare roofing quotes so I’m not just picking the cheapest one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I compare roofing quotes so I’m not just picking the cheapest one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Compare quotes based on **scope, materials, warranties, and contractor qualifications**, not just total price. A low bid that cuts corners can cost more in repairs and early replacement.\n\nMany quotes look similar on the surface but differ in underlayment quality, flashing work, wood repair allowances, and cleanup. You want apples-to-apples proposals.\n\nKey factors:\n- Same material brand, grade, and warranty in each quote\n- Inclusion of tear-off, disposal, permits, and inspections\n- Clear policy on wood replacement and change orders\n- Contractor license, insurance, and track record\n\nAsk each roofer to itemize materials, labor, and extras, and to specify exactly what is excluded. Lay the quotes side by side, highlight differences, and don’t hesitate to ask contractors to explain gaps or adjust their proposals to match scope for a fair comparison.",
+        "@type": "Answer",
+        "description": "Line up quotes by scope and quality, not just price: check that materials, underlayment, flashing, tear-off, wood repair, permits, and warranties are clearly listed and comparable. A very low bid often means something important is missing, so clarify differences before deciding."
+      }
+    }
+  ],
+  "description": "Line up quotes by scope and quality, not just price: check that materials, underlayment, flashing, tear-off, wood repair, permits, and warranties are clearly li"
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles County",
+        "@type": "AdministrativeArea"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I Really Need a Permit to Replace My Roof in LA?",
+    "text": "Do I Really Need a Permit to Replace My Roof in LA?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "We get this question all the time, and it makes sense to ask. Since you're just replacing what's already there, it can feel like maintenance. However, in nearly all jurisdictions in Los Angeles County, the answer is yes, you absolutely need a permit to reroof your home.\n\nA roof is a critical part of your home's structure and fire safety system. Local building departments in cities like Los Angeles, Pasadena, and Rancho Palos Verdes issue permits to ensure the job is done to current codes. An inspector will check that any damaged sheathing is repaired and that the right underlayment and materials are used.\n\nThis is especially important in the wildfire-prone hillside areas throughout our region. The permit process verifies that your new roof uses Class A fire-rated materials, which are mandatory in high-fire-severity zones. It also ensures that if you already have two or more layers of old roofing, a full tear-off is performed, as required by code.\n\nDon't let a contractor tell you a permit isn't needed. Navigating the permit process is part of a qualified roofer's job. If you want to ensure your new roof is safe, compliant, and done right, schedule a free estimate with YOR Construction.",
+      "@type": "Answer",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      }
+    }
+  }
+}

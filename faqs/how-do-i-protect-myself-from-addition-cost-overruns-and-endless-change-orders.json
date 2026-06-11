@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-do-i-protect-myself-from-addition-cost-overruns-and-endless-change-orders",
+  "name": "How do I protect myself from addition cost overruns and endless change orders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I protect myself from addition cost overruns and endless change orders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You reduce overruns by nailing down scope, details, and allowances before construction, and by leaving room in your budget for genuine surprises. Vague contracts are a common root cause of runaway change orders.\n\nSome changes are unavoidable, but many come from late design decisions or miscommunication. A detailed contract limits those gray areas.\n\nKey factors:\n- Comprehensive written scope and plans attached to the contract\n- Clear allowances for fixtures, finishes, and appliances\n- A documented change‑order process with pricing and approvals\n- A realistic contingency fund you control, not the contractor\n\nAsk your contractor to walk you line‑by‑line through the proposal, explaining what is and isn’t included. Slow the process down enough to make key selections early so you’re not choosing expensive items under pressure mid‑build.",
+        "@type": "Answer",
+        "description": "Insist on a detailed written scope, plans, and clear allowances before work starts, and keep a 10–20% contingency under your control. Review the change‑order process in advance and make major design and finish decisions early. The clearer the contract, the fewer surprises and unplanned costs you’ll face."
+      }
+    }
+  ],
+  "description": "Insist on a detailed written scope, plans, and clear allowances before work starts, and keep a 10–20% contingency under your control. Review the change‑order pr"
+}

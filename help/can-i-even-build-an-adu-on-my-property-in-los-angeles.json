@@ -1,0 +1,27 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles County",
+        "@type": "AdministrativeArea"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I Even Build an ADU on My Property in Los Angeles?",
+    "text": "Can I Even Build an ADU on My Property in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It's the first question on every homeowner's mind: is an ADU even possible on my lot? Navigating the rules in Los Angeles County can feel tricky, but the answer is often a resounding 'yes' thanks to friendlier state laws. The key is knowing which rules apply to you.\n\nFirst, you have to confirm your local zoning. Whether your home is in the City of Los Angeles, Pasadena, or an unincorporated area determines which regulations you'll follow. For example, LA City residents can use the ZIMAS tool to check their property. A crucial first step is verifying your lot's specific constraints, like setbacks (often just 4 feet from the side and rear), height limits, and total lot coverage allowances.\n\nWorried about space? California law now requires that local agencies must allow at least an 800-square-foot ADU, as long as it meets basic criteria. And what about parking? That's another common concern, especially for garage conversions. The good news is that if your property is within a half-mile of public transit, you typically don't need to replace the parking spot, which is a huge advantage for many homeowners in the region.\n\nUnderstanding whether a detached unit, a JADU (up to 500 sq ft inside your home), or a garage conversion is the best fit requires weighing these rules against your budget and goals. Getting a professional assessment for your property in Sherman Oaks, Valley Village, or Rancho Palos Verdes is the best way to get a clear answer. If you're ready to find out what's possible, our team can provide a free consultation to evaluate your lot.",
+      "@type": "Answer",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      }
+    }
+  }
+}

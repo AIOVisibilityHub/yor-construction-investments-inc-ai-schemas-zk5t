@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/additions-is-it-cheaper-to-build-up-with-a-second-story-addition-or-build-out-on-the-groun-7",
+  "name": "Is it cheaper to build up with a second‑story addition or build out on the ground level?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is it cheaper to build up with a second‑story addition or build out on the ground level?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building out is structurally simpler but needs yard space and may be limited by setbacks; building up saves yard space but adds structural and stair costs. Which is cheaper depends on your current foundation and framing and local zoning.\n\nSecond‑story additions often require reinforcing the existing structure, adding stairs, and sometimes upgrading parts of the house to current code, which can narrow or erase cost savings. Ground‑level additions can get expensive if you’re close to property lines or need major grading.\n\nKey factors:\n- Strength and layout of your existing foundation and framing\n- Zoning limits on height and lot coverage\n- Need for stairs, new roofs, and structural upgrades\n- Site work, retaining walls, and access issues\n\nHave a contractor and structural engineer look at your home and propose both options at a high level. Ask for rough cost and disruption comparisons, then weigh those against how you actually want to use your yard and interior layout long term.",
+        "@type": "Answer",
+        "description": "Neither option is automatically cheaper. Building out is usually simpler but needs space and setback clearance; building up can save yard but often requires structural upgrades, stairs, and a new roof. Have a contractor and engineer compare both scenarios for your specific home before you commit."
+      }
+    }
+  ],
+  "description": "Neither option is automatically cheaper. Building out is usually simpler but needs space and setback clearance; building up can save yard but often requires str"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "How to Budget for Your ADU Without Nasty Surprises",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Let's talk about the real costs of building an ADU. If you're just using a generic 'cost per square foot' number, you might be setting yourself up for some unwelcome surprises. A realistic budget involves a lot more detail.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First off, the type of ADU you choose is the biggest factor. A garage or basement conversion is typically the most cost-effective route, as the basic structure is already there. An attached ADU that expands on your home is the next level up, while a fully detached new build will be the most expensive, but also offers the most design freedom.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Don't forget to budget for 'soft costs.' These are things like design and engineering plans, but also city-specific fees. Depending on the jurisdiction, building permits and special impact fees can add thousands of dollars to your total before a single nail is hammered.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "Also, consider your specific site. Is your property on a hill? Is access difficult for construction equipment? Will your utilities need significant upgrades to support a second dwelling? These site-specific factors can definitely impact the bottom line.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5",
+      "text": "A smart budget includes a contingency fund—usually 10-15%—for any unexpected issues. Having this buffer prevents a small problem from derailing your entire project. The best way to avoid surprises is to start with a detailed, itemized estimate from a trusted builder. Our team at YOR can create a transparent budget that covers every phase of your ADU project. Give us a call!",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "How to Budget for Your ADU Without Nasty Surprises"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-how-do-i-avoid-change-orders-on-a-commercial-job-135",
+  "name": "How do I avoid change orders on a commercial job?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I avoid change orders on a commercial job?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You cannot eliminate all change orders, but you can reduce them by defining the scope early, choosing finishes before construction, and reviewing drawings carefully. Good site review and early coordination with trades also help catch issues before they become costly surprises.",
+        "@type": "Answer",
+        "description": "Prevent most change orders with a detailed scope, early finish selections, and careful plan review. Site investigation before work starts also helps."
+      }
+    }
+  ],
+  "description": "Prevent most change orders with a detailed scope, early finish selections, and careful plan review. Site investigation before work starts also helps."
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-how-do-contractors-handle-unexpected-problems-inside-older-buildings-138",
+  "name": "How do contractors handle unexpected problems inside older buildings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do contractors handle unexpected problems inside older buildings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older buildings often reveal hidden framing issues, outdated systems, or undocumented repairs once work opens up the walls or ceilings. A good contractor documents the condition, explains options clearly, and adjusts the plan without losing control of cost or schedule.",
+        "@type": "Answer",
+        "description": "Older buildings often hide structural or system issues. The contractor should document the problem, explain options, and update the plan quickly."
+      }
+    }
+  ],
+  "description": "Older buildings often hide structural or system issues. The contractor should document the problem, explain options, and update the plan quickly."
+}

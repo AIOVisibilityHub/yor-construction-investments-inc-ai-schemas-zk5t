@@ -1,0 +1,27 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles County",
+        "@type": "AdministrativeArea"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What Are 'Cool Roofs' and Do I Have to Get One?",
+    "text": "What Are 'Cool Roofs' and Do I Have to Get One?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "If you're researching a new roof in Southern California, you've probably encountered the term 'cool roof.' It's a key part of California's energy code, Title 24, and it's something you'll need to consider.\n\nA cool roof is designed to reflect more sunlight and absorb less heat than a traditional roof. By staying cooler, it reduces the amount of heat transferred into your home, which means your AC doesn't have to work as hard. This lowers your energy bills and reduces strain on the power grid, a big concern in our sunny climate.\n\nSo, is it mandatory? It's a little complicated, but in Los Angeles county, they are often required to meet the state's energy efficiency standards. The specific requirements can depend on factors like your climate zone and the slope of your roof. The good news is that you're not just limited to bright white anymore. Many modern roofing materials, including shingles and tiles in a variety of colors, meet the 'cool roof' standards for reflectivity and emittance.\n\nUnderstanding which products qualify and meet the requirements for your specific home can be tricky. It's a perfect conversation to have with a knowledgeable roofer. If you're ready to explore your options, contact YOR Construction for a professional consultation.",
+      "@type": "Answer",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      }
+    }
+  }
+}

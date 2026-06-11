@@ -1,0 +1,115 @@
+{
+  "url": "yorconstruction.com",
+  "name": "Commercial Construction",
+  "@type": "GeneralContractor",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Los Angeles County"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "yorconstruction.com",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "GeneralContractor",
+    "telephone": "1-888-457-7746"
+  },
+  "telephone": "1-888-457-7746",
+  "areaServed": [
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "Learn how YOR Construction & Investments, Inc. approaches Commercial Construction in Los Angeles County, including the typical process, what to expect, and how to get started.",
+  "serviceType": "Commercial Construction",
+  "hasOfferCatalog": {
+    "name": "YOR Construction & Investments, Inc. Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Additions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Bathroom Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Kitchen Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roofing",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Seismic Retrofitting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Commercial Construction",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "ADU Construction",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "How Can I Make My New Bathroom Actually Last?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "A stunning bathroom is great, but its beauty will be short-lived if it’s not built to handle moisture properly. Long-term durability comes from focusing on the technical details behind the pretty finishes.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First and foremost: waterproofing. This is not a step to cut corners on. A properly installed waterproofing membrane behind your shower tiles and on the floor is your number one defense against leaks, which can lead to rot and mold. Second, prioritize ventilation. A high-quality, properly sized exhaust fan is non-negotiable. It pulls moist air out of the room, preventing moisture from lingering and causing damage over time. Third, choose your materials wisely. Select flooring that’s slip-resistant and durable in wet conditions, and consider grout that’s stain-resistant and easier to maintain. Finally, never let an unqualified person handle your plumbing or electrical work. It’s a safety risk and can cause you to fail inspections.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "At YOR Construction, we build bathrooms that perform as well as they look. To get a project that's built right from the inside out, contact us for a free consultation.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "How Can I Make My New Bathroom Actually Last?"
+}

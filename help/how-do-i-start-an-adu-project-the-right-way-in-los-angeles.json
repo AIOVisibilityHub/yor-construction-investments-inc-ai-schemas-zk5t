@@ -1,0 +1,32 @@
+{
+  "name": "How Do I Start an ADU Project the Right Way in Los Angeles?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "So, you're ready to start your ADU project! Getting off on the right foot is the most important part of the entire process. A well-planned project runs more smoothly, stays on budget, and finishes faster. Here’s a quick look at the right way to begin.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First, don't jump straight to design. The real first step is a detailed feasibility review. This involves checking your property against California and Los Angeles ADU regulations to confirm you can actually build what you want. This step helps define the maximum size, height, and required setbacks. Next comes the design and site planning phase. This is where you'll work out the layout and how the ADU will sit on your property. Once a design is set, it goes to an engineer to create the structural plans. With a full set of plans in hand, the next critical step is submitting them to the Los Angeles Department of Building and Safety (LADBS) for permits. While you're waiting for approval, your contractor can begin coordinating with utility providers. Once you have your permit, construction can finally begin!",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Navigating the permitting process and coordinating with multiple agencies can be complex. Working with an experienced design/build firm simplifies all of this. If you want to start your ADU project with confidence, contact YOR Construction & Investments, Inc. today for a free estimate.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "How Do I Start an ADU Project the Right Way in Los Angeles?"
+}

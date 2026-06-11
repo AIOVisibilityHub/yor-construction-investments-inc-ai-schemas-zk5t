@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-if-i-want-a-bathroom-remodel-but-only-have-a-limited-budget-49",
+  "name": "What if I want a bathroom remodel but only have a limited budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What if I want a bathroom remodel but only have a limited budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A limited budget can still go a long way if you keep the layout, reuse what is in good condition, and focus on the highest-impact changes. Repainting, replacing the vanity, upgrading lighting, changing the mirror, and installing new fixtures can transform the room without a full gut job. Get a scope that separates must-haves from nice-to-haves so you can phase the work if needed.",
+        "@type": "Answer",
+        "description": "With a limited budget, keep the layout, reuse what works, and focus on high-impact updates like vanity, lighting, fixtures, and paint."
+      }
+    }
+  ],
+  "description": "With a limited budget, keep the layout, reuse what works, and focus on high-impact updates like vanity, lighting, fixtures, and paint."
+}

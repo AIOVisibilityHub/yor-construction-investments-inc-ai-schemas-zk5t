@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-can-go-wrong-during-a-commercial-remodel-128",
+  "name": "What can go wrong during a commercial remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What can go wrong during a commercial remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues include permit delays, hidden structural or utility problems, material lead times, scope changes, and coordination conflicts between trades. The best protection is a detailed scope, realistic contingency planning, and regular updates when field conditions differ from the original plan.",
+        "@type": "Answer",
+        "description": "Commercial remodels can run into permit delays, hidden site issues, material shortages, and change orders. A detailed scope and contingency plan reduce surprises."
+      }
+    }
+  ],
+  "description": "Commercial remodels can run into permit delays, hidden site issues, material shortages, and change orders. A detailed scope and contingency plan reduce surprise"
+}

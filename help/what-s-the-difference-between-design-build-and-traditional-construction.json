@@ -1,0 +1,27 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles County",
+        "@type": "AdministrativeArea"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What's the Difference Between Design-Build and Traditional Construction?",
+    "text": "What's the Difference Between Design-Build and Traditional Construction?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "When you're planning a commercial project, one of the first big decisions is how you'll manage the process. You'll often hear terms like \"design-build\" and \"design-bid-build.\" Understanding the difference is key to a smooth project, and at YOR Construction, we specialize in the design-build model for its seamless teamwork and efficiency.\n\nThe traditional model is \"design-bid-build.\" In this scenario, you first hire an architect to design the entire project. Once the plans are complete, you send them out to bid to multiple general contractors. The lowest bidder usually wins the job. The main drawback here is that the design and construction teams are separate, which can lead to communication gaps, conflicts, and unexpected costs if issues arise during the build.\n\n\"Design-build,\" on the other hand, integrates the entire process from the start. You hire one company—a design-build firm—that is responsible for both the design and the construction. Our team at YOR works together under a single contract with you. This creates a unified workflow, with designers and builders collaborating from day one. It helps control costs, streamline timelines, and solve problems before they happen.\n\nThis integrated approach embodies the seamless teamwork we pride ourselves on. It means better communication, more accurate budgeting, and a single point of responsibility for you.\n\nReady to see how our design-build approach can elevate your vision? Contact YOR Construction & Investments for a free consultation on your next commercial project.",
+      "@type": "Answer",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      }
+    }
+  }
+}

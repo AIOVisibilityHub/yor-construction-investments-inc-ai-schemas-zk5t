@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-do-i-know-if-my-house-structure-and-foundation-can-handle-a-second-story-add",
+  "name": "How do I know if my house structure and foundation can handle a second‑story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if my house structure and foundation can handle a second‑story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can’t safely assume your existing structure can support a second story; you need a structural assessment. A licensed engineer or experienced design‑build team evaluates foundation size, soil conditions, framing, and lateral bracing.\n\nOverloading an undersized foundation can cause cracking, settlement, and serious safety issues. Sometimes strengthening or partial rebuilding is required before going up.\n\nKey factors:\n- Current foundation size, depth, and condition\n- Existing wall and roof framing and load paths\n- Local seismic requirements and lateral bracing needs\n- Cost difference between reinforcing vs. choosing a ground‑level addition\n\nBefore committing to a second story concept, budget for an engineering review. If the required upgrades are extensive, compare the cost and disruption to an alternative ground‑floor extension or reconfiguration of your existing layout.",
+        "@type": "Answer",
+        "description": "You need a structural assessment, not guesswork. A licensed engineer or qualified design‑build contractor must inspect your foundation and framing to see if they can safely carry a second story under current seismic codes. If required upgrades are extensive, compare those costs with doing a ground‑level addition instead."
+      }
+    }
+  ],
+  "description": "You need a structural assessment, not guesswork. A licensed engineer or qualified design‑build contractor must inspect your foundation and framing to see if the"
+}

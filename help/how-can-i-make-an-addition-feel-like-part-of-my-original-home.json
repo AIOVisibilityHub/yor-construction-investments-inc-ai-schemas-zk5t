@@ -1,0 +1,32 @@
+{
+  "name": "How Can I Make an Addition Feel Like Part of My Original Home?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "You don't want your new addition to look 'tacked on.' The goal is to make it feel like it was always there, blending seamlessly with your existing home. Achieving this is about smart, integrated design, not just building a box onto the side of your house.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "The key is to think about the project holistically. How will the new space connect to the old? You have to consider traffic flow from room to room, making sure it feels natural and doesn't create awkward bottlenecks. Attention to detail is also critical—matching the roofline, window styles, and exterior materials is essential for creating a cohesive look. Inside, think about how natural light will carry through the space and how the new layout will serve your family's daily life. This is where a design-build approach really shines, as the design and construction teams work together from the start to ensure the vision is executed perfectly.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Our team at YOR Construction specializes in creating additions that truly elevate your home. If you want a seamless final product, let’s talk about your vision. Contact us for a free estimate.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "How Can I Make an Addition Feel Like Part of My Original Home?"
+}

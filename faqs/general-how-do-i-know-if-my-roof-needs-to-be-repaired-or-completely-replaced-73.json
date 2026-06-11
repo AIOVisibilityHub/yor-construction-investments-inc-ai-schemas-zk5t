@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-how-do-i-know-if-my-roof-needs-to-be-repaired-or-completely-replaced-73",
+  "name": "How do I know if my roof needs to be repaired or completely replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof needs to be repaired or completely replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You generally need a **replacement** if your roof is near the end of its lifespan, has widespread damage, or keeps leaking even after repairs. Localized damage or a single leak can often be handled with **repairs**.\n\nRoofs rarely fail all at once; they typically show patterns of aging or damage over time. Deciding between repair and replacement comes down to condition, age, and how often problems recur. An honest roofer will inspect the whole system, not just the obvious leak spot.\n\nKey factors:\n- Age of the roof versus typical lifespan of the material\n- Number and frequency of leaks or prior patches\n- Condition of shingles/tiles, flashing, and underlayment\n- Presence of sagging, rot, or mold in the roof deck or attic\n\nStart with a full inspection and ask for two options: a “repair-only” plan and a “replacement” plan with pros/cons and costs. If repairs approach 30–40% of replacement cost on an older roof, replacement is usually smarter long term. A reputable contractor will walk you through photos and explain why they recommend one option over the other.",
+        "@type": "Answer",
+        "description": "Choose repair if damage is localized and the roof is relatively young; choose replacement if the roof is older, has widespread wear, or recurring leaks. Compare the cost of repairs to replacement and get a detailed inspection with photos so you can see whether problems are isolated or systemic."
+      }
+    }
+  ],
+  "description": "Choose repair if damage is localized and the roof is relatively young; choose replacement if the roof is older, has widespread wear, or recurring leaks. Compare"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-should-i-do-first-if-i-want-to-build-out-a-commercial-space-in-pasadena-137",
+  "name": "What should I do first if I want to build out a commercial space in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to build out a commercial space in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start with a clear program for how the space will be used, then confirm the building constraints, permit path, and budget range. In Pasadena, the early planning phase should also include code, accessibility, and inspection considerations so the project does not stall later.",
+        "@type": "Answer",
+        "description": "Define how the space will be used, then confirm budget, building constraints, and permit needs early. Pasadena projects benefit from planning code and inspection issues up front."
+      }
+    }
+  ],
+  "description": "Define how the space will be used, then confirm budget, building constraints, and permit needs early. Pasadena projects benefit from planning code and inspectio"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/commercial-construction-how-can-i-keep-my-business-open-during-commercial-construction-127",
+  "name": "How can I keep my business open during commercial construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How can I keep my business open during commercial construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keeping a business open during construction requires a phased plan, clear work hours, dust and noise controls, and safe separation between work areas and public areas. The contractor should coordinate access, deliveries, and inspections so operations are interrupted as little as possible.",
+        "@type": "Answer",
+        "description": "Use phased construction, controlled work hours, and clear separation between work zones and customer areas. Good coordination is the key to staying open."
+      }
+    }
+  ],
+  "description": "Use phased construction, controlled work hours, and clear separation between work zones and customer areas. Good coordination is the key to staying open."
+}

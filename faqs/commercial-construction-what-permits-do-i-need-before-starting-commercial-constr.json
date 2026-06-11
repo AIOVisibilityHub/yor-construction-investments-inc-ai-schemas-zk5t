@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/commercial-construction-what-permits-do-i-need-before-starting-commercial-construction-in-los-angeles-123",
+  "name": "What permits do I need before starting commercial construction in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What permits do I need before starting commercial construction in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most commercial projects need permits before work begins, and the exact set depends on scope, building type, and whether the work affects structural, electrical, mechanical, or accessibility systems. In Los Angeles County, permit planning should happen early because code requirements and review steps can affect both timeline and budget.",
+        "@type": "Answer",
+        "description": "Permits depend on your project scope, but most commercial work in Los Angeles needs approval before construction starts. Plan for permit review early because it can affect schedule and cost."
+      }
+    }
+  ],
+  "description": "Permits depend on your project scope, but most commercial work in Los Angeles needs approval before construction starts. Plan for permit review early because it"
+}

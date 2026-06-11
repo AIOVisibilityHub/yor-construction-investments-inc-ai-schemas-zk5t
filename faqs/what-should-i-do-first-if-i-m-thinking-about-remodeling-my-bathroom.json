@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-should-i-do-first-if-i-m-thinking-about-remodeling-my-bathroom",
+  "name": "What should I do first if I’m thinking about remodeling my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I do first if I’m thinking about remodeling my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by clarifying your budget, must‑have features, and timeline before you talk to any contractors or designers. Then gather inspiration photos and rough measurements so professionals can give realistic feedback and estimates.\n\nMany remodels go off track because homeowners skip this planning step and jump straight to shopping tile or calling multiple contractors. A bit of upfront prep helps you compare bids apples‑to‑apples and avoid costly mid‑project changes.\n\nKEY FACTORS:\n- Overall budget range and absolute “do not exceed” number\n- Priority list (e.g., bigger shower vs. soaking tub, storage, accessibility)\n- Condition of existing plumbing, electrical, and ventilation\n- Desired completion deadline and flexibility\n\nStart a simple document or notebook with photos, notes, and measurements, then share it during your first consultation. This makes it easier for a good contractor to quickly flag feasibility issues, propose options at different price levels, and map out a realistic plan. A well‑prepared homeowner is usually a contractor’s favorite client.",
+        "@type": "Answer",
+        "description": "First, clarify your budget, priorities, and timeline, then gather inspiration photos and basic measurements. This prep lets contractors give realistic options, prevents scope creep, and makes it much easier to compare bids and avoid mid‑project surprises."
+      }
+    }
+  ],
+  "description": "First, clarify your budget, priorities, and timeline, then gather inspiration photos and basic measurements. This prep lets contractors give realistic options,"
+}

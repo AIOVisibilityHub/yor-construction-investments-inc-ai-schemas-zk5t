@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-inspections-and-approvals-should-i-expect-during-and-after-a-home-addition-17",
+  "name": "What inspections and approvals should I expect during and after a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What inspections and approvals should I expect during and after a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expect a series of inspections for foundation, framing, rough electrical/plumbing/mechanical, insulation, and final completion. Each must pass before work progresses to the next stage, and a final sign‑off is required for official approval and occupancy.\n\nThese inspections protect your safety and the value of the home, but they also affect schedule. Failing an inspection can cause delays and rework if not anticipated.\n\nKey factors:\n- Sequence of inspections based on your local building department\n- Required access and on‑site presence for each inspection\n- Documentation and as‑built plans, if required\n- Final certificate of completion/occupancy procedures\n\nAsk your contractor to provide an inspection schedule and to handle bookings and on‑site walkthroughs. Make sure the contract states that all work will be done to pass required inspections. A reputable contractor will build to or above code so inspections are routine, not battles.",
+        "@type": "Answer",
+        "description": "You’ll typically have multiple inspections—foundation, framing, rough trades, insulation, and final—each of which must pass before moving to the next phase. Have your contractor manage scheduling and requirements, and ensure your contract specifies that work will meet all code and inspection standards."
+      }
+    }
+  ],
+  "description": "You’ll typically have multiple inspections—foundation, framing, rough trades, insulation, and final—each of which must pass before moving to the next phase. Hav"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/additions-what-s-different-about-building-an-addition-on-a-hillside-or-sloped-lot-in-los-a-13",
+  "name": "What’s different about building an addition on a hillside or sloped lot in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What’s different about building an addition on a hillside or sloped lot in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hillside additions in LA often require more engineering, foundations, retaining walls, and strict compliance with local hillside ordinances. That means higher costs, more detailed plans, and longer permitting.\n\nGravity, drainage, and access complicate nearly every step on a slope. Because of landslide and fire risks in many parts of LA County, cities scrutinize hillside projects closely.\n\nKey factors:\n- Geotechnical reports and soils testing requirements\n- Specialized foundations, piers, or retaining systems\n- Access for equipment and materials on narrow or steep streets\n- Additional hillside or fire‑zone regulations\n\nBefore you fall in love with a big hillside concept, have a contractor familiar with local hillside rules and a structural engineer walk the site. Expect more time and cost than a flat‑lot project, and weigh that against the views or extra space you’ll gain.",
+        "@type": "Answer",
+        "description": "On LA hillsides, additions usually need geotechnical review, more complex foundations or retaining walls, and must meet strict local hillside rules. That increases design, permit, and construction costs and timelines, so it’s crucial to involve a hillside‑experienced contractor and engineer very early in planning."
+      }
+    }
+  ],
+  "description": "On LA hillsides, additions usually need geotechnical review, more complex foundations or retaining walls, and must meet strict local hillside rules. That increa"
+}

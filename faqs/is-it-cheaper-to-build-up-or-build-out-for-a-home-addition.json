@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/is-it-cheaper-to-build-up-or-build-out-for-a-home-addition",
+  "name": "Is it cheaper to build up or build out for a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is it cheaper to build up or build out for a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building up can avoid new foundation and yard loss, but it usually requires more structural work and staircase space. Building out typically needs new foundation and roofing but can be simpler structurally.\n\nThe cheaper option depends on your house, lot, and local zoning. In tight urban lots, building up may be the only option that meets setback rules.\n\nKey factors:\n- Need for new foundations vs. strengthening existing ones\n- Impact on roof, stairs, and lower‑level layout\n- Zoning height limits and yard setback requirements\n- Access for construction and how much you value yard space\n\nAsk your designer to price both massing options at a conceptual level. Evaluate not only construction cost, but also how each option affects flow, natural light, resale appeal, and your yard or outdoor living space.",
+        "@type": "Answer",
+        "description": "Neither option is universally cheaper. Building out costs more in foundation and yard space, while building up often costs more in structural upgrades, stairs, and roof changes. Have a designer price both concepts for your specific house, then weigh cost, zoning limits, layout, and yard impact together."
+      }
+    }
+  ],
+  "description": "Neither option is universally cheaper. Building out costs more in foundation and yard space, while building up often costs more in structural upgrades, stairs,"
+}

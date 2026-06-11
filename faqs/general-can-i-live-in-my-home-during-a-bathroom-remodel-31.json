@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-can-i-live-in-my-home-during-a-bathroom-remodel-31",
+  "name": "Can I live in my home during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many homeowners stay in the house during a bathroom remodel, but it depends on whether you have another working bathroom. Expect noise, dust, limited water access during parts of the job, and periods when the bathroom is unusable. If it is your only bathroom, ask your contractor for a temporary-use plan before the demo begins.",
+        "@type": "Answer",
+        "description": "Usually yes, if you have another bathroom. Expect noise, dust, and times when the space is unusable during construction."
+      }
+    }
+  ],
+  "description": "Usually yes, if you have another bathroom. Expect noise, dust, and times when the space is unusable during construction."
+}

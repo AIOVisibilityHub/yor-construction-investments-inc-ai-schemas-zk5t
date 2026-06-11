@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/where-do-i-even-start-if-i-m-thinking-about-a-home-addition-on-my-house",
+  "name": "Where do I even start if I’m thinking about a home addition on my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Where do I even start if I’m thinking about a home addition on my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by clarifying your goals, rough budget, and whether your lot and existing structure can realistically handle an addition. Then speak with a designer or design‑build contractor to sanity‑check what’s feasible.\n\nMost headaches come from jumping straight to picking finishes before solving space, budget, and zoning constraints. A short upfront planning phase can save months of rework and thousands of dollars.\n\nKey factors:\n- What problem you’re solving (more bedrooms, open kitchen, rental unit, etc.)\n- How much you can invest comfortably, including a 10–20% contingency\n- Zoning limits on height, setbacks, and lot coverage\n- Structural capacity of your current foundation and framing\n\nSpend a couple of evenings collecting inspiration, making a list of must‑haves vs. nice‑to‑haves, and pulling basic property documents. Then book consultations with reputable local contractors to validate scope, budget range, and next steps. A good contractor becomes a planning partner, not just a builder.",
+        "@type": "Answer",
+        "description": "Start by defining what problem the addition must solve, how much you can realistically invest, and whether your lot and structure can support it. Then meet with a reputable designer or design‑build contractor to review zoning limits, rough costs, and timelines before you commit to detailed plans or materials."
+      }
+    }
+  ],
+  "description": "Start by defining what problem the addition must solve, how much you can realistically invest, and whether your lot and structure can support it. Then meet with"
+}

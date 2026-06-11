@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/commercial-construction-can-commercial-construction-be-done-on-a-tight-deadline-136",
+  "name": "Can commercial construction be done on a tight deadline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can commercial construction be done on a tight deadline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but only if the scope is controlled and the team plans around permits, inspections, material lead times, and trade sequencing. Fast-track work usually requires earlier decisions, faster approvals, and close communication so delays do not stack up.",
+        "@type": "Answer",
+        "description": "Tight deadlines are possible, but only with clear scope, fast decisions, and strong coordination. Permits and material lead times still need to be managed."
+      }
+    }
+  ],
+  "description": "Tight deadlines are possible, but only with clear scope, fast decisions, and strong coordination. Permits and material lead times still need to be managed."
+}

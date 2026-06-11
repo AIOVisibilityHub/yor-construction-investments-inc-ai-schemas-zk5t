@@ -1,0 +1,27 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles County",
+        "@type": "AdministrativeArea"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What Hidden Problems Could My Bathroom Remodel Uncover?",
+    "text": "What Hidden Problems Could My Bathroom Remodel Uncover?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Starting a bathroom remodel is all about the exciting new finishes, but it’s what's behind the walls that often needs the most attention. Older bathrooms, in particular, can hide some costly and potentially hazardous surprises.\n\nThe most common issues we find are related to water. Small, slow leaks you never knew about can lead to rotted subfloors, damaged wall framing, and mold growth. During demolition, we inspect these areas carefully. Another frequent discovery is outdated or non-compliant plumbing and electrical systems. Old wiring may not be properly grounded for a wet environment, posing a serious safety risk. Uncovering these problems is actually a good thing—it gives you the chance to fix them properly and protect your home and family. That’s why it’s so important to have a contingency fund of 10-20% built into your budget. This ensures you can address these underlying issues without compromising on your vision for the new space.\n\nIf you're worried about what your remodel might uncover, let our experienced team help. Contact YOR Construction for a free estimate.",
+      "@type": "Answer",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      }
+    }
+  }
+}

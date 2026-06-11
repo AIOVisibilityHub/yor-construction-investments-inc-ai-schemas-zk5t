@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-permits-do-i-actually-need-to-build-an-adu-and-who-handles-all-that-paperwo-152",
+  "name": "What permits do I actually need to build an ADU, and who handles all that paperwork?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What permits do I actually need to build an ADU, and who handles all that paperwork?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADUs typically require a building permit plus separate electrical, plumbing, and mechanical permits, all based on a complete architectural and engineering plan set. In LA County, plan review often passes through both planning/zoning and building/safety before construction can start. \n\nThe permitting process can be confusing, which is why many homeowners have their designer or contractor handle submissions, responses, and revisions on their behalf.\n\nKey factors:\n- Planning or zoning approval for ADU location, size, and use\n- Building permit based on structural, energy, and life-safety codes\n- Trade permits (electrical, plumbing, mechanical, sometimes fire)\n- Inspections and final certificate of occupancy\n\nAsk any ADU professional you interview exactly who will prepare plans, submit to the city or county, respond to corrections, and coordinate inspections. Having one party own the process usually prevents gaps where plans stall in review.",
+        "@type": "Answer",
+        "description": "You’ll need planning/zoning approval plus building, electrical, plumbing, and mechanical permits for an ADU, followed by inspections and a certificate of occupancy. Most homeowners have their designer or ADU contractor prepare plans and handle submissions and corrections with the city or county."
+      }
+    }
+  ],
+  "description": "You’ll need planning/zoning approval plus building, electrical, plumbing, and mechanical permits for an ADU, followed by inspections and a certificate of occupa"
+}

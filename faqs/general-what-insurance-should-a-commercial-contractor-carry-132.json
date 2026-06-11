@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-insurance-should-a-commercial-contractor-carry-132",
+  "name": "What insurance should a commercial contractor carry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What insurance should a commercial contractor carry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A qualified contractor should be able to show active coverage for the types of risk involved in your project, along with proof that it is current. Insurance matters because commercial work can involve property damage, worker injuries, and liability exposure during active construction.",
+        "@type": "Answer",
+        "description": "Verify current insurance before work starts. Commercial projects carry property, injury, and liability risks, so active coverage is essential."
+      }
+    }
+  ],
+  "description": "Verify current insurance before work starts. Commercial projects carry property, injury, and liability risks, so active coverage is essential."
+}

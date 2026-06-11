@@ -1,0 +1,44 @@
+{
+  "name": "What's the Right Sequence for a Kitchen Remodeling Project?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "You've got your dream kitchen design finalized, and you're ready to go! So, what happens next? A successful, low-stress remodel follows a specific sequence of steps that revolves around city inspections.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First and foremost: permits. Before a single sledgehammer is swung, all necessary permits from your local building department (like LADBS or Pasadena's) must be secured. This process alone can take a few weeks, so it's step zero.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Next comes the messy part: demo and rough-in. After the old kitchen is gone, the team will do any framing and run the new plumbing, electrical wiring, and HVAC ducts. Each of these trades requires a separate \"rough\" inspection to ensure they're correctly installed *before* they get hidden behind walls.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "Once those inspections are passed, you get walls! Insulation and drywall go up, and things start to feel like a room again. After that, the finish materials that make your kitchen unique can be installed: flooring, cabinets, countertops, and tile.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5",
+      "text": "Finally, the project concludes with fixtures and a final inspection. Faucets, lights, outlets, and appliances are installed, and the building inspector gives their final approval. Juggling these steps is a contractor's main job. If you want a pro to manage the process, contact YOR Construction today.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "What's the Right Sequence for a Kitchen Remodeling Project?"
+}

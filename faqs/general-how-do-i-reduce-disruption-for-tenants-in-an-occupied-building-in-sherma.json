@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-how-do-i-reduce-disruption-for-tenants-in-an-occupied-building-in-sherman-oaks-142",
+  "name": "How do I reduce disruption for tenants in an occupied building in Sherman Oaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I reduce disruption for tenants in an occupied building in Sherman Oaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Occupied-building work needs clear access planning, noise control, dust protection, and communication with tenants before each phase begins. The contractor should coordinate work hours and staging so daily operations can continue with fewer interruptions.",
+        "@type": "Answer",
+        "description": "Plan for access, noise, dust, and tenant communication before work starts. Occupied buildings need phased scheduling and tight coordination."
+      }
+    }
+  ],
+  "description": "Plan for access, noise, dust, and tenant communication before work starts. Occupied buildings need phased scheduling and tight coordination."
+}

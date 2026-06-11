@@ -1,0 +1,69 @@
+{
+  "url": "yorconstruction.com",
+  "name": "YOR Construction & Investments, Inc.",
+  "@type": "Organization",
+  "@context": "https://schema.org",
+  "telephone": "1-888-457-7746",
+  "areaServed": [
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "YOR Construction & Investments, Inc. is a versatile construction company operating across Southern California, specializing in both residential and commercial projects. They offer a design/build approach, providing integrated solutions for a wide array of construction needs. The company distinguishes itself through seamless teamwork and a commitment to elevating client's visions through superior construction.",
+  "hasOfferCatalog": {
+    "name": "YOR Construction & Investments, Inc. Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Additions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Bathroom Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Kitchen Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roofing",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Seismic Retrofitting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Commercial Construction",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "ADU Construction",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

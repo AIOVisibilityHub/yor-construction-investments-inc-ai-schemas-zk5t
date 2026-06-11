@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-questions-should-i-ask-a-roofer-before-i-sign-a-contract-82",
+  "name": "What questions should I ask a roofer before I sign a contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a roofer before I sign a contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask about **license/insurance**, who does the work, materials and warranties, permits, and how they handle surprises. You want to understand exactly what is included and how they’ll respond if the job uncovers hidden damage.\n\nA good contractor should welcome specific questions and answer them in writing. If they avoid details or rush you, that’s a sign to pause.\n\nKey factors:\n- “What is your license number and can I see your insurance certificates?”\n- “Who will be on my roof—your employees or subcontractors?”\n- “What materials and warranties are included, and are warranties transferable?”\n- “Will you pull permits and how do you handle extra wood repair costs?”\n\nRequest that all answers be reflected in the written contract, including start/finish estimates, payment schedule, and cleanup responsibilities. If anything feels unclear or uncomfortable, keep interviewing other roofers until you find one who communicates transparently.",
+        "@type": "Answer",
+        "description": "Ask about their license and insurance, who will actually be doing the work, the exact materials and warranties they’re including, whether they pull permits, and how they handle hidden damage or change orders. Insist that these details appear in the written contract before you sign."
+      }
+    }
+  ],
+  "description": "Ask about their license and insurance, who will actually be doing the work, the exact materials and warranties they’re including, whether they pull permits, and"
+}

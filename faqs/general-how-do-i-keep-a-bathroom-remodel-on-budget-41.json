@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-how-do-i-keep-a-bathroom-remodel-on-budget-41",
+  "name": "How do I keep a bathroom remodel on budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I keep a bathroom remodel on budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best way to protect your budget is to finalize selections early and avoid changing them after work begins. Keep the existing layout if possible, choose materials with a clear price range, and get an itemized estimate before demolition. A realistic contingency fund also helps you handle surprises without cutting quality elsewhere.",
+        "@type": "Answer",
+        "description": "Lock in your selections early, keep the layout if possible, use itemized bids, and keep a contingency fund for surprises."
+      }
+    }
+  ],
+  "description": "Lock in your selections early, keep the layout if possible, use itemized bids, and keep a contingency fund for surprises."
+}

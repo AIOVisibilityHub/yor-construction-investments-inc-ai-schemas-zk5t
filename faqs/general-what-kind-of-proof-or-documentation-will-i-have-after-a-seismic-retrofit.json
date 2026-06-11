@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-kind-of-proof-or-documentation-will-i-have-after-a-seismic-retrofit-is-comp-108",
+  "name": "What kind of proof or documentation will I have after a seismic retrofit is completed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What kind of proof or documentation will I have after a seismic retrofit is completed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a seismic retrofit, you should have stamped engineering plans, city permits and final inspection sign‑offs, and detailed contractor documentation. Together, these form the evidence that your building was upgraded to a specific standard.\n\nGood documentation helps with future sales, refinancing, insurance discussions, and potential tax benefits. It also becomes the reference point for any future modifications or additional strengthening.\n\nKey factors:\n- Stamped structural drawings and calculations\n- Permit records and final inspection approval from the city or county\n- Contractor invoices, warranties, photos, and as‑built notes\n- Any engineer’s letter of completion summarizing the work and applicable codes\n\nAsk your engineer and contractor in advance what completion packet they provide, and insist on digital copies for long‑term storage. Keep everything organized so you can quickly answer questions from buyers, lenders, or city officials.\n\nA professional retrofit team will treat documentation as part of the deliverable, not an afterthought.",
+        "@type": "Answer",
+        "description": "You should receive stamped engineering plans, permits and final inspection approvals, contractor invoices and warranties, and ideally an engineer’s completion letter. Keep these as proof that specific seismic upgrades were done to code—they’re important for future sales, refinancing, insurance, and potential tax benefits."
+      }
+    }
+  ],
+  "description": "You should receive stamped engineering plans, permits and final inspection approvals, contractor invoices and warranties, and ideally an engineer’s completion l"
+}

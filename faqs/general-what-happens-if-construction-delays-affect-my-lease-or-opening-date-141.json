@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-happens-if-construction-delays-affect-my-lease-or-opening-date-141",
+  "name": "What happens if construction delays affect my lease or opening date?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What happens if construction delays affect my lease or opening date?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Delays can affect move-in, staffing, and revenue planning, so they should be tracked against a realistic schedule from the start. Good contractors communicate risks early, update the critical path, and help you decide whether to resequence work or adjust the opening plan.",
+        "@type": "Answer",
+        "description": "Delays can affect your opening date, staffing, and revenue, so track the schedule closely and address risks early. Ask for updates that show what is driving the delay."
+      }
+    }
+  ],
+  "description": "Delays can affect your opening date, staffing, and revenue, so track the schedule closely and address risks early. Ask for updates that show what is driving the"
+}

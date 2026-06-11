@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-how-do-i-know-if-my-project-needs-a-general-contractor-or-a-specialist-140",
+  "name": "How do I know if my project needs a general contractor or a specialist?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if my project needs a general contractor or a specialist?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your project includes multiple trades, permits, and coordination across the full job site, a general contractor is usually the right fit. If the work is narrow and highly specialized, such as a single system or finish scope, a specialist may be more efficient.",
+        "@type": "Answer",
+        "description": "Use a general contractor for multi-trade projects and a specialist for narrow, highly technical work. The decision depends on how much coordination the job needs."
+      }
+    }
+  ],
+  "description": "Use a general contractor for multi-trade projects and a specialist for narrow, highly technical work. The decision depends on how much coordination the job need"
+}

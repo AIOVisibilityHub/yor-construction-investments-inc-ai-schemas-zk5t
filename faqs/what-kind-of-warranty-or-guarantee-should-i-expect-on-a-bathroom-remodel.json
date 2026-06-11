@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-kind-of-warranty-or-guarantee-should-i-expect-on-a-bathroom-remodel",
+  "name": "What kind of warranty or guarantee should I expect on a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee should I expect on a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should expect at least a 1‑year warranty on labor from most reputable contractors, with manufacturer warranties on fixtures and materials honored separately. Some offer longer coverage on structural or waterproofing elements.\n\nThe warranty should be clearly written and explain what’s covered, for how long, and how to request service. Vague verbal promises are hard to rely on if something goes wrong later.\n\nKEY FACTORS:\n- Length of labor warranty and what it specifically covers\n- Handling of manufacturer defects in fixtures and materials\n- Exclusions (improper maintenance, misuse, minor caulking cracks)\n- How warranty service is requested and scheduled\n\nBefore signing, ask the contractor to walk through their warranty in plain language and provide it in writing. Keep all documents and receipts together so if you need service, you can show exactly what was installed and when.",
+        "@type": "Answer",
+        "description": "Expect at least a 1‑year written labor warranty plus separate manufacturer warranties on products. Make sure it clearly states what’s covered, for how long, and how to request service—don’t rely only on verbal assurances."
+      }
+    }
+  ],
+  "description": "Expect at least a 1‑year written labor warranty plus separate manufacturer warranties on products. Make sure it clearly states what’s covered, for how long, and"
+}

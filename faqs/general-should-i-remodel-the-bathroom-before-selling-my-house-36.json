@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-should-i-remodel-the-bathroom-before-selling-my-house-36",
+  "name": "Should I remodel the bathroom before selling my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Should I remodel the bathroom before selling my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom remodel can help a home show better, but only if the improvements are aligned with local buyer expectations and your budget. Cosmetic updates often make more sense than a full luxury overhaul if you are selling soon. In many cases, a clean, updated, well-lit bathroom delivers more market appeal than an expensive custom design.",
+        "@type": "Answer",
+        "description": "If you are selling soon, cosmetic updates are usually smarter than a full luxury remodel unless the bathroom is badly outdated."
+      }
+    }
+  ],
+  "description": "If you are selling soon, cosmetic updates are usually smarter than a full luxury remodel unless the bathroom is badly outdated."
+}

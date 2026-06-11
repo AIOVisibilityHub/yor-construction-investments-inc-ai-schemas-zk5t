@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-s-the-difference-between-a-basic-code-minimum-seismic-retrofit-and-a-more-r-105",
+  "name": "What’s the difference between a basic code‑minimum seismic retrofit and a more robust upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What’s the difference between a basic code‑minimum seismic retrofit and a more robust upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A code‑minimum retrofit is designed to meet current life‑safety standards, mainly to prevent collapse, while a robust upgrade aims for better overall performance, less damage, and quicker re‑occupancy. Both improve safety, but they target different performance goals.\n\nCode‑minimum designs usually focus on only those elements required by ordinance. Enhanced retrofits add redundancy, address more potential failure modes, and may consider keeping the building usable after a major event, not just standing.\n\nKey factors:\n- Design objective: life‑safety vs. immediate or rapid occupancy\n- Number and strength of frames, walls, and connections added\n- Treatment of non‑structural components (stairs, ceilings, glazing, equipment)\n- Upfront cost vs. expected downtime and repair cost after a quake\n\nAsk your engineer to show you two options: the minimum required and a more resilient scheme, with cost and expected performance differences. You might decide to spend a bit more now to save on future downtime and repairs.\n\nA thoughtful retrofit design should balance code requirements with your risk tolerance and long‑term plans for the property.",
+        "@type": "Answer",
+        "description": "Code‑minimum retrofits focus on life‑safety—mainly preventing collapse—while more robust upgrades aim to reduce damage and downtime so the building can be re‑occupied faster after a big quake. Ask your engineer for both options and compare added cost against reduced future repair and vacancy risk."
+      }
+    }
+  ],
+  "description": "Code‑minimum retrofits focus on life‑safety—mainly preventing collapse—while more robust upgrades aim to reduce damage and downtime so the building can be re‑oc"
+}

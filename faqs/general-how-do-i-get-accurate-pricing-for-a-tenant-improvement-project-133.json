@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-how-do-i-get-accurate-pricing-for-a-tenant-improvement-project-133",
+  "name": "How do I get accurate pricing for a tenant improvement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I get accurate pricing for a tenant improvement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accurate pricing starts with a clear scope, measurements, finish selections, and a definition of what is included and excluded. Pricing becomes more reliable when the contractor has enough detail to estimate labor, materials, permits, and coordination work instead of guessing.",
+        "@type": "Answer",
+        "description": "Give a detailed scope, finish list, and site information to get a better tenant improvement price. Vague plans usually lead to vague numbers."
+      }
+    }
+  ],
+  "description": "Give a detailed scope, finish list, and site information to get a better tenant improvement price. Vague plans usually lead to vague numbers."
+}

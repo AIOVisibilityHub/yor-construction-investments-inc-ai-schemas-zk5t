@@ -1,0 +1,27 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles County",
+        "@type": "AdministrativeArea"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is It Possible to Build an ADU on My LA Property?",
+    "text": "Is It Possible to Build an ADU on My LA Property?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Thinking about adding an Accessory Dwelling Unit (ADU) in Los Angeles? It's a fantastic way to add space, create a home for family, or generate rental income. But before you start picking out floor plans, the first step is to figure out if it's even possible on your lot. The rules can feel a bit complicated, but it usually boils down to a few key things.\n\nFirst, you'll need to check the specific zoning rules for your property. Both California state law and local Los Angeles regulations will apply. These rules dictate how large your ADU can be, where it can be placed on your property (known as setbacks), and any height limits. You'll also need to consider parking requirements, although in many cases, they might be waived. Don't forget to think about practical things, like how construction vehicles will access the site. An experienced contractor can perform a feasibility review to give you a clear picture of what's possible. Because ADUs involve complex zoning, small-space design, and full mechanical systems, it's really important to work with a team that specializes in them. One small error can delay or even prevent project approval.\n\nReady to find out what your property is capable of? Our team at YOR Construction & Investments, Inc. has extensive experience with ADUs across Los Angeles. Contact us today for a free consultation and estimate!",
+      "@type": "Answer",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      }
+    }
+  }
+}

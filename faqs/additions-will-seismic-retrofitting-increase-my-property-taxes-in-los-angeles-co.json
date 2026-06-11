@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/additions-will-seismic-retrofitting-increase-my-property-taxes-in-los-angeles-county-or-is-107",
+  "name": "Will seismic retrofitting increase my property taxes in Los Angeles County, or is there an exemption?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Will seismic retrofitting increase my property taxes in Los Angeles County, or is there an exemption?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, qualifying seismic retrofitting work is generally exempt from property tax reassessment, as long as it meets the state’s definitions and you file the right paperwork. The exemption is not automatic; you must apply for it.\n\nThe state allows owners to improve seismic safety without being penalized through higher property taxes tied to that specific work. However, other non‑seismic improvements done at the same time—like full remodels or new additions—can still trigger reassessment.\n\nKey factors:\n- Work must qualify as seismic safety or hazard mitigation improvements\n- You must submit a claim form to the county assessor within the specified timeline\n- Supporting documents and identification of seismic vs. non‑seismic components are required\n- Local building departments help identify which work qualifies\n\nBefore construction, ask your engineer and contractor to separate seismic scope from other upgrades on your plans and invoices. Then file the exemption claim with the LA County Assessor within the allowed window.\n\nA retrofit team familiar with LA County projects can help you structure documentation so you don’t miss potential tax benefits.",
+        "@type": "Answer",
+        "description": "California generally exempts qualifying seismic retrofitting from property tax reassessment, but you have to apply with the county assessor and document which work is seismic versus other improvements. Plan ahead with your engineer and contractor so your LA County retrofit is clearly documented for the exemption."
+      }
+    }
+  ],
+  "description": "California generally exempts qualifying seismic retrofitting from property tax reassessment, but you have to apply with the county assessor and document which w"
+}

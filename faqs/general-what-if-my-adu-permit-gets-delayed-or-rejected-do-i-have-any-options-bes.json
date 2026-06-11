@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-if-my-adu-permit-gets-delayed-or-rejected-do-i-have-any-options-besides-sta-168",
+  "name": "What if my ADU permit gets delayed or rejected—do I have any options besides starting over?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What if my ADU permit gets delayed or rejected—do I have any options besides starting over?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most ADU permit setbacks are due to incomplete plans or fixable code and zoning issues, and they’re resolved through a “corrections” process rather than outright rejection. You typically revise the plans, respond to comments, and resubmit until they meet requirements. \n\nState law is generally favorable to ADUs, so outright denials are less common if you stay within objective standards.\n\nKey factors:\n- Specific reasons listed on the city’s correction or denial notice\n- Whether issues are objective (setbacks, height) or subjective (design)\n- Time limits for resubmittal and appeal processes\n- Cost and time impact of requested revisions\n\nIf you hit a roadblock, have your designer or contractor walk you through each correction one by one and propose practical solutions. Often a small adjustment in placement, height, or window location is enough to move the project forward without losing your entire design.",
+        "@type": "Answer",
+        "description": "Most ADU permit problems are handled through corrections, not total rejection—you adjust the plans to fix objective issues like setbacks, height, or details and then resubmit. Work with your designer or contractor to address each comment so you can move forward without starting from zero."
+      }
+    }
+  ],
+  "description": "Most ADU permit problems are handled through corrections, not total rejection—you adjust the plans to fix objective issues like setbacks, height, or details and"
+}

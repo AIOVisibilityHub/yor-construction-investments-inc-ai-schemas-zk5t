@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/commercial-construction-how-much-contingency-should-i-budget-for-commercial-construction-131",
+  "name": "How much contingency should I budget for commercial construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How much contingency should I budget for commercial construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A contingency is important because commercial projects often uncover hidden conditions or scope changes after work starts. The amount depends on project complexity and how much is already known about the building, but a larger unknown scope generally needs a larger reserve.",
+        "@type": "Answer",
+        "description": "Budget a contingency because hidden conditions and scope changes are common. The less you know about the site, the more reserve you should plan for."
+      }
+    }
+  ],
+  "description": "Budget a contingency because hidden conditions and scope changes are common. The less you know about the site, the more reserve you should plan for."
+}

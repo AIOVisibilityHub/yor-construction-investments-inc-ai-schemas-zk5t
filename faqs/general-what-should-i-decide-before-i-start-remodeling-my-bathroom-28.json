@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-should-i-decide-before-i-start-remodeling-my-bathroom-28",
+  "name": "What should I decide before I start remodeling my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I decide before I start remodeling my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before you start, define your budget, the main goal of the remodel, and whether you want to keep the current layout. You should also choose your preferred style, fixture quality, and any must-have features like a larger shower or better storage. Clear decisions early help reduce change orders, which are one of the fastest ways to increase cost and timeline.",
+        "@type": "Answer",
+        "description": "Decide on budget, goals, layout, style, and must-have features before demolition starts. Early choices prevent expensive change orders later."
+      }
+    }
+  ],
+  "description": "Decide on budget, goals, layout, style, and must-have features before demolition starts. Early choices prevent expensive change orders later."
+}

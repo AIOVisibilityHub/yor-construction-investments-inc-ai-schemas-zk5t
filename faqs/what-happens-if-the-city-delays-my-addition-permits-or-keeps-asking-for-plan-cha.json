@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-happens-if-the-city-delays-my-addition-permits-or-keeps-asking-for-plan-cha",
+  "name": "What happens if the city delays my addition permits or keeps asking for plan changes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What happens if the city delays my addition permits or keeps asking for plan changes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permitting delays and plan corrections are common, especially in busy departments. Each correction cycle adds time, but responding thoroughly can prevent repeated back‑and‑forth.\n\nThe key is to address comments clearly and keep communication documented. Rushing or submitting partial fixes often leads to more rounds of review.\n\nKey factors:\n- Completeness and clarity of the original submittal\n- How quickly your designer/contractor responds to corrections\n- Complexity of structural, zoning, or grading issues\n- Seasonal workloads at the building department\n\nAsk your team to share all correction comments with you and explain them in plain language. Agree on who will handle responses and set expectations for turnaround times so the project doesn’t stall between review cycles.",
+        "@type": "Answer",
+        "description": "Corrections and delays are normal. Each plan‑review cycle adds time, so you want your designer or contractor to respond completely and quickly to the city’s comments. Ask to see the correction list, have them explain it, and confirm who is responsible for each response and follow‑up with the building department."
+      }
+    }
+  ],
+  "description": "Corrections and delays are normal. Each plan‑review cycle adds time, so you want your designer or contractor to respond completely and quickly to the city’s com"
+}

@@ -1,0 +1,14 @@
+{
+  "@type": "Review",
+  "author": {
+    "name": "Nandy Milan",
+    "@type": "Person"
+  },
+  "@context": "https://schema.org",
+  "reviewBody": "This company has been extraordinary throughout this 2 month process of remodeling. Constructor has been here to check up on everyone almost every single day and the progress every that they have made has been incredible. We had a bunch of renovations done throughout the house. some of them included cabinets, paint, furniture, and flooring. Turn out was great.",
+  "itemReviewed": {
+    "url": "yorconstruction.com",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  }
+}

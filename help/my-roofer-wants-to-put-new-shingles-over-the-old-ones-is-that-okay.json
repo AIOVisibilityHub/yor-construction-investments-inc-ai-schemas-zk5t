@@ -1,0 +1,22 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Roofer Wants to Put New Shingles Over the Old Ones. Is That Okay?",
+  "publisher": {
+    "url": "yorconstruction.com",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "articleBody": "Getting a quote for a roof 'overlay' can be tempting. It's almost always cheaper than a full tear-off, but it's one of those situations where saving money now can cost you a lot more down the road.\n\nFirst, there's the building code to consider. In most LA-area jurisdictions, you are not allowed to have more than two layers of roofing material on your home. If you already have more than one, a tear-off isn't just a good idea—it's the law. An overlay would fail inspection.\n\nSecond, an overlay conceals the true condition of your roof deck. You're simply covering up any potential soft spots, rot, or water damage in the underlying wood sheathing. This can lead to serious structural problems and leaks that a new layer of shingles won't stop.\n\nThird, performance is compromised. A new roof performs best when it's installed on a clean, flat surface. An overlay can result in a lumpy appearance and can even shorten the lifespan of your new shingles, potentially voiding the manufacturer's warranty.\n\nFor a durable, watertight, and fully warrantied roof, a complete tear-off is the professional standard. If you want a roof done right, with no shortcuts, call YOR Construction for a proper evaluation.",
+  "datePublished": "2026-06-03"
+}

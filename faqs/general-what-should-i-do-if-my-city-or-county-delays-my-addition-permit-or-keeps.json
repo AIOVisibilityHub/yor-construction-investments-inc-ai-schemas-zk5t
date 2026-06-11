@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-should-i-do-if-my-city-or-county-delays-my-addition-permit-or-keeps-asking--22",
+  "name": "What should I do if my city or county delays my addition permit or keeps asking for revisions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I do if my city or county delays my addition permit or keeps asking for revisions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permitting delays are common; the best response is organized, professional follow‑up and clear communication with the plan reviewers. Your designer or contractor should lead responses, but you may need to advocate as the owner.\n\nMultiple revision cycles often mean unclear drawings, missing information, or a mismatch with local rules. Fixing the root documentation problem usually unlocks progress.\n\nKey factors:\n- Specific corrections cited by the reviewer\n- Completeness and clarity of your current plans\n- Whether additional engineering or studies are required\n- Your city’s normal review timelines and backlog\n\nAsk your contractor or designer to walk you through each comment in plain language and propose targeted changes. Request that they submit consolidated, clear responses rather than piecemeal fixes. If delays stretch out, politely ask the department about typical timelines and whether anything is missing from your side. An experienced team used to LA‑area plan checks can often shorten the back‑and‑forth.",
+        "@type": "Answer",
+        "description": "When permits stall, have your contractor or designer systematically address each correction comment with clearer drawings or added information, then resubmit as a complete package. Stay organized, track timelines, and communicate respectfully with reviewers; using a team familiar with your city’s process helps avoid repeated delays."
+      }
+    }
+  ],
+  "description": "When permits stall, have your contractor or designer systematically address each correction comment with clearer drawings or added information, then resubmit as"
+}

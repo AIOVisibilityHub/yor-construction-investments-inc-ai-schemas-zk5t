@@ -1,0 +1,27 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles County",
+        "@type": "AdministrativeArea"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why Does My Flat Roof Keep Leaking?",
+    "text": "Why Does My Flat Roof Keep Leaking?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It's a frustrating problem we see a lot across Los Angeles County, especially on commercial properties. You fix one leak, and another one pops up. When a flat roof has persistent leaks, the issue often isn't the roofing material itself but something more fundamental, like poor drainage or failed flashing.\n\nPonding water is a major red flag. If your roof isn't draining properly within 48 hours of a rainstorm, that standing water will eventually find a way in. The roof should have a subtle slope to guide water toward drains. Another common culprit is the flashing—the metal pieces that seal the edges around vents, walls, and HVAC units. If flashing is old, damaged, or was installed incorrectly, it creates a perfect entry point for water. Simply patching the leaky spot on the roof membrane without addressing the underlying drainage or flashing is like putting a bandage on a problem that needs surgery.\n\nSolving complex flat roof issues requires a contractor who will stand by their work and find the root cause, not just apply a temporary fix. As one of our past clients noted, we are responsive and committed to getting the job done right. Contact YOR Construction & Investments, Inc. for a free inspection and an honest assessment.",
+      "@type": "Answer",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      }
+    }
+  }
+}

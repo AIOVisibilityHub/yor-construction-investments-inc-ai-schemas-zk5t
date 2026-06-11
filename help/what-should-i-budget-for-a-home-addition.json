@@ -1,0 +1,27 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles County",
+        "@type": "AdministrativeArea"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What Should I Budget For a Home Addition?",
+    "text": "What Should I Budget For a Home Addition?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Planning an addition is exciting, but figuring out the budget can be a huge source of stress. It’s about more than just a cost-per-square-foot estimate; you need to look at the total picture to avoid surprises.\n\nFirst, understand that the final cost depends on the complexity. Are you adding a simple room or a two-story addition with a kitchen or bath? The latter involves more plumbing, electrical, and high-end finishes, which increases the price. Second, always—always—set aside a contingency fund. We recommend 10-20% of your total budget. In construction, especially with older homes, you never know what you'll find when you open up a wall. This fund covers those unforeseen issues without derailing your project. Finally, remember that costs like architectural design, engineering, and permits are part of the budget, too.\n\nA professional can help you get a clear, realistic cost breakdown from the start. If you’re ready to take the next step, contact YOR Construction & Investments for a free consultation and estimate to get your project on solid financial ground.",
+      "@type": "Answer",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      }
+    }
+  }
+}

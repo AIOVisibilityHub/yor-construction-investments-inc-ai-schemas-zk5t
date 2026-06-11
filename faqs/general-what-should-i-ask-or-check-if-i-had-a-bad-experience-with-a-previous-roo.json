@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-what-should-i-ask-or-check-if-i-had-a-bad-experience-with-a-previous-roofer-and--94",
+  "name": "What should I ask or check if I had a bad experience with a previous roofer and I’m nervous about hiring again?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I ask or check if I had a bad experience with a previous roofer and I’m nervous about hiring again?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Focus on **transparency, documentation, and communication** when vetting your next roofer. Use your past experience to create a clear checklist of what went wrong and address each item upfront.\n\nA good contractor will be comfortable with detailed questions and may even help you inspect previous work. If someone is defensive or vague, move on.\n\nKey factors:\n- Detailed written scope, including what is and isn’t included\n- Clear communication plan: daily updates, point of contact, change-orders\n- References from recent customers with similar projects\n- Willingness to walk you through photos and explain technical choices\n\nExplain your previous bad experience and ask how they handle those issues differently. Choose a roofer who takes the time to answer thoroughly and puts commitments in writing; that alone will reduce the chance of repeat problems.",
+        "@type": "Answer",
+        "description": "Use your prior bad experience as a checklist: insist on a detailed written scope, clear communication plan, recent references, and thorough photo documentation of the work. If a roofer resists questions or written commitments, treat that as a sign to keep looking."
+      }
+    }
+  ],
+  "description": "Use your prior bad experience as a checklist: insist on a detailed written scope, clear communication plan, recent references, and thorough photo documentation"
+}

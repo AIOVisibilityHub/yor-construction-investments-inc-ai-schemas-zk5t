@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/seismic-retrofitting-how-can-i-tell-if-past-owners-already-did-a-seismic-retrofit-on-my-los-angeles-p-119",
+  "name": "How can I tell if past owners already did a seismic retrofit on my Los Angeles property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How can I tell if past owners already did a seismic retrofit on my Los Angeles property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To check for prior seismic retrofitting, you’ll need to combine document research with a physical inspection. Many upgrades are hidden behind finishes but leave a paper and permit trail.\n\nStart with city building records for permits mentioning seismic, structural, foundation, or soft‑story work. Then have a structural engineer or experienced contractor walk the property to look for typical retrofit elements.\n\nKey factors:\n- City or county permit history, including final inspections\n- Presence of foundation anchor bolts, shear panels, steel frames, and new concrete\n- Engineer’s letters, old retrofit contracts, or inspection reports from prior owners\n- Any visible reinforcement at garages, carports, or cripple walls\n\nAsk the seller for all construction records and make seismic review part of your due diligence. If evidence is unclear, budget for at least partial upgrades.\n\nA knowledgeable inspector can often recognize retrofit work, but documentation is what future buyers and lenders will care about most.",
+        "@type": "Answer",
+        "description": "Check city permit records for seismic, structural, foundation, or soft‑story permits, and have a structural engineer or retrofit contractor inspect the building for anchor bolts, shear panels, steel frames, or new concrete. Ask prior owners for reports and letters; if documentation is thin, plan for further upgrades."
+      }
+    }
+  ],
+  "description": "Check city permit records for seismic, structural, foundation, or soft‑story permits, and have a structural engineer or retrofit contractor inspect the building"
+}

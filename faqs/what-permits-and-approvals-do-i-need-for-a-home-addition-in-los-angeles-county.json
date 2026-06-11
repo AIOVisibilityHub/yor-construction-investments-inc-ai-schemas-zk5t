@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-permits-and-approvals-do-i-need-for-a-home-addition-in-los-angeles-county",
+  "name": "What permits and approvals do I need for a home addition in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What permits and approvals do I need for a home addition in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You will almost always need a building permit and plan review for an addition in Los Angeles County, plus trade permits for electrical, plumbing, and mechanical work. Many projects also require zoning review to confirm height, setbacks, and lot coverage.\n\nSkipping permits can trigger stop‑work orders, fines, and problems when you sell or refinance. In LA County, inspectors and plan reviewers are used to additions but can be strict on safety and zoning.\n\nKey factors:\n- Local city vs. County jurisdiction and their specific rules\n- Zoning limits: setbacks, height, floor area ratio, parking\n- Structural and energy‑code compliance\n- HOA or neighborhood design approvals, if applicable\n\nVerify requirements with your city building department early, or have your contractor or designer handle it for you. Insist that all work be permitted and inspected; permitted work protects your investment and future resale value.",
+        "@type": "Answer",
+        "description": "In Los Angeles County, almost any home addition requires a building permit, plan review, and separate trade permits for electrical, plumbing, and mechanical work. Confirm zoning limits and any HOA rules early, and have your contractor or designer submit complete plans so the project is fully permitted and inspected."
+      }
+    }
+  ],
+  "description": "In Los Angeles County, almost any home addition requires a building permit, plan review, and separate trade permits for electrical, plumbing, and mechanical wor"
+}

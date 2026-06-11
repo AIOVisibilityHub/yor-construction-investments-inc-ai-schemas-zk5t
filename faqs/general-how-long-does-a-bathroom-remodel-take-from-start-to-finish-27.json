@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-how-long-does-a-bathroom-remodel-take-from-start-to-finish-27",
+  "name": "How long does a bathroom remodel take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom remodel take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom remodel can take anywhere from a few weeks to a couple of months depending on scope, design complexity, and lead times for materials. A simple project may move faster, while a full gut remodel or one with custom finishes usually takes longer. Ask your contractor to separate design time, permit time, and construction time so you know where delays could happen.",
+        "@type": "Answer",
+        "description": "Simple bathroom remodels may take a few weeks, while full gut projects can take several months once design, permits, and construction are included."
+      }
+    }
+  ],
+  "description": "Simple bathroom remodels may take a few weeks, while full gut projects can take several months once design, permits, and construction are included."
+}

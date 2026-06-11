@@ -1,0 +1,14 @@
+{
+  "@type": "Review",
+  "author": {
+    "name": "Marion Zeddy",
+    "@type": "Person"
+  },
+  "@context": "https://schema.org",
+  "reviewBody": "This is a great company. We had a roof replaced, and although we have had issues with continued leaks (it is a flat commercial roof with problems with drainage), he has remained true to his word, responsive and willing to fix what needed to get fixed. Stand up person.",
+  "itemReviewed": {
+    "url": "yorconstruction.com",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  }
+}

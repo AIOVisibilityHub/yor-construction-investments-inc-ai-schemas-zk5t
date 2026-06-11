@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/commercial-construction-how-long-does-a-commercial-construction-project-usually-take-124",
+  "name": "How long does a commercial construction project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How long does a commercial construction project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline depends on project size, permit complexity, material availability, and whether the space remains occupied during construction. Small tenant improvements may move quickly, while larger renovations or ground-up builds often take months and can be delayed by approvals, inspections, or change orders.",
+        "@type": "Answer",
+        "description": "Timelines vary by scope, permits, materials, and site conditions. Small tenant improvements can be relatively fast, while larger commercial builds often take months."
+      }
+    }
+  ],
+  "description": "Timelines vary by scope, permits, materials, and site conditions. Small tenant improvements can be relatively fast, while larger commercial builds often take mo"
+}

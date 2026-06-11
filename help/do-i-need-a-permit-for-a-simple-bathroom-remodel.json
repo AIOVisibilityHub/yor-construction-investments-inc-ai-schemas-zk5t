@@ -1,0 +1,27 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles County",
+        "@type": "AdministrativeArea"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I Need a Permit for a Simple Bathroom Remodel?",
+    "text": "Do I Need a Permit for a Simple Bathroom Remodel?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It’s one of the most common questions we hear. While swapping out a faucet or painting the walls doesn't require a permit, the answer is often 'yes' for anything more involved. It’s a crucial step that protects you and your investment.\n\nAs a general rule, you will need a permit if you are changing your bathroom's layout, moving walls, or touching the plumbing or electrical systems. For example, moving a toilet, converting a tub to a walk-in shower, or adding new lighting all typically require permits. Why? Because permits trigger inspections, which ensure the work is done safely and to your local building code. This is essential for preventing leaks, electrical hazards, and structural issues. Trying to skip this step can backfire, leading to fines, orders to tear out finished work, and major problems when you eventually sell your home.\n\nNavigating the permit process can be confusing, but a professional contractor handles this for you. If you want to ensure your remodel is done correctly and legally, contact YOR Construction for a free estimate and a worry-free process.",
+      "@type": "Answer",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      }
+    }
+  }
+}

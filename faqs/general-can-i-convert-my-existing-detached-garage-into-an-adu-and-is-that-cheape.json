@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/general-can-i-convert-my-existing-detached-garage-into-an-adu-and-is-that-cheaper-than-b-150",
+  "name": "Can I convert my existing detached garage into an ADU, and is that cheaper than building a new one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I convert my existing detached garage into an ADU, and is that cheaper than building a new one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting a detached garage is often one of the most cost-effective ways to create an ADU, but the structure must meet structural, setback, and fire requirements. In many cases, you will reinforce or partially rebuild the garage, not just “finish it out.” \n\nFor many homeowners, garage conversion gives the best value because you’re reusing the footprint and some structure, which can shorten timelines and reduce concrete and framing costs.\n\nKey factors:\n- Condition of the slab, framing, and roof\n- Setbacks and distance from the main home and property lines\n- Parking replacement requirements in your jurisdiction\n- Height limits if you want to add a second story later\n\nStart with a structural and zoning review to confirm the garage is worth converting. A good ADU contractor can show you when conversion is smart—and when you’re better off demolishing and building a new, code-compliant ADU on the same footprint.",
+        "@type": "Answer",
+        "description": "You can usually convert a detached garage into an ADU, and it’s often cheaper than a brand-new structure because you reuse the footprint and some framing. However, the garage must meet structural and setback rules, and many need significant reinforcement or partial rebuilding."
+      }
+    }
+  ],
+  "description": "You can usually convert a detached garage into an ADU, and it’s often cheaper than a brand-new structure because you reuse the footprint and some framing. Howev"
+}
