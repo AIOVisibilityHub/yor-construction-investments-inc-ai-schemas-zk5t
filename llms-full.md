@@ -15,14 +15,6 @@ Package contents:
 - 41 helpArticles
 - 1 organization
 
-## Cross-Destination Index — Related AI Data Sources
-- [canonical] YOR Construction & Investments, Inc. — canonical website — yorconstruction.com
-- [ai-data-hub] YOR Construction & Investments, Inc. — AI Data Hub — https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/ai-data.html
-- [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-zk5t
-- [mirror-pages] GitHub — AI Data Hub mirror — https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/ai-data.html
-
-Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
-
 Services offered:
 - Additions
 - Bathroom Remodeling
@@ -572,8 +564,208 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/faqs/will-building-an-adu-increase-my-property-taxes-a-lot-in-los-angeles-county.json — schema
 - https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/faqs/will-seismic-retrofitting-lower-my-earthquake-insurance-premium-or-make-it-easie.json — schema
 
-### Q&A (2)
+### Q&A (202)
 - https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna.md — Q&A (markdown)
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-how-can-a-home-addition-in-los-angeles-county-be-planned-to-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-how-can-homeowners-in-los-angeles-county-design-a-home-addit.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-how-can-homeowners-in-los-angeles-county-phase-a-multi-room-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-how-can-homeowners-plan-a-home-addition-in-los-angeles-count.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-how-do-hillside-and-sloped-lots-in-los-angeles-county-change.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-how-do-los-angeles-county-building-codes-handle-fire-separat.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-how-do-los-angeles-county-energy-and-title-24-requirements-a.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-how-do-los-angeles-county-inspectors-typically-sequence-insp.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-how-do-los-angeles-county-permit-requirements-differ-for-a-h.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-how-do-los-angeles-county-zoning-rules-change-what-size-home.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-how-do-noise-work-hour-limits-and-neighbor-notifications-typ.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-how-do-property-line-setbacks-and-easements-in-los-angeles-c.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-how-much-does-a-second-story-addition-cost-in-los-angeles-co.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-what-are-the-main-differences-between-a-traditional-room-add.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-what-are-the-main-risks-of-starting-construction-on-a-home-a.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-what-financing-options-do-homeowners-in-los-angeles-county-c.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-what-happens-to-property-taxes-in-los-angeles-county-when-a-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-what-hidden-costs-commonly-surprise-homeowners-during-a-home.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-what-is-the-cost-difference-between-a-basic-bedroom-addition.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-what-is-the-realistic-total-timeline-for-a-typical-400-600-s.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-what-should-homeowners-in-los-angeles-county-know-about-conn.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-what-should-homeowners-in-los-angeles-county-look-for-in-a-c.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/additions-what-should-los-angeles-county-homeowners-consider-when-deci.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-for-small-or-irregular-los-angeles-county-lots-what-adu-layo.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-how-can-los-angeles-county-homeowners-prioritize-features-an.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-how-can-los-angeles-county-homeowners-realistically-estimate.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-how-do-environmental-or-energy-related-requirements-such-as-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-how-do-existing-code-violations-or-unpermitted-work-on-a-los.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-how-do-hoas-and-cc-rs-interact-with-adu-rights-in-los-angele.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-how-do-los-angeles-county-occupancy-limits-parking-rules-and.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-how-do-utility-connection-and-upgrade-requirements-for-adus-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-how-does-adding-an-adu-in-los-angeles-county-affect-future-r.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-how-does-adu-construction-differ-between-incorporated-cities.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-how-does-building-an-adu-in-los-angeles-county-impact-proper.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-how-should-homeowners-in-los-angeles-county-phase-adu-constr.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-what-adu-design-and-construction-rules-in-los-angeles-county.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-what-are-realistic-per-square-foot-cost-ranges-for-different.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-what-are-the-hidden-adu-construction-costs-specific-to-los-a.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-what-are-the-key-differences-between-site-built-prefab-and-m.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-what-are-the-most-common-reasons-adu-permit-applications-are.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-what-are-the-most-overlooked-permitting-and-construction-ste.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-what-are-the-pros-and-cons-of-garage-conversion-adus-versus-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-what-financing-options-and-grant-or-rebate-programs-are-real.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-what-should-los-angeles-county-homeowners-expect-during-adu-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-what-should-los-angeles-county-homeowners-know-about-noise-c.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-what-special-considerations-apply-when-designing-an-adu-in-l.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/adu-construction-what-specific-construction-or-design-mistakes-in-los-angeles.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-how-can-i-future-proof-a-los-angeles-bathroom-remodel-to-app.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-how-can-i-remodel-a-small-los-angeles-bathroom-to-meet-acces.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-how-do-i-prioritize-upgrades-in-a-los-angeles-bathroom-remod.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-how-do-los-angeles-climate-and-air-quality-concerns-influenc.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-how-do-los-angeles-county-building-codes-affect-the-design-o.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-how-do-los-angeles-county-water-restrictions-and-drought-reg.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-how-do-seismic-and-structural-considerations-in-los-angeles-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-how-does-bathroom-remodeling-affect-home-value-specifically-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-how-does-bathroom-remodeling-in-los-angeles-county-differ-by.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-how-does-hiring-a-design-build-bathroom-remodeling-firm-in-l.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-how-long-does-a-typical-permitted-bathroom-remodel-take-in-l.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-how-should-i-deal-with-mold-or-moisture-damage-discovered-du.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-how-should-i-phase-bathroom-remodels-if-i-have-only-one-full.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-what-are-common-inspection-failures-specific-to-bathroom-rem.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-what-are-common-mistakes-los-angeles-homeowners-make-when-ch.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-what-are-realistic-ways-to-reduce-the-cost-of-a-bathroom-rem.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-what-design-choices-help-a-los-angeles-bathroom-stay-cooler-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-what-energy-efficiency-upgrades-are-most-impactful-in-a-los-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-what-extra-considerations-apply-when-remodeling-a-bathroom-i.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-what-hidden-cost-factors-are-unique-to-bathroom-remodeling-i.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-what-is-the-realistic-cost-range-for-a-mid-level-bathroom-re.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-what-permits-are-really-required-for-a-small-bathroom-remode.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-what-should-i-look-for-in-a-bathroom-remodeling-contract-in-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-what-should-los-angeles-homeowners-know-about-lead-times-for.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/bathroom-remodeling-what-special-challenges-occur-when-remodeling-a-very-small-5.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-can-a-driveway-contractor-add-drainage-channels-to-an-existi.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-can-a-driveway-contractor-fix-a-sloped-driveway-that-drains-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-can-a-driveway-contractor-pour-new-concrete-over-an-old-driv.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-can-a-driveway-contractor-widen-my-driveway-in-los-angeles-c.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-can-a-driveway-contractor-work-around-existing-landscaping-t.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-can-i-match-a-new-driveway-section-to-my-existing-driveway-c.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-do-driveway-contractors-in-los-angeles-county-handle-curb-gu.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-do-driveway-contractors-in-los-angeles-county-offer-design-h.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-do-i-need-to-replace-the-whole-driveway-or-can-a-driveway-co.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-how-can-i-tell-if-a-driveway-contractor-is-using-proper-base.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-how-do-i-choose-between-a-local-driveway-contractor-and-a-la.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-how-do-i-compare-two-driveway-contractor-bids-that-use-diffe.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-how-do-i-know-if-a-driveway-contractor-is-licensed-and-insur.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-how-long-does-a-driveway-contractor-permit-take-in-los-angel.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-how-long-does-a-new-concrete-driveway-take-to-install-in-los.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-how-much-slope-is-too-much-for-a-driveway-contractor-to-fix-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-is-asphalt-or-concrete-better-for-a-driveway-replacement-in-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-should-i-seal-my-driveway-after-installation-and-when-should.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-what-causes-a-driveway-to-crack-again-after-repair.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-what-driveway-problems-are-caused-by-tree-roots-and-can-a-co.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-what-driveway-surface-is-best-for-a-steep-hillside-property-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-what-is-the-average-cost-per-square-foot-for-a-driveway-cont.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-what-is-the-best-driveway-option-if-i-want-low-maintenance-i.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-what-is-the-difference-between-driveway-resurfacing-and-driv.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-what-maintenance-does-a-new-driveway-need-in-the-first-year-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-what-questions-should-i-ask-a-driveway-contractor-before-hir.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-what-should-a-driveway-contractor-include-in-a-written-estim.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/driveway-contractor-what-type-of-driveway-material-performs-best-in-los-angeles-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-how-can-i-minimize-neighbor-conflicts-when-a-los-angeles-cou.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-how-can-i-tell-if-a-los-angeles-county-fencing-contractor-re.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-how-can-i-work-with-a-los-angeles-county-fencing-contractor-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-how-do-i-choose-the-right-fencing-contractor-in-los-angeles-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-how-do-i-compare-quotes-from-los-angeles-county-fencing-cont.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-handle-drainag.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-typically-hand.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-typically-pric.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-usually-handle.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-how-early-should-i-book-a-fencing-contractor-in-los-angeles-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-how-should-i-prepare-my-los-angeles-county-property-before-a.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-what-are-the-pros-and-cons-of-hiring-a-los-angeles-county-fe.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-what-extra-considerations-should-i-discuss-with-a-fencing-co.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-what-extra-work-do-los-angeles-county-fencing-contractors-ne.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-what-fence-materials-do-los-angeles-county-contractors-recom.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-what-questions-should-i-ask-a-los-angeles-county-fencing-con.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-what-should-be-in-a-contract-with-a-fencing-contractor-in-lo.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-what-should-i-ask-a-fencing-contractor-in-los-angeles-county.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-what-should-i-ask-a-los-angeles-county-fencing-contractor-ab.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-what-should-i-ask-a-los-angeles-county-fencing-contractor-if.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-what-should-i-discuss-with-a-los-angeles-county-fencing-cont.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/fencing-contractor-what-should-i-watch-for-in-los-angeles-county-fencing-contra.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/foundation-repair-contractor-can-i-live-in-the-house-during-foundation-repair.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/foundation-repair-contractor-what-signs-mean-foundation-damage-is-getting-worse.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-can-a-kitchen-remodel-be-done-in-phases-to-spread-out-the-co.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-can-i-change-my-kitchen-remodel-plan-after-work-has-started.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-can-i-live-in-my-house-during-a-kitchen-remodel-in-los-angel.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-do-i-need-a-permit-for-a-kitchen-remodel-in-los-angeles-coun.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-how-can-i-remodel-a-kitchen-in-an-older-los-angeles-county-h.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-how-do-i-avoid-hidden-costs-in-a-kitchen-remodel.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-how-do-i-choose-a-kitchen-remodel-contractor-in-los-angeles-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-how-do-i-compare-bids-for-a-kitchen-remodel-without-choosing.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-how-do-i-know-if-i-should-do-a-partial-kitchen-remodel-or-a-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-how-do-i-know-if-my-kitchen-remodel-needs-structural-changes.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-how-do-i-prepare-my-home-for-a-kitchen-remodel-before-constr.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-how-long-does-a-kitchen-remodel-usually-take-in-los-angeles-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-how-much-does-a-kitchen-remodel-cost-in-los-angeles-county-f.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-how-much-value-does-a-kitchen-remodel-add-to-a-home-in-los-a.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-is-it-better-to-finance-a-kitchen-remodel-or-pay-cash.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-should-i-replace-kitchen-appliances-before-or-after-cabinets.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-what-are-the-best-ways-to-keep-a-kitchen-remodel-on-budget.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-what-are-the-most-common-mistakes-homeowners-make-during-a-k.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-what-happens-if-my-kitchen-remodel-uncovers-water-damage-or-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-what-is-the-difference-between-a-kitchen-renovation-and-a-ki.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-what-is-the-difference-between-custom-cabinets-and-semi-cust.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-what-kitchen-layout-changes-are-most-common-in-los-angeles-c.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-what-kitchen-remodel-upgrades-are-worth-it-in-los-angeles-co.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-what-parts-of-a-kitchen-remodel-add-the-most-cost-in-los-ang.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-what-should-be-included-in-a-kitchen-remodel-quote-from-a-lo.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-what-should-i-ask-before-signing-a-kitchen-remodel-contract.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-what-temporary-kitchen-setup-works-best-during-a-remodel.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/kitchen-remodeling-when-is-the-best-time-of-year-to-start-a-kitchen-remodel-in-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-how-can-i-tell-if-a-paving-contractor-s-online-photos-and-re.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-how-can-i-verify-that-a-los-angeles-county-paving-contractor.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-how-do-i-choose-the-right-type-of-paving-asphalt-concrete-or.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-how-do-i-coordinate-paving-work-in-los-angeles-county-with-o.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-how-do-i-know-if-my-existing-driveway-in-los-angeles-county-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-how-do-i-prepare-my-home-or-business-in-los-angeles-county-b.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-how-do-traffic-loads-from-delivery-trucks-rideshare-activity.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-how-do-tree-roots-and-existing-mature-landscaping-in-los-ang.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-how-does-los-angeles-county-s-climate-and-occasional-heavy-r.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-how-does-los-angeles-county-s-permitting-and-inspection-proc.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-how-much-does-it-typically-cost-per-square-foot-to-pave-in-l.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-how-should-i-plan-phasing-and-temporary-parking-when-repavin.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-what-are-realistic-timelines-for-different-paving-projects-i.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-what-eco-friendly-or-low-impact-paving-options-are-practical.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-what-hidden-costs-should-i-ask-about-when-hiring-a-paving-co.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-what-maintenance-schedule-should-i-follow-for-newly-paved-as.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-what-options-do-i-have-to-improve-the-appearance-of-basic-pa.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-what-should-a-detailed-paving-quote-from-a-los-angeles-count.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-what-should-i-ask-a-los-angeles-county-paving-contractor-abo.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-what-should-i-consider-when-scheduling-paving-work-in-los-an.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-what-should-i-do-if-my-new-driveway-or-parking-lot-in-los-an.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-what-should-property-managers-in-los-angeles-county-include-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/paving-contractor-what-special-considerations-are-there-when-hiring-a-paving-c.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-are-roof-coatings-a-good-option-for-aging-roofs-in-los-angel.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-can-a-roof-be-repaired-during-rain-in-los-angeles-county.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-can-i-repair-a-roof-leak-myself-or-should-i-call-a-contracto.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-do-i-need-a-permit-to-replace-a-roof-in-los-angeles-county.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-how-do-flat-roofs-in-los-angeles-county-fail-differently-fro.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-how-do-i-compare-roofing-contractors-in-los-angeles-county-w.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-how-do-i-know-if-my-los-angeles-county-roof-needs-repair-or-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-how-do-i-know-if-my-roof-has-hidden-damage-after-a-recent-wi.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-how-do-i-tell-if-a-roofing-quote-is-too-low-to-be-real.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-how-long-does-a-roof-replacement-take-in-los-angeles-county.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-how-much-does-a-roof-replacement-cost-in-los-angeles-county-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-how-much-extra-does-a-steep-roof-cost-to-replace-in-los-ange.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-how-often-should-a-roof-be-inspected-in-los-angeles-county.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-is-a-cool-roof-worth-it-in-los-angeles-county.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-what-are-the-most-common-roofing-problems-in-los-angeles-cou.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-what-does-roof-underlayment-do-and-why-does-it-matter-so-muc.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-what-is-the-best-roofing-choice-for-wildfire-prone-areas-in-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-what-makes-roofing-in-los-angeles-county-different-from-roof.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-what-questions-should-i-ask-before-hiring-a-roofer-in-los-an.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-what-roof-material-lasts-longest-in-los-angeles-county-heat-.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-what-roofing-issues-delay-home-sales-in-los-angeles-county.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-what-roofing-maintenance-actually-prevents-leaks-in-los-ange.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-what-roofing-problems-can-be-detected-only-from-the-attic.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-what-should-be-included-in-a-roofing-estimate-in-los-angeles.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qna/roofing-when-is-patching-a-roof-a-waste-of-money-in-los-angeles-coun.json — schema
 - https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qnas.jsonld — Q&A ItemList
 
 ### Help Articles (43)
@@ -724,4 +916,33 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 ### Security & Humans (2)
 - https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/humans.txt — humans.txt
 - https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/security.txt — Security.txt (RFC 9116)
+
+### research-source (27)
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/adu-construction-how-do-adus-affect-property-value-and-appraisal-outcomes-in--58.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/adu-construction-how-do-adus-contribute-to-housing-affordability-and-supply-i-64.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/adu-construction-how-do-adus-interact-with-utilities-and-infrastructure-water-67.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/adu-construction-how-do-los-angeles-county-s-pre-approved-adu-plans-work-and--61.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/adu-construction-how-do-state-and-local-regulations-treat-parking-requirement-63.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/adu-construction-how-does-los-angeles-county-define-an-adu-and-jadu-and-what--55.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/adu-construction-how-extensive-is-adu-development-in-los-angeles-county-and-w-60.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/adu-construction-what-are-common-financing-approaches-for-adu-construction-in-65.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/adu-construction-what-are-the-key-differences-between-a-detached-adu-an-attac-62.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/adu-construction-what-are-the-main-zoning-and-permitting-rules-for-building-a-56.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/adu-construction-what-building-code-and-safety-standards-apply-to-adu-constru-66.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/adu-construction-what-does-it-typically-cost-to-construct-an-adu-in-los-angel-57.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/adu-construction-what-policy-and-market-factors-have-driven-the-rapid-growth--68.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/adu-construction-what-rental-income-can-adus-in-los-angeles-county-typically--59.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/roofing-how-are-advanced-project-management-and-digital-tools-changi-25.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/roofing-how-do-cool-roofs-impact-energy-use-and-code-compliance-for--15.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/roofing-how-do-insurance-considerations-and-weather-risks-influence--23.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/roofing-how-do-los-angeles-county-regulations-handle-reroofing-on-st-17.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/roofing-how-do-sustainability-and-energy-efficiency-goals-influence--19.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/roofing-how-is-smart-technology-being-integrated-into-roofing-system-21.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/roofing-what-are-the-key-considerations-when-selecting-roofing-mater-20.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/roofing-what-are-the-main-maintenance-and-inspection-practices-recom-22.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/roofing-what-building-codes-and-permitting-requirements-govern-reroo-14.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/roofing-what-role-do-aesthetics-and-curb-appeal-play-in-roofing-choi-24.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/roofing-what-roofing-materials-are-most-commonly-used-in-the-los-ang-18.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/roofing-what-should-owners-in-los-angeles-know-about-integrating-gre-26.json — schema
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/research-source/roofing-what-wildfire-and-fire-rating-considerations-apply-to-reside-16.json — schema
 

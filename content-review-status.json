@@ -1,6 +1,6 @@
 {
   "entity": "YOR Construction & Investments, Inc.",
-  "generatedAt": "2026-06-11T20:54:15.556Z",
+  "generatedAt": "2026-06-11T21:17:54.577Z",
   "workflow": "research → review → approval → public",
   "notes": "Research and Q&A items require explicit approval before publishing. Non-research entity files (services, locations, attorneys, FAQs) are produced from supplied entity data.",
   "files": [
@@ -3680,6 +3680,1606 @@
       "reviewedBy": null
     },
     {
+      "path": "qna/additions-how-do-los-angeles-county-zoning-rules-change-what-size-home.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:03.945+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-what-is-the-realistic-total-timeline-for-a-typical-400-600-s.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:04.046+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-how-much-does-a-second-story-addition-cost-in-los-angeles-co.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:04.144+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-how-do-los-angeles-county-permit-requirements-differ-for-a-h.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:04.259+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-what-hidden-costs-commonly-surprise-homeowners-during-a-home.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:04.358+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-how-do-los-angeles-county-inspectors-typically-sequence-insp.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:04.455+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-what-is-the-cost-difference-between-a-basic-bedroom-addition.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:04.551+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-how-do-los-angeles-county-energy-and-title-24-requirements-a.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:04.647+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-what-are-the-main-risks-of-starting-construction-on-a-home-a.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:04.744+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-how-do-hillside-and-sloped-lots-in-los-angeles-county-change.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:04.848+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-what-should-homeowners-in-los-angeles-county-look-for-in-a-c.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:04.945+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-how-can-homeowners-plan-a-home-addition-in-los-angeles-count.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:05.045+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-how-do-property-line-setbacks-and-easements-in-los-angeles-c.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:05.146+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-what-should-homeowners-in-los-angeles-county-know-about-conn.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:05.352+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-how-can-a-home-addition-in-los-angeles-county-be-planned-to-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:05.453+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-what-are-the-main-differences-between-a-traditional-room-add.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:05.554+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-how-do-noise-work-hour-limits-and-neighbor-notifications-typ.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:05.654+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-what-financing-options-do-homeowners-in-los-angeles-county-c.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:05.754+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-how-can-homeowners-in-los-angeles-county-phase-a-multi-room-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:05.854+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-what-should-los-angeles-county-homeowners-consider-when-deci.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:06.168+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-how-do-los-angeles-county-building-codes-handle-fire-separat.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:06.572+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-what-happens-to-property-taxes-in-los-angeles-county-when-a-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:06.67+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/additions-how-can-homeowners-in-los-angeles-county-design-a-home-addit.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:06.779+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-how-does-bathroom-remodeling-in-los-angeles-county-differ-by.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:06.881+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-what-hidden-cost-factors-are-unique-to-bathroom-remodeling-i.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:07.036+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-how-do-los-angeles-county-water-restrictions-and-drought-reg.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:07.142+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-what-permits-are-really-required-for-a-small-bathroom-remode.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:07.243+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-how-long-does-a-typical-permitted-bathroom-remodel-take-in-l.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:05.956+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-what-is-the-realistic-cost-range-for-a-mid-level-bathroom-re.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:07.357+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-how-can-i-remodel-a-small-los-angeles-bathroom-to-meet-acces.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:07.456+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-how-do-los-angeles-county-building-codes-affect-the-design-o.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:07.558+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-what-are-common-inspection-failures-specific-to-bathroom-rem.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:07.656+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-how-should-i-phase-bathroom-remodels-if-i-have-only-one-full.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:07.757+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-what-extra-considerations-apply-when-remodeling-a-bathroom-i.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:07.863+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-how-can-i-future-proof-a-los-angeles-bathroom-remodel-to-app.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:07.966+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-what-are-realistic-ways-to-reduce-the-cost-of-a-bathroom-rem.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:08.066+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-how-do-seismic-and-structural-considerations-in-los-angeles-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:08.269+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-what-should-i-look-for-in-a-bathroom-remodeling-contract-in-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:08.373+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-how-does-bathroom-remodeling-affect-home-value-specifically-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:08.475+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-what-special-challenges-occur-when-remodeling-a-very-small-5.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:08.578+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-how-should-i-deal-with-mold-or-moisture-damage-discovered-du.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:08.684+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-what-design-choices-help-a-los-angeles-bathroom-stay-cooler-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:08.786+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-how-does-hiring-a-design-build-bathroom-remodeling-firm-in-l.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:08.906+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-what-should-los-angeles-homeowners-know-about-lead-times-for.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:09.004+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-how-do-i-prioritize-upgrades-in-a-los-angeles-bathroom-remod.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:09.102+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-what-energy-efficiency-upgrades-are-most-impactful-in-a-los-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:09.201+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-what-are-common-mistakes-los-angeles-homeowners-make-when-ch.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:09.299+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/bathroom-remodeling-how-do-los-angeles-climate-and-air-quality-concerns-influenc.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:09.401+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-how-much-does-a-kitchen-remodel-cost-in-los-angeles-county-f.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:05.248+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-how-long-does-a-kitchen-remodel-usually-take-in-los-angeles-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:06.471+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-do-i-need-a-permit-for-a-kitchen-remodel-in-los-angeles-coun.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:09.504+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-what-parts-of-a-kitchen-remodel-add-the-most-cost-in-los-ang.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:09.604+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-how-do-i-know-if-i-should-do-a-partial-kitchen-remodel-or-a-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:09.707+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-can-i-live-in-my-house-during-a-kitchen-remodel-in-los-angel.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:09.812+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-what-should-be-included-in-a-kitchen-remodel-quote-from-a-lo.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:09.917+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-how-do-i-avoid-hidden-costs-in-a-kitchen-remodel.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:10.024+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-what-kitchen-layout-changes-are-most-common-in-los-angeles-c.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:10.128+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-how-much-value-does-a-kitchen-remodel-add-to-a-home-in-los-a.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:10.236+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-what-is-the-difference-between-custom-cabinets-and-semi-cust.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:10.342+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-what-are-the-most-common-mistakes-homeowners-make-during-a-k.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:10.447+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-should-i-replace-kitchen-appliances-before-or-after-cabinets.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:10.546+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-how-do-i-choose-a-kitchen-remodel-contractor-in-los-angeles-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:10.646+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-what-should-i-ask-before-signing-a-kitchen-remodel-contract.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:10.747+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-how-can-i-remodel-a-kitchen-in-an-older-los-angeles-county-h.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:10.851+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-is-it-better-to-finance-a-kitchen-remodel-or-pay-cash.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:10.95+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-can-a-kitchen-remodel-be-done-in-phases-to-spread-out-the-co.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:11.045+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-what-kitchen-remodel-upgrades-are-worth-it-in-los-angeles-co.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:11.142+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-how-do-i-prepare-my-home-for-a-kitchen-remodel-before-constr.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:11.242+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-what-is-the-difference-between-a-kitchen-renovation-and-a-ki.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:06.06+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-what-happens-if-my-kitchen-remodel-uncovers-water-damage-or-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:11.336+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-how-do-i-compare-bids-for-a-kitchen-remodel-without-choosing.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:11.429+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-can-i-change-my-kitchen-remodel-plan-after-work-has-started.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:11.524+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-what-temporary-kitchen-setup-works-best-during-a-remodel.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:11.626+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-how-do-i-know-if-my-kitchen-remodel-needs-structural-changes.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:11.727+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-what-are-the-best-ways-to-keep-a-kitchen-remodel-on-budget.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:11.824+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/kitchen-remodeling-when-is-the-best-time-of-year-to-start-a-kitchen-remodel-in-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:11.93+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-how-do-i-know-if-my-los-angeles-county-roof-needs-repair-or-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:12.036+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-what-roof-material-lasts-longest-in-los-angeles-county-heat-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:12.137+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-how-much-does-a-roof-replacement-cost-in-los-angeles-county-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:12.24+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-do-i-need-a-permit-to-replace-a-roof-in-los-angeles-county.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:12.343+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-how-long-does-a-roof-replacement-take-in-los-angeles-county.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:12.45+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-what-are-the-most-common-roofing-problems-in-los-angeles-cou.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:12.555+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-is-a-cool-roof-worth-it-in-los-angeles-county.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:12.655+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-can-i-repair-a-roof-leak-myself-or-should-i-call-a-contracto.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:12.757+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-what-should-be-included-in-a-roofing-estimate-in-los-angeles.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:12.859+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-how-do-i-compare-roofing-contractors-in-los-angeles-county-w.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:12.957+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-what-roofing-problems-can-be-detected-only-from-the-attic.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:13.057+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-how-often-should-a-roof-be-inspected-in-los-angeles-county.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:13.155+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-what-is-the-best-roofing-choice-for-wildfire-prone-areas-in-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:13.255+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-how-do-flat-roofs-in-los-angeles-county-fail-differently-fro.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:13.363+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-can-a-roof-be-repaired-during-rain-in-los-angeles-county.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:13.463+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-what-does-roof-underlayment-do-and-why-does-it-matter-so-muc.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:13.565+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-how-do-i-know-if-my-roof-has-hidden-damage-after-a-recent-wi.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:13.673+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-what-roofing-maintenance-actually-prevents-leaks-in-los-ange.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:13.775+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-are-roof-coatings-a-good-option-for-aging-roofs-in-los-angel.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:13.877+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-what-questions-should-i-ask-before-hiring-a-roofer-in-los-an.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:13.978+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-how-do-i-tell-if-a-roofing-quote-is-too-low-to-be-real.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:14.077+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-what-roofing-issues-delay-home-sales-in-los-angeles-county.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:14.175+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-how-much-extra-does-a-steep-roof-cost-to-replace-in-los-ange.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:14.28+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-when-is-patching-a-roof-a-waste-of-money-in-los-angeles-coun.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:14.383+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/roofing-what-makes-roofing-in-los-angeles-county-different-from-roof.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:14.588+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-how-does-adu-construction-differ-between-incorporated-cities.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:19.881+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-what-are-the-hidden-adu-construction-costs-specific-to-los-a.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:19.976+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-how-do-existing-code-violations-or-unpermitted-work-on-a-los.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:20.075+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-what-adu-design-and-construction-rules-in-los-angeles-county.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:20.171+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-how-does-adding-an-adu-in-los-angeles-county-affect-future-r.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:20.271+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-what-are-the-most-common-reasons-adu-permit-applications-are.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:20.371+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-how-can-los-angeles-county-homeowners-realistically-estimate.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:20.477+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-what-are-the-pros-and-cons-of-garage-conversion-adus-versus-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:20.579+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-how-do-utility-connection-and-upgrade-requirements-for-adus-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:20.678+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-what-specific-construction-or-design-mistakes-in-los-angeles.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:20.777+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-how-does-building-an-adu-in-los-angeles-county-impact-proper.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:20.874+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-what-financing-options-and-grant-or-rebate-programs-are-real.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:20.971+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-how-do-los-angeles-county-occupancy-limits-parking-rules-and.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:21.07+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-what-special-considerations-apply-when-designing-an-adu-in-l.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:21.167+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-how-do-hoas-and-cc-rs-interact-with-adu-rights-in-los-angele.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:21.296+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-what-are-the-key-differences-between-site-built-prefab-and-m.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:21.396+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-for-small-or-irregular-los-angeles-county-lots-what-adu-layo.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:21.497+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-how-should-homeowners-in-los-angeles-county-phase-adu-constr.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:21.697+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-what-should-los-angeles-county-homeowners-know-about-noise-c.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:21.802+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-what-are-the-most-overlooked-permitting-and-construction-ste.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:21.898+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-how-can-los-angeles-county-homeowners-prioritize-features-an.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:21.993+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-what-should-los-angeles-county-homeowners-expect-during-adu-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:22.091+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-how-do-environmental-or-energy-related-requirements-such-as-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:22.186+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/adu-construction-what-are-realistic-per-square-foot-cost-ranges-for-different.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:04:22.375+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-how-do-i-choose-the-right-type-of-paving-asphalt-concrete-or.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:20.063+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-what-should-a-detailed-paving-quote-from-a-los-angeles-count.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:20.154+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-how-does-los-angeles-county-s-permitting-and-inspection-proc.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:20.247+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-what-maintenance-schedule-should-i-follow-for-newly-paved-as.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:20.337+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-how-do-i-know-if-my-existing-driveway-in-los-angeles-county-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:20.429+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-how-does-los-angeles-county-s-climate-and-occasional-heavy-r.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:20.529+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-what-special-considerations-are-there-when-hiring-a-paving-c.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:20.629+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-how-can-i-verify-that-a-los-angeles-county-paving-contractor.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:20.729+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-what-should-i-ask-a-los-angeles-county-paving-contractor-abo.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:20.823+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-how-do-traffic-loads-from-delivery-trucks-rideshare-activity.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:20.92+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-what-are-realistic-timelines-for-different-paving-projects-i.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:21.014+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-how-much-does-it-typically-cost-per-square-foot-to-pave-in-l.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:21.103+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-what-should-i-consider-when-scheduling-paving-work-in-los-an.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:21.289+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-how-can-i-tell-if-a-paving-contractor-s-online-photos-and-re.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:21.38+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-what-should-i-do-if-my-new-driveway-or-parking-lot-in-los-an.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:21.473+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-how-do-i-coordinate-paving-work-in-los-angeles-county-with-o.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:21.564+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-what-options-do-i-have-to-improve-the-appearance-of-basic-pa.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:21.749+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-how-do-tree-roots-and-existing-mature-landscaping-in-los-ang.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:21.845+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-what-should-property-managers-in-los-angeles-county-include-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:21.947+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-what-hidden-costs-should-i-ask-about-when-hiring-a-paving-co.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:22.037+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-how-do-i-prepare-my-home-or-business-in-los-angeles-county-b.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:22.219+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-what-eco-friendly-or-low-impact-paving-options-are-practical.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:22.315+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/paving-contractor-how-should-i-plan-phasing-and-temporary-parking-when-repavin.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:22.414+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/foundation-repair-contractor-what-signs-mean-foundation-damage-is-getting-worse.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:23.114+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/foundation-repair-contractor-can-i-live-in-the-house-during-foundation-repair.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:23.914+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-how-do-i-choose-the-right-fencing-contractor-in-los-angeles-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:26.777+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-what-should-be-in-a-contract-with-a-fencing-contractor-in-lo.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:26.879+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-how-can-i-tell-if-a-los-angeles-county-fencing-contractor-re.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:26.995+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-what-should-i-ask-a-fencing-contractor-in-los-angeles-county.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:27.15+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-how-do-i-compare-quotes-from-los-angeles-county-fencing-cont.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:27.255+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-what-should-i-watch-for-in-los-angeles-county-fencing-contra.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:27.357+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-how-early-should-i-book-a-fencing-contractor-in-los-angeles-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:27.457+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-what-extra-work-do-los-angeles-county-fencing-contractors-ne.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:27.558+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-how-should-i-prepare-my-los-angeles-county-property-before-a.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:27.653+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-what-are-the-pros-and-cons-of-hiring-a-los-angeles-county-fe.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:27.75+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-handle-drainag.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:27.939+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-what-questions-should-i-ask-a-los-angeles-county-fencing-con.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:28.041+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-typically-hand.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:28.136+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-what-fence-materials-do-los-angeles-county-contractors-recom.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:28.232+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-how-can-i-work-with-a-los-angeles-county-fencing-contractor-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:28.428+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-what-should-i-ask-a-los-angeles-county-fencing-contractor-ab.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:28.542+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-typically-pric.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:28.663+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-what-should-i-ask-a-los-angeles-county-fencing-contractor-if.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:28.762+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-how-can-i-minimize-neighbor-conflicts-when-a-los-angeles-cou.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:28.862+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-what-extra-considerations-should-i-discuss-with-a-fencing-co.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:28.96+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-usually-handle.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:29.061+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/fencing-contractor-what-should-i-discuss-with-a-los-angeles-county-fencing-cont.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:29.166+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-how-long-does-a-driveway-contractor-permit-take-in-los-angel.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:29.27+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-what-is-the-average-cost-per-square-foot-for-a-driveway-cont.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:29.374+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-do-i-need-to-replace-the-whole-driveway-or-can-a-driveway-co.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:28.329+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-what-type-of-driveway-material-performs-best-in-los-angeles-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:29.474+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-how-do-i-know-if-a-driveway-contractor-is-licensed-and-insur.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:29.576+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-can-a-driveway-contractor-widen-my-driveway-in-los-angeles-c.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:29.675+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-how-long-does-a-new-concrete-driveway-take-to-install-in-los.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:29.783+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-what-should-a-driveway-contractor-include-in-a-written-estim.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:29.884+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-can-a-driveway-contractor-fix-a-sloped-driveway-that-drains-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:29.981+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-what-is-the-difference-between-driveway-resurfacing-and-driv.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:30.084+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-can-i-match-a-new-driveway-section-to-my-existing-driveway-c.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:30.221+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-what-causes-a-driveway-to-crack-again-after-repair.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:30.318+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-do-driveway-contractors-in-los-angeles-county-handle-curb-gu.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:30.419+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-what-driveway-surface-is-best-for-a-steep-hillside-property-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:30.52+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-how-much-slope-is-too-much-for-a-driveway-contractor-to-fix-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:30.62+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-should-i-seal-my-driveway-after-installation-and-when-should.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:30.725+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-what-questions-should-i-ask-a-driveway-contractor-before-hir.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:30.831+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-can-a-driveway-contractor-work-around-existing-landscaping-t.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:30.928+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-what-is-the-best-driveway-option-if-i-want-low-maintenance-i.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:31.028+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-how-do-i-compare-two-driveway-contractor-bids-that-use-diffe.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:31.133+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-can-a-driveway-contractor-pour-new-concrete-over-an-old-driv.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:31.233+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-what-driveway-problems-are-caused-by-tree-roots-and-can-a-co.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:31.325+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-is-asphalt-or-concrete-better-for-a-driveway-replacement-in-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:31.42+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-how-can-i-tell-if-a-driveway-contractor-is-using-proper-base.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:31.516+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-can-a-driveway-contractor-add-drainage-channels-to-an-existi.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:31.613+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-what-maintenance-does-a-new-driveway-need-in-the-first-year-.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:31.712+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-do-driveway-contractors-in-los-angeles-county-offer-design-h.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:31.809+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "qna/driveway-contractor-how-do-i-choose-between-a-local-driveway-contractor-and-a-la.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:31.906+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
       "path": "help/rethinking-your-garage-can-it-be-more-than-just-storage.json",
       "status": "entity-data",
       "visibility": "published",
@@ -3699,6 +5299,222 @@
       "visibility": "published",
       "reviewedAt": null,
       "reviewedBy": null
+    },
+    {
+      "path": "research-source/roofing-what-building-codes-and-permitting-requirements-govern-reroo-14.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:02:56.68+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/roofing-how-do-cool-roofs-impact-energy-use-and-code-compliance-for--15.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:02:56.781+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/roofing-what-wildfire-and-fire-rating-considerations-apply-to-reside-16.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:02:56.999+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/roofing-how-do-los-angeles-county-regulations-handle-reroofing-on-st-17.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:02:57.157+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/roofing-what-roofing-materials-are-most-commonly-used-in-the-los-ang-18.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:02:57.255+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/roofing-how-do-sustainability-and-energy-efficiency-goals-influence--19.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:02:57.348+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/roofing-what-are-the-key-considerations-when-selecting-roofing-mater-20.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:02:57.44+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/roofing-how-is-smart-technology-being-integrated-into-roofing-system-21.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:02:57.532+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/roofing-what-are-the-main-maintenance-and-inspection-practices-recom-22.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:02:57.646+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/roofing-how-do-insurance-considerations-and-weather-risks-influence--23.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:02:57.747+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/roofing-what-role-do-aesthetics-and-curb-appeal-play-in-roofing-choi-24.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:02:57.847+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/roofing-how-are-advanced-project-management-and-digital-tools-changi-25.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:02:57.947+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/roofing-what-should-owners-in-los-angeles-know-about-integrating-gre-26.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:02:58.048+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/adu-construction-how-does-los-angeles-county-define-an-adu-and-jadu-and-what--55.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:01.123+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/adu-construction-what-are-the-main-zoning-and-permitting-rules-for-building-a-56.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:01.215+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/adu-construction-what-does-it-typically-cost-to-construct-an-adu-in-los-angel-57.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:01.313+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/adu-construction-how-do-adus-affect-property-value-and-appraisal-outcomes-in--58.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:01.403+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/adu-construction-what-rental-income-can-adus-in-los-angeles-county-typically--59.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:01.507+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/adu-construction-how-extensive-is-adu-development-in-los-angeles-county-and-w-60.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:01.615+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/adu-construction-how-do-los-angeles-county-s-pre-approved-adu-plans-work-and--61.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:01.713+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/adu-construction-what-are-the-key-differences-between-a-detached-adu-an-attac-62.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:01.814+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/adu-construction-how-do-state-and-local-regulations-treat-parking-requirement-63.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:01.919+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/adu-construction-how-do-adus-contribute-to-housing-affordability-and-supply-i-64.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:02.013+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/adu-construction-what-are-common-financing-approaches-for-adu-construction-in-65.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:02.103+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/adu-construction-what-building-code-and-safety-standards-apply-to-adu-constru-66.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:02.196+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/adu-construction-how-do-adus-interact-with-utilities-and-infrastructure-water-67.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:02.289+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
+    },
+    {
+      "path": "research-source/adu-construction-what-policy-and-market-factors-have-driven-the-rapid-growth--68.json",
+      "status": "approved",
+      "visibility": "approved",
+      "reviewedAt": "2026-06-11T21:03:02.385+00:00",
+      "reviewedBy": "7b18a4e6-44c7-4229-8dcf-b64824e60f3f",
+      "sourceOrigin": "perplexity"
     },
     {
       "path": "index.html",
