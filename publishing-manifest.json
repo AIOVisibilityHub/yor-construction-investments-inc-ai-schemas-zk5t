@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-06-11T23:06:57.205Z",
+  "generatedAt": "2026-06-11T23:07:18.045Z",
   "client": {
     "name": "YOR Construction & Investments, Inc.",
     "canonicalUrl": "yorconstruction.com",
@@ -143,7 +143,7 @@
   },
   "package": {
     "totalFiles": 892,
-    "totalBytes": 13616029,
+    "totalBytes": 13571755,
     "stats": {
       "qna": 734,
       "faqs": 431,
@@ -2866,1007 +2866,1007 @@
     "qna": [
       {
         "path": "qna/additions-how-do-los-angeles-county-zoning-rules-change-what-size-home.json",
-        "bytes": 3997,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-what-is-the-realistic-total-timeline-for-a-typical-400-600-s.json",
-        "bytes": 4109,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-how-much-does-a-second-story-addition-cost-in-los-angeles-co.json",
-        "bytes": 4170,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-how-do-los-angeles-county-permit-requirements-differ-for-a-h.json",
-        "bytes": 4281,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-what-hidden-costs-commonly-surprise-homeowners-during-a-home.json",
-        "bytes": 4201,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-how-do-los-angeles-county-inspectors-typically-sequence-insp.json",
-        "bytes": 4338,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-what-is-the-cost-difference-between-a-basic-bedroom-addition.json",
-        "bytes": 4150,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-how-do-los-angeles-county-energy-and-title-24-requirements-a.json",
-        "bytes": 4120,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-what-are-the-main-risks-of-starting-construction-on-a-home-a.json",
-        "bytes": 3989,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-how-do-hillside-and-sloped-lots-in-los-angeles-county-change.json",
-        "bytes": 4003,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-what-should-homeowners-in-los-angeles-county-look-for-in-a-c.json",
-        "bytes": 4024,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-how-can-homeowners-plan-a-home-addition-in-los-angeles-count.json",
-        "bytes": 4102,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-how-do-property-line-setbacks-and-easements-in-los-angeles-c.json",
-        "bytes": 3979,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-what-should-homeowners-in-los-angeles-county-know-about-conn.json",
-        "bytes": 3931,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-how-can-a-home-addition-in-los-angeles-county-be-planned-to-.json",
-        "bytes": 3896,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-what-are-the-main-differences-between-a-traditional-room-add.json",
-        "bytes": 4181,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-how-do-noise-work-hour-limits-and-neighbor-notifications-typ.json",
-        "bytes": 3950,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-what-financing-options-do-homeowners-in-los-angeles-county-c.json",
-        "bytes": 4055,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-how-can-homeowners-in-los-angeles-county-phase-a-multi-room-.json",
-        "bytes": 3922,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-what-should-los-angeles-county-homeowners-consider-when-deci.json",
-        "bytes": 4178,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-how-do-los-angeles-county-building-codes-handle-fire-separat.json",
-        "bytes": 4130,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-what-happens-to-property-taxes-in-los-angeles-county-when-a-.json",
-        "bytes": 3841,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/additions-how-can-homeowners-in-los-angeles-county-design-a-home-addit.json",
-        "bytes": 4066,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/bathroom-remodeling-how-does-bathroom-remodeling-in-los-angeles-county-differ-by.json",
-        "bytes": 4095,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/bathroom-remodeling-what-hidden-cost-factors-are-unique-to-bathroom-remodeling-i.json",
-        "bytes": 3937,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/bathroom-remodeling-how-do-los-angeles-county-water-restrictions-and-drought-reg.json",
-        "bytes": 3924,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/bathroom-remodeling-what-permits-are-really-required-for-a-small-bathroom-remode.json",
-        "bytes": 3942,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/bathroom-remodeling-how-long-does-a-typical-permitted-bathroom-remodel-take-in-l.json",
-        "bytes": 3861,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/bathroom-remodeling-what-is-the-realistic-cost-range-for-a-mid-level-bathroom-re.json",
-        "bytes": 4001,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/bathroom-remodeling-how-can-i-remodel-a-small-los-angeles-bathroom-to-meet-acces.json",
-        "bytes": 4017,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/bathroom-remodeling-how-do-los-angeles-county-building-codes-affect-the-design-o.json",
-        "bytes": 3986,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/bathroom-remodeling-what-are-common-inspection-failures-specific-to-bathroom-rem.json",
-        "bytes": 3811,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/bathroom-remodeling-how-should-i-phase-bathroom-remodels-if-i-have-only-one-full.json",
-        "bytes": 3851,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/bathroom-remodeling-what-extra-considerations-apply-when-remodeling-a-bathroom-i.json",
-        "bytes": 3900,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/bathroom-remodeling-how-can-i-future-proof-a-los-angeles-bathroom-remodel-to-app.json",
-        "bytes": 3731,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/bathroom-remodeling-what-are-realistic-ways-to-reduce-the-cost-of-a-bathroom-rem.json",
         "bytes": 3934,
         "purpose": "schema"
       },
       {
-        "path": "qna/bathroom-remodeling-how-do-seismic-and-structural-considerations-in-los-angeles-.json",
-        "bytes": 3968,
+        "path": "qna/additions-what-is-the-realistic-total-timeline-for-a-typical-400-600-s.json",
+        "bytes": 4046,
         "purpose": "schema"
       },
       {
-        "path": "qna/bathroom-remodeling-what-should-i-look-for-in-a-bathroom-remodeling-contract-in-.json",
-        "bytes": 3987,
+        "path": "qna/additions-how-much-does-a-second-story-addition-cost-in-los-angeles-co.json",
+        "bytes": 4107,
         "purpose": "schema"
       },
       {
-        "path": "qna/bathroom-remodeling-how-does-bathroom-remodeling-affect-home-value-specifically-.json",
-        "bytes": 3798,
+        "path": "qna/additions-how-do-los-angeles-county-permit-requirements-differ-for-a-h.json",
+        "bytes": 4218,
         "purpose": "schema"
       },
       {
-        "path": "qna/bathroom-remodeling-what-special-challenges-occur-when-remodeling-a-very-small-5.json",
-        "bytes": 3706,
+        "path": "qna/additions-what-hidden-costs-commonly-surprise-homeowners-during-a-home.json",
+        "bytes": 4138,
         "purpose": "schema"
       },
       {
-        "path": "qna/bathroom-remodeling-how-should-i-deal-with-mold-or-moisture-damage-discovered-du.json",
-        "bytes": 3846,
+        "path": "qna/additions-how-do-los-angeles-county-inspectors-typically-sequence-insp.json",
+        "bytes": 4275,
         "purpose": "schema"
       },
       {
-        "path": "qna/bathroom-remodeling-what-design-choices-help-a-los-angeles-bathroom-stay-cooler-.json",
-        "bytes": 3857,
+        "path": "qna/additions-what-is-the-cost-difference-between-a-basic-bedroom-addition.json",
+        "bytes": 4087,
         "purpose": "schema"
       },
       {
-        "path": "qna/bathroom-remodeling-how-does-hiring-a-design-build-bathroom-remodeling-firm-in-l.json",
-        "bytes": 3955,
+        "path": "qna/additions-how-do-los-angeles-county-energy-and-title-24-requirements-a.json",
+        "bytes": 4057,
         "purpose": "schema"
       },
       {
-        "path": "qna/bathroom-remodeling-what-should-los-angeles-homeowners-know-about-lead-times-for.json",
-        "bytes": 3649,
+        "path": "qna/additions-what-are-the-main-risks-of-starting-construction-on-a-home-a.json",
+        "bytes": 3926,
         "purpose": "schema"
       },
       {
-        "path": "qna/bathroom-remodeling-how-do-i-prioritize-upgrades-in-a-los-angeles-bathroom-remod.json",
-        "bytes": 3815,
+        "path": "qna/additions-how-do-hillside-and-sloped-lots-in-los-angeles-county-change.json",
+        "bytes": 3940,
         "purpose": "schema"
       },
       {
-        "path": "qna/bathroom-remodeling-what-energy-efficiency-upgrades-are-most-impactful-in-a-los-.json",
-        "bytes": 4143,
+        "path": "qna/additions-what-should-homeowners-in-los-angeles-county-look-for-in-a-c.json",
+        "bytes": 3961,
         "purpose": "schema"
       },
       {
-        "path": "qna/bathroom-remodeling-what-are-common-mistakes-los-angeles-homeowners-make-when-ch.json",
-        "bytes": 3804,
+        "path": "qna/additions-how-can-homeowners-plan-a-home-addition-in-los-angeles-count.json",
+        "bytes": 4039,
         "purpose": "schema"
       },
       {
-        "path": "qna/bathroom-remodeling-how-do-los-angeles-climate-and-air-quality-concerns-influenc.json",
-        "bytes": 3964,
+        "path": "qna/additions-how-do-property-line-setbacks-and-easements-in-los-angeles-c.json",
+        "bytes": 3916,
         "purpose": "schema"
       },
       {
-        "path": "qna/kitchen-remodeling-how-much-does-a-kitchen-remodel-cost-in-los-angeles-county-f.json",
-        "bytes": 3025,
+        "path": "qna/additions-what-should-homeowners-in-los-angeles-county-know-about-conn.json",
+        "bytes": 3868,
         "purpose": "schema"
       },
       {
-        "path": "qna/kitchen-remodeling-how-long-does-a-kitchen-remodel-usually-take-in-los-angeles-.json",
-        "bytes": 2882,
+        "path": "qna/additions-how-can-a-home-addition-in-los-angeles-county-be-planned-to-.json",
+        "bytes": 3833,
         "purpose": "schema"
       },
       {
-        "path": "qna/kitchen-remodeling-do-i-need-a-permit-for-a-kitchen-remodel-in-los-angeles-coun.json",
-        "bytes": 2702,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-what-parts-of-a-kitchen-remodel-add-the-most-cost-in-los-ang.json",
-        "bytes": 2773,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-how-do-i-know-if-i-should-do-a-partial-kitchen-remodel-or-a-.json",
-        "bytes": 2993,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-can-i-live-in-my-house-during-a-kitchen-remodel-in-los-angel.json",
-        "bytes": 2787,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-what-should-be-included-in-a-kitchen-remodel-quote-from-a-lo.json",
-        "bytes": 2903,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-how-do-i-avoid-hidden-costs-in-a-kitchen-remodel.json",
-        "bytes": 2722,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-what-kitchen-layout-changes-are-most-common-in-los-angeles-c.json",
-        "bytes": 2773,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-how-much-value-does-a-kitchen-remodel-add-to-a-home-in-los-a.json",
-        "bytes": 2795,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-what-is-the-difference-between-custom-cabinets-and-semi-cust.json",
-        "bytes": 2905,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-what-are-the-most-common-mistakes-homeowners-make-during-a-k.json",
-        "bytes": 2785,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-should-i-replace-kitchen-appliances-before-or-after-cabinets.json",
-        "bytes": 2720,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-how-do-i-choose-a-kitchen-remodel-contractor-in-los-angeles-.json",
-        "bytes": 2722,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-what-should-i-ask-before-signing-a-kitchen-remodel-contract.json",
-        "bytes": 2736,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-how-can-i-remodel-a-kitchen-in-an-older-los-angeles-county-h.json",
-        "bytes": 2863,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-is-it-better-to-finance-a-kitchen-remodel-or-pay-cash.json",
-        "bytes": 2676,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-can-a-kitchen-remodel-be-done-in-phases-to-spread-out-the-co.json",
-        "bytes": 2676,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-what-kitchen-remodel-upgrades-are-worth-it-in-los-angeles-co.json",
-        "bytes": 2640,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-how-do-i-prepare-my-home-for-a-kitchen-remodel-before-constr.json",
-        "bytes": 2687,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-what-is-the-difference-between-a-kitchen-renovation-and-a-ki.json",
-        "bytes": 2607,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-what-happens-if-my-kitchen-remodel-uncovers-water-damage-or-.json",
-        "bytes": 2671,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-how-do-i-compare-bids-for-a-kitchen-remodel-without-choosing.json",
-        "bytes": 2591,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-can-i-change-my-kitchen-remodel-plan-after-work-has-started.json",
-        "bytes": 2439,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-what-temporary-kitchen-setup-works-best-during-a-remodel.json",
-        "bytes": 2498,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-how-do-i-know-if-my-kitchen-remodel-needs-structural-changes.json",
-        "bytes": 2562,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-what-are-the-best-ways-to-keep-a-kitchen-remodel-on-budget.json",
-        "bytes": 2581,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/kitchen-remodeling-when-is-the-best-time-of-year-to-start-a-kitchen-remodel-in-.json",
-        "bytes": 2588,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-how-do-i-know-if-my-los-angeles-county-roof-needs-repair-or-.json",
-        "bytes": 3026,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-what-roof-material-lasts-longest-in-los-angeles-county-heat-.json",
-        "bytes": 3056,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-how-much-does-a-roof-replacement-cost-in-los-angeles-county-.json",
-        "bytes": 3053,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-do-i-need-a-permit-to-replace-a-roof-in-los-angeles-county.json",
-        "bytes": 2972,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-how-long-does-a-roof-replacement-take-in-los-angeles-county.json",
-        "bytes": 2958,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-what-are-the-most-common-roofing-problems-in-los-angeles-cou.json",
-        "bytes": 2924,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-is-a-cool-roof-worth-it-in-los-angeles-county.json",
-        "bytes": 2850,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-can-i-repair-a-roof-leak-myself-or-should-i-call-a-contracto.json",
-        "bytes": 2808,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-what-should-be-included-in-a-roofing-estimate-in-los-angeles.json",
-        "bytes": 3074,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-how-do-i-compare-roofing-contractors-in-los-angeles-county-w.json",
-        "bytes": 2930,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-what-roofing-problems-can-be-detected-only-from-the-attic.json",
-        "bytes": 2776,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-how-often-should-a-roof-be-inspected-in-los-angeles-county.json",
-        "bytes": 2791,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-what-is-the-best-roofing-choice-for-wildfire-prone-areas-in-.json",
-        "bytes": 3036,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-how-do-flat-roofs-in-los-angeles-county-fail-differently-fro.json",
-        "bytes": 3099,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-can-a-roof-be-repaired-during-rain-in-los-angeles-county.json",
-        "bytes": 2814,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-what-does-roof-underlayment-do-and-why-does-it-matter-so-muc.json",
-        "bytes": 2757,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-how-do-i-know-if-my-roof-has-hidden-damage-after-a-recent-wi.json",
-        "bytes": 2776,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-what-roofing-maintenance-actually-prevents-leaks-in-los-ange.json",
-        "bytes": 2867,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-are-roof-coatings-a-good-option-for-aging-roofs-in-los-angel.json",
-        "bytes": 2749,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-what-questions-should-i-ask-before-hiring-a-roofer-in-los-an.json",
-        "bytes": 2992,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-how-do-i-tell-if-a-roofing-quote-is-too-low-to-be-real.json",
-        "bytes": 2643,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-what-roofing-issues-delay-home-sales-in-los-angeles-county.json",
-        "bytes": 2634,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-how-much-extra-does-a-steep-roof-cost-to-replace-in-los-ange.json",
-        "bytes": 2736,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-when-is-patching-a-roof-a-waste-of-money-in-los-angeles-coun.json",
-        "bytes": 2708,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/roofing-what-makes-roofing-in-los-angeles-county-different-from-roof.json",
-        "bytes": 2902,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-how-does-adu-construction-differ-between-incorporated-cities.json",
-        "bytes": 4224,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-what-are-the-hidden-adu-construction-costs-specific-to-los-a.json",
-        "bytes": 4242,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-how-do-existing-code-violations-or-unpermitted-work-on-a-los.json",
-        "bytes": 4097,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-what-adu-design-and-construction-rules-in-los-angeles-county.json",
-        "bytes": 4175,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-how-does-adding-an-adu-in-los-angeles-county-affect-future-r.json",
-        "bytes": 4205,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-what-are-the-most-common-reasons-adu-permit-applications-are.json",
-        "bytes": 4366,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-how-can-los-angeles-county-homeowners-realistically-estimate.json",
-        "bytes": 4099,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-what-are-the-pros-and-cons-of-garage-conversion-adus-versus-.json",
-        "bytes": 4134,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-how-do-utility-connection-and-upgrade-requirements-for-adus-.json",
-        "bytes": 4192,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-what-specific-construction-or-design-mistakes-in-los-angeles.json",
-        "bytes": 4256,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-how-does-building-an-adu-in-los-angeles-county-impact-proper.json",
-        "bytes": 3849,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-what-financing-options-and-grant-or-rebate-programs-are-real.json",
-        "bytes": 4341,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-how-do-los-angeles-county-occupancy-limits-parking-rules-and.json",
-        "bytes": 4119,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-what-special-considerations-apply-when-designing-an-adu-in-l.json",
-        "bytes": 4097,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-how-do-hoas-and-cc-rs-interact-with-adu-rights-in-los-angele.json",
-        "bytes": 4452,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-what-are-the-key-differences-between-site-built-prefab-and-m.json",
-        "bytes": 4321,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/adu-construction-for-small-or-irregular-los-angeles-county-lots-what-adu-layo.json",
+        "path": "qna/additions-what-are-the-main-differences-between-a-traditional-room-add.json",
         "bytes": 4118,
         "purpose": "schema"
       },
       {
+        "path": "qna/additions-how-do-noise-work-hour-limits-and-neighbor-notifications-typ.json",
+        "bytes": 3887,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/additions-what-financing-options-do-homeowners-in-los-angeles-county-c.json",
+        "bytes": 3992,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/additions-how-can-homeowners-in-los-angeles-county-phase-a-multi-room-.json",
+        "bytes": 3859,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/additions-what-should-los-angeles-county-homeowners-consider-when-deci.json",
+        "bytes": 4115,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/additions-how-do-los-angeles-county-building-codes-handle-fire-separat.json",
+        "bytes": 4067,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/additions-what-happens-to-property-taxes-in-los-angeles-county-when-a-.json",
+        "bytes": 3778,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/additions-how-can-homeowners-in-los-angeles-county-design-a-home-addit.json",
+        "bytes": 4003,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-how-does-bathroom-remodeling-in-los-angeles-county-differ-by.json",
+        "bytes": 4032,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-what-hidden-cost-factors-are-unique-to-bathroom-remodeling-i.json",
+        "bytes": 3874,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-how-do-los-angeles-county-water-restrictions-and-drought-reg.json",
+        "bytes": 3861,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-what-permits-are-really-required-for-a-small-bathroom-remode.json",
+        "bytes": 3879,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-how-long-does-a-typical-permitted-bathroom-remodel-take-in-l.json",
+        "bytes": 3798,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-what-is-the-realistic-cost-range-for-a-mid-level-bathroom-re.json",
+        "bytes": 3938,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-how-can-i-remodel-a-small-los-angeles-bathroom-to-meet-acces.json",
+        "bytes": 3954,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-how-do-los-angeles-county-building-codes-affect-the-design-o.json",
+        "bytes": 3923,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-what-are-common-inspection-failures-specific-to-bathroom-rem.json",
+        "bytes": 3748,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-how-should-i-phase-bathroom-remodels-if-i-have-only-one-full.json",
+        "bytes": 3788,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-what-extra-considerations-apply-when-remodeling-a-bathroom-i.json",
+        "bytes": 3837,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-how-can-i-future-proof-a-los-angeles-bathroom-remodel-to-app.json",
+        "bytes": 3668,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-what-are-realistic-ways-to-reduce-the-cost-of-a-bathroom-rem.json",
+        "bytes": 3871,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-how-do-seismic-and-structural-considerations-in-los-angeles-.json",
+        "bytes": 3905,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-what-should-i-look-for-in-a-bathroom-remodeling-contract-in-.json",
+        "bytes": 3924,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-how-does-bathroom-remodeling-affect-home-value-specifically-.json",
+        "bytes": 3735,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-what-special-challenges-occur-when-remodeling-a-very-small-5.json",
+        "bytes": 3643,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-how-should-i-deal-with-mold-or-moisture-damage-discovered-du.json",
+        "bytes": 3783,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-what-design-choices-help-a-los-angeles-bathroom-stay-cooler-.json",
+        "bytes": 3794,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-how-does-hiring-a-design-build-bathroom-remodeling-firm-in-l.json",
+        "bytes": 3892,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-what-should-los-angeles-homeowners-know-about-lead-times-for.json",
+        "bytes": 3586,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-how-do-i-prioritize-upgrades-in-a-los-angeles-bathroom-remod.json",
+        "bytes": 3752,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-what-energy-efficiency-upgrades-are-most-impactful-in-a-los-.json",
+        "bytes": 4080,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-what-are-common-mistakes-los-angeles-homeowners-make-when-ch.json",
+        "bytes": 3741,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/bathroom-remodeling-how-do-los-angeles-climate-and-air-quality-concerns-influenc.json",
+        "bytes": 3901,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-how-much-does-a-kitchen-remodel-cost-in-los-angeles-county-f.json",
+        "bytes": 2962,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-how-long-does-a-kitchen-remodel-usually-take-in-los-angeles-.json",
+        "bytes": 2819,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-do-i-need-a-permit-for-a-kitchen-remodel-in-los-angeles-coun.json",
+        "bytes": 2639,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-what-parts-of-a-kitchen-remodel-add-the-most-cost-in-los-ang.json",
+        "bytes": 2710,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-how-do-i-know-if-i-should-do-a-partial-kitchen-remodel-or-a-.json",
+        "bytes": 2930,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-can-i-live-in-my-house-during-a-kitchen-remodel-in-los-angel.json",
+        "bytes": 2724,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-what-should-be-included-in-a-kitchen-remodel-quote-from-a-lo.json",
+        "bytes": 2840,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-how-do-i-avoid-hidden-costs-in-a-kitchen-remodel.json",
+        "bytes": 2659,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-what-kitchen-layout-changes-are-most-common-in-los-angeles-c.json",
+        "bytes": 2710,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-how-much-value-does-a-kitchen-remodel-add-to-a-home-in-los-a.json",
+        "bytes": 2732,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-what-is-the-difference-between-custom-cabinets-and-semi-cust.json",
+        "bytes": 2842,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-what-are-the-most-common-mistakes-homeowners-make-during-a-k.json",
+        "bytes": 2722,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-should-i-replace-kitchen-appliances-before-or-after-cabinets.json",
+        "bytes": 2657,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-how-do-i-choose-a-kitchen-remodel-contractor-in-los-angeles-.json",
+        "bytes": 2659,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-what-should-i-ask-before-signing-a-kitchen-remodel-contract.json",
+        "bytes": 2673,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-how-can-i-remodel-a-kitchen-in-an-older-los-angeles-county-h.json",
+        "bytes": 2800,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-is-it-better-to-finance-a-kitchen-remodel-or-pay-cash.json",
+        "bytes": 2613,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-can-a-kitchen-remodel-be-done-in-phases-to-spread-out-the-co.json",
+        "bytes": 2613,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-what-kitchen-remodel-upgrades-are-worth-it-in-los-angeles-co.json",
+        "bytes": 2577,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-how-do-i-prepare-my-home-for-a-kitchen-remodel-before-constr.json",
+        "bytes": 2624,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-what-is-the-difference-between-a-kitchen-renovation-and-a-ki.json",
+        "bytes": 2544,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-what-happens-if-my-kitchen-remodel-uncovers-water-damage-or-.json",
+        "bytes": 2608,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-how-do-i-compare-bids-for-a-kitchen-remodel-without-choosing.json",
+        "bytes": 2528,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-can-i-change-my-kitchen-remodel-plan-after-work-has-started.json",
+        "bytes": 2376,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-what-temporary-kitchen-setup-works-best-during-a-remodel.json",
+        "bytes": 2435,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-how-do-i-know-if-my-kitchen-remodel-needs-structural-changes.json",
+        "bytes": 2499,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-what-are-the-best-ways-to-keep-a-kitchen-remodel-on-budget.json",
+        "bytes": 2518,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/kitchen-remodeling-when-is-the-best-time-of-year-to-start-a-kitchen-remodel-in-.json",
+        "bytes": 2525,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-how-do-i-know-if-my-los-angeles-county-roof-needs-repair-or-.json",
+        "bytes": 2963,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-what-roof-material-lasts-longest-in-los-angeles-county-heat-.json",
+        "bytes": 2993,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-how-much-does-a-roof-replacement-cost-in-los-angeles-county-.json",
+        "bytes": 2990,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-do-i-need-a-permit-to-replace-a-roof-in-los-angeles-county.json",
+        "bytes": 2909,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-how-long-does-a-roof-replacement-take-in-los-angeles-county.json",
+        "bytes": 2895,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-what-are-the-most-common-roofing-problems-in-los-angeles-cou.json",
+        "bytes": 2861,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-is-a-cool-roof-worth-it-in-los-angeles-county.json",
+        "bytes": 2787,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-can-i-repair-a-roof-leak-myself-or-should-i-call-a-contracto.json",
+        "bytes": 2745,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-what-should-be-included-in-a-roofing-estimate-in-los-angeles.json",
+        "bytes": 3011,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-how-do-i-compare-roofing-contractors-in-los-angeles-county-w.json",
+        "bytes": 2867,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-what-roofing-problems-can-be-detected-only-from-the-attic.json",
+        "bytes": 2713,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-how-often-should-a-roof-be-inspected-in-los-angeles-county.json",
+        "bytes": 2728,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-what-is-the-best-roofing-choice-for-wildfire-prone-areas-in-.json",
+        "bytes": 2973,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-how-do-flat-roofs-in-los-angeles-county-fail-differently-fro.json",
+        "bytes": 3036,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-can-a-roof-be-repaired-during-rain-in-los-angeles-county.json",
+        "bytes": 2751,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-what-does-roof-underlayment-do-and-why-does-it-matter-so-muc.json",
+        "bytes": 2694,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-how-do-i-know-if-my-roof-has-hidden-damage-after-a-recent-wi.json",
+        "bytes": 2713,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-what-roofing-maintenance-actually-prevents-leaks-in-los-ange.json",
+        "bytes": 2804,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-are-roof-coatings-a-good-option-for-aging-roofs-in-los-angel.json",
+        "bytes": 2686,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-what-questions-should-i-ask-before-hiring-a-roofer-in-los-an.json",
+        "bytes": 2929,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-how-do-i-tell-if-a-roofing-quote-is-too-low-to-be-real.json",
+        "bytes": 2580,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-what-roofing-issues-delay-home-sales-in-los-angeles-county.json",
+        "bytes": 2571,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-how-much-extra-does-a-steep-roof-cost-to-replace-in-los-ange.json",
+        "bytes": 2673,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-when-is-patching-a-roof-a-waste-of-money-in-los-angeles-coun.json",
+        "bytes": 2645,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/roofing-what-makes-roofing-in-los-angeles-county-different-from-roof.json",
+        "bytes": 2839,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-how-does-adu-construction-differ-between-incorporated-cities.json",
+        "bytes": 4161,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-what-are-the-hidden-adu-construction-costs-specific-to-los-a.json",
+        "bytes": 4179,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-how-do-existing-code-violations-or-unpermitted-work-on-a-los.json",
+        "bytes": 4034,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-what-adu-design-and-construction-rules-in-los-angeles-county.json",
+        "bytes": 4112,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-how-does-adding-an-adu-in-los-angeles-county-affect-future-r.json",
+        "bytes": 4142,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-what-are-the-most-common-reasons-adu-permit-applications-are.json",
+        "bytes": 4303,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-how-can-los-angeles-county-homeowners-realistically-estimate.json",
+        "bytes": 4036,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-what-are-the-pros-and-cons-of-garage-conversion-adus-versus-.json",
+        "bytes": 4071,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-how-do-utility-connection-and-upgrade-requirements-for-adus-.json",
+        "bytes": 4129,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-what-specific-construction-or-design-mistakes-in-los-angeles.json",
+        "bytes": 4193,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-how-does-building-an-adu-in-los-angeles-county-impact-proper.json",
+        "bytes": 3786,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-what-financing-options-and-grant-or-rebate-programs-are-real.json",
+        "bytes": 4278,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-how-do-los-angeles-county-occupancy-limits-parking-rules-and.json",
+        "bytes": 4056,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-what-special-considerations-apply-when-designing-an-adu-in-l.json",
+        "bytes": 4034,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-how-do-hoas-and-cc-rs-interact-with-adu-rights-in-los-angele.json",
+        "bytes": 4389,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-what-are-the-key-differences-between-site-built-prefab-and-m.json",
+        "bytes": 4258,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/adu-construction-for-small-or-irregular-los-angeles-county-lots-what-adu-layo.json",
+        "bytes": 4055,
+        "purpose": "schema"
+      },
+      {
         "path": "qna/adu-construction-how-should-homeowners-in-los-angeles-county-phase-adu-constr.json",
-        "bytes": 4173,
+        "bytes": 4110,
         "purpose": "schema"
       },
       {
         "path": "qna/adu-construction-what-should-los-angeles-county-homeowners-know-about-noise-c.json",
-        "bytes": 4174,
+        "bytes": 4111,
         "purpose": "schema"
       },
       {
         "path": "qna/adu-construction-what-are-the-most-overlooked-permitting-and-construction-ste.json",
-        "bytes": 4364,
+        "bytes": 4301,
         "purpose": "schema"
       },
       {
         "path": "qna/adu-construction-how-can-los-angeles-county-homeowners-prioritize-features-an.json",
-        "bytes": 4483,
+        "bytes": 4420,
         "purpose": "schema"
       },
       {
         "path": "qna/adu-construction-what-should-los-angeles-county-homeowners-expect-during-adu-.json",
-        "bytes": 4508,
+        "bytes": 4445,
         "purpose": "schema"
       },
       {
         "path": "qna/adu-construction-how-do-environmental-or-energy-related-requirements-such-as-.json",
-        "bytes": 4367,
+        "bytes": 4304,
         "purpose": "schema"
       },
       {
         "path": "qna/adu-construction-what-are-realistic-per-square-foot-cost-ranges-for-different.json",
-        "bytes": 4257,
+        "bytes": 4194,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-how-do-i-choose-the-right-type-of-paving-asphalt-concrete-or.json",
-        "bytes": 3850,
+        "bytes": 3787,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-what-should-a-detailed-paving-quote-from-a-los-angeles-count.json",
-        "bytes": 3785,
+        "bytes": 3722,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-how-does-los-angeles-county-s-permitting-and-inspection-proc.json",
-        "bytes": 3822,
+        "bytes": 3759,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-what-maintenance-schedule-should-i-follow-for-newly-paved-as.json",
-        "bytes": 3832,
+        "bytes": 3769,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-how-do-i-know-if-my-existing-driveway-in-los-angeles-county-.json",
-        "bytes": 3763,
+        "bytes": 3700,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-how-does-los-angeles-county-s-climate-and-occasional-heavy-r.json",
-        "bytes": 3734,
+        "bytes": 3671,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-what-special-considerations-are-there-when-hiring-a-paving-c.json",
-        "bytes": 3842,
+        "bytes": 3779,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-how-can-i-verify-that-a-los-angeles-county-paving-contractor.json",
-        "bytes": 3870,
+        "bytes": 3807,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-what-should-i-ask-a-los-angeles-county-paving-contractor-abo.json",
-        "bytes": 3734,
+        "bytes": 3671,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-how-do-traffic-loads-from-delivery-trucks-rideshare-activity.json",
-        "bytes": 3694,
+        "bytes": 3631,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-what-are-realistic-timelines-for-different-paving-projects-i.json",
-        "bytes": 3855,
+        "bytes": 3792,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-how-much-does-it-typically-cost-per-square-foot-to-pave-in-l.json",
-        "bytes": 3677,
+        "bytes": 3614,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-what-should-i-consider-when-scheduling-paving-work-in-los-an.json",
-        "bytes": 3619,
+        "bytes": 3556,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-how-can-i-tell-if-a-paving-contractor-s-online-photos-and-re.json",
-        "bytes": 3663,
+        "bytes": 3600,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-what-should-i-do-if-my-new-driveway-or-parking-lot-in-los-an.json",
-        "bytes": 3682,
+        "bytes": 3619,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-how-do-i-coordinate-paving-work-in-los-angeles-county-with-o.json",
-        "bytes": 3731,
+        "bytes": 3668,
         "purpose": "schema"
       },
       {
         "path": "qna/paving-contractor-what-options-do-i-have-to-improve-the-appearance-of-basic-pa.json",
-        "bytes": 3662,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/paving-contractor-how-do-tree-roots-and-existing-mature-landscaping-in-los-ang.json",
-        "bytes": 3597,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/paving-contractor-what-should-property-managers-in-los-angeles-county-include-.json",
-        "bytes": 3811,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/paving-contractor-what-hidden-costs-should-i-ask-about-when-hiring-a-paving-co.json",
-        "bytes": 3666,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/paving-contractor-how-do-i-prepare-my-home-or-business-in-los-angeles-county-b.json",
-        "bytes": 3698,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/paving-contractor-what-eco-friendly-or-low-impact-paving-options-are-practical.json",
-        "bytes": 3767,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/paving-contractor-how-should-i-plan-phasing-and-temporary-parking-when-repavin.json",
-        "bytes": 3693,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/foundation-repair-contractor-what-signs-mean-foundation-damage-is-getting-worse.json",
-        "bytes": 2623,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/foundation-repair-contractor-can-i-live-in-the-house-during-foundation-repair.json",
-        "bytes": 2440,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/fencing-contractor-how-do-i-choose-the-right-fencing-contractor-in-los-angeles-.json",
-        "bytes": 3949,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/fencing-contractor-what-should-be-in-a-contract-with-a-fencing-contractor-in-lo.json",
-        "bytes": 3903,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/fencing-contractor-how-can-i-tell-if-a-los-angeles-county-fencing-contractor-re.json",
-        "bytes": 4045,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/fencing-contractor-what-should-i-ask-a-fencing-contractor-in-los-angeles-county.json",
-        "bytes": 3820,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/fencing-contractor-how-do-i-compare-quotes-from-los-angeles-county-fencing-cont.json",
-        "bytes": 3839,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/fencing-contractor-what-should-i-watch-for-in-los-angeles-county-fencing-contra.json",
-        "bytes": 3767,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/fencing-contractor-how-early-should-i-book-a-fencing-contractor-in-los-angeles-.json",
-        "bytes": 3696,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/fencing-contractor-what-extra-work-do-los-angeles-county-fencing-contractors-ne.json",
-        "bytes": 3847,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/fencing-contractor-how-should-i-prepare-my-los-angeles-county-property-before-a.json",
         "bytes": 3599,
         "purpose": "schema"
       },
       {
-        "path": "qna/fencing-contractor-what-are-the-pros-and-cons-of-hiring-a-los-angeles-county-fe.json",
-        "bytes": 3742,
+        "path": "qna/paving-contractor-how-do-tree-roots-and-existing-mature-landscaping-in-los-ang.json",
+        "bytes": 3534,
         "purpose": "schema"
       },
       {
-        "path": "qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-handle-drainag.json",
-        "bytes": 3501,
+        "path": "qna/paving-contractor-what-should-property-managers-in-los-angeles-county-include-.json",
+        "bytes": 3748,
         "purpose": "schema"
       },
       {
-        "path": "qna/fencing-contractor-what-questions-should-i-ask-a-los-angeles-county-fencing-con.json",
-        "bytes": 3418,
+        "path": "qna/paving-contractor-what-hidden-costs-should-i-ask-about-when-hiring-a-paving-co.json",
+        "bytes": 3603,
         "purpose": "schema"
       },
       {
-        "path": "qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-typically-hand.json",
-        "bytes": 3517,
+        "path": "qna/paving-contractor-how-do-i-prepare-my-home-or-business-in-los-angeles-county-b.json",
+        "bytes": 3635,
         "purpose": "schema"
       },
       {
-        "path": "qna/fencing-contractor-what-fence-materials-do-los-angeles-county-contractors-recom.json",
-        "bytes": 3613,
+        "path": "qna/paving-contractor-what-eco-friendly-or-low-impact-paving-options-are-practical.json",
+        "bytes": 3704,
         "purpose": "schema"
       },
       {
-        "path": "qna/fencing-contractor-how-can-i-work-with-a-los-angeles-county-fencing-contractor-.json",
-        "bytes": 3573,
+        "path": "qna/paving-contractor-how-should-i-plan-phasing-and-temporary-parking-when-repavin.json",
+        "bytes": 3630,
         "purpose": "schema"
       },
       {
-        "path": "qna/fencing-contractor-what-should-i-ask-a-los-angeles-county-fencing-contractor-ab.json",
-        "bytes": 3569,
+        "path": "qna/foundation-repair-contractor-what-signs-mean-foundation-damage-is-getting-worse.json",
+        "bytes": 2560,
         "purpose": "schema"
       },
       {
-        "path": "qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-typically-pric.json",
-        "bytes": 3511,
+        "path": "qna/foundation-repair-contractor-can-i-live-in-the-house-during-foundation-repair.json",
+        "bytes": 2377,
         "purpose": "schema"
       },
       {
-        "path": "qna/fencing-contractor-what-should-i-ask-a-los-angeles-county-fencing-contractor-if.json",
-        "bytes": 3308,
+        "path": "qna/fencing-contractor-how-do-i-choose-the-right-fencing-contractor-in-los-angeles-.json",
+        "bytes": 3886,
         "purpose": "schema"
       },
       {
-        "path": "qna/fencing-contractor-how-can-i-minimize-neighbor-conflicts-when-a-los-angeles-cou.json",
-        "bytes": 3506,
+        "path": "qna/fencing-contractor-what-should-be-in-a-contract-with-a-fencing-contractor-in-lo.json",
+        "bytes": 3840,
         "purpose": "schema"
       },
       {
-        "path": "qna/fencing-contractor-what-extra-considerations-should-i-discuss-with-a-fencing-co.json",
-        "bytes": 3711,
+        "path": "qna/fencing-contractor-how-can-i-tell-if-a-los-angeles-county-fencing-contractor-re.json",
+        "bytes": 3982,
         "purpose": "schema"
       },
       {
-        "path": "qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-usually-handle.json",
-        "bytes": 3404,
+        "path": "qna/fencing-contractor-what-should-i-ask-a-fencing-contractor-in-los-angeles-county.json",
+        "bytes": 3757,
         "purpose": "schema"
       },
       {
-        "path": "qna/fencing-contractor-what-should-i-discuss-with-a-los-angeles-county-fencing-cont.json",
+        "path": "qna/fencing-contractor-how-do-i-compare-quotes-from-los-angeles-county-fencing-cont.json",
+        "bytes": 3776,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-what-should-i-watch-for-in-los-angeles-county-fencing-contra.json",
+        "bytes": 3704,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-how-early-should-i-book-a-fencing-contractor-in-los-angeles-.json",
+        "bytes": 3633,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-what-extra-work-do-los-angeles-county-fencing-contractors-ne.json",
+        "bytes": 3784,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-how-should-i-prepare-my-los-angeles-county-property-before-a.json",
         "bytes": 3536,
         "purpose": "schema"
       },
       {
+        "path": "qna/fencing-contractor-what-are-the-pros-and-cons-of-hiring-a-los-angeles-county-fe.json",
+        "bytes": 3679,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-handle-drainag.json",
+        "bytes": 3438,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-what-questions-should-i-ask-a-los-angeles-county-fencing-con.json",
+        "bytes": 3355,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-typically-hand.json",
+        "bytes": 3454,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-what-fence-materials-do-los-angeles-county-contractors-recom.json",
+        "bytes": 3550,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-how-can-i-work-with-a-los-angeles-county-fencing-contractor-.json",
+        "bytes": 3510,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-what-should-i-ask-a-los-angeles-county-fencing-contractor-ab.json",
+        "bytes": 3506,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-typically-pric.json",
+        "bytes": 3448,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-what-should-i-ask-a-los-angeles-county-fencing-contractor-if.json",
+        "bytes": 3245,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-how-can-i-minimize-neighbor-conflicts-when-a-los-angeles-cou.json",
+        "bytes": 3443,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-what-extra-considerations-should-i-discuss-with-a-fencing-co.json",
+        "bytes": 3648,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-how-do-los-angeles-county-fencing-contractors-usually-handle.json",
+        "bytes": 3341,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/fencing-contractor-what-should-i-discuss-with-a-los-angeles-county-fencing-cont.json",
+        "bytes": 3473,
+        "purpose": "schema"
+      },
+      {
         "path": "qna/driveway-contractor-how-long-does-a-driveway-contractor-permit-take-in-los-angel.json",
-        "bytes": 3299,
+        "bytes": 3236,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-what-is-the-average-cost-per-square-foot-for-a-driveway-cont.json",
-        "bytes": 3155,
+        "bytes": 3092,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-do-i-need-to-replace-the-whole-driveway-or-can-a-driveway-co.json",
-        "bytes": 3199,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/driveway-contractor-what-type-of-driveway-material-performs-best-in-los-angeles-.json",
-        "bytes": 3069,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/driveway-contractor-how-do-i-know-if-a-driveway-contractor-is-licensed-and-insur.json",
-        "bytes": 3074,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/driveway-contractor-can-a-driveway-contractor-widen-my-driveway-in-los-angeles-c.json",
-        "bytes": 3134,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/driveway-contractor-how-long-does-a-new-concrete-driveway-take-to-install-in-los.json",
-        "bytes": 3046,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/driveway-contractor-what-should-a-driveway-contractor-include-in-a-written-estim.json",
         "bytes": 3136,
         "purpose": "schema"
       },
       {
+        "path": "qna/driveway-contractor-what-type-of-driveway-material-performs-best-in-los-angeles-.json",
+        "bytes": 3006,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/driveway-contractor-how-do-i-know-if-a-driveway-contractor-is-licensed-and-insur.json",
+        "bytes": 3011,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/driveway-contractor-can-a-driveway-contractor-widen-my-driveway-in-los-angeles-c.json",
+        "bytes": 3071,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/driveway-contractor-how-long-does-a-new-concrete-driveway-take-to-install-in-los.json",
+        "bytes": 2983,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/driveway-contractor-what-should-a-driveway-contractor-include-in-a-written-estim.json",
+        "bytes": 3073,
+        "purpose": "schema"
+      },
+      {
         "path": "qna/driveway-contractor-can-a-driveway-contractor-fix-a-sloped-driveway-that-drains-.json",
-        "bytes": 2952,
+        "bytes": 2889,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-what-is-the-difference-between-driveway-resurfacing-and-driv.json",
-        "bytes": 3022,
+        "bytes": 2959,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-can-i-match-a-new-driveway-section-to-my-existing-driveway-c.json",
-        "bytes": 2943,
+        "bytes": 2880,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-what-causes-a-driveway-to-crack-again-after-repair.json",
-        "bytes": 2984,
+        "bytes": 2921,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-do-driveway-contractors-in-los-angeles-county-handle-curb-gu.json",
-        "bytes": 3100,
+        "bytes": 3037,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-what-driveway-surface-is-best-for-a-steep-hillside-property-.json",
-        "bytes": 3048,
+        "bytes": 2985,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-how-much-slope-is-too-much-for-a-driveway-contractor-to-fix-.json",
-        "bytes": 3085,
+        "bytes": 3022,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-should-i-seal-my-driveway-after-installation-and-when-should.json",
-        "bytes": 3113,
+        "bytes": 3050,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-what-questions-should-i-ask-a-driveway-contractor-before-hir.json",
-        "bytes": 3153,
+        "bytes": 3090,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-can-a-driveway-contractor-work-around-existing-landscaping-t.json",
-        "bytes": 2979,
+        "bytes": 2916,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-what-is-the-best-driveway-option-if-i-want-low-maintenance-i.json",
-        "bytes": 3106,
+        "bytes": 3043,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-how-do-i-compare-two-driveway-contractor-bids-that-use-diffe.json",
-        "bytes": 3118,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/driveway-contractor-can-a-driveway-contractor-pour-new-concrete-over-an-old-driv.json",
-        "bytes": 3045,
-        "purpose": "schema"
-      },
-      {
-        "path": "qna/driveway-contractor-what-driveway-problems-are-caused-by-tree-roots-and-can-a-co.json",
         "bytes": 3055,
         "purpose": "schema"
       },
       {
+        "path": "qna/driveway-contractor-can-a-driveway-contractor-pour-new-concrete-over-an-old-driv.json",
+        "bytes": 2982,
+        "purpose": "schema"
+      },
+      {
+        "path": "qna/driveway-contractor-what-driveway-problems-are-caused-by-tree-roots-and-can-a-co.json",
+        "bytes": 2992,
+        "purpose": "schema"
+      },
+      {
         "path": "qna/driveway-contractor-is-asphalt-or-concrete-better-for-a-driveway-replacement-in-.json",
-        "bytes": 3076,
+        "bytes": 3013,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-how-can-i-tell-if-a-driveway-contractor-is-using-proper-base.json",
-        "bytes": 3033,
+        "bytes": 2970,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-can-a-driveway-contractor-add-drainage-channels-to-an-existi.json",
-        "bytes": 2998,
+        "bytes": 2935,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-what-maintenance-does-a-new-driveway-need-in-the-first-year-.json",
-        "bytes": 3188,
+        "bytes": 3125,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-do-driveway-contractors-in-los-angeles-county-offer-design-h.json",
-        "bytes": 3107,
+        "bytes": 3044,
         "purpose": "schema"
       },
       {
         "path": "qna/driveway-contractor-how-do-i-choose-between-a-local-driveway-contractor-and-a-la.json",
-        "bytes": 3014,
+        "bytes": 2951,
         "purpose": "schema"
       },
       {
         "path": "qnas.jsonld",
-        "bytes": 771114,
+        "bytes": 758514,
         "purpose": "Q&A ItemList"
       },
       {
@@ -4453,7 +4453,7 @@
       },
       {
         "path": "qnas.html",
-        "bytes": 87509,
+        "bytes": 74909,
         "purpose": "Q&A page"
       },
       {
@@ -4515,7 +4515,7 @@
       },
       {
         "path": "data/qnas.json",
-        "bytes": 747154,
+        "bytes": 734554,
         "purpose": "Q&A data"
       },
       {
@@ -4611,7 +4611,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4276,
+        "bytes": 5040,
         "purpose": "LLM hint"
       },
       {
@@ -4631,32 +4631,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1049,
+        "bytes": 1800,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 467377,
+        "bytes": 468932,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 157007,
+        "bytes": 157771,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 157007,
+        "bytes": 157771,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4052,
+        "bytes": 4816,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 150911,
+        "bytes": 151675,
         "purpose": "Repository README"
       },
       {
@@ -4671,5 +4671,11 @@
       }
     ]
   },
-  "destinations": {}
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-zk5t",
+      "pagesUrl": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/",
+      "repo": "AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-zk5t"
+    }
+  }
 }
