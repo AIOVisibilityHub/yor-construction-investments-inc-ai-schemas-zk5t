@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/commercial-construction-in-los-do-i-need-separate-permits-for-a-kitchen-remodel-and-a-bathr",
+  "name": "Do You Need Separate Permits for Kitchen and Bathroom Remodels?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need separate permits for a kitchen remodel and a bathroom remodel in Los Angeles County?",
+    "text": "Do I need separate permits for a kitchen remodel and a bathroom remodel in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether you need separate permits depends on what is changing in each room. Simple finish upgrades like replacing cabinets, counters, tile, or fixtures in the same locations may require less permitting than projects that move walls, relocate plumbing, alter electrical circuits, or change ventilation. If the kitchen and bathroom are being remodeled together, a contractor may be able to submit one coordinated permit set that includes both scopes, especially when the work is part of a larger interior renovation. The important issue is not the number of rooms but the type of work being done. Homeowners should ask for a permit plan early so the scope, inspections, and sequence of work are clear before demolition starts. That helps prevent stop-work problems, rework, or delays if the city requires additional documentation. A contractor experienced in Los Angeles County should be able to explain which parts of the project are likely to be permit-triggering and which are purely cosmetic.",
+      "@type": "Answer",
+      "description": "Permit needs depend on the scope. Cosmetic updates may not require separate permits, but plumbing, electrical, mechanical, structural, and layout changes often do. If a kitchen and bathroom remodel are part of one larger project, the permit package may cover both scopes under a coordinated plan rather than separate standalone filings.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether you need separate permits depends on what is changing in each room. Simple finish upgrades like replacing cabinets, counters, tile, or fixtures in the same locations may require less permitting than projects that move walls, relocate plumbing, alter electrical circuits, or change ventilation. If the kitchen and bathroom are being remodeled together, a contractor may be able to submit one coordinated permit set that includes both scopes, especially when the work is part of a larger interior renovation. The important issue is not the number of rooms but the type of work being done. Homeowners should ask for a permit plan early so the scope, inspections, and sequence of work are clear before demolition starts. That helps prevent stop-work problems, rework, or delays if the city requires additional documentation. A contractor experienced in Los Angeles County should be able to explain which parts of the project are likely to be permit-triggering and which are purely cosmetic.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Permit needs depend on the scope. Cosmetic updates may not require separate permits, but plumbing, electrical, mechanical, structural, and layout changes often "
+}

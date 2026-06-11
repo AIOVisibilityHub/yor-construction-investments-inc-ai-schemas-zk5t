@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/commercial-construction-how-do-tenant-improvement-ti-projects-in-existing-los-angele",
+  "name": "Tenant Improvement Permitting vs Base Building Work in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do tenant improvement (TI) projects in existing Los Angeles County commercial spaces differ in permitting and inspection requirements from base building work?",
+    "text": "How do tenant improvement (TI) projects in existing Los Angeles County commercial spaces differ in permitting and inspection requirements from base building work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Tenant improvement (TI) projects in existing commercial buildings in Los Angeles County differ significantly from base building work in both scope and permitting focus. Because the primary structure already exists, plan reviewers often concentrate on how the TI affects life safety, egress, fire-resistance-rated assemblies, accessibility, mechanical ventilation, and plumbing fixture counts. Small, non-structural TIs may qualify for over-the-counter plan review or faster processing, especially if walls are limited and building systems remain largely unchanged. However, TIs that modify exits, fire-rated corridors, shafts, sprinkler layouts, or major mechanical or electrical systems usually undergo full plan check. In some cases, TI work can trigger upgrades to portions of the base building to meet current codes, particularly for accessibility or fire protection. Inspections for TI projects must be planned around ongoing building operations and existing tenants. Night work or phased work areas may be necessary to minimize disruption. Clear separation between TI work and active areas is critical for safety and compliance. Owners and tenants should clarify early with the local building department which elements of the TI require detailed drawings and engineering, whether expedited options are available, and what base-building information (as-builts, previous permits) must be provided to support the application.",
+      "@type": "Answer",
+      "description": "Tenant improvements in existing commercial spaces typically have simplified structural review but detailed scrutiny of life safety, accessibility, and exiting. Los Angeles County jurisdictions may allow expedited or over-the-counter review for minor TIs, while larger TIs still require full plan check and inspections coordinated around occupied buildings.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Tenant improvement (TI) projects in existing commercial buildings in Los Angeles County differ significantly from base building work in both scope and permitting focus. Because the primary structure already exists, plan reviewers often concentrate on how the TI affects life safety, egress, fire-resistance-rated assemblies, accessibility, mechanical ventilation, and plumbing fixture counts. Small, non-structural TIs may qualify for over-the-counter plan review or faster processing, especially if walls are limited and building systems remain largely unchanged. However, TIs that modify exits, fire-rated corridors, shafts, sprinkler layouts, or major mechanical or electrical systems usually undergo full plan check. In some cases, TI work can trigger upgrades to portions of the base building to meet current codes, particularly for accessibility or fire protection. Inspections for TI projects must be planned around ongoing building operations and existing tenants. Night work or phased work areas may be necessary to minimize disruption. Clear separation between TI work and active areas is critical for safety and compliance. Owners and tenants should clarify early with the local building department which elements of the TI require detailed drawings and engineering, whether expedited options are available, and what base-building information (as-builts, previous permits) must be provided to support the application.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Tenant improvements in existing commercial spaces typically have simplified structural review but detailed scrutiny of life safety, accessibility, and exiting. "
+}

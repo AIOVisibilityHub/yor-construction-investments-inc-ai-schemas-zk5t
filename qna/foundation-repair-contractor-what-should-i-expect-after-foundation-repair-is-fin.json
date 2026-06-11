@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-what-should-i-expect-after-foundation-repair-is-finished",
+  "name": "What to Expect After Foundation Repair Is Finished",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I expect after foundation repair is finished?",
+    "text": "What should I expect after foundation repair is finished?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "After the structural repair is complete, the goal is stability, not necessarily a perfect cosmetic finish. You may still need drywall patching, paint, tile, or trim adjustment because the structure has been moved or stabilized. Depending on the repair method, the contractor may recommend monitoring for a period to confirm that movement has stopped. In Los Angeles County, a complete handoff should include the repair scope, warranty terms, any maintenance requirements, and note of any remaining cosmetic work. If the contractor promises that every visible issue will disappear immediately, ask how that claim is supported. A trustworthy completion plan separates structural success from finish repairs so you know exactly what to expect.",
+      "@type": "Answer",
+      "description": "After foundation repair, you should expect a stable structure, but some cosmetic cracks, drywall patching, or trim repairs may still be needed. Floors may not become perfectly level in every area, and any required curing, monitoring, or follow-up inspection should be explained by the contractor. A finished project should include documentation of what was repaired and what remains cosmetic.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "After the structural repair is complete, the goal is stability, not necessarily a perfect cosmetic finish. You may still need drywall patching, paint, tile, or trim adjustment because the structure has been moved or stabilized. Depending on the repair method, the contractor may recommend monitoring for a period to confirm that movement has stopped. In Los Angeles County, a complete handoff should include the repair scope, warranty terms, any maintenance requirements, and note of any remaining cosmetic work. If the contractor promises that every visible issue will disappear immediately, ask how that claim is supported. A trustworthy completion plan separates structural success from finish repairs so you know exactly what to expect.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "After foundation repair, you should expect a stable structure, but some cosmetic cracks, drywall patching, or trim repairs may still be needed. Floors may not b"
+}

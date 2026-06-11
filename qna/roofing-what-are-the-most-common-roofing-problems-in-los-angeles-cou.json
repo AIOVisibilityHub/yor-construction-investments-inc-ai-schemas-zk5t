@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/roofing-what-are-the-most-common-roofing-problems-in-los-angeles-cou",
+  "name": "What Are the Most Common Roofing Problems in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most common roofing problems in Los Angeles County homes?",
+    "text": "What are the most common roofing problems in Los Angeles County homes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most common roofing issues in Los Angeles County are not always dramatic storm failures. More often, roofs age from constant sun, heat cycles, and dry conditions that slowly weaken shingles, sealants, flashing, and underlayment. On tile roofs, cracked tiles or degraded underlayment are frequent. On low-slope roofs, ponding, membrane wear, and drainage problems are common. Leaks also often start around chimneys, skylights, vents, and valleys rather than in the field of the roof. Homeowners should pay close attention after unusually windy weather or heavy rain, since those events can reveal problems that were already present. If you are comparing service providers, ask whether they inspect flashing, penetrations, attic ventilation, and drainage—not just the visible roof surface. A good maintenance plan can catch small problems before they become expensive interior water damage.",
+      "@type": "Answer",
+      "description": "Common roofing problems in Los Angeles County include sun damage, cracked or lifted flashing, broken tiles, worn underlayment, clogged drainage, and leaks around penetrations. Heat and UV exposure often age roofing materials faster than homeowners expect. Wind and rare heavy rain can expose weak points that were already developing.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most common roofing issues in Los Angeles County are not always dramatic storm failures. More often, roofs age from constant sun, heat cycles, and dry conditions that slowly weaken shingles, sealants, flashing, and underlayment. On tile roofs, cracked tiles or degraded underlayment are frequent. On low-slope roofs, ponding, membrane wear, and drainage problems are common. Leaks also often start around chimneys, skylights, vents, and valleys rather than in the field of the roof. Homeowners should pay close attention after unusually windy weather or heavy rain, since those events can reveal problems that were already present. If you are comparing service providers, ask whether they inspect flashing, penetrations, attic ventilation, and drainage—not just the visible roof surface. A good maintenance plan can catch small problems before they become expensive interior water damage.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common roofing problems in Los Angeles County include sun damage, cracked or lifted flashing, broken tiles, worn underlayment, clogged drainage, and leaks aroun"
+}

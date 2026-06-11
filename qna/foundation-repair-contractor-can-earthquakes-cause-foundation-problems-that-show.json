@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-can-earthquakes-cause-foundation-problems-that-show-up-month",
+  "name": "Can Earthquakes Cause Delayed Foundation Damage?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can earthquakes cause foundation problems that show up months later?",
+    "text": "Can earthquakes cause foundation problems that show up months later?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Earthquake-related foundation issues do not always appear right away. A quake can create small shifts, stress existing weak points, or worsen settlement that later becomes visible as cracks, sloping floors, or sticking doors. After the initial event, seasonal soil changes or daily loading can make the symptoms easier to notice. In Los Angeles County, where seismic activity is part of the environment, it is important to document when symptoms first appeared and whether they progressed over time. A foundation repair contractor should look for changes in crack patterns, framing distortion, and any signs that the structure moved during or after the event. Delayed symptoms still deserve inspection because the visible damage may reflect structural weakening that needs stabilization.",
+      "@type": "Answer",
+      "description": "Yes. Earthquakes can weaken already vulnerable foundations, loosen framing connections, or worsen minor settlement that becomes visible later. Damage may not be obvious immediately and can appear after repeated stress, seasonal soil changes, or normal use. A contractor should check for delayed cracking, slope changes, and separation that developed after seismic activity.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Earthquake-related foundation issues do not always appear right away. A quake can create small shifts, stress existing weak points, or worsen settlement that later becomes visible as cracks, sloping floors, or sticking doors. After the initial event, seasonal soil changes or daily loading can make the symptoms easier to notice. In Los Angeles County, where seismic activity is part of the environment, it is important to document when symptoms first appeared and whether they progressed over time. A foundation repair contractor should look for changes in crack patterns, framing distortion, and any signs that the structure moved during or after the event. Delayed symptoms still deserve inspection because the visible damage may reflect structural weakening that needs stabilization.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Earthquakes can weaken already vulnerable foundations, loosen framing connections, or worsen minor settlement that becomes visible later. Damage may not be"
+}

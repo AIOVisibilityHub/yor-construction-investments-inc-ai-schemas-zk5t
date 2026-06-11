@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/roofing-how-do-i-know-if-my-roof-has-hidden-damage-after-a-recent-wi",
+  "name": "How Can You Tell If a Roof Has Hidden Wind Damage?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if my roof has hidden damage after a recent windstorm?",
+    "text": "How do I know if my roof has hidden damage after a recent windstorm?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "After a windstorm, hidden roof damage can be easy to miss because the surface may look mostly intact from the ground. Look for missing or displaced shingles, broken tiles, lifted flashing, granule loss, debris buildup, and fresh stains inside the home. Even if there is no obvious leak, wind can loosen material in a way that leads to future failure. In Los Angeles County, post-storm inspections are especially useful because roofs that have already aged from sun exposure can fail more easily when disturbed by wind. An inspection should include the roof surface, edges, penetrations, attic, and gutters or drains. If the roof was hit by branches or flying debris, document the area before making temporary repairs. The key is to identify whether the storm caused a one-time problem or exposed an existing weakness that needs more than a patch.",
+      "@type": "Answer",
+      "description": "Hidden wind damage may show up as lifted edges, missing shingles, loose flashing, new ceiling stains, debris in gutters, or water intrusion after the storm. Damage is often worse than what you can see from the ground. A post-storm inspection should check the roof surface, attic, and drainage areas.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "After a windstorm, hidden roof damage can be easy to miss because the surface may look mostly intact from the ground. Look for missing or displaced shingles, broken tiles, lifted flashing, granule loss, debris buildup, and fresh stains inside the home. Even if there is no obvious leak, wind can loosen material in a way that leads to future failure. In Los Angeles County, post-storm inspections are especially useful because roofs that have already aged from sun exposure can fail more easily when disturbed by wind. An inspection should include the roof surface, edges, penetrations, attic, and gutters or drains. If the roof was hit by branches or flying debris, document the area before making temporary repairs. The key is to identify whether the storm caused a one-time problem or exposed an existing weakness that needs more than a patch.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hidden wind damage may show up as lifted edges, missing shingles, loose flashing, new ceiling stains, debris in gutters, or water intrusion after the storm. Dam"
+}

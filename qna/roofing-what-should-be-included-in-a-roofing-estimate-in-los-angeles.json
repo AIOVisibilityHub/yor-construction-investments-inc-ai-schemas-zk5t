@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/roofing-what-should-be-included-in-a-roofing-estimate-in-los-angeles",
+  "name": "What Should a Roofing Estimate Include in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be included in a roofing estimate in Los Angeles County?",
+    "text": "What should be included in a roofing estimate in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A strong roofing estimate should be specific enough to show exactly what is being purchased. It should identify the roof system, the square footage or approximate area, tear-off details, underlayment type, flashing replacement, ventilation work, disposal fees, and any permit or inspection responsibilities. It should also explain what happens if hidden damage is found after the old roof is removed. In Los Angeles County, that matters because older homes may have damaged decking, outdated ventilation, or prior patchwork that changes the scope. You should also look for warranty information that separates material coverage from workmanship coverage. If two estimates differ significantly, compare line items rather than total price alone. The cheapest bid is often missing something important, such as flashing, cleanup, or deck repairs. A clear estimate is one of the best signs that the contractor understands the full job, not just the visible roof surface.",
+      "@type": "Answer",
+      "description": "A roofing estimate should include the roof area, material type, tear-off scope, underlayment, flashing, ventilation, disposal, labor, permit handling, warranty terms, and any deck repair allowance. If the estimate is vague, it is harder to compare bids or spot missing work. A detailed estimate helps prevent surprise charges after demolition starts.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A strong roofing estimate should be specific enough to show exactly what is being purchased. It should identify the roof system, the square footage or approximate area, tear-off details, underlayment type, flashing replacement, ventilation work, disposal fees, and any permit or inspection responsibilities. It should also explain what happens if hidden damage is found after the old roof is removed. In Los Angeles County, that matters because older homes may have damaged decking, outdated ventilation, or prior patchwork that changes the scope. You should also look for warranty information that separates material coverage from workmanship coverage. If two estimates differ significantly, compare line items rather than total price alone. The cheapest bid is often missing something important, such as flashing, cleanup, or deck repairs. A clear estimate is one of the best signs that the contractor understands the full job, not just the visible roof surface.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A roofing estimate should include the roof area, material type, tear-off scope, underlayment, flashing, ventilation, disposal, labor, permit handling, warranty "
+}

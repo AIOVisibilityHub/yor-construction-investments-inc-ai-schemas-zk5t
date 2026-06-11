@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/paving-contractor-foundation-r-do-i-need-a-roof-replacement-before-solar-installation",
+  "name": "Should You Replace the Roof Before Solar?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need a roof replacement before solar installation?",
+    "text": "Do I need a roof replacement before solar installation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Solar should not be installed on a roof that is near failure, because the panels make future roofing work more expensive. If the roof is old, leaking, missing shingles, or showing structural wear, replacing it first is usually the smarter choice. If the roof is still in good condition with plenty of remaining life, solar can be installed after a proper inspection of the decking, underlayment, and mounting points. In Los Angeles County, heat and sun exposure can shorten roof life, so the installer should evaluate how long the roof is likely to last relative to the solar system’s lifespan. Ask whether the solar proposal includes roof condition review, flashing details, and the cost to remove and reinstall panels if roofing work becomes necessary later.",
+      "@type": "Answer",
+      "description": "A roof usually should be repaired or replaced before solar if it is near the end of its life, leaking, or likely to need work soon. Removing solar later can add major labor and cost. If the roof has many years left and is structurally sound, solar may be installed first with proper flashing and mounting details.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Solar should not be installed on a roof that is near failure, because the panels make future roofing work more expensive. If the roof is old, leaking, missing shingles, or showing structural wear, replacing it first is usually the smarter choice. If the roof is still in good condition with plenty of remaining life, solar can be installed after a proper inspection of the decking, underlayment, and mounting points. In Los Angeles County, heat and sun exposure can shorten roof life, so the installer should evaluate how long the roof is likely to last relative to the solar system’s lifespan. Ask whether the solar proposal includes roof condition review, flashing details, and the cost to remove and reinstall panels if roofing work becomes necessary later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A roof usually should be repaired or replaced before solar if it is near the end of its life, leaking, or likely to need work soon. Removing solar later can add"
+}

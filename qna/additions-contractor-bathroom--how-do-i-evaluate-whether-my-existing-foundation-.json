@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-contractor-bathroom--how-do-i-evaluate-whether-my-existing-foundation-can-support",
+  "name": "Assessing Foundation Capacity for a Second-Story Addition in Los Angeles",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I evaluate whether my existing foundation can support a second-story addition without overpaying for engineering in Los Angeles?",
+    "text": "How do I evaluate whether my existing foundation can support a second-story addition without overpaying for engineering in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Deciding if your Los Angeles home can safely support a second-story addition is a structural question that many homeowners fear will lead to costly analysis. You can control scope by approaching it in stages. First, gather any existing plans or prior reports, along with photos of cracks or settlement. Then hire a structural engineer who regularly works on residential additions in your area. During the site visit, the engineer will look at exposed foundation edges, wall thickness, visible reinforcing (if any), and signs of distress. They may recommend limited exploratory work—such as small concrete chipping, core drilling, or crawling into tight areas—to determine footing depth, width, and condition without wholesale demolition. Using this information, the engineer can run targeted calculations based on the proposed second-story layout, local seismic and wind loads, and soil assumptions. The outcome is typically one of three paths: the existing foundation is adequate, it can be upgraded with added footings or underpinning, or significant replacement is required along key lines. To avoid overpaying, ask for a clearly scoped proposal up front that focuses on feasibility for the intended addition, not a full-house forensic study. A contractor experienced with additions can help coordinate between you and the engineer to keep the evaluation aligned with realistic construction options.",
+      "@type": "Answer",
+      "description": "Start with an on-site evaluation by a structural engineer familiar with local soil and code. They will review visible foundation dimensions, condition, and existing plans if available. In many cases, limited exploratory work plus targeted calculations is enough to determine whether reinforcement, partial replacement, or new footings are needed.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Deciding if your Los Angeles home can safely support a second-story addition is a structural question that many homeowners fear will lead to costly analysis. You can control scope by approaching it in stages. First, gather any existing plans or prior reports, along with photos of cracks or settlement. Then hire a structural engineer who regularly works on residential additions in your area. During the site visit, the engineer will look at exposed foundation edges, wall thickness, visible reinforcing (if any), and signs of distress. They may recommend limited exploratory work—such as small concrete chipping, core drilling, or crawling into tight areas—to determine footing depth, width, and condition without wholesale demolition. Using this information, the engineer can run targeted calculations based on the proposed second-story layout, local seismic and wind loads, and soil assumptions. The outcome is typically one of three paths: the existing foundation is adequate, it can be upgraded with added footings or underpinning, or significant replacement is required along key lines. To avoid overpaying, ask for a clearly scoped proposal up front that focuses on feasibility for the intended addition, not a full-house forensic study. A contractor experienced with additions can help coordinate between you and the engineer to keep the evaluation aligned with realistic construction options.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Start with an on-site evaluation by a structural engineer familiar with local soil and code. They will review visible foundation dimensions, condition, and exis"
+}

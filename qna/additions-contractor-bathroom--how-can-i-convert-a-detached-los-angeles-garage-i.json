@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-contractor-bathroom--how-can-i-convert-a-detached-los-angeles-garage-into-an-adu-",
+  "name": "Designing a Partial Garage-to-ADU Conversion in Los Angeles",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I convert a detached Los Angeles garage into an ADU while keeping part of it as storage or parking?",
+    "text": "How can I convert a detached Los Angeles garage into an ADU while keeping part of it as storage or parking?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most ADU guides focus on full garage conversions or separate new units, leaving a gap for homeowners who want both an ADU and some garage function. In Los Angeles, you can often split a detached garage into an ADU plus storage or partial parking, but it must be carefully designed. First, verify local ADU rules: minimum unit size, setbacks, and height, and whether partial conversions are allowed on your lot. Next, treat the ADU and remaining garage as distinct spaces. The living area must meet all habitability standards—ceiling height, insulation, light and ventilation, emergency egress, and conditioned space—without depending on the storage area. Fire separation between the dwelling and garage/storage is critical and typically requires specific rated assemblies and sealed penetrations. Plan independent entrances: the ADU should have its own exterior door, and the storage or parking zone should not be a passage route. Utilities for the ADU (electrical subpanel, plumbing, HVAC) should be clearly separated from any circuits serving the remaining garage to avoid access conflicts and billing confusion. Work with a design-build ADU contractor familiar with Los Angeles interpretations to develop a plan set the city will accept. This approach allows you to maximize rental or family-use space while preserving valuable storage or hobby space on your property.",
+      "@type": "Answer",
+      "description": "Design the ADU and residual garage as separate code-compliant spaces with proper fire separation, structural upgrades, and independent access. Confirm zoning and minimum ADU size, then plan walls, doors, and utilities so the living unit meets all habitability standards without relying on the remaining storage or parking area.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most ADU guides focus on full garage conversions or separate new units, leaving a gap for homeowners who want both an ADU and some garage function. In Los Angeles, you can often split a detached garage into an ADU plus storage or partial parking, but it must be carefully designed. First, verify local ADU rules: minimum unit size, setbacks, and height, and whether partial conversions are allowed on your lot. Next, treat the ADU and remaining garage as distinct spaces. The living area must meet all habitability standards—ceiling height, insulation, light and ventilation, emergency egress, and conditioned space—without depending on the storage area. Fire separation between the dwelling and garage/storage is critical and typically requires specific rated assemblies and sealed penetrations. Plan independent entrances: the ADU should have its own exterior door, and the storage or parking zone should not be a passage route. Utilities for the ADU (electrical subpanel, plumbing, HVAC) should be clearly separated from any circuits serving the remaining garage to avoid access conflicts and billing confusion. Work with a design-build ADU contractor familiar with Los Angeles interpretations to develop a plan set the city will accept. This approach allows you to maximize rental or family-use space while preserving valuable storage or hobby space on your property.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design the ADU and residual garage as separate code-compliant spaces with proper fire separation, structural upgrades, and independent access. Confirm zoning an"
+}

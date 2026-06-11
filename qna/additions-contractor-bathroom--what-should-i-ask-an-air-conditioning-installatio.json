@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-contractor-bathroom--what-should-i-ask-an-air-conditioning-installation-contracto",
+  "name": "Questions to Ask an HVAC Contractor for Remodeled Homes in Los Angeles",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I ask an air conditioning installation contractor in Los Angeles to ensure the system is sized and designed correctly for an expanded or remodeled home?",
+    "text": "What should I ask an air conditioning installation contractor in Los Angeles to ensure the system is sized and designed correctly for an expanded or remodeled home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "For a remodeled or expanded Los Angeles home, simply installing a larger air conditioner based on the old layout is a common and costly mistake. Ask prospective HVAC contractors whether they will perform a **formal load calculation** (often called Manual J) that accounts for added square footage, ceiling heights, insulation levels, and window orientation. Discuss how they will design **ductwork and supply registers** for new rooms. Poorly balanced systems can leave additions too hot or cold while the original house remains comfortable. In some cases, adding a separate system or ductless mini-split for an ADU, garage conversion, or second story provides better control than tying everything into one oversized unit. Ask about **zoning options**, smart thermostats, and return air locations to ensure even temperatures and good airflow. Confirm that the proposed equipment meets local energy efficiency requirements and consider whether heat pump systems make sense for your climate zone and utility costs. Request a written proposal that specifies equipment size, efficiency ratings, duct modifications, and any electrical upgrades needed. Proper design up front will reduce hot spots, noise, and energy waste for years to come.",
+      "@type": "Answer",
+      "description": "Request a load calculation (Manual J or equivalent), ask how added rooms, insulation levels, and window types were accounted for, and confirm duct design, zoning, and return air locations. Avoid simply upsizing old equipment without a full review of the remodeled layout and envelope.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "For a remodeled or expanded Los Angeles home, simply installing a larger air conditioner based on the old layout is a common and costly mistake. Ask prospective HVAC contractors whether they will perform a **formal load calculation** (often called Manual J) that accounts for added square footage, ceiling heights, insulation levels, and window orientation. Discuss how they will design **ductwork and supply registers** for new rooms. Poorly balanced systems can leave additions too hot or cold while the original house remains comfortable. In some cases, adding a separate system or ductless mini-split for an ADU, garage conversion, or second story provides better control than tying everything into one oversized unit. Ask about **zoning options**, smart thermostats, and return air locations to ensure even temperatures and good airflow. Confirm that the proposed equipment meets local energy efficiency requirements and consider whether heat pump systems make sense for your climate zone and utility costs. Request a written proposal that specifies equipment size, efficiency ratings, duct modifications, and any electrical upgrades needed. Proper design up front will reduce hot spots, noise, and energy waste for years to come.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Request a load calculation (Manual J or equivalent), ask how added rooms, insulation levels, and window types were accounted for, and confirm duct design, zonin"
+}

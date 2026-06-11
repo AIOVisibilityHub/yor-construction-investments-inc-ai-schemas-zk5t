@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/commercial-construction-in-los-how-much-contingency-should-i-keep-for-a-room-addition-or-ad",
+  "name": "How Much Contingency Should You Budget for an Addition or ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much contingency should I keep for a room addition or ADU project in Los Angeles County?",
+    "text": "How much contingency should I keep for a room addition or ADU project in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A contingency reserve is one of the most important parts of planning a room addition or ADU. Existing homes often hide issues that only become visible after demolition, such as damaged framing, foundation problems, outdated wiring, sewer defects, or water intrusion. Because of that uncertainty, homeowners should keep a dedicated budget cushion instead of spending the entire project budget up front. Projects with older homes, complex site conditions, or major utility work generally need a larger reserve than simpler interior remodels. Contingency also helps absorb permit revisions, material price changes, and upgrades that become necessary once construction begins. A contractor should help you separate the base contract amount from the reserve so you know what is truly committed and what is held back for unknowns. Planning with a contingency reduces stress and helps prevent a half-finished project when unexpected costs appear.",
+      "@type": "Answer",
+      "description": "A contingency reserve is important because additions and ADUs often reveal hidden site, structural, or utility issues. Many homeowners keep a separate budget cushion for permit revisions, material changes, and unforeseen conditions. The more uncertain the site and existing structure, the larger the contingency should be.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A contingency reserve is one of the most important parts of planning a room addition or ADU. Existing homes often hide issues that only become visible after demolition, such as damaged framing, foundation problems, outdated wiring, sewer defects, or water intrusion. Because of that uncertainty, homeowners should keep a dedicated budget cushion instead of spending the entire project budget up front. Projects with older homes, complex site conditions, or major utility work generally need a larger reserve than simpler interior remodels. Contingency also helps absorb permit revisions, material price changes, and upgrades that become necessary once construction begins. A contractor should help you separate the base contract amount from the reserve so you know what is truly committed and what is held back for unknowns. Planning with a contingency reduces stress and helps prevent a half-finished project when unexpected costs appear.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A contingency reserve is important because additions and ADUs often reveal hidden site, structural, or utility issues. Many homeowners keep a separate budget cu"
+}

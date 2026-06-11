@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/commercial-construction-in-los-can-i-build-an-adu-on-a-small-lot-in-los-angeles-county",
+  "name": "Can You Build an ADU on a Small Lot in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I build an ADU on a small lot in Los Angeles County?",
+    "text": "Can I build an ADU on a small lot in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Small lots in Los Angeles County are often workable for ADUs, but the usable size depends on the site, not just the total lot square footage. The key factors are setbacks, easements, existing building footprint, driveway access, utility clearances, and available open space. Some lots are better suited to garage conversions or attached ADUs because those options use the existing footprint more efficiently. Others can support a compact detached unit if the placement, access, and service connections fit within the site constraints. Homeowners should not assume the lot is too small until a contractor or designer reviews the parcel and measures the buildable area. A proper feasibility review should also check whether the project affects drainage, parking layout, or required fire access. Early site planning prevents expensive redesigns later and helps identify the most cost-effective ADU type for the property.",
+      "@type": "Answer",
+      "description": "Yes, many small lots can still support an ADU, but feasibility depends on setbacks, fire access, lot coverage, utility space, and existing structures. Small lots often work best with garage conversions, attached ADUs, or compact detached designs. A site review and code check are necessary before finalizing the layout.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Small lots in Los Angeles County are often workable for ADUs, but the usable size depends on the site, not just the total lot square footage. The key factors are setbacks, easements, existing building footprint, driveway access, utility clearances, and available open space. Some lots are better suited to garage conversions or attached ADUs because those options use the existing footprint more efficiently. Others can support a compact detached unit if the placement, access, and service connections fit within the site constraints. Homeowners should not assume the lot is too small until a contractor or designer reviews the parcel and measures the buildable area. A proper feasibility review should also check whether the project affects drainage, parking layout, or required fire access. Early site planning prevents expensive redesigns later and helps identify the most cost-effective ADU type for the property.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, many small lots can still support an ADU, but feasibility depends on setbacks, fire access, lot coverage, utility space, and existing structures. Small lot"
+}

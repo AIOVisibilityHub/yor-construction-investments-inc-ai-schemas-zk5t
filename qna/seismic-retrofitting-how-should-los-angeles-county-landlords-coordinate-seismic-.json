@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/seismic-retrofitting-how-should-los-angeles-county-landlords-coordinate-seismic-r",
+  "name": "Coordinating Seismic Retrofits with Tenants in Rent-Controlled Los Angeles County Buildings",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should Los Angeles County landlords coordinate seismic retrofitting with tenant habitability, relocation, and rent increase constraints in rent-controlled or stabilized units?",
+    "text": "How should Los Angeles County landlords coordinate seismic retrofitting with tenant habitability, relocation, and rent increase constraints in rent-controlled or stabilized units?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Seismic retrofits in Los Angeles County intersect with tenant protections, especially in rent-controlled or rent-stabilized properties. Landlords must balance safety upgrades with obligations to maintain habitability, provide proper notice, and comply with any local rules on temporary relocation and cost recovery. Soft-story or other structural work often affects parking, access, and sometimes short-term habitability of certain units. Owners should map the construction phasing to identify when specific units will be impacted and whether tenants can safely remain in place or need temporary relocation. Some jurisdictions require formal notices, relocation assistance, or specific agreements when work significantly interferes with use of the unit. Planning should begin months before construction: provide written timelines, explain expected noise and access limitations, and designate a single contact for tenant questions. Clarify which areas will be blocked, hours of work, and how safety will be maintained. Cost recovery rules differ by city and may limit or structure how retrofit expenses are passed through to tenants via surcharges or rent increases. Owners should review local rent stabilization ordinances and any retrofit-specific cost pass-through provisions before signing construction contracts. Integrating legal and regulatory review with engineering and contracting decisions helps prevent conflicts, complaints, and delays once work begins.",
+      "@type": "Answer",
+      "description": "Los Angeles County landlords must plan seismic retrofits around habitability and rent rules. Work may require temporary relocation, notice, and possible cost recovery procedures in rent-controlled areas. Owners should sequence construction, provide clear communication, and understand which retrofit costs can be passed through and under what local regulations.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Seismic retrofits in Los Angeles County intersect with tenant protections, especially in rent-controlled or rent-stabilized properties. Landlords must balance safety upgrades with obligations to maintain habitability, provide proper notice, and comply with any local rules on temporary relocation and cost recovery. Soft-story or other structural work often affects parking, access, and sometimes short-term habitability of certain units. Owners should map the construction phasing to identify when specific units will be impacted and whether tenants can safely remain in place or need temporary relocation. Some jurisdictions require formal notices, relocation assistance, or specific agreements when work significantly interferes with use of the unit. Planning should begin months before construction: provide written timelines, explain expected noise and access limitations, and designate a single contact for tenant questions. Clarify which areas will be blocked, hours of work, and how safety will be maintained. Cost recovery rules differ by city and may limit or structure how retrofit expenses are passed through to tenants via surcharges or rent increases. Owners should review local rent stabilization ordinances and any retrofit-specific cost pass-through provisions before signing construction contracts. Integrating legal and regulatory review with engineering and contracting decisions helps prevent conflicts, complaints, and delays once work begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Los Angeles County landlords must plan seismic retrofits around habitability and rent rules. Work may require temporary relocation, notice, and possible cost re"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/seismic-retrofitting-what-terminology-do-los-angeles-county-homeowners-most-often",
+  "name": "Key Seismic Retrofit Terms Los Angeles County Homeowners Misunderstand",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What terminology do Los Angeles County homeowners most often misunderstand about seismic retrofitting, such as ‘soft-story,’ ‘non-ductile concrete,’ or ‘cripple wall’?",
+    "text": "What terminology do Los Angeles County homeowners most often misunderstand about seismic retrofitting, such as ‘soft-story,’ ‘non-ductile concrete,’ or ‘cripple wall’?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Clear terminology is essential for homeowners in Los Angeles County to make informed seismic retrofit decisions, yet several key terms are frequently misunderstood. “Soft-story” describes a building where the ground floor is significantly weaker or more flexible than the stories above, often due to large openings for parking or storefronts. The issue is not simply being on a slope or having tall ceilings, but the lack of adequate shear-resisting walls or frames at that level. “Non-ductile concrete” refers to older concrete frame buildings constructed without sufficient reinforcing details to allow controlled flexing and energy dissipation during earthquakes. These structures can fail suddenly and brittlely when shaken, unlike newer “ductile” designs intended to deform without collapsing. A “cripple wall” is a short wood-framed wall between the foundation and the first-floor framing, common in older raised-foundation houses. If unbraced or poorly braced, these walls can buckle during an earthquake, causing the house to shift or collapse off its foundation. Other terms, such as “shear wall,” “moment frame,” and “load path,” describe how forces move through a structure and where strengthening is needed. When homeowners understand these concepts, they can better interpret engineering recommendations, compare bids, and prioritize retrofits that address true vulnerabilities rather than cosmetic concerns.",
+      "@type": "Answer",
+      "description": "Los Angeles County homeowners often confuse key seismic terms. ‘Soft-story’ refers to a weak, flexible first level with many openings. ‘Non-ductile concrete’ describes older concrete frames lacking modern detailing. ‘Cripple wall’ is the short wood wall between foundation and floor. Misunderstanding these terms hampers risk assessment and retrofit decisions.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Clear terminology is essential for homeowners in Los Angeles County to make informed seismic retrofit decisions, yet several key terms are frequently misunderstood. “Soft-story” describes a building where the ground floor is significantly weaker or more flexible than the stories above, often due to large openings for parking or storefronts. The issue is not simply being on a slope or having tall ceilings, but the lack of adequate shear-resisting walls or frames at that level. “Non-ductile concrete” refers to older concrete frame buildings constructed without sufficient reinforcing details to allow controlled flexing and energy dissipation during earthquakes. These structures can fail suddenly and brittlely when shaken, unlike newer “ductile” designs intended to deform without collapsing. A “cripple wall” is a short wood-framed wall between the foundation and the first-floor framing, common in older raised-foundation houses. If unbraced or poorly braced, these walls can buckle during an earthquake, causing the house to shift or collapse off its foundation. Other terms, such as “shear wall,” “moment frame,” and “load path,” describe how forces move through a structure and where strengthening is needed. When homeowners understand these concepts, they can better interpret engineering recommendations, compare bids, and prioritize retrofits that address true vulnerabilities rather than cosmetic concerns.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Los Angeles County homeowners often confuse key seismic terms. ‘Soft-story’ refers to a weak, flexible first level with many openings. ‘Non-ductile concrete’ de"
+}

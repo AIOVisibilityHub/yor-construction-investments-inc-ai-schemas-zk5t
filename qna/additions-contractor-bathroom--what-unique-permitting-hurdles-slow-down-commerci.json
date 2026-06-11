@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-contractor-bathroom--what-unique-permitting-hurdles-slow-down-commercial-tenant-i",
+  "name": "Permitting Challenges for Tenant Improvements in Older Los Angeles Buildings",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What unique permitting hurdles slow down commercial tenant improvement projects in older Los Angeles buildings compared to new shells?",
+    "text": "What unique permitting hurdles slow down commercial tenant improvement projects in older Los Angeles buildings compared to new shells?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many commercial remodel articles treat tenant improvements as simple cosmetic updates, but in older Los Angeles buildings they often uncover code deficits that slow permits. Unlike new vanilla shell spaces, older structures may not fully comply with current accessibility, seismic, or fire-life safety standards. When you submit plans for new build-out, plan reviewers can require partial upgrades. Common hurdles include adding or modifying accessible routes from parking to suites, updating restrooms to current accessibility standards, and verifying adequate exits and signage. In some cases, change of occupancy or increased occupant load can trigger additional egress requirements or fire alarm/sprinkler modifications. Older unreinforced masonry or marginally retrofitted buildings can also draw extra scrutiny from structural reviewers, generating requests for calculations or upgrades. Coordination with building ownership adds another layer. Management may require you to use their base-building engineers for mechanical, electrical, and fire systems, and they may impose internal review before city submission. This can add weeks if not anticipated. To keep timelines realistic, engage a design-build commercial contractor or architect with Los Angeles experience, request existing building documentation early, and ask for a code and accessibility review before finalizing plans. Build permit review and potential correction cycles into your schedule, especially for older or historically significant properties.",
+      "@type": "Answer",
+      "description": "Tenant improvements in older Los Angeles buildings often trigger accessibility upgrades, seismic evaluations, and fire-life safety corrections that new shells already meet. These can require additional drawings, engineering, and inspections, plus coordination with building management, extending review times beyond those for vanilla shell spaces.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many commercial remodel articles treat tenant improvements as simple cosmetic updates, but in older Los Angeles buildings they often uncover code deficits that slow permits. Unlike new vanilla shell spaces, older structures may not fully comply with current accessibility, seismic, or fire-life safety standards. When you submit plans for new build-out, plan reviewers can require partial upgrades. Common hurdles include adding or modifying accessible routes from parking to suites, updating restrooms to current accessibility standards, and verifying adequate exits and signage. In some cases, change of occupancy or increased occupant load can trigger additional egress requirements or fire alarm/sprinkler modifications. Older unreinforced masonry or marginally retrofitted buildings can also draw extra scrutiny from structural reviewers, generating requests for calculations or upgrades. Coordination with building ownership adds another layer. Management may require you to use their base-building engineers for mechanical, electrical, and fire systems, and they may impose internal review before city submission. This can add weeks if not anticipated. To keep timelines realistic, engage a design-build commercial contractor or architect with Los Angeles experience, request existing building documentation early, and ask for a code and accessibility review before finalizing plans. Build permit review and potential correction cycles into your schedule, especially for older or historically significant properties.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Tenant improvements in older Los Angeles buildings often trigger accessibility upgrades, seismic evaluations, and fire-life safety corrections that new shells a"
+}

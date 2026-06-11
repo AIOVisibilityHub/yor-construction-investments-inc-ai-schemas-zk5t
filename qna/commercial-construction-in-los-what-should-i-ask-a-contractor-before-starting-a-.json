@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/commercial-construction-in-los-what-should-i-ask-a-contractor-before-starting-a-bathroom-re",
+  "name": "What Should You Ask Before a Bathroom Remodel Starts?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I ask a contractor before starting a bathroom remodel in Los Angeles County?",
+    "text": "What should I ask a contractor before starting a bathroom remodel in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before starting a bathroom remodel, ask the contractor how they handle permits, waterproofing, plumbing changes, ventilation, tile setting, and inspections. Bathroom projects often uncover hidden issues such as water damage, mold, damaged subflooring, or outdated plumbing, so you should also ask how surprise conditions are priced and approved. A good contractor will explain the construction sequence, how the work area will be protected from dust and moisture, and how long the bathroom will be out of service. Ask whether the bid includes demolition, hauling, waterproofing, fixture installation, and final cleanup, because some proposals only cover the visible finish work. Payment schedule, warranty coverage, and the change-order process should also be clear before the project begins. A detailed contract reduces confusion and helps keep the remodel on budget and on schedule.",
+      "@type": "Answer",
+      "description": "Ask about permit needs, waterproofing method, plumbing fixture locations, timeline, dust protection, payment schedule, warranty, and how change orders are handled. Bathroom remodels often hide damage behind walls and under floors, so it is important to understand how the contractor handles surprises before work starts.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before starting a bathroom remodel, ask the contractor how they handle permits, waterproofing, plumbing changes, ventilation, tile setting, and inspections. Bathroom projects often uncover hidden issues such as water damage, mold, damaged subflooring, or outdated plumbing, so you should also ask how surprise conditions are priced and approved. A good contractor will explain the construction sequence, how the work area will be protected from dust and moisture, and how long the bathroom will be out of service. Ask whether the bid includes demolition, hauling, waterproofing, fixture installation, and final cleanup, because some proposals only cover the visible finish work. Payment schedule, warranty coverage, and the change-order process should also be clear before the project begins. A detailed contract reduces confusion and helps keep the remodel on budget and on schedule.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about permit needs, waterproofing method, plumbing fixture locations, timeline, dust protection, payment schedule, warranty, and how change orders are handl"
+}

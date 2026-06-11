@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/roofing-how-often-should-a-roof-be-inspected-in-los-angeles-county",
+  "name": "How Often Should a Roof Be Inspected in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How often should a roof be inspected in Los Angeles County?",
+    "text": "How often should a roof be inspected in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Annual inspections are a practical baseline for most roofs in Los Angeles County, with extra inspections after strong wind, heavy rain, or any nearby tree or debris impact. Older roofs and flat roofs may need closer monitoring because small failures can spread quickly. Inspections are especially valuable before buying or selling a home, after repairs, or when a roof is nearing the end of its expected service life. In a climate dominated by sun and heat, damage often develops gradually rather than through one dramatic event, so waiting for a leak can be costly. A good inspection should look at flashing, drainage, surface condition, sealants, penetrations, and attic signs of moisture. If the roof has been repaired multiple times, periodic inspections can help determine whether ongoing patching is still worthwhile or whether replacement should be planned.",
+      "@type": "Answer",
+      "description": "A roof should usually be inspected at least once a year and after major wind or rain events. In Los Angeles County, sun exposure can age materials even when there is no visible storm damage. More frequent checks are useful for older roofs, flat roofs, and homes with previous leak history.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Annual inspections are a practical baseline for most roofs in Los Angeles County, with extra inspections after strong wind, heavy rain, or any nearby tree or debris impact. Older roofs and flat roofs may need closer monitoring because small failures can spread quickly. Inspections are especially valuable before buying or selling a home, after repairs, or when a roof is nearing the end of its expected service life. In a climate dominated by sun and heat, damage often develops gradually rather than through one dramatic event, so waiting for a leak can be costly. A good inspection should look at flashing, drainage, surface condition, sealants, penetrations, and attic signs of moisture. If the roof has been repaired multiple times, periodic inspections can help determine whether ongoing patching is still worthwhile or whether replacement should be planned.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A roof should usually be inspected at least once a year and after major wind or rain events. In Los Angeles County, sun exposure can age materials even when the"
+}

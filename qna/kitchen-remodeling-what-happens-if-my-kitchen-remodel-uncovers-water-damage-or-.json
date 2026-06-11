@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/kitchen-remodeling-what-happens-if-my-kitchen-remodel-uncovers-water-damage-or-",
+  "name": "What If a Kitchen Remodel Finds Water Damage or Mold?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if my kitchen remodel uncovers water damage or mold?",
+    "text": "What happens if my kitchen remodel uncovers water damage or mold?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Water damage or mold discovered during a kitchen remodel should be treated as a scope change, not a surprise to ignore. The contractor should document the condition, identify the source if possible, and estimate the repair work needed before continuing in the affected area. Sometimes the fix is limited to drywall, insulation, or cabinetry. Other times it reveals a bigger issue such as a leaking pipe, poor ventilation, or damaged framing. In Los Angeles County, older kitchens and long-term moisture exposure can make this more common than homeowners expect. The project should not move forward over damaged materials until the cause is addressed, because new finishes installed over unresolved moisture problems can fail later. This is why a contingency budget is so important in any remodel.",
+      "@type": "Answer",
+      "description": "If water damage or mold is found, the contractor should stop the affected work, document the condition, and price the repairs before continuing. The extent of the damage determines whether the issue is isolated drywall repair or a larger fix involving framing, plumbing, or ventilation.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Water damage or mold discovered during a kitchen remodel should be treated as a scope change, not a surprise to ignore. The contractor should document the condition, identify the source if possible, and estimate the repair work needed before continuing in the affected area. Sometimes the fix is limited to drywall, insulation, or cabinetry. Other times it reveals a bigger issue such as a leaking pipe, poor ventilation, or damaged framing. In Los Angeles County, older kitchens and long-term moisture exposure can make this more common than homeowners expect. The project should not move forward over damaged materials until the cause is addressed, because new finishes installed over unresolved moisture problems can fail later. This is why a contingency budget is so important in any remodel.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If water damage or mold is found, the contractor should stop the affected work, document the condition, and price the repairs before continuing. The extent of t"
+}

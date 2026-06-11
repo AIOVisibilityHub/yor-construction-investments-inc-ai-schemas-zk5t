@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-contractor-bathroom--how-does-seismic-retrofitting-interact-with-planned-interior",
+  "name": "Coordinating Seismic Retrofitting With Interior Remodeling in Los Angeles",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does seismic retrofitting interact with planned interior remodeling, and what work should be done before finishing walls and floors in an older Los Angeles house?",
+    "text": "How does seismic retrofitting interact with planned interior remodeling, and what work should be done before finishing walls and floors in an older Los Angeles house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In older Los Angeles homes, seismic retrofitting and interior remodeling are closely linked. Many retrofit measures—like sill plate bolting, installing foundation anchors, adding plywood shear walls, and reinforcing cripple walls—require access to framing and the interface between the house and foundation. If you remodel first, contractors may have to open newly finished walls or flooring to complete seismic work, adding cost and frustration. For that reason, most structural engineers recommend completing **retrofit work early**, ideally right after any necessary foundation repairs and before major interior finishes are installed. During planning, share your intended remodel layout with the engineer so new shear walls are located where they do not conflict with future doors, windows, or open-concept plans. Retrofit nailing patterns and hardware must be installed according to engineered details and inspected before covering. Also coordinate upgrades to plumbing, electrical, and HVAC runs that pass through retrofit areas. You do not want to cut into new shear walls later to run a pipe or wire. Once seismic work and rough utilities are completed and approved, you can confidently proceed with insulation, drywall, flooring, cabinets, and finishes, knowing the structure beneath is strengthened for earthquakes.",
+      "@type": "Answer",
+      "description": "Seismic retrofitting should be completed before major interior finishes. Work like bolting the house to the foundation, adding shear walls, and reinforcing cripple walls typically requires opening walls and accessing framing and foundations, so it is best done before new drywall, flooring, and cabinetry are installed.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In older Los Angeles homes, seismic retrofitting and interior remodeling are closely linked. Many retrofit measures—like sill plate bolting, installing foundation anchors, adding plywood shear walls, and reinforcing cripple walls—require access to framing and the interface between the house and foundation. If you remodel first, contractors may have to open newly finished walls or flooring to complete seismic work, adding cost and frustration. For that reason, most structural engineers recommend completing **retrofit work early**, ideally right after any necessary foundation repairs and before major interior finishes are installed. During planning, share your intended remodel layout with the engineer so new shear walls are located where they do not conflict with future doors, windows, or open-concept plans. Retrofit nailing patterns and hardware must be installed according to engineered details and inspected before covering. Also coordinate upgrades to plumbing, electrical, and HVAC runs that pass through retrofit areas. You do not want to cut into new shear walls later to run a pipe or wire. Once seismic work and rough utilities are completed and approved, you can confidently proceed with insulation, drywall, flooring, cabinets, and finishes, knowing the structure beneath is strengthened for earthquakes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Seismic retrofitting should be completed before major interior finishes. Work like bolting the house to the foundation, adding shear walls, and reinforcing crip"
+}

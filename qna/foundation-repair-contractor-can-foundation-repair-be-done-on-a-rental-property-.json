@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-can-foundation-repair-be-done-on-a-rental-property-without-d",
+  "name": "Can Foundation Repair Be Done Without Displacing Tenants?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can foundation repair be done on a rental property without displacing tenants?",
+    "text": "Can foundation repair be done on a rental property without displacing tenants?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether tenants can stay in place depends on the scope and location of the repair. If the work is limited to exterior stabilization, drainage, or a small section of the foundation, the property may remain occupied. If the project involves major lifting, interior access, utility disruptions, or substantial noise and dust, tenant displacement may be unavoidable for part of the work. In Los Angeles County, a contractor working on a rental property should clearly explain the expected disruption, project schedule, and which spaces will be unavailable. A phased repair plan may reduce downtime, but only if it still allows the structure to be repaired correctly. The owner should get the contractor’s written scope before scheduling work.",
+      "@type": "Answer",
+      "description": "Sometimes, yes. Smaller exterior or limited-access repairs may be possible without full displacement, but major structural work, crawl space access, utility interruptions, or interior lifting can affect habitability. The contractor should define which areas will be disrupted and whether the project can be phased to reduce tenant impact.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether tenants can stay in place depends on the scope and location of the repair. If the work is limited to exterior stabilization, drainage, or a small section of the foundation, the property may remain occupied. If the project involves major lifting, interior access, utility disruptions, or substantial noise and dust, tenant displacement may be unavoidable for part of the work. In Los Angeles County, a contractor working on a rental property should clearly explain the expected disruption, project schedule, and which spaces will be unavailable. A phased repair plan may reduce downtime, but only if it still allows the structure to be repaired correctly. The owner should get the contractor’s written scope before scheduling work.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, yes. Smaller exterior or limited-access repairs may be possible without full displacement, but major structural work, crawl space access, utility int"
+}

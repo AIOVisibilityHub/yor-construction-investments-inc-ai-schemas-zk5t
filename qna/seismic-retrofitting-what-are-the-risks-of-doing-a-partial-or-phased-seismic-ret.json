@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/seismic-retrofitting-what-are-the-risks-of-doing-a-partial-or-phased-seismic-retr",
+  "name": "Risks and Considerations for Partial Seismic Retrofits in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the risks of doing a partial or phased seismic retrofit in Los Angeles County instead of upgrading the whole building at once?",
+    "text": "What are the risks of doing a partial or phased seismic retrofit in Los Angeles County instead of upgrading the whole building at once?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Owners sometimes consider partial or phased seismic retrofits in Los Angeles County to spread costs and limit disruption. While phasing can be workable, it introduces structural and practical risks if not carefully engineered. From a structural perspective, strengthening only part of a building can create stiffness irregularities where retrofitted sections are much stronger than adjacent areas. During an earthquake, this mismatch can concentrate damage in unretrofitted portions, potentially worsening performance compared with a uniformly weak building. Load paths may change, with forces rerouted to elements not designed for them. Phasing also complicates future work. Later retrofit stages must account for existing upgrades, which may limit options or require removing and reworking previously installed elements. Documentation and continuity of engineering responsibility become critical to ensure compatibility across phases. On the compliance side, ordinances may require certain minimum scopes to consider a building compliant, limiting how far owners can segment the work. Insurers and lenders may also prefer a complete retrofit before recognizing risk reductions. If phasing is unavoidable, owners should work with a structural engineer to define logical seismic segments that perform adequately on their own and include clear provisions for future strengthening. A master retrofit plan, even if executed in stages, helps maintain consistent performance goals and minimize unintended consequences.",
+      "@type": "Answer",
+      "description": "Partial or phased seismic retrofits in Los Angeles County can leave unaddressed weaknesses, create irregular load paths, and complicate future work. While phasing can help manage budget and occupancy, owners must ensure each phase stands alone structurally and does not increase vulnerability in other parts of the building.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Owners sometimes consider partial or phased seismic retrofits in Los Angeles County to spread costs and limit disruption. While phasing can be workable, it introduces structural and practical risks if not carefully engineered. From a structural perspective, strengthening only part of a building can create stiffness irregularities where retrofitted sections are much stronger than adjacent areas. During an earthquake, this mismatch can concentrate damage in unretrofitted portions, potentially worsening performance compared with a uniformly weak building. Load paths may change, with forces rerouted to elements not designed for them. Phasing also complicates future work. Later retrofit stages must account for existing upgrades, which may limit options or require removing and reworking previously installed elements. Documentation and continuity of engineering responsibility become critical to ensure compatibility across phases. On the compliance side, ordinances may require certain minimum scopes to consider a building compliant, limiting how far owners can segment the work. Insurers and lenders may also prefer a complete retrofit before recognizing risk reductions. If phasing is unavoidable, owners should work with a structural engineer to define logical seismic segments that perform adequately on their own and include clear provisions for future strengthening. A master retrofit plan, even if executed in stages, helps maintain consistent performance goals and minimize unintended consequences.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Partial or phased seismic retrofits in Los Angeles County can leave unaddressed weaknesses, create irregular load paths, and complicate future work. While phasi"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/paving-contractor-foundation-r-what-size-air-conditioner-do-i-need-for-a-house-in-los-angel",
+  "name": "How to Size an Air Conditioner Correctly",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What size air conditioner do I need for a house in Los Angeles County?",
+    "text": "What size air conditioner do I need for a house in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "AC sizing should never be based only on square footage. A contractor should perform a load calculation that accounts for insulation, window size and orientation, ceiling height, occupancy, duct condition, and how much sun the home gets during the day. In Los Angeles County, west-facing rooms, older insulation, and attic heat can significantly change the cooling load. Oversized units tend to cycle on and off too quickly, which can reduce comfort and humidity control, while undersized units run constantly and still fail to cool the space. Ask the contractor to explain the sizing method and show the assumptions used. If they recommend a unit without a load calculation, the risk of poor performance is much higher.",
+      "@type": "Answer",
+      "description": "The right AC size depends on the home’s square footage, insulation, window exposure, ceiling height, duct condition, and local heat load. A unit that is too large can short-cycle and waste energy, while one that is too small may never cool the home properly. Proper sizing should be based on a load calculation, not guesswork.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "AC sizing should never be based only on square footage. A contractor should perform a load calculation that accounts for insulation, window size and orientation, ceiling height, occupancy, duct condition, and how much sun the home gets during the day. In Los Angeles County, west-facing rooms, older insulation, and attic heat can significantly change the cooling load. Oversized units tend to cycle on and off too quickly, which can reduce comfort and humidity control, while undersized units run constantly and still fail to cool the space. Ask the contractor to explain the sizing method and show the assumptions used. If they recommend a unit without a load calculation, the risk of poor performance is much higher.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The right AC size depends on the home’s square footage, insulation, window exposure, ceiling height, duct condition, and local heat load. A unit that is too lar"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/paving-contractor-foundation-r-what-causes-solar-production-to-drop-after-installation-even",
+  "name": "Why Solar Production Drops After Installation",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What causes solar production to drop after installation even when the system was working before?",
+    "text": "What causes solar production to drop after installation even when the system was working before?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A decline in production can be normal if it matches seasonal sunlight changes, but a sudden or sustained drop usually indicates a problem. Common causes include inverter failure, damaged wiring, loose connections, dirt buildup, shading from new tree growth or nearby construction, and system shutdown after a fault. In some cases, a roof leak or mounting issue can also affect performance. The first step is to check the monitoring app or inverter alerts to see whether the system is producing less than expected or not communicating at all. In Los Angeles County, dust accumulation and new shading from landscaping can also reduce output over time. If the drop is large, the installer should inspect the system rather than guessing based only on an electric bill.",
+      "@type": "Answer",
+      "description": "Solar production can drop because of shading changes, inverter problems, dirty panels, wiring faults, roof damage, or utility-related issues. Seasonal weather and angle changes can also affect output, but a sharp or sudden drop usually points to a technical problem. Monitoring data is the fastest way to identify when output falls and when it started.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A decline in production can be normal if it matches seasonal sunlight changes, but a sudden or sustained drop usually indicates a problem. Common causes include inverter failure, damaged wiring, loose connections, dirt buildup, shading from new tree growth or nearby construction, and system shutdown after a fault. In some cases, a roof leak or mounting issue can also affect performance. The first step is to check the monitoring app or inverter alerts to see whether the system is producing less than expected or not communicating at all. In Los Angeles County, dust accumulation and new shading from landscaping can also reduce output over time. If the drop is large, the installer should inspect the system rather than guessing based only on an electric bill.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Solar production can drop because of shading changes, inverter problems, dirty panels, wiring faults, roof damage, or utility-related issues. Seasonal weather a"
+}

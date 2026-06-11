@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-what-foundation-problems-are-most-common-in-los-angeles-coun",
+  "name": "Most Common Foundation Problems in Los Angeles County Homes",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What foundation problems are most common in Los Angeles County homes?",
+    "text": "What foundation problems are most common in Los Angeles County homes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Los Angeles County homes commonly experience settlement from changing soil conditions, cracked slabs, differential movement between parts of the structure, and hillside instability in sloped areas. Moisture changes can cause soil to expand and contract, while earthquakes and repeated minor tremors can worsen existing weaknesses. Older homes may also have crawl space issues, inadequate drainage, or footing deterioration that shows up as sloping floors, wall cracks, or jammed doors. Because the visible symptom is not always the actual cause, a contractor should inspect the grading, drainage, foundation type, surrounding soil, and any signs of active movement. The right repair depends on whether the issue is localized or structural, and whether water management or reinforcement is needed first.",
+      "@type": "Answer",
+      "description": "The most common foundation problems in Los Angeles County include settlement, slab cracks, slope-related movement, moisture-related soil expansion, and seismic damage. Older homes may also have weakened footings, deteriorated crawl spaces, or framing shifts caused by past repairs. A foundation repair contractor should identify the underlying cause before recommending piers, underpinning, drainage, or stabilization.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Los Angeles County homes commonly experience settlement from changing soil conditions, cracked slabs, differential movement between parts of the structure, and hillside instability in sloped areas. Moisture changes can cause soil to expand and contract, while earthquakes and repeated minor tremors can worsen existing weaknesses. Older homes may also have crawl space issues, inadequate drainage, or footing deterioration that shows up as sloping floors, wall cracks, or jammed doors. Because the visible symptom is not always the actual cause, a contractor should inspect the grading, drainage, foundation type, surrounding soil, and any signs of active movement. The right repair depends on whether the issue is localized or structural, and whether water management or reinforcement is needed first.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common foundation problems in Los Angeles County include settlement, slab cracks, slope-related movement, moisture-related soil expansion, and seismic "
+}

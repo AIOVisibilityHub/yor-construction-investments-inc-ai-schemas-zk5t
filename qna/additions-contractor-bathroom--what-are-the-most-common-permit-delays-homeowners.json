@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-contractor-bathroom--what-are-the-most-common-permit-delays-homeowners-face-for-g",
+  "name": "Common ADU and Garage Conversion Permit Delays in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most common permit delays homeowners face for garage conversions and ADUs in Los Angeles County, and how can they be avoided?",
+    "text": "What are the most common permit delays homeowners face for garage conversions and ADUs in Los Angeles County, and how can they be avoided?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "ADU and garage conversion permits in Los Angeles County are often delayed by avoidable issues. The most frequent problems involve **incomplete or unclear plans**. Missing site plans, inaccurate property lines, or lack of dimensioned setbacks can all trigger correction cycles. In many areas, questions about fire access, utility easements, or hillside conditions also slow approvals. Parking and **setback compliance** are common sticking points, especially when converting existing garages near property lines. Plans should clearly show how the project meets current ADU rules or qualifies under specific exceptions. Likewise, providing early confirmation of sewer and utility connections—showing where the ADU will tie into existing lines and whether upgrades are needed—helps plan reviewers. Other delays come from not addressing **fire separation and egress** requirements, particularly when converting attached garages or building two-story ADUs. Plan checkers may request additional details on wall assemblies, exterior materials, and window placements. To avoid these issues, work with a designer or design–build firm experienced in **local ADU ordinances**. Provide a complete site survey, utility information, and photos with your submittal. Respond promptly and thoroughly to correction comments rather than piecemeal. This can shorten the overall permitting timeline and reduce costly redesigns during construction.",
+      "@type": "Answer",
+      "description": "Frequent ADU permit delays come from incomplete drawings, unclear parking or setback compliance, missing utility and sewer information, and unaddressed fire or easement issues. Using a designer familiar with local ADU rules, providing full site plans, and responding quickly to plan-check corrections can significantly reduce review time.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "ADU and garage conversion permits in Los Angeles County are often delayed by avoidable issues. The most frequent problems involve **incomplete or unclear plans**. Missing site plans, inaccurate property lines, or lack of dimensioned setbacks can all trigger correction cycles. In many areas, questions about fire access, utility easements, or hillside conditions also slow approvals. Parking and **setback compliance** are common sticking points, especially when converting existing garages near property lines. Plans should clearly show how the project meets current ADU rules or qualifies under specific exceptions. Likewise, providing early confirmation of sewer and utility connections—showing where the ADU will tie into existing lines and whether upgrades are needed—helps plan reviewers. Other delays come from not addressing **fire separation and egress** requirements, particularly when converting attached garages or building two-story ADUs. Plan checkers may request additional details on wall assemblies, exterior materials, and window placements. To avoid these issues, work with a designer or design–build firm experienced in **local ADU ordinances**. Provide a complete site survey, utility information, and photos with your submittal. Respond promptly and thoroughly to correction comments rather than piecemeal. This can shorten the overall permitting timeline and reduce costly redesigns during construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Frequent ADU permit delays come from incomplete drawings, unclear parking or setback compliance, missing utility and sewer information, and unaddressed fire or "
+}

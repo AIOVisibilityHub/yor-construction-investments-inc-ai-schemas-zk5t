@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-what-should-a-foundation-repair-contractor-inspect-during-a-",
+  "name": "What a Foundation Repair Inspection Should Include",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a foundation repair contractor inspect during a first visit?",
+    "text": "What should a foundation repair contractor inspect during a first visit?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A proper first inspection should be more than a quick look at visible cracks. The contractor should evaluate the perimeter foundation, interior flooring, wall and ceiling cracks, foundation vents or crawl space conditions, site grading, drainage pathways, and any signs that movement is still active. They should also ask when the issues first appeared, whether they are getting worse, and whether past repairs or water problems are involved. In Los Angeles County, hillside conditions, expansive soils, and drainage problems are especially important. A strong inspection ends with a clear explanation of the likely cause, the severity, and the practical repair options rather than a sales pitch. If the contractor cannot explain what is moving and why, the diagnosis is incomplete.",
+      "@type": "Answer",
+      "description": "A foundation repair contractor should inspect exterior cracks, floor slope, wall separation, door and window operation, drainage, grading, crawl space or slab conditions, and any signs of active movement. In Los Angeles County, the contractor should also check hillside influence, soil moisture issues, and whether prior repairs failed. The inspection should identify cause, severity, and repair options.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A proper first inspection should be more than a quick look at visible cracks. The contractor should evaluate the perimeter foundation, interior flooring, wall and ceiling cracks, foundation vents or crawl space conditions, site grading, drainage pathways, and any signs that movement is still active. They should also ask when the issues first appeared, whether they are getting worse, and whether past repairs or water problems are involved. In Los Angeles County, hillside conditions, expansive soils, and drainage problems are especially important. A strong inspection ends with a clear explanation of the likely cause, the severity, and the practical repair options rather than a sales pitch. If the contractor cannot explain what is moving and why, the diagnosis is incomplete.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A foundation repair contractor should inspect exterior cracks, floor slope, wall separation, door and window operation, drainage, grading, crawl space or slab c"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-how-do-i-know-if-a-foundation-repair-estimate-is-too-vague",
+  "name": "How to Tell if a Foundation Repair Estimate Is Too Vague",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if a foundation repair estimate is too vague?",
+    "text": "How do I know if a foundation repair estimate is too vague?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A good estimate should tell you what problem was found, what repair is recommended, and why that repair is appropriate. If the document only says “foundation repair” or gives a lump-sum price without details, you cannot compare bids or judge whether the solution fits the issue. In Los Angeles County, where homes may sit on flat soil, expansive soil, or hillside lots, the repair approach can vary dramatically. A stronger estimate should identify whether the project includes engineering, permit handling, drainage correction, lifting, stabilization, or restoration. If the contractor cannot explain the scope clearly, ask for a revised written proposal before agreeing to the work.",
+      "@type": "Answer",
+      "description": "An estimate is too vague if it only lists a price without explaining the cause, repair method, materials, permit needs, or exclusions. A useful foundation repair estimate should describe what is wrong, how the contractor plans to stabilize it, and what testing or inspection supports the recommendation. In Los Angeles County, vague estimates are a warning sign because site conditions vary widely.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A good estimate should tell you what problem was found, what repair is recommended, and why that repair is appropriate. If the document only says “foundation repair” or gives a lump-sum price without details, you cannot compare bids or judge whether the solution fits the issue. In Los Angeles County, where homes may sit on flat soil, expansive soil, or hillside lots, the repair approach can vary dramatically. A stronger estimate should identify whether the project includes engineering, permit handling, drainage correction, lifting, stabilization, or restoration. If the contractor cannot explain the scope clearly, ask for a revised written proposal before agreeing to the work.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An estimate is too vague if it only lists a price without explaining the cause, repair method, materials, permit needs, or exclusions. A useful foundation repai"
+}

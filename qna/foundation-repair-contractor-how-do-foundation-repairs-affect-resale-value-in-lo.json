@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-how-do-foundation-repairs-affect-resale-value-in-los-angeles",
+  "name": "How Foundation Repairs Affect Resale Value",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do foundation repairs affect resale value in Los Angeles County?",
+    "text": "How do foundation repairs affect resale value in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Foundation repairs can support resale value when they are professionally done and well documented. Buyers usually want to know what failed, how it was repaired, whether the work was permitted, and whether there is a transferable warranty or inspection record. If the repair is incomplete, concealed, or not tied to a clear diagnosis, it may raise more concerns than it solves. In Los Angeles County, where buyers may be sensitive to seismic and soil-related issues, clear documentation matters. Keep inspection reports, photos, permit records, engineering documents, and final completion paperwork. A contractor who explains the repair in writing can make it easier to answer buyer questions later.",
+      "@type": "Answer",
+      "description": "Properly documented foundation repairs can help preserve resale value because buyers want evidence that the structural issue was addressed. Poorly explained, incomplete, or unpermitted repairs can reduce confidence and complicate the sale. In Los Angeles County, records showing diagnosis, permits, engineering, and completion are especially important for buyer trust.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Foundation repairs can support resale value when they are professionally done and well documented. Buyers usually want to know what failed, how it was repaired, whether the work was permitted, and whether there is a transferable warranty or inspection record. If the repair is incomplete, concealed, or not tied to a clear diagnosis, it may raise more concerns than it solves. In Los Angeles County, where buyers may be sensitive to seismic and soil-related issues, clear documentation matters. Keep inspection reports, photos, permit records, engineering documents, and final completion paperwork. A contractor who explains the repair in writing can make it easier to answer buyer questions later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Properly documented foundation repairs can help preserve resale value because buyers want evidence that the structural issue was addressed. Poorly explained, in"
+}

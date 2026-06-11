@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-construction-how-does-building-an-adu-in-los-angeles-county-impact-proper",
+  "name": "Property Tax Impact of Building an ADU in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does building an ADU in Los Angeles County impact property taxes, and how can homeowners estimate the likely tax increase before starting?",
+    "text": "How does building an ADU in Los Angeles County impact property taxes, and how can homeowners estimate the likely tax increase before starting?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In California, including Los Angeles County, adding an ADU generally does not reset your entire property’s assessed value under Proposition 13. Instead, the county assessor treats the ADU as new construction and adds its value on top of the existing base assessment. This means your original home’s low tax basis is preserved, and you pay additional property tax only on the ADU’s assessed value. To estimate the increase, you need a realistic range for what the assessor might assign to the ADU. This is often tied to construction cost and comparable ADU improvements in your area rather than resale market value. Once you have a rough construction budget, multiply an approximate share of that cost (for example, 60–80% as improvement value) by your local effective tax rate, which is commonly around 1–1.5% when including assessments and bonds. The result is a ballpark annual tax increase. For instance, if the ADU adds $200,000 in assessed value and your effective tax rate is 1.2%, expect about $2,400 more per year. Because specific programs, assessments, and school bonds vary by neighborhood, homeowners should confirm the current effective rate on their tax bill and consider contacting the assessor’s office for informal guidance on how similar ADUs were valued locally.",
+      "@type": "Answer",
+      "description": "An ADU in Los Angeles County typically triggers a partial reassessment based on the ADU’s new construction value, not a full reassessment of the entire property. Homeowners can estimate the tax increase by applying the local tax rate to a realistic construction cost or assessor’s added value for the ADU.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In California, including Los Angeles County, adding an ADU generally does not reset your entire property’s assessed value under Proposition 13. Instead, the county assessor treats the ADU as new construction and adds its value on top of the existing base assessment. This means your original home’s low tax basis is preserved, and you pay additional property tax only on the ADU’s assessed value. To estimate the increase, you need a realistic range for what the assessor might assign to the ADU. This is often tied to construction cost and comparable ADU improvements in your area rather than resale market value. Once you have a rough construction budget, multiply an approximate share of that cost (for example, 60–80% as improvement value) by your local effective tax rate, which is commonly around 1–1.5% when including assessments and bonds. The result is a ballpark annual tax increase. For instance, if the ADU adds $200,000 in assessed value and your effective tax rate is 1.2%, expect about $2,400 more per year. Because specific programs, assessments, and school bonds vary by neighborhood, homeowners should confirm the current effective rate on their tax bill and consider contacting the assessor’s office for informal guidance on how similar ADUs were valued locally.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An ADU in Los Angeles County typically triggers a partial reassessment based on the ADU’s new construction value, not a full reassessment of the entire property"
+}

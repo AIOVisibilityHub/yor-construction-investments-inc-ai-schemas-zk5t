@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/commercial-construction-in-los-how-do-i-choose-between-a-detached-adu-and-an-attached-adu-i",
+  "name": "Detached ADU vs Attached ADU: Which Is Better?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I choose between a detached ADU and an attached ADU in Los Angeles County?",
+    "text": "How do I choose between a detached ADU and an attached ADU in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The choice between a detached and attached ADU usually comes down to budget, privacy, site constraints, and long-term use. A detached ADU typically offers the greatest separation from the main home, which can be appealing for rental income, guest privacy, or multigenerational living. It can also be more marketable because it feels like a separate residence. An attached ADU may cost less in some cases because it shares part of the existing structure and can reduce foundation or exterior work. However, it may create more noise transfer or design limitations because it connects to the main house. On smaller lots, an attached ADU or garage conversion may be the only practical option. Homeowners should compare the upfront construction cost, the amount of yard space preserved, the expected use of the unit, and the complexity of utilities before deciding. A site review is the best way to determine which option fits the property and the budget.",
+      "@type": "Answer",
+      "description": "Choose a detached ADU if you want more privacy, flexibility, and separation from the main house. Choose an attached ADU if you want to share walls or structure and potentially reduce site work and construction cost. The best choice depends on lot size, budget, privacy goals, and utility complexity.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The choice between a detached and attached ADU usually comes down to budget, privacy, site constraints, and long-term use. A detached ADU typically offers the greatest separation from the main home, which can be appealing for rental income, guest privacy, or multigenerational living. It can also be more marketable because it feels like a separate residence. An attached ADU may cost less in some cases because it shares part of the existing structure and can reduce foundation or exterior work. However, it may create more noise transfer or design limitations because it connects to the main house. On smaller lots, an attached ADU or garage conversion may be the only practical option. Homeowners should compare the upfront construction cost, the amount of yard space preserved, the expected use of the unit, and the complexity of utilities before deciding. A site review is the best way to determine which option fits the property and the budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Choose a detached ADU if you want more privacy, flexibility, and separation from the main house. Choose an attached ADU if you want to share walls or structure "
+}

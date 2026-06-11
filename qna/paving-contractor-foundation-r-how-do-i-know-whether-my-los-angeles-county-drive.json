@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/paving-contractor-foundation-r-how-do-i-know-whether-my-los-angeles-county-driveway-needs-r",
+  "name": "Driveway Resurfacing vs Overlay vs Replacement",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know whether my Los Angeles County driveway needs resurfacing, overlay, or full replacement?",
+    "text": "How do I know whether my Los Angeles County driveway needs resurfacing, overlay, or full replacement?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The decision between resurfacing, overlay, and replacement comes down to how much of the driveway structure is still sound. If the surface is worn but the base is stable, resurfacing or an overlay may extend the life of the pavement at a lower cost. If the driveway has alligator cracking, sinking sections, repeated potholes, or poor drainage that keeps returning after repairs, replacement is usually the better long-term option. In Los Angeles County, heat, heavy vehicle use, and soil movement can make small problems spread quickly, so a contractor should inspect both the surface and the base before quoting. Ask whether the estimate includes drainage correction, base repair, and compaction, since these are often the difference between a short-term patch and a lasting repair.",
+      "@type": "Answer",
+      "description": "Minor surface wear, shallow cracks, and oxidation can often be handled with resurfacing or an overlay, while widespread base failure, drainage problems, or large potholes usually require full replacement. The right choice depends on the condition of the subbase, not just the visible surface. A site inspection should test for movement, weak spots, and water pooling before recommending a fix.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The decision between resurfacing, overlay, and replacement comes down to how much of the driveway structure is still sound. If the surface is worn but the base is stable, resurfacing or an overlay may extend the life of the pavement at a lower cost. If the driveway has alligator cracking, sinking sections, repeated potholes, or poor drainage that keeps returning after repairs, replacement is usually the better long-term option. In Los Angeles County, heat, heavy vehicle use, and soil movement can make small problems spread quickly, so a contractor should inspect both the surface and the base before quoting. Ask whether the estimate includes drainage correction, base repair, and compaction, since these are often the difference between a short-term patch and a lasting repair.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Minor surface wear, shallow cracks, and oxidation can often be handled with resurfacing or an overlay, while widespread base failure, drainage problems, or larg"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-do-i-need-a-structural-engineer-before-hiring-a-foundation-r",
+  "name": "Do You Need a Structural Engineer Before Foundation Repair?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need a structural engineer before hiring a foundation repair contractor?",
+    "text": "Do I need a structural engineer before hiring a foundation repair contractor?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "For minor or straightforward foundation issues, a contractor may be able to inspect the problem and recommend a repair approach without outside engineering. For larger or more complex cases, especially hillside properties, major settlement, retaining wall concerns, or multi-story structural movement, engineering input is often important. In Los Angeles County, permit requirements and scope of work can also influence whether an engineer is needed. The best practice is to ask whether the contractor provides diagnosis only, design and build service, or whether they coordinate with a structural engineer. If the repair involves significant lifting, underpinning, or structural alteration, independent engineering can help define the repair scope and support permit submittals.",
+      "@type": "Answer",
+      "description": "You do not always need a structural engineer first, but you may need one when the damage is severe, the cause is unclear, or city permit plans are required. Some foundation repair contractors can assess and design routine repairs, while more complex hillside or multi-issue projects may need engineering input. The safest approach is to ask who will diagnose and who will stamp the repair plan.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "For minor or straightforward foundation issues, a contractor may be able to inspect the problem and recommend a repair approach without outside engineering. For larger or more complex cases, especially hillside properties, major settlement, retaining wall concerns, or multi-story structural movement, engineering input is often important. In Los Angeles County, permit requirements and scope of work can also influence whether an engineer is needed. The best practice is to ask whether the contractor provides diagnosis only, design and build service, or whether they coordinate with a structural engineer. If the repair involves significant lifting, underpinning, or structural alteration, independent engineering can help define the repair scope and support permit submittals.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You do not always need a structural engineer first, but you may need one when the damage is severe, the cause is unclear, or city permit plans are required. Som"
+}

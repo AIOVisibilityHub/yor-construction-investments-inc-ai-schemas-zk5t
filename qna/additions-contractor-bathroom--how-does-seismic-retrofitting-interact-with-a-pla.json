@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-contractor-bathroom--how-does-seismic-retrofitting-interact-with-a-planned-second",
+  "name": "Coordinating Seismic Retrofitting With Additions and Major Remodels",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does seismic retrofitting interact with a planned second-story addition or major remodel in Los Angeles County?",
+    "text": "How does seismic retrofitting interact with a planned second-story addition or major remodel in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most seismic retrofit guides treat strengthening and additions as separate projects, but in Los Angeles County, they are structurally linked. When you add a second story or significantly reconfigure a home, you change the building’s weight and how earthquake forces travel to the foundation. A simple “bolt and brace” retrofit may no longer be adequate once you add those loads. The best approach is to have a structural engineer and general contractor design the retrofit and addition as one integrated system. The engineer will typically evaluate existing foundations, cripple walls, and framing, then size new shear walls, hold-downs, and connections based on the final two-story configuration rather than today’s one-story house. This can mean beefing up foundation elements or adding new footings under key walls and posts. Coordinating both scopes early helps avoid installing hardware or bracing that later conflicts with new openings, stairs, or room layouts. It also reduces duplicate inspections and demolition. If you retrofit first and add later, you may pay twice to open walls and modify structural elements. When discussing your project, be explicit that you plan an addition or major remodel so your team can design seismic upgrades that meet current code and long-term goals in one plan set.",
+      "@type": "Answer",
+      "description": "Seismic retrofitting and second-story additions should be engineered together. Adding a floor increases lateral loads, so foundation bolting, shear walls, and hold-downs often must be upgraded beyond a basic retrofit. Coordinating both designs at once avoids redundant work, change orders, and conflicting structural details during construction.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most seismic retrofit guides treat strengthening and additions as separate projects, but in Los Angeles County, they are structurally linked. When you add a second story or significantly reconfigure a home, you change the building’s weight and how earthquake forces travel to the foundation. A simple “bolt and brace” retrofit may no longer be adequate once you add those loads. The best approach is to have a structural engineer and general contractor design the retrofit and addition as one integrated system. The engineer will typically evaluate existing foundations, cripple walls, and framing, then size new shear walls, hold-downs, and connections based on the final two-story configuration rather than today’s one-story house. This can mean beefing up foundation elements or adding new footings under key walls and posts. Coordinating both scopes early helps avoid installing hardware or bracing that later conflicts with new openings, stairs, or room layouts. It also reduces duplicate inspections and demolition. If you retrofit first and add later, you may pay twice to open walls and modify structural elements. When discussing your project, be explicit that you plan an addition or major remodel so your team can design seismic upgrades that meet current code and long-term goals in one plan set.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Seismic retrofitting and second-story additions should be engineered together. Adding a floor increases lateral loads, so foundation bolting, shear walls, and h"
+}

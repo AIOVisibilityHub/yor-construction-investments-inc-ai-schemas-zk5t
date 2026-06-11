@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-construction-what-adu-design-and-construction-rules-in-los-angeles-county",
+  "name": "ADU Construction in Los Angeles County Fire and Hillside Zones",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What ADU design and construction rules in Los Angeles County change once a property is located in a Very High Fire Hazard Severity Zone or hillside area?",
+    "text": "What ADU design and construction rules in Los Angeles County change once a property is located in a Very High Fire Hazard Severity Zone or hillside area?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Properties in Los Angeles County’s Very High Fire Hazard Severity Zones (VHFHSZ) or hillside areas can still add ADUs, but design and construction rules tighten significantly. In these zones, you may be required to use noncombustible roofing and siding, ember‑resistant vents, tempered glazing, and specific eave and soffit details to comply with wildland–urban interface standards. Fire sprinklers may be triggered if your main house already has them, if the ADU is above certain size thresholds, or if fire department access is constrained. Hillside terrain introduces additional structural and civil engineering needs. Steeper slopes may require deeper foundations, piers, grade beams, or retaining walls, plus geotechnical reports to address soil stability. Access requirements, such as minimum driveway widths and turnarounds, can limit where the ADU can sit on the lot, and narrow or substandard streets sometimes trigger off‑site improvements. Drainage and erosion control details also become more important, affecting both design and cost. Because these rules vary by fire district and hillside ordinance, engage an architect or engineer familiar with ADUs in your specific zone before committing to a layout or budget. Confirm fire access, hydrant locations, and slope constraints with officials early to avoid designing an ADU that cannot be approved without expensive site work or reductions in size.",
+      "@type": "Answer",
+      "description": "In Very High Fire Hazard or hillside zones of Los Angeles County, ADUs often face stricter requirements for fire‑resistant materials, defensible space, emergency access, slopes, retaining walls, and sometimes water supply or sprinklers. These conditions can affect ADU size, placement, cost, and feasibility compared with flat, non‑fire‑zone properties.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Properties in Los Angeles County’s Very High Fire Hazard Severity Zones (VHFHSZ) or hillside areas can still add ADUs, but design and construction rules tighten significantly. In these zones, you may be required to use noncombustible roofing and siding, ember‑resistant vents, tempered glazing, and specific eave and soffit details to comply with wildland–urban interface standards. Fire sprinklers may be triggered if your main house already has them, if the ADU is above certain size thresholds, or if fire department access is constrained. Hillside terrain introduces additional structural and civil engineering needs. Steeper slopes may require deeper foundations, piers, grade beams, or retaining walls, plus geotechnical reports to address soil stability. Access requirements, such as minimum driveway widths and turnarounds, can limit where the ADU can sit on the lot, and narrow or substandard streets sometimes trigger off‑site improvements. Drainage and erosion control details also become more important, affecting both design and cost. Because these rules vary by fire district and hillside ordinance, engage an architect or engineer familiar with ADUs in your specific zone before committing to a layout or budget. Confirm fire access, hydrant locations, and slope constraints with officials early to avoid designing an ADU that cannot be approved without expensive site work or reductions in size.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In Very High Fire Hazard or hillside zones of Los Angeles County, ADUs often face stricter requirements for fire‑resistant materials, defensible space, emergenc"
+}

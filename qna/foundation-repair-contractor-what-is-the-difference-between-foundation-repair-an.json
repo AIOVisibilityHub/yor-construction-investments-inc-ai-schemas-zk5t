@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-what-is-the-difference-between-foundation-repair-and-house-l",
+  "name": "Foundation Repair vs House Leveling: What Is the Difference?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between foundation repair and house leveling?",
+    "text": "What is the difference between foundation repair and house leveling?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Foundation repair is the broader category because it includes diagnosing and correcting the structural cause of movement. House leveling is one possible outcome of that work, where the contractor raises or adjusts the structure to reduce slope or restore alignment. However, leveling alone does not solve the problem if the soil, drainage, or support system remains unstable. In Los Angeles County, a contractor should explain whether the goal is stabilization, leveling, or both. If the home is lifted without addressing why it settled, the same issue may return. The best repair plans combine structural stabilization with any necessary moisture or soil corrections.",
+      "@type": "Answer",
+      "description": "Foundation repair addresses the cause of movement, while house leveling focuses on restoring the structure to a more even position. A house can be leveled temporarily without solving the underlying settlement, drainage, or soil problem. In Los Angeles County, a proper repair plan should explain whether leveling is part of a larger stabilization project.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Foundation repair is the broader category because it includes diagnosing and correcting the structural cause of movement. House leveling is one possible outcome of that work, where the contractor raises or adjusts the structure to reduce slope or restore alignment. However, leveling alone does not solve the problem if the soil, drainage, or support system remains unstable. In Los Angeles County, a contractor should explain whether the goal is stabilization, leveling, or both. If the home is lifted without addressing why it settled, the same issue may return. The best repair plans combine structural stabilization with any necessary moisture or soil corrections.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Foundation repair addresses the cause of movement, while house leveling focuses on restoring the structure to a more even position. A house can be leveled tempo"
+}

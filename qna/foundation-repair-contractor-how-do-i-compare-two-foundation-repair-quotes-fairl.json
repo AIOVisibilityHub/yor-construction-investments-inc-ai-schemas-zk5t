@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-how-do-i-compare-two-foundation-repair-quotes-fairly",
+  "name": "How to Compare Foundation Repair Quotes",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I compare two foundation repair quotes fairly?",
+    "text": "How do I compare two foundation repair quotes fairly?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Fair comparison starts with making sure each contractor is diagnosing the same problem. One quote may cover only stabilization, while another includes drainage, excavation, engineering, or restoration. Look closely at whether the estimate explains the cause of the movement, the exact repair method, permit handling, expected results, and what is not included. In Los Angeles County, access, slope, and site constraints can materially affect cost, so the cheapest proposal is not always the best value. Ask whether the contractor is recommending a temporary fix or a long-term structural solution. If one bid is much lower, determine whether it omits lifting, soil correction, interior patching, or other work needed to complete the repair properly.",
+      "@type": "Answer",
+      "description": "Compare quotes by scope, not just price. Check what problem each contractor believes is causing the damage, what repair method they propose, whether engineering or permits are included, what warranty is offered, and what exclusions apply. A lower price may leave out drainage, restoration, or monitoring. The best quote clearly explains the repair sequence and why it is necessary.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Fair comparison starts with making sure each contractor is diagnosing the same problem. One quote may cover only stabilization, while another includes drainage, excavation, engineering, or restoration. Look closely at whether the estimate explains the cause of the movement, the exact repair method, permit handling, expected results, and what is not included. In Los Angeles County, access, slope, and site constraints can materially affect cost, so the cheapest proposal is not always the best value. Ask whether the contractor is recommending a temporary fix or a long-term structural solution. If one bid is much lower, determine whether it omits lifting, soil correction, interior patching, or other work needed to complete the repair properly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare quotes by scope, not just price. Check what problem each contractor believes is causing the damage, what repair method they propose, whether engineering"
+}

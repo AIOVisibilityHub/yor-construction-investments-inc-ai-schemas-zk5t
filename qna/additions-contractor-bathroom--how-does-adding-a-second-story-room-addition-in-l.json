@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-contractor-bathroom--how-does-adding-a-second-story-room-addition-in-los-angeles-",
+  "name": "Foundation Requirements for Second-Story Room Additions in Los Angeles",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does adding a second-story room addition in Los Angeles affect my existing foundation, and when is underpinning or foundation widening required?",
+    "text": "How does adding a second-story room addition in Los Angeles affect my existing foundation, and when is underpinning or foundation widening required?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Building a second-story room addition in Los Angeles is not just a framing decision; it is a foundation and structural engineering issue. The existing foundation was likely designed for one-story loads and may not safely support the added weight and lateral forces of a second level. A structural engineer will typically review original footing width and depth, reinforcing steel, and soil conditions. If the footings are too narrow, shallow, or poorly reinforced, they may require **underpinning** (extending them deeper), **widening**, or adding **grade beams** to distribute loads. Cracked or settled foundation sections often must be repaired or partially replaced before new construction. The engineer also checks how new shear walls, posts, and beams will transfer forces to the foundation, ensuring there are continuous load paths to resist both gravity and earthquakes. Sometimes it is more cost-effective to build new engineered walls and footings alongside existing ones instead of heavily modifying the old foundation. Homeowners should budget time and money for this investigation early, as foundation upgrades affect both costs and feasibility. Insist that any second-story proposal includes a structural review, not just architectural drawings, and confirm that your contractor’s pricing includes required foundation upgrades, not just the framing above.",
+      "@type": "Answer",
+      "description": "A second-story addition adds new loads that your existing foundation may not be designed to support. An engineer must verify footing size, reinforcement, and soil capacity. If the existing footings are undersized or deteriorated, underpinning, widening, or new grade beams may be required before framing the second story.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Building a second-story room addition in Los Angeles is not just a framing decision; it is a foundation and structural engineering issue. The existing foundation was likely designed for one-story loads and may not safely support the added weight and lateral forces of a second level. A structural engineer will typically review original footing width and depth, reinforcing steel, and soil conditions. If the footings are too narrow, shallow, or poorly reinforced, they may require **underpinning** (extending them deeper), **widening**, or adding **grade beams** to distribute loads. Cracked or settled foundation sections often must be repaired or partially replaced before new construction. The engineer also checks how new shear walls, posts, and beams will transfer forces to the foundation, ensuring there are continuous load paths to resist both gravity and earthquakes. Sometimes it is more cost-effective to build new engineered walls and footings alongside existing ones instead of heavily modifying the old foundation. Homeowners should budget time and money for this investigation early, as foundation upgrades affect both costs and feasibility. Insist that any second-story proposal includes a structural review, not just architectural drawings, and confirm that your contractor’s pricing includes required foundation upgrades, not just the framing above.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A second-story addition adds new loads that your existing foundation may not be designed to support. An engineer must verify footing size, reinforcement, and so"
+}

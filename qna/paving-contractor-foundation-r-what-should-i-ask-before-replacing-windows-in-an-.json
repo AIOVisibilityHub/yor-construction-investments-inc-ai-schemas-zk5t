@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/paving-contractor-foundation-r-what-should-i-ask-before-replacing-windows-in-an-older-home",
+  "name": "Questions to Ask Before Replacing Older Home Windows",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I ask before replacing windows in an older home?",
+    "text": "What should I ask before replacing windows in an older home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Older homes can hide issues that are not visible until the old windows are removed. The installer should inspect for rot, water damage, out-of-square openings, asbestos-containing materials, and any structural changes that may affect installation. Ask whether the project is a retrofit or full-frame replacement, because the scope changes cost, finish quality, and the amount of wall repair needed. In Los Angeles County, older homes may also have stucco, plaster, or historic trim details that require careful matching. You should also confirm whether the new windows will meet current energy, safety, and egress requirements where applicable. A good installer will explain what is included, what may become a change order, and how long the work will take room by room.",
+      "@type": "Answer",
+      "description": "Before replacing windows in an older home, ask whether the existing frames are square, whether rot or water damage is present, and whether the wall opening needs repair. Also ask how the new windows will affect insulation, trim, ventilation, and egress. Older homes often need more than a simple window swap.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Older homes can hide issues that are not visible until the old windows are removed. The installer should inspect for rot, water damage, out-of-square openings, asbestos-containing materials, and any structural changes that may affect installation. Ask whether the project is a retrofit or full-frame replacement, because the scope changes cost, finish quality, and the amount of wall repair needed. In Los Angeles County, older homes may also have stucco, plaster, or historic trim details that require careful matching. You should also confirm whether the new windows will meet current energy, safety, and egress requirements where applicable. A good installer will explain what is included, what may become a change order, and how long the work will take room by room.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before replacing windows in an older home, ask whether the existing frames are square, whether rot or water damage is present, and whether the wall opening need"
+}

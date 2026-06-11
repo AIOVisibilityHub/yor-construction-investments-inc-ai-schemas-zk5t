@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-construction-how-should-homeowners-in-los-angeles-county-phase-adu-constr",
+  "name": "Phasing a JADU and Full ADU on the Same Los Angeles County Property",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should homeowners in Los Angeles County phase ADU construction if they eventually want both a junior ADU (JADU) and a full ADU on the same property?",
+    "text": "How should homeowners in Los Angeles County phase ADU construction if they eventually want both a junior ADU (JADU) and a full ADU on the same property?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "State rules allow many single‑family properties to have both a junior ADU (JADU) within the main home and a separate ADU, but phasing these in Los Angeles County requires strategy. Before starting, confirm with your local jurisdiction that your lot can legally support both units, including any owner‑occupancy requirements tied to JADUs and limits on total bedroom count, parking, or floor area. The most practical sequencing often begins with the JADU because it typically involves converting existing space—like a bedroom, den, or part of the garage—into a self‑contained unit with a small kitchenette and a separate entrance. This can be faster and less expensive, generating rental income or providing immediate housing while you plan the larger ADU. When designing the JADU, think ahead: locate entries, mechanical equipment, and plumbing in ways that will not conflict with future ADU access paths or yard layouts. In parallel, have your designer create a master site plan showing both the JADU and the eventual detached ADU footprint, outdoor spaces, trash and bike storage, and parking. This helps avoid placing driveways, patios, or utility lines where the future ADU needs to go. When finances and timing allow, you can then submit a separate permit for the detached ADU with fewer surprises. Keep records of all approvals so future reviewers can see how the combined build‑out complies with applicable limits.",
+      "@type": "Answer",
+      "description": "Homeowners planning both a JADU and a full ADU in Los Angeles County should confirm zoning capacity, then design a long‑term site plan that reserves access, parking, and utility routes. Phasing usually means converting space inside the main home first as a JADU, then building a detached ADU once finances and permits allow.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "State rules allow many single‑family properties to have both a junior ADU (JADU) within the main home and a separate ADU, but phasing these in Los Angeles County requires strategy. Before starting, confirm with your local jurisdiction that your lot can legally support both units, including any owner‑occupancy requirements tied to JADUs and limits on total bedroom count, parking, or floor area. The most practical sequencing often begins with the JADU because it typically involves converting existing space—like a bedroom, den, or part of the garage—into a self‑contained unit with a small kitchenette and a separate entrance. This can be faster and less expensive, generating rental income or providing immediate housing while you plan the larger ADU. When designing the JADU, think ahead: locate entries, mechanical equipment, and plumbing in ways that will not conflict with future ADU access paths or yard layouts. In parallel, have your designer create a master site plan showing both the JADU and the eventual detached ADU footprint, outdoor spaces, trash and bike storage, and parking. This helps avoid placing driveways, patios, or utility lines where the future ADU needs to go. When finances and timing allow, you can then submit a separate permit for the detached ADU with fewer surprises. Keep records of all approvals so future reviewers can see how the combined build‑out complies with applicable limits.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Homeowners planning both a JADU and a full ADU in Los Angeles County should confirm zoning capacity, then design a long‑term site plan that reserves access, par"
+}

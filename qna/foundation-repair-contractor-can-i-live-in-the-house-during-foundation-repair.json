@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-can-i-live-in-the-house-during-foundation-repair",
+  "name": "Can You Stay in Your House During Foundation Repair?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I live in the house during foundation repair?",
+    "text": "Can I live in the house during foundation repair?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many homeowners can remain in the house during foundation repair, especially if the work is limited to the exterior, perimeter, or a small section of the structure. More invasive repairs, lifting, crawl space work, or projects affecting plumbing and utilities may require temporary relocation from certain areas of the home. In Los Angeles County, access constraints and the size of the repair can influence how disruptive the project becomes. Ask the contractor which rooms or systems will be affected, whether utilities need to be shut off, and how long noise, vibration, and dust will last. A clear plan helps you prepare and avoid surprises during the project.",
+      "@type": "Answer",
+      "description": "Often yes, but it depends on the scope of work, access, noise, dust, and whether utilities or parts of the structure need to be disconnected. Minor or exterior repairs may allow normal occupancy, while major structural or crawl space work can make some areas temporarily unusable. The contractor should explain the expected disruption before work starts.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many homeowners can remain in the house during foundation repair, especially if the work is limited to the exterior, perimeter, or a small section of the structure. More invasive repairs, lifting, crawl space work, or projects affecting plumbing and utilities may require temporary relocation from certain areas of the home. In Los Angeles County, access constraints and the size of the repair can influence how disruptive the project becomes. Ask the contractor which rooms or systems will be affected, whether utilities need to be shut off, and how long noise, vibration, and dust will last. A clear plan helps you prepare and avoid surprises during the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Often yes, but it depends on the scope of work, access, noise, dust, and whether utilities or parts of the structure need to be disconnected. Minor or exterior "
+}

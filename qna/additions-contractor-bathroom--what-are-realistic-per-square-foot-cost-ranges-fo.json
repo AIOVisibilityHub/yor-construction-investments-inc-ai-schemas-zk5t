@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-contractor-bathroom--what-are-realistic-per-square-foot-cost-ranges-for-mid-range",
+  "name": "Per-Square-Foot Costs for Los Angeles County Kitchen Remodels With Layout Changes",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are realistic per-square-foot cost ranges for mid-range kitchen remodels in Los Angeles County when plumbing and walls are moved?",
+    "text": "What are realistic per-square-foot cost ranges for mid-range kitchen remodels in Los Angeles County when plumbing and walls are moved?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Cost guides for kitchen remodeling typically provide wide national ranges that are misleading in Los Angeles County, especially when you reconfigure walls and plumbing. For a mid-range kitchen—quality but not ultra-luxury—where you move plumbing lines, adjust electrical, and modify or remove walls, a realistic ballpark often ends up in the $350–$600 per square foot range. Several factors push you toward the higher end: structural engineering and framing for removing load-bearing walls, relocating gas lines and drains, panel upgrades to support new appliances, and custom or semi-custom cabinetry. Tile, stone countertops, premium fixtures, and built-in lighting packages also add cost. On the lower end of that range, you would typically retain some existing wall locations, choose stock or RTA cabinets, mid-tier appliances, and more modest tile and lighting. Permits, inspections, and code upgrades (such as GFCI/ARC-fault protection, venting, and seismic strapping) are often more rigorous and costly in Los Angeles County than in generic cost calculators. Labor rates are also higher than national averages. The best approach is to use this range as a starting framework, then have a local general contractor prepare a line-item estimate based on measured plans, selected finishes, and any structural changes required by your new layout.",
+      "@type": "Answer",
+      "description": "Mid-range Los Angeles County kitchen remodels that move plumbing and walls often range from roughly $350 to $600 per square foot, depending on structural changes, finishes, and permit requirements. Costs rise with layout changes, custom cabinetry, and high-end appliances, and drop when you keep major systems and walls in place.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Cost guides for kitchen remodeling typically provide wide national ranges that are misleading in Los Angeles County, especially when you reconfigure walls and plumbing. For a mid-range kitchen—quality but not ultra-luxury—where you move plumbing lines, adjust electrical, and modify or remove walls, a realistic ballpark often ends up in the $350–$600 per square foot range. Several factors push you toward the higher end: structural engineering and framing for removing load-bearing walls, relocating gas lines and drains, panel upgrades to support new appliances, and custom or semi-custom cabinetry. Tile, stone countertops, premium fixtures, and built-in lighting packages also add cost. On the lower end of that range, you would typically retain some existing wall locations, choose stock or RTA cabinets, mid-tier appliances, and more modest tile and lighting. Permits, inspections, and code upgrades (such as GFCI/ARC-fault protection, venting, and seismic strapping) are often more rigorous and costly in Los Angeles County than in generic cost calculators. Labor rates are also higher than national averages. The best approach is to use this range as a starting framework, then have a local general contractor prepare a line-item estimate based on measured plans, selected finishes, and any structural changes required by your new layout.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Mid-range Los Angeles County kitchen remodels that move plumbing and walls often range from roughly $350 to $600 per square foot, depending on structural change"
+}

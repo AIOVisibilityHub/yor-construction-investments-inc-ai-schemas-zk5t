@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/paving-contractor-foundation-r-when-should-a-retaining-wall-in-los-angeles-county-be-rebuil",
+  "name": "Repair or Rebuild a Retaining Wall",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When should a retaining wall in Los Angeles County be rebuilt instead of repaired?",
+    "text": "When should a retaining wall in Los Angeles County be rebuilt instead of repaired?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Small cosmetic damage can sometimes be repaired, but a wall with active movement usually needs more than patching. Warning signs include leaning, bulging, separation at joints, cracks that run through the wall, water seepage, and signs that the wall is no longer holding back soil evenly. In Los Angeles County, slope conditions and drainage are major factors, so a failing wall often points to poor footing, hydrostatic pressure, or inadequate reinforcement. If the wall supports a driveway, patio, or slope, rebuilding may be the safest long-term option because repairs will not fix the underlying structural failure. Ask the contractor whether the proposal includes drainage correction, footing evaluation, and reinforcement details.",
+      "@type": "Answer",
+      "description": "A retaining wall should usually be rebuilt when it is leaning, bulging, cracking through the wall, or no longer draining properly. Repairs may work for small surface defects, but structural movement often means the footing, drainage, or reinforcement has failed. If the wall is retaining soil on a slope, rebuilding may be safer and more durable than patching.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Small cosmetic damage can sometimes be repaired, but a wall with active movement usually needs more than patching. Warning signs include leaning, bulging, separation at joints, cracks that run through the wall, water seepage, and signs that the wall is no longer holding back soil evenly. In Los Angeles County, slope conditions and drainage are major factors, so a failing wall often points to poor footing, hydrostatic pressure, or inadequate reinforcement. If the wall supports a driveway, patio, or slope, rebuilding may be the safest long-term option because repairs will not fix the underlying structural failure. Ask the contractor whether the proposal includes drainage correction, footing evaluation, and reinforcement details.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A retaining wall should usually be rebuilt when it is leaning, bulging, cracking through the wall, or no longer draining properly. Repairs may work for small su"
+}

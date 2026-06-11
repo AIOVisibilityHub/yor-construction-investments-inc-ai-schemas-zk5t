@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/roofing-what-roofing-problems-can-be-detected-only-from-the-attic",
+  "name": "What Roof Problems Can Only Be Found in the Attic?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What roofing problems can be detected only from the attic?",
+    "text": "What roofing problems can be detected only from the attic?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Some of the most important roof warning signs are visible only from the attic. Moisture staining, mold growth, wet insulation, rusted nails, or daylight coming through the deck can reveal problems before exterior damage becomes obvious. Attic inspection can also show whether the roof is ventilating correctly, since poor airflow can shorten roof life and increase heat buildup. In Los Angeles County, this matters because prolonged heat can accelerate aging even when the roof surface still looks acceptable. If an inspector only looks at the outside, they may miss the real cause of a leak or fail to notice early structural damage. When requesting a roof inspection, ask whether the attic will be checked and whether photos will be provided. That makes it easier to understand whether the issue is isolated or part of a larger failure pattern.",
+      "@type": "Answer",
+      "description": "Attic inspection can reveal leaks, mold, moisture staining, poor ventilation, rotten decking, and insulation damage that may not be obvious from the roof surface. Some roof failures start underneath the visible roofing material. Checking the attic helps confirm whether a leak is active and how long it has been happening.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Some of the most important roof warning signs are visible only from the attic. Moisture staining, mold growth, wet insulation, rusted nails, or daylight coming through the deck can reveal problems before exterior damage becomes obvious. Attic inspection can also show whether the roof is ventilating correctly, since poor airflow can shorten roof life and increase heat buildup. In Los Angeles County, this matters because prolonged heat can accelerate aging even when the roof surface still looks acceptable. If an inspector only looks at the outside, they may miss the real cause of a leak or fail to notice early structural damage. When requesting a roof inspection, ask whether the attic will be checked and whether photos will be provided. That makes it easier to understand whether the issue is isolated or part of a larger failure pattern.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Attic inspection can reveal leaks, mold, moisture staining, poor ventilation, rotten decking, and insulation damage that may not be obvious from the roof surfac"
+}

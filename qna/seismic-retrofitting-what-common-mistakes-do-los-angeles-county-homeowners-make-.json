@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/seismic-retrofitting-what-common-mistakes-do-los-angeles-county-homeowners-make-w",
+  "name": "DIY Seismic Retrofit Pitfalls for Los Angeles County Homeowners",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What common mistakes do Los Angeles County homeowners make with DIY or low-cost seismic retrofits that provide a false sense of security?",
+    "text": "What common mistakes do Los Angeles County homeowners make with DIY or low-cost seismic retrofits that provide a false sense of security?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In an effort to save money, some Los Angeles County homeowners attempt DIY or very low-cost seismic retrofits that fall short of modern standards. These partial or incorrectly executed measures can provide a false sense of security and may not significantly improve earthquake performance. Typical mistakes include using anchors or bolts that are too short, too small in diameter, or improperly installed in old or weak concrete. Inadequate bolt spacing and insufficient edge distances reduce their effectiveness. Homeowners also often neglect cripple wall bracing, installing a few anchor bolts but failing to add properly nailed plywood shear panels to create a continuous load path. Another common issue is incorrect nailing patterns on plywood shear walls, such as nails spaced too far apart or penetrating only the sheathing and not the framing. Using non-structural-grade materials, like generic sheathing or hardware not rated for seismic loads, further undermines performance. Focusing only on one vulnerability—such as strapping a water heater—while ignoring major weaknesses like unbraced cripple walls, weak connections, or deteriorated foundations leaves the overall system fragile. Homeowners considering DIY work should at minimum follow prescriptive guidelines developed for their building type, obtain necessary permits, and consider an engineer or qualified contractor review. For more complex conditions, professional design and installation are strongly recommended to achieve meaningful risk reduction.",
+      "@type": "Answer",
+      "description": "Common seismic retrofit mistakes by Los Angeles County homeowners include using undersized anchors, improper spacing, inadequate plywood nailing, ignoring cripple walls or continuity, and focusing on one element while leaving major weaknesses untouched. These errors can create a false sense of safety and may not meet modern seismic standards.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In an effort to save money, some Los Angeles County homeowners attempt DIY or very low-cost seismic retrofits that fall short of modern standards. These partial or incorrectly executed measures can provide a false sense of security and may not significantly improve earthquake performance. Typical mistakes include using anchors or bolts that are too short, too small in diameter, or improperly installed in old or weak concrete. Inadequate bolt spacing and insufficient edge distances reduce their effectiveness. Homeowners also often neglect cripple wall bracing, installing a few anchor bolts but failing to add properly nailed plywood shear panels to create a continuous load path. Another common issue is incorrect nailing patterns on plywood shear walls, such as nails spaced too far apart or penetrating only the sheathing and not the framing. Using non-structural-grade materials, like generic sheathing or hardware not rated for seismic loads, further undermines performance. Focusing only on one vulnerability—such as strapping a water heater—while ignoring major weaknesses like unbraced cripple walls, weak connections, or deteriorated foundations leaves the overall system fragile. Homeowners considering DIY work should at minimum follow prescriptive guidelines developed for their building type, obtain necessary permits, and consider an engineer or qualified contractor review. For more complex conditions, professional design and installation are strongly recommended to achieve meaningful risk reduction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common seismic retrofit mistakes by Los Angeles County homeowners include using undersized anchors, improper spacing, inadequate plywood nailing, ignoring cripp"
+}

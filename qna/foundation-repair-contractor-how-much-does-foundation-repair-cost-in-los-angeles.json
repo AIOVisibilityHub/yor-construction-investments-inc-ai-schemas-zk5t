@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-how-much-does-foundation-repair-cost-in-los-angeles-county",
+  "name": "How Much Does Foundation Repair Cost in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much does foundation repair cost in Los Angeles County?",
+    "text": "How much does foundation repair cost in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "There is no single reliable price for foundation repair because the cost depends on what is causing the damage and how much of the structure is affected. Minor crack repair or localized stabilization costs far less than piering, underpinning, drainage correction, or hillside foundation work. Homes with difficult access, multiple levels, or extensive interior restoration also cost more. In Los Angeles County, permitting, engineering, and soil or drainage corrections can add to the total. A useful estimate should separate diagnosis, repair method, materials, permit-related work, and restoration. Avoid quotes that are vague or based only on square footage, because foundation work is highly condition-specific. The best contractor will explain what is actually moving and why that repair method is being recommended.",
+      "@type": "Answer",
+      "description": "Foundation repair costs in Los Angeles County vary widely based on the cause, access, home size, and whether the repair needs drainage, piers, crawl space work, or structural reinforcement. Small repairs may be relatively modest, while major settlement or hillside stabilization can be much higher. The most accurate estimate comes from an on-site inspection and a repair plan tied to the actual movement.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "There is no single reliable price for foundation repair because the cost depends on what is causing the damage and how much of the structure is affected. Minor crack repair or localized stabilization costs far less than piering, underpinning, drainage correction, or hillside foundation work. Homes with difficult access, multiple levels, or extensive interior restoration also cost more. In Los Angeles County, permitting, engineering, and soil or drainage corrections can add to the total. A useful estimate should separate diagnosis, repair method, materials, permit-related work, and restoration. Avoid quotes that are vague or based only on square footage, because foundation work is highly condition-specific. The best contractor will explain what is actually moving and why that repair method is being recommended.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Foundation repair costs in Los Angeles County vary widely based on the cause, access, home size, and whether the repair needs drainage, piers, crawl space work,"
+}

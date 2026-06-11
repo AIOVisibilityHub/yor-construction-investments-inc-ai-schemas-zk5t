@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-construction-what-are-the-key-differences-between-site-built-prefab-and-m",
+  "name": "Site‑Built vs Prefab vs Modular ADUs in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the key differences between site‑built, prefab, and modular ADUs in Los Angeles County when it comes to permitting, inspections, and total cost?",
+    "text": "What are the key differences between site‑built, prefab, and modular ADUs in Los Angeles County when it comes to permitting, inspections, and total cost?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Los Angeles County homeowners often compare site‑built, prefab, and modular ADUs without clear insight into how each behaves under local permitting and inspection rules. Site‑built ADUs are fully constructed on your property. Plans are approved by the local building department, and all inspections happen on‑site. This path offers maximum flexibility for lot constraints, architectural style, and custom finishes, but it exposes you to weather delays, more site disruption, and a wider cost range depending on change orders and field conditions. Prefab and modular ADUs shift much of the construction into a factory. Depending on the product, plan and structural approvals may be handled at the state or third‑party level, with the local building department focusing primarily on foundations, utility connections, and installation. Factory‑built components can shorten on‑site construction time, improve quality control, and make costs more predictable, but they demand precise site preparation and crane or transport access. Some lots—especially tight, sloped, or heavily treed parcels—are not good candidates for large modules. In total cost terms, prefab or modular options are not always cheaper once you add foundations, utilities, craning, and local finish work. To decide, request itemized quotes that separate unit price, site work, permitting, and contingencies, and verify that the prefabricator has successfully completed ADUs in your specific city or County district.",
+      "@type": "Answer",
+      "description": "Site‑built, prefab, and modular ADUs in Los Angeles County all must meet building codes, but they differ in how plans are approved, where inspections occur, and how costs break down. Prefab and modular units shift more work to the factory, while site‑built ADUs offer maximum customization but longer on‑site schedules and more variable costs.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Los Angeles County homeowners often compare site‑built, prefab, and modular ADUs without clear insight into how each behaves under local permitting and inspection rules. Site‑built ADUs are fully constructed on your property. Plans are approved by the local building department, and all inspections happen on‑site. This path offers maximum flexibility for lot constraints, architectural style, and custom finishes, but it exposes you to weather delays, more site disruption, and a wider cost range depending on change orders and field conditions. Prefab and modular ADUs shift much of the construction into a factory. Depending on the product, plan and structural approvals may be handled at the state or third‑party level, with the local building department focusing primarily on foundations, utility connections, and installation. Factory‑built components can shorten on‑site construction time, improve quality control, and make costs more predictable, but they demand precise site preparation and crane or transport access. Some lots—especially tight, sloped, or heavily treed parcels—are not good candidates for large modules. In total cost terms, prefab or modular options are not always cheaper once you add foundations, utilities, craning, and local finish work. To decide, request itemized quotes that separate unit price, site work, permitting, and contingencies, and verify that the prefabricator has successfully completed ADUs in your specific city or County district.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Site‑built, prefab, and modular ADUs in Los Angeles County all must meet building codes, but they differ in how plans are approved, where inspections occur, and"
+}

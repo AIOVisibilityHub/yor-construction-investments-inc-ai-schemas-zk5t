@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/seismic-retrofitting-what-are-the-practical-differences-between-city-of-los-angel",
+  "name": "City of LA vs County Rules for Non-Ductile Concrete Seismic Retrofits",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the practical differences between City of Los Angeles and Los Angeles County retrofit mandates for non-ductile concrete buildings constructed before 1977?",
+    "text": "What are the practical differences between City of Los Angeles and Los Angeles County retrofit mandates for non-ductile concrete buildings constructed before 1977?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Non-ductile concrete buildings, especially those built before modern seismic codes around 1977, are a major focus of recent retrofit ordinances in the Los Angeles region. The City of Los Angeles has a well-publicized program that requires structural evaluation of these buildings and establishes long completion windows—often on the order of 20–25 years from the date of a compliance order—for mandated retrofits. Similar requirements are emerging at the Los Angeles County level for high-rise non-ductile concrete buildings, but the details differ. The key practical differences involve which buildings are covered, how they are identified, and the specific timelines. In the City of Los Angeles, pre-1977 concrete buildings are typically identified, receive formal compliance notices, and must meet set milestones for engineering reports and construction. In unincorporated Los Angeles County, high-rise non-ductile concrete buildings may be targeted under separate county ordinances that define height, use, and evaluation criteria differently. As an owner, the first step is confirming jurisdiction using your property profile. Then, obtain the actual compliance order or look up your building on any public retrofit lists. Ask a structural engineer or retrofit contractor to interpret whether your building meets the non-ductile criteria, what evaluation is required, and how the retrofit scope will differ under city versus county rules. Clarifying these differences early is critical for budgeting, lender discussions, and long-range planning.",
+      "@type": "Answer",
+      "description": "Non-ductile concrete buildings built before 1977 face different retrofit rules in the City of Los Angeles versus unincorporated Los Angeles County. Each has its own ordinance, evaluation deadlines, and retrofit timeframes. Owners must confirm whether city or county rules govern their property, as compliance orders and 20–25 year timelines can differ.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Non-ductile concrete buildings, especially those built before modern seismic codes around 1977, are a major focus of recent retrofit ordinances in the Los Angeles region. The City of Los Angeles has a well-publicized program that requires structural evaluation of these buildings and establishes long completion windows—often on the order of 20–25 years from the date of a compliance order—for mandated retrofits. Similar requirements are emerging at the Los Angeles County level for high-rise non-ductile concrete buildings, but the details differ. The key practical differences involve which buildings are covered, how they are identified, and the specific timelines. In the City of Los Angeles, pre-1977 concrete buildings are typically identified, receive formal compliance notices, and must meet set milestones for engineering reports and construction. In unincorporated Los Angeles County, high-rise non-ductile concrete buildings may be targeted under separate county ordinances that define height, use, and evaluation criteria differently. As an owner, the first step is confirming jurisdiction using your property profile. Then, obtain the actual compliance order or look up your building on any public retrofit lists. Ask a structural engineer or retrofit contractor to interpret whether your building meets the non-ductile criteria, what evaluation is required, and how the retrofit scope will differ under city versus county rules. Clarifying these differences early is critical for budgeting, lender discussions, and long-range planning.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Non-ductile concrete buildings built before 1977 face different retrofit rules in the City of Los Angeles versus unincorporated Los Angeles County. Each has its"
+}

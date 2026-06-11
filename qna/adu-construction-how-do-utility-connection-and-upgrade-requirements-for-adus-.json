@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-construction-how-do-utility-connection-and-upgrade-requirements-for-adus-",
+  "name": "ADU Utility Connections and Separate Meters in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do utility connection and upgrade requirements for ADUs work in Los Angeles County, and when is a separate meter practical or necessary?",
+    "text": "How do utility connection and upgrade requirements for ADUs work in Los Angeles County, and when is a separate meter practical or necessary?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility planning is one of the most confusing parts of ADU projects in Los Angeles County. In many cases, your ADU can share electrical, gas, and water services with the main home, using subpanels, branch lines, and internal shutoffs. This is often cheaper upfront but requires careful load calculations to avoid overloading older systems. If your existing electrical panel is undersized, an upgrade to a larger service may be required regardless of whether you install a separate meter. Separate meters can be requested from utilities for electricity, gas, or water, but they involve additional application steps, trenching, and connection fees. They usually make sense when the ADU will be rented long‑term to unrelated tenants, when you want clear utility billing separation, or when the primary home already strains current capacity. In some jurisdictions or configurations, certain utilities may be easier to separate than others. Plan these decisions early with both your designer and a licensed electrician or plumber familiar with local utility processes. Obtain preliminary feedback from the utility on meter location, panel size, and trench routes before finalizing your site plan, because these choices can affect ADU placement and landscape. Also consider future electrification trends—such as EV chargers, heat‑pump systems, and induction cooking—when sizing new services so you do not need another upgrade in a few years.",
+      "@type": "Answer",
+      "description": "ADU utilities in Los Angeles County can either share the main house services or be separately metered, depending on local utility policies, load calculations, and layout. Panel upgrades, trenching, and new meters add cost but improve billing clarity. Separate meters are most practical for independent rentals or when existing systems are near capacity.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility planning is one of the most confusing parts of ADU projects in Los Angeles County. In many cases, your ADU can share electrical, gas, and water services with the main home, using subpanels, branch lines, and internal shutoffs. This is often cheaper upfront but requires careful load calculations to avoid overloading older systems. If your existing electrical panel is undersized, an upgrade to a larger service may be required regardless of whether you install a separate meter. Separate meters can be requested from utilities for electricity, gas, or water, but they involve additional application steps, trenching, and connection fees. They usually make sense when the ADU will be rented long‑term to unrelated tenants, when you want clear utility billing separation, or when the primary home already strains current capacity. In some jurisdictions or configurations, certain utilities may be easier to separate than others. Plan these decisions early with both your designer and a licensed electrician or plumber familiar with local utility processes. Obtain preliminary feedback from the utility on meter location, panel size, and trench routes before finalizing your site plan, because these choices can affect ADU placement and landscape. Also consider future electrification trends—such as EV chargers, heat‑pump systems, and induction cooking—when sizing new services so you do not need another upgrade in a few years.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "ADU utilities in Los Angeles County can either share the main house services or be separately metered, depending on local utility policies, load calculations, a"
+}

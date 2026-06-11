@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-construction-what-are-the-most-common-reasons-adu-permit-applications-are",
+  "name": "Why ADU Permits Get Delayed or Denied in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most common reasons ADU permit applications are delayed or denied in Los Angeles County, and how can homeowners avoid them?",
+    "text": "What are the most common reasons ADU permit applications are delayed or denied in Los Angeles County, and how can homeowners avoid them?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In Los Angeles County, many ADU projects slip off the published review timelines because of preventable issues. Frequent problems include submitting to the wrong agency (city vs County), providing incomplete plan sets or missing Title 24 energy documentation, overlooking required surveys or site plans, and proposing designs that violate basic standards such as setbacks, height limits, or maximum square footage. Incomplete or unclear drawings often trigger multiple rounds of corrections, each resetting the clock. Another source of delay is failing to obtain all necessary agency clearances, such as sanitation, fire, school districts, or utilities, before building permits can be issued. If your project involves grading, hillside conditions, easements, or shared driveways, expect additional review layers that must be addressed in the initial design. Denials typically occur when applicants ignore correction letters, miss deadlines, or cannot reconcile their desired layout with zoning and safety requirements. To minimize delays, start by confirming your jurisdiction and downloading the latest ADU submittal checklist. Hire a designer familiar with that specific office’s preferences and digital portal. At intake, confirm that your package is considered complete and ask about typical correction patterns. Respond to correction requests in a single, comprehensive resubmittal rather than piecemeal. Keep track of fee payment deadlines and internal expiration dates so your application does not lapse mid‑process.",
+      "@type": "Answer",
+      "description": "ADU permits in Los Angeles County are often delayed or denied due to incomplete submittals, incorrect jurisdiction, noncompliant setbacks or height, missing agency clearances, and unresolved plan‑check corrections. Homeowners can avoid these by confirming zoning, using official checklists, hiring experienced ADU designers, and promptly responding to correction notices.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In Los Angeles County, many ADU projects slip off the published review timelines because of preventable issues. Frequent problems include submitting to the wrong agency (city vs County), providing incomplete plan sets or missing Title 24 energy documentation, overlooking required surveys or site plans, and proposing designs that violate basic standards such as setbacks, height limits, or maximum square footage. Incomplete or unclear drawings often trigger multiple rounds of corrections, each resetting the clock. Another source of delay is failing to obtain all necessary agency clearances, such as sanitation, fire, school districts, or utilities, before building permits can be issued. If your project involves grading, hillside conditions, easements, or shared driveways, expect additional review layers that must be addressed in the initial design. Denials typically occur when applicants ignore correction letters, miss deadlines, or cannot reconcile their desired layout with zoning and safety requirements. To minimize delays, start by confirming your jurisdiction and downloading the latest ADU submittal checklist. Hire a designer familiar with that specific office’s preferences and digital portal. At intake, confirm that your package is considered complete and ask about typical correction patterns. Respond to correction requests in a single, comprehensive resubmittal rather than piecemeal. Keep track of fee payment deadlines and internal expiration dates so your application does not lapse mid‑process.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "ADU permits in Los Angeles County are often delayed or denied due to incomplete submittals, incorrect jurisdiction, noncompliant setbacks or height, missing age"
+}

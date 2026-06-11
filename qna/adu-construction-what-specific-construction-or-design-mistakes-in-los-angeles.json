@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-construction-what-specific-construction-or-design-mistakes-in-los-angeles",
+  "name": "ADU Construction Mistakes That Fail Inspections in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What specific construction or design mistakes in Los Angeles County ADUs most often lead to failed inspections or costly change orders?",
+    "text": "What specific construction or design mistakes in Los Angeles County ADUs most often lead to failed inspections or costly change orders?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Inspectors in Los Angeles County see recurring problems in ADU builds that cause failed inspections and expensive fixes. Structural changes in the field without updating plans are a major issue: moving windows, doors, or altering headers and beams without engineer approval can halt work until revised drawings are submitted. Egress windows that are too small, too high off the floor, or blocked by exterior grade changes commonly fail bedroom inspections. Fire and sound separation between units is another frequent problem, especially in attached ADUs or garage conversions under the main house. Missing or incorrectly installed fire‑rated assemblies, penetrations, and insulation can require demolition and rebuilding of walls or ceilings. Foundations and slabs that do not match the approved details—such as missing vapor barriers, anchor bolts, or required depths—also draw red tags. On the mechanical side, inspectors often find noncompliant venting, inaccessible shutoff valves, inadequate combustion air, or undersized circuits for modern appliances. Outside, setbacks and building placement that deviate from plans can be flagged if the ADU ends up closer to property lines than allowed. To avoid these pitfalls, hold a pre‑construction meeting with your contractor to review the approved plans in detail, insist on change‑order drawings for any significant field adjustment, and schedule informal walkthroughs before key inspections to catch issues early.",
+      "@type": "Answer",
+      "description": "Common ADU mistakes in Los Angeles County include framing changes without revised plans, missing fire separation or soundproofing, improper setbacks, noncompliant egress windows, incorrect slab or foundation details, and incomplete utility rough‑ins. These issues often trigger failed inspections, delays, and change orders that increase total project cost.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Inspectors in Los Angeles County see recurring problems in ADU builds that cause failed inspections and expensive fixes. Structural changes in the field without updating plans are a major issue: moving windows, doors, or altering headers and beams without engineer approval can halt work until revised drawings are submitted. Egress windows that are too small, too high off the floor, or blocked by exterior grade changes commonly fail bedroom inspections. Fire and sound separation between units is another frequent problem, especially in attached ADUs or garage conversions under the main house. Missing or incorrectly installed fire‑rated assemblies, penetrations, and insulation can require demolition and rebuilding of walls or ceilings. Foundations and slabs that do not match the approved details—such as missing vapor barriers, anchor bolts, or required depths—also draw red tags. On the mechanical side, inspectors often find noncompliant venting, inaccessible shutoff valves, inadequate combustion air, or undersized circuits for modern appliances. Outside, setbacks and building placement that deviate from plans can be flagged if the ADU ends up closer to property lines than allowed. To avoid these pitfalls, hold a pre‑construction meeting with your contractor to review the approved plans in detail, insist on change‑order drawings for any significant field adjustment, and schedule informal walkthroughs before key inspections to catch issues early.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common ADU mistakes in Los Angeles County include framing changes without revised plans, missing fire separation or soundproofing, improper setbacks, noncomplia"
+}

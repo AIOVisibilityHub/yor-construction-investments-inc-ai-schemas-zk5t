@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-contractor-bathroom--how-do-la-county-fire-egress-and-privacy-rules-affect-adding",
+  "name": "Code Issues for Bedrooms and Bathrooms Over Attached Garages in LA County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do LA County fire, egress, and privacy rules affect adding a bedroom and bathroom over an attached garage?",
+    "text": "How do LA County fire, egress, and privacy rules affect adding a bedroom and bathroom over an attached garage?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "“Bonus room over the garage” concepts are popular online, but most resources do not address the specific fire and life-safety issues that arise in Los Angeles County. When you add a bedroom and bathroom over an attached garage, you typically must create a fire-rated separation between the garage and living space, which can mean specific drywall ratings, sealed penetrations, and self-closing, rated doors. Egress is just as critical. The new bedroom will need compliant emergency escape and rescue openings—usually a properly sized window or door to the exterior—plus safe interior access that meets stair geometry and guard/handrail requirements. Bathrooms must meet ventilation standards and may need special sound control to separate them from vehicle noise below. Privacy is more than a design preference; the placement and size of new windows must balance access to natural light and views with local rules about overlooking neighboring yards and homes. Your contractor and designer should verify applicable zoning and building codes, then map window locations, sill heights, and obscure glazing where needed. Before finalizing plans, request a detailed code summary from your design team specifying fire separation assemblies, egress routes, and fenestration strategies so that comfort and safety are baked into the over-garage addition from the start.",
+      "@type": "Answer",
+      "description": "Building over an attached garage triggers fire separation, egress, and sometimes sound and ventilation requirements. You typically need a rated floor/ceiling assembly, proper access and emergency escape routes, and careful placement of windows to maintain privacy from neighbors and the main house while meeting light and ventilation standards.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "“Bonus room over the garage” concepts are popular online, but most resources do not address the specific fire and life-safety issues that arise in Los Angeles County. When you add a bedroom and bathroom over an attached garage, you typically must create a fire-rated separation between the garage and living space, which can mean specific drywall ratings, sealed penetrations, and self-closing, rated doors. Egress is just as critical. The new bedroom will need compliant emergency escape and rescue openings—usually a properly sized window or door to the exterior—plus safe interior access that meets stair geometry and guard/handrail requirements. Bathrooms must meet ventilation standards and may need special sound control to separate them from vehicle noise below. Privacy is more than a design preference; the placement and size of new windows must balance access to natural light and views with local rules about overlooking neighboring yards and homes. Your contractor and designer should verify applicable zoning and building codes, then map window locations, sill heights, and obscure glazing where needed. Before finalizing plans, request a detailed code summary from your design team specifying fire separation assemblies, egress routes, and fenestration strategies so that comfort and safety are baked into the over-garage addition from the start.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Building over an attached garage triggers fire separation, egress, and sometimes sound and ventilation requirements. You typically need a rated floor/ceiling as"
+}

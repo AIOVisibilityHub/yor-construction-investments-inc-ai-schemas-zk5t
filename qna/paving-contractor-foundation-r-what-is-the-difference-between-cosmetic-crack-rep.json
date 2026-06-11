@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/paving-contractor-foundation-r-what-is-the-difference-between-cosmetic-crack-repair-and-str",
+  "name": "Cosmetic vs Structural Foundation Repair",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between cosmetic crack repair and structural foundation repair?",
+    "text": "What is the difference between cosmetic crack repair and structural foundation repair?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Cosmetic repair is meant to make cracks less visible and help keep out water, but it does not stop the structure from moving. Structural repair is required when the foundation itself has shifted, settled, or lost support. Signs of structural problems include widening cracks, sloping floors, misaligned doors or windows, gaps at trim, and recurring damage after prior patching. The right approach depends on the cause: soil movement, drainage issues, weak support, or overload. In Los Angeles County, the contractor should explain whether the damage is active or historic and whether the home needs stabilization before any finishing work. If a repair proposal only mentions patching, ask what prevents the crack from reopening.",
+      "@type": "Answer",
+      "description": "Cosmetic crack repair fills surface openings to improve appearance and reduce minor moisture entry, but it does not correct movement in the foundation. Structural foundation repair addresses settlement, shifting, or load-bearing problems using methods such as piers, underpinning, slab lifting, or stabilization. If the foundation is still moving, cosmetic repair alone will not last.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Cosmetic repair is meant to make cracks less visible and help keep out water, but it does not stop the structure from moving. Structural repair is required when the foundation itself has shifted, settled, or lost support. Signs of structural problems include widening cracks, sloping floors, misaligned doors or windows, gaps at trim, and recurring damage after prior patching. The right approach depends on the cause: soil movement, drainage issues, weak support, or overload. In Los Angeles County, the contractor should explain whether the damage is active or historic and whether the home needs stabilization before any finishing work. If a repair proposal only mentions patching, ask what prevents the crack from reopening.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Cosmetic crack repair fills surface openings to improve appearance and reduce minor moisture entry, but it does not correct movement in the foundation. Structur"
+}

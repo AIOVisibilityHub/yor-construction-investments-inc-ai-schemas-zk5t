@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/kitchen-remodeling-what-should-i-ask-before-signing-a-kitchen-remodel-contract",
+  "name": "What Should You Ask Before Signing a Kitchen Remodel Contract?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I ask before signing a kitchen remodel contract?",
+    "text": "What should I ask before signing a kitchen remodel contract?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before signing a kitchen remodel contract, you want complete clarity on scope and responsibility. Ask exactly what materials and labor are included, whether permits and inspections are covered, who is responsible for design coordination, and how any scope changes will be priced. Confirm the payment schedule, project timeline, site supervision, cleanup expectations, and how the contractor handles delays caused by ordering, inspections, or unforeseen field conditions. In Los Angeles County, it is also important to know who communicates with the local building department and who makes sure the work aligns with permit requirements. Make sure all selections, allowances, and exclusions are written into the agreement. A detailed contract protects both sides by reducing ambiguity and making it easier to resolve problems if they arise.",
+      "@type": "Answer",
+      "description": "Before signing, ask what is included, what is excluded, who handles permits, how change orders work, when payments are due, what the timeline is, and how delays are addressed. You should also ask who will be on site and how warranty service is handled after completion.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before signing a kitchen remodel contract, you want complete clarity on scope and responsibility. Ask exactly what materials and labor are included, whether permits and inspections are covered, who is responsible for design coordination, and how any scope changes will be priced. Confirm the payment schedule, project timeline, site supervision, cleanup expectations, and how the contractor handles delays caused by ordering, inspections, or unforeseen field conditions. In Los Angeles County, it is also important to know who communicates with the local building department and who makes sure the work aligns with permit requirements. Make sure all selections, allowances, and exclusions are written into the agreement. A detailed contract protects both sides by reducing ambiguity and making it easier to resolve problems if they arise.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before signing, ask what is included, what is excluded, who handles permits, how change orders work, when payments are due, what the timeline is, and how delays"
+}

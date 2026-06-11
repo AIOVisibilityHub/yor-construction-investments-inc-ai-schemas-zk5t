@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-contractor-bathroom--what-are-the-biggest-budget-risks-when-converting-a-los-ange",
+  "name": "Budget Risks: Garage Conversion vs New ADU in Los Angeles",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the biggest budget risks when converting a Los Angeles garage into living space compared to building a new ADU from scratch?",
+    "text": "What are the biggest budget risks when converting a Los Angeles garage into living space compared to building a new ADU from scratch?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Garage conversions are often marketed as the “cheap” way to add living space in Los Angeles, but many budgets are blown by conditions not mentioned in simple cost-per-square-foot comparisons. Existing slabs may lack proper moisture barriers, be too thin, or be out of level, requiring costly remediation to meet habitability standards. Framing and roof structures designed for storage, not living space, often need reinforcement and full insulation. Utilities also pose risk. Sewer lines may not be conveniently accessible, electrical service might be undersized, and bringing gas and water to the garage can be more complex than expected. Unpermitted modifications—added electrical, makeshift plumbing, or structural changes—must usually be corrected, adding time and expense. Building a new detached ADU is more expensive per square foot on paper, but it gives you a clean structural and moisture-management starting point, optimized layout, and easier compliance with setbacks and fire separation in many cases. To manage budget risks, insist on an early feasibility walk-through with a contractor experienced in both conversions and new ADUs. Ask them to identify likely slab, structural, and utility issues and include realistic allowances and contingencies in your estimate before you commit.",
+      "@type": "Answer",
+      "description": "Garage conversions risk hidden structural defects, required slab upgrades, utility rerouting, and resolving unpermitted work, which can erode the perceived savings. New ADUs have higher upfront shell costs but fewer surprises and more control over layout, insulation, and moisture management from day one.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Garage conversions are often marketed as the “cheap” way to add living space in Los Angeles, but many budgets are blown by conditions not mentioned in simple cost-per-square-foot comparisons. Existing slabs may lack proper moisture barriers, be too thin, or be out of level, requiring costly remediation to meet habitability standards. Framing and roof structures designed for storage, not living space, often need reinforcement and full insulation. Utilities also pose risk. Sewer lines may not be conveniently accessible, electrical service might be undersized, and bringing gas and water to the garage can be more complex than expected. Unpermitted modifications—added electrical, makeshift plumbing, or structural changes—must usually be corrected, adding time and expense. Building a new detached ADU is more expensive per square foot on paper, but it gives you a clean structural and moisture-management starting point, optimized layout, and easier compliance with setbacks and fire separation in many cases. To manage budget risks, insist on an early feasibility walk-through with a contractor experienced in both conversions and new ADUs. Ask them to identify likely slab, structural, and utility issues and include realistic allowances and contingencies in your estimate before you commit.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Garage conversions risk hidden structural defects, required slab upgrades, utility rerouting, and resolving unpermitted work, which can erode the perceived savi"
+}

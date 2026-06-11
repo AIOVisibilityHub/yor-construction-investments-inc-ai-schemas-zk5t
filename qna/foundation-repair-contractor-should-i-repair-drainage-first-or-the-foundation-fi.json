@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-should-i-repair-drainage-first-or-the-foundation-first",
+  "name": "Should Drainage Be Fixed Before Foundation Repair?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I repair drainage first or the foundation first?",
+    "text": "Should I repair drainage first or the foundation first?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The right order depends on the cause of the damage. If poor drainage, runoff, or soil saturation is driving movement, correcting water flow first or as part of the same project is usually important. Otherwise, the foundation may keep moving after the structural repair is complete. In some cases, the foundation must be stabilized first so drainage work can be safely installed or so the structure can be lifted properly. In Los Angeles County, this decision is often influenced by slope, hardscape, roof runoff, and the location of downspouts or retaining features. The contractor should explain whether drainage is the root cause, a contributing factor, or a separate issue that can be handled afterward.",
+      "@type": "Answer",
+      "description": "If water is causing the movement, drainage often needs to be addressed before or alongside foundation repair. Fixing the structure without correcting water problems can allow settlement or soil movement to continue. A contractor should decide the order based on whether moisture is active, where runoff goes, and how the foundation is being affected.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The right order depends on the cause of the damage. If poor drainage, runoff, or soil saturation is driving movement, correcting water flow first or as part of the same project is usually important. Otherwise, the foundation may keep moving after the structural repair is complete. In some cases, the foundation must be stabilized first so drainage work can be safely installed or so the structure can be lifted properly. In Los Angeles County, this decision is often influenced by slope, hardscape, roof runoff, and the location of downspouts or retaining features. The contractor should explain whether drainage is the root cause, a contributing factor, or a separate issue that can be handled afterward.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If water is causing the movement, drainage often needs to be addressed before or alongside foundation repair. Fixing the structure without correcting water prob"
+}

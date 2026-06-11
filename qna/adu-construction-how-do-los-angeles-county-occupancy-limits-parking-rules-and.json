@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-construction-how-do-los-angeles-county-occupancy-limits-parking-rules-and",
+  "name": "Renting the Main Home and ADU in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do Los Angeles County occupancy limits, parking rules, and owner‑occupancy requirements practically affect renting out both the main home and the ADU?",
+    "text": "How do Los Angeles County occupancy limits, parking rules, and owner‑occupancy requirements practically affect renting out both the main home and the ADU?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Rental flexibility is a key reason Angelenos build ADUs, but the practical rules can be confusing. State law has temporarily relaxed owner‑occupancy requirements for many ADUs, allowing both the main home and ADU to be rented in numerous situations, provided leases are long‑term and the units remain residential. However, local jurisdictions within Los Angeles County may still enforce specific rules on short‑term rentals, minimum lease durations, and the number of unrelated occupants per unit. Parking is another factor. While state ADU law removes or reduces parking requirements under several conditions—such as proximity to transit—limited street parking can influence neighborhood relations and, in some cases, local enforcement priorities. If your ADU eliminated a required covered space, review whether your zoning and permit approvals formally waived that requirement or assumed certain conditions. Before renting both units, verify with your city or the County whether short‑term rentals (like stays under 30 days) are allowed in either the main home or ADU, and whether registration or occupancy taxes apply. Ensure the ADU is fully permitted and has a certificate of occupancy so tenants can lawfully reside there. Clearly define parking, utilities, and shared spaces in your leases, and keep copies of all permits in case questions arise from neighbors or inspectors.",
+      "@type": "Answer",
+      "description": "State ADU laws have eased owner‑occupancy and parking rules, but local Los Angeles County interpretations still affect how you rent the main home and ADU. In many cases both units can be rented long‑term, but minimum lease lengths, parking availability, and local restrictions on short‑term rentals still apply and should be checked before advertising.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Rental flexibility is a key reason Angelenos build ADUs, but the practical rules can be confusing. State law has temporarily relaxed owner‑occupancy requirements for many ADUs, allowing both the main home and ADU to be rented in numerous situations, provided leases are long‑term and the units remain residential. However, local jurisdictions within Los Angeles County may still enforce specific rules on short‑term rentals, minimum lease durations, and the number of unrelated occupants per unit. Parking is another factor. While state ADU law removes or reduces parking requirements under several conditions—such as proximity to transit—limited street parking can influence neighborhood relations and, in some cases, local enforcement priorities. If your ADU eliminated a required covered space, review whether your zoning and permit approvals formally waived that requirement or assumed certain conditions. Before renting both units, verify with your city or the County whether short‑term rentals (like stays under 30 days) are allowed in either the main home or ADU, and whether registration or occupancy taxes apply. Ensure the ADU is fully permitted and has a certificate of occupancy so tenants can lawfully reside there. Clearly define parking, utilities, and shared spaces in your leases, and keep copies of all permits in case questions arise from neighbors or inspectors.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "State ADU laws have eased owner‑occupancy and parking rules, but local Los Angeles County interpretations still affect how you rent the main home and ADU. In ma"
+}

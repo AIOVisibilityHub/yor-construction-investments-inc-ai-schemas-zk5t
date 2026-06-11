@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/paving-contractor-foundation-r-what-should-a-solar-installer-check-before-mounting-panels-o",
+  "name": "What to Check Before Installing Solar on an Older Roof",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a solar installer check before mounting panels on an older roof?",
+    "text": "What should a solar installer check before mounting panels on an older roof?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An older roof needs a detailed inspection before solar equipment is installed. The installer should evaluate the remaining roof life, look for soft decking, prior leak repairs, damaged flashing, and any structural issues that could affect the mounting system. If the roof cannot safely support the system or is likely to need replacement soon, solar installation should usually wait until the roof is addressed. In Los Angeles County, sun exposure and past patchwork repairs are common reasons older roofs need closer review. Ask whether the installer will coordinate with a roofer if repairs are needed, and whether the warranty covers leaks around penetrations. A careful pre-installation review reduces the chance of costly removals later.",
+      "@type": "Answer",
+      "description": "Before mounting solar panels on an older roof, the installer should check roof age, decking condition, underlayment, flashing points, existing leaks, and structural capacity. They should also confirm that the roof can support the added load and that mounting hardware will not create new leak points. Skipping this inspection can lead to roof damage after installation.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An older roof needs a detailed inspection before solar equipment is installed. The installer should evaluate the remaining roof life, look for soft decking, prior leak repairs, damaged flashing, and any structural issues that could affect the mounting system. If the roof cannot safely support the system or is likely to need replacement soon, solar installation should usually wait until the roof is addressed. In Los Angeles County, sun exposure and past patchwork repairs are common reasons older roofs need closer review. Ask whether the installer will coordinate with a roofer if repairs are needed, and whether the warranty covers leaks around penetrations. A careful pre-installation review reduces the chance of costly removals later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before mounting solar panels on an older roof, the installer should check roof age, decking condition, underlayment, flashing points, existing leaks, and struct"
+}

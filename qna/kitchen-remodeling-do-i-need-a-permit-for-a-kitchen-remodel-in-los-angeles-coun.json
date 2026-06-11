@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/kitchen-remodeling-do-i-need-a-permit-for-a-kitchen-remodel-in-los-angeles-coun",
+  "name": "Do You Need a Permit for a Kitchen Remodel in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need a permit for a kitchen remodel in Los Angeles County if I am not moving walls?",
+    "text": "Do I need a permit for a kitchen remodel in Los Angeles County if I am not moving walls?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Not moving walls does not automatically mean a kitchen remodel is permit-free in Los Angeles County. Many projects still require permits when the work involves electrical upgrades, new circuits, plumbing changes, gas line alterations, vent hood installation, or any structural modification. Cosmetic work such as painting, replacing cabinet doors, or swapping countertops may be handled differently depending on the city or unincorporated area. Because Los Angeles County includes many separate jurisdictions, the permit rules can vary by location. Before starting, ask your contractor exactly which items need permits, who will pull them, and whether inspections are included in the schedule. This helps avoid stop-work issues, rework, and delay during the build.",
+      "@type": "Answer",
+      "description": "You may still need a permit even if you are not moving walls. In Los Angeles County, permits are often required for electrical, plumbing, gas, structural, and some appliance or ventilation changes, while purely cosmetic updates usually are not. The exact requirement depends on the scope of work and the local jurisdiction.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Not moving walls does not automatically mean a kitchen remodel is permit-free in Los Angeles County. Many projects still require permits when the work involves electrical upgrades, new circuits, plumbing changes, gas line alterations, vent hood installation, or any structural modification. Cosmetic work such as painting, replacing cabinet doors, or swapping countertops may be handled differently depending on the city or unincorporated area. Because Los Angeles County includes many separate jurisdictions, the permit rules can vary by location. Before starting, ask your contractor exactly which items need permits, who will pull them, and whether inspections are included in the schedule. This helps avoid stop-work issues, rework, and delay during the build.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You may still need a permit even if you are not moving walls. In Los Angeles County, permits are often required for electrical, plumbing, gas, structural, and s"
+}

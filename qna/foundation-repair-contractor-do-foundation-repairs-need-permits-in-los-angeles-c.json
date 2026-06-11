@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-do-foundation-repairs-need-permits-in-los-angeles-county",
+  "name": "Do You Need a Permit for Foundation Repair in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do foundation repairs need permits in Los Angeles County?",
+    "text": "Do foundation repairs need permits in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether a permit is required depends on the exact repair scope. Structural repairs, underpinning, major excavation, load-bearing changes, and some drainage-related work often trigger permit requirements. Different cities within Los Angeles County can also have different procedures and review expectations. A reputable contractor should tell you early whether the project needs plans, engineering, inspections, or city approval. If permit handling is included, ask who prepares the documents and who coordinates with the building department. Repairs done without required permits can cause delays, resale issues, or failed inspections later, so this should be clarified before construction starts.",
+      "@type": "Answer",
+      "description": "Many foundation repairs do require permits, especially if the work is structural, involves excavation, or changes load-bearing elements. Permit needs depend on the repair scope and local jurisdiction rules within Los Angeles County. A contractor should identify whether plans, engineering, inspections, or city approvals are required before work begins.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether a permit is required depends on the exact repair scope. Structural repairs, underpinning, major excavation, load-bearing changes, and some drainage-related work often trigger permit requirements. Different cities within Los Angeles County can also have different procedures and review expectations. A reputable contractor should tell you early whether the project needs plans, engineering, inspections, or city approval. If permit handling is included, ask who prepares the documents and who coordinates with the building department. Repairs done without required permits can cause delays, resale issues, or failed inspections later, so this should be clarified before construction starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Many foundation repairs do require permits, especially if the work is structural, involves excavation, or changes load-bearing elements. Permit needs depend on "
+}

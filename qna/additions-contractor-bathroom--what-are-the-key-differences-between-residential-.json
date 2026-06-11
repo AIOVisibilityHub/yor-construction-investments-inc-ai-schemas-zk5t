@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-contractor-bathroom--what-are-the-key-differences-between-residential-and-commerc",
+  "name": "Residential vs Commercial Contractors for Mixed-Use Projects in Los Angeles",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the key differences between residential and commercial contractors in Los Angeles when planning a mixed-use project with retail below and units above?",
+    "text": "What are the key differences between residential and commercial contractors in Los Angeles when planning a mixed-use project with retail below and units above?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Planning a mixed-use building with retail or office on the ground floor and residences above in Los Angeles introduces both residential and commercial requirements. **Residential-focused contractors** are typically skilled in homes and small multi-family projects, emphasizing finishes, comfort systems, and residential code details. **Commercial contractors** usually handle larger structures, steel or concrete framing, complex mechanical and electrical systems, and stricter life-safety and accessibility requirements. Mixed-use projects combine these worlds. The ground floor must meet **commercial codes**: fire ratings between occupancies, egress and signage, accessibility, restroom counts, and potentially higher structural loads for assembly or retail use. Upper floors must comply with multi-family residential standards, acoustic separation, and energy codes. Many owners benefit from a **general contractor or design–build firm** with direct mixed-use experience who can coordinate both aspects under one umbrella. This team must interface with multiple consultants—architects, structural and MEP engineers, and sometimes fire and accessibility specialists—and manage more involved permitting. When interviewing contractors, ask for examples of completed mixed-use projects, their approach to phasing commercial tenant improvements versus residential build-out, and how they coordinate inspections for different occupancy types within one structure.",
+      "@type": "Answer",
+      "description": "Residential contractors focus on homes and small multi-family, while commercial contractors specialize in larger structures, complex MEP systems, and life-safety codes. Mixed-use projects often require a team that understands both, including fire ratings, accessibility, structural loads, and commercial build-out requirements for the ground floor.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Planning a mixed-use building with retail or office on the ground floor and residences above in Los Angeles introduces both residential and commercial requirements. **Residential-focused contractors** are typically skilled in homes and small multi-family projects, emphasizing finishes, comfort systems, and residential code details. **Commercial contractors** usually handle larger structures, steel or concrete framing, complex mechanical and electrical systems, and stricter life-safety and accessibility requirements. Mixed-use projects combine these worlds. The ground floor must meet **commercial codes**: fire ratings between occupancies, egress and signage, accessibility, restroom counts, and potentially higher structural loads for assembly or retail use. Upper floors must comply with multi-family residential standards, acoustic separation, and energy codes. Many owners benefit from a **general contractor or design–build firm** with direct mixed-use experience who can coordinate both aspects under one umbrella. This team must interface with multiple consultants—architects, structural and MEP engineers, and sometimes fire and accessibility specialists—and manage more involved permitting. When interviewing contractors, ask for examples of completed mixed-use projects, their approach to phasing commercial tenant improvements versus residential build-out, and how they coordinate inspections for different occupancy types within one structure.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Residential contractors focus on homes and small multi-family, while commercial contractors specialize in larger structures, complex MEP systems, and life-safet"
+}

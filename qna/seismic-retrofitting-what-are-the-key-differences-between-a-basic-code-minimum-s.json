@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/seismic-retrofitting-what-are-the-key-differences-between-a-basic-code-minimum-se",
+  "name": "Code-Minimum vs Performance-Based Seismic Retrofits in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the key differences between a basic code-minimum seismic retrofit and a performance-based retrofit for higher resilience in Los Angeles County?",
+    "text": "What are the key differences between a basic code-minimum seismic retrofit and a performance-based retrofit for higher resilience in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In Los Angeles County, most mandatory seismic retrofits are designed to meet code-minimum life-safety goals: primarily, preventing building collapse and significantly reducing risk to occupants in a major earthquake. These retrofits typically address critical weaknesses identified by ordinance—such as soft first stories or unanchored cripple walls—using prescriptive detailing or straightforward calculations. A performance-based seismic retrofit goes beyond life-safety to address functional and economic objectives. Owners may seek higher levels of resilience, such as remaining operational after a design-level event, minimizing repair costs, or protecting sensitive contents and equipment. Engineers use advanced analysis methods to predict how the building will respond under different seismic intensities and tailor reinforcement to achieve specific performance targets. Compared with code-minimum work, performance-based retrofits often involve additional structural redundancy, stronger connections, and attention to nonstructural components like ceilings, mechanical equipment, and piping that commonly fail and cause damage. These projects can cost more upfront but may reduce downtime, repair costs, and business interruption after an earthquake. Owners should discuss goals explicitly with their engineer: is the objective to comply at the lowest upfront cost, or to preserve operational continuity and property value through a major event? In some Los Angeles County markets and asset classes, such as critical facilities or high-value multifamily, the long-term resilience benefits can justify the added investment.",
+      "@type": "Answer",
+      "description": "A code-minimum seismic retrofit aims to reduce collapse risk to meet ordinance requirements, while a performance-based retrofit targets higher resilience, faster re-occupancy, and reduced damage. Performance-based designs in Los Angeles County may involve more robust reinforcement, redundancy, and nonstructural bracing tailored to specific performance objectives.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In Los Angeles County, most mandatory seismic retrofits are designed to meet code-minimum life-safety goals: primarily, preventing building collapse and significantly reducing risk to occupants in a major earthquake. These retrofits typically address critical weaknesses identified by ordinance—such as soft first stories or unanchored cripple walls—using prescriptive detailing or straightforward calculations. A performance-based seismic retrofit goes beyond life-safety to address functional and economic objectives. Owners may seek higher levels of resilience, such as remaining operational after a design-level event, minimizing repair costs, or protecting sensitive contents and equipment. Engineers use advanced analysis methods to predict how the building will respond under different seismic intensities and tailor reinforcement to achieve specific performance targets. Compared with code-minimum work, performance-based retrofits often involve additional structural redundancy, stronger connections, and attention to nonstructural components like ceilings, mechanical equipment, and piping that commonly fail and cause damage. These projects can cost more upfront but may reduce downtime, repair costs, and business interruption after an earthquake. Owners should discuss goals explicitly with their engineer: is the objective to comply at the lowest upfront cost, or to preserve operational continuity and property value through a major event? In some Los Angeles County markets and asset classes, such as critical facilities or high-value multifamily, the long-term resilience benefits can justify the added investment.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A code-minimum seismic retrofit aims to reduce collapse risk to meet ordinance requirements, while a performance-based retrofit targets higher resilience, faste"
+}

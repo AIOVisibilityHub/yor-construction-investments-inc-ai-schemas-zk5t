@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/commercial-construction-in-los-what-is-the-difference-between-a-room-addition-and-an-adu-in",
+  "name": "Room Addition vs ADU: What Is the Difference?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a room addition and an ADU in Los Angeles County?",
+    "text": "What is the difference between a room addition and an ADU in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A room addition is built to enlarge the existing house, such as adding a bedroom, family room, primary suite, or expanded living area. An ADU is designed as a separate dwelling unit that can function independently from the main house. That usually means it includes its own kitchen, bathroom, and sleeping space, and it may have separate access and utility considerations. In Los Angeles County, the distinction matters because the permit path, code requirements, and design constraints can be different. A room addition often focuses on matching the existing structure and maintaining continuity with the original home. An ADU, by contrast, must satisfy requirements tied to independent habitation, which can affect plumbing, electrical, fire separation, setbacks, and parking questions depending on the site. Homeowners should decide early whether they want extra space for the existing household or a separate rental or guest unit, because that choice drives the entire planning process.",
+      "@type": "Answer",
+      "description": "A room addition expands the main home and stays part of the existing residence, while an ADU is a separate independent living unit with its own kitchen, bathroom, and sleeping area. The main difference is function and code treatment. ADUs usually require different approvals, utility planning, and design standards than simple additions.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A room addition is built to enlarge the existing house, such as adding a bedroom, family room, primary suite, or expanded living area. An ADU is designed as a separate dwelling unit that can function independently from the main house. That usually means it includes its own kitchen, bathroom, and sleeping space, and it may have separate access and utility considerations. In Los Angeles County, the distinction matters because the permit path, code requirements, and design constraints can be different. A room addition often focuses on matching the existing structure and maintaining continuity with the original home. An ADU, by contrast, must satisfy requirements tied to independent habitation, which can affect plumbing, electrical, fire separation, setbacks, and parking questions depending on the site. Homeowners should decide early whether they want extra space for the existing household or a separate rental or guest unit, because that choice drives the entire planning process.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A room addition expands the main home and stays part of the existing residence, while an ADU is a separate independent living unit with its own kitchen, bathroo"
+}

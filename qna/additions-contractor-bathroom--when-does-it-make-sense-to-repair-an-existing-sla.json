@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-contractor-bathroom--when-does-it-make-sense-to-repair-an-existing-slab-foundatio",
+  "name": "Repair vs Replace Slab Foundations for Additions and ADUs in Los Angeles",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does it make sense to repair an existing slab foundation versus replacing sections during a room addition or ADU build in Los Angeles?",
+    "text": "When does it make sense to repair an existing slab foundation versus replacing sections during a room addition or ADU build in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Deciding whether to repair or replace portions of a slab foundation during a room addition or ADU project in Los Angeles depends on both structural condition and design requirements. Slabs with **hairline or shrinkage cracks** that show no signs of ongoing movement can often be repaired by epoxy injection, surface sealing, or localized patching, especially when new loads are modest. If the slab is stable and properly reinforced, and the addition does not significantly increase structural loads, targeted repairs may be sufficient. However, slabs showing **differential settlement**, wide or stepped cracks, heaving, or moisture-related damage may not provide a reliable base for new construction. In these cases, engineers frequently recommend cutting and replacing sections, adding new thickened footings, or building a new structural slab tied into properly designed perimeter footings. When planning a room addition or ADU, also consider whether the existing slab meets current standards for moisture barriers, reinforcement, and insulation (where applicable). If not, rebuilding portions of the foundation during the project can be more cost-effective than trying to work around a compromised base. A structural engineer’s evaluation, including level surveys and, if needed, soil information, is the safest way to determine the right approach before framing begins.",
+      "@type": "Answer",
+      "description": "Repairing a slab makes sense when cracking is minor, movement is stable, and structural capacity remains adequate. Replacement or new footings are preferred when there is active settlement, major cracking, poor reinforcement, or when new loads from additions or ADUs exceed the slab’s design capacity.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Deciding whether to repair or replace portions of a slab foundation during a room addition or ADU project in Los Angeles depends on both structural condition and design requirements. Slabs with **hairline or shrinkage cracks** that show no signs of ongoing movement can often be repaired by epoxy injection, surface sealing, or localized patching, especially when new loads are modest. If the slab is stable and properly reinforced, and the addition does not significantly increase structural loads, targeted repairs may be sufficient. However, slabs showing **differential settlement**, wide or stepped cracks, heaving, or moisture-related damage may not provide a reliable base for new construction. In these cases, engineers frequently recommend cutting and replacing sections, adding new thickened footings, or building a new structural slab tied into properly designed perimeter footings. When planning a room addition or ADU, also consider whether the existing slab meets current standards for moisture barriers, reinforcement, and insulation (where applicable). If not, rebuilding portions of the foundation during the project can be more cost-effective than trying to work around a compromised base. A structural engineer’s evaluation, including level surveys and, if needed, soil information, is the safest way to determine the right approach before framing begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Repairing a slab makes sense when cracking is minor, movement is stable, and structural capacity remains adequate. Replacement or new footings are preferred whe"
+}

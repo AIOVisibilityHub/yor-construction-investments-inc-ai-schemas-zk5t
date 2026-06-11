@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/commercial-construction-how-do-plan-check-review-cycles-differ-between-the-city-of-l",
+  "name": "City of Los Angeles vs County: Commercial Plan Check Differences",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do plan check review cycles differ between the City of Los Angeles and unincorporated Los Angeles County for commercial projects?",
+    "text": "How do plan check review cycles differ between the City of Los Angeles and unincorporated Los Angeles County for commercial projects?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Jurisdiction has a major impact on commercial plan check timelines in the Los Angeles region. The City of Los Angeles and unincorporated Los Angeles County each have their own building departments, procedures, and staffing levels. In the City, large commercial projects may go through centralized plan check with multiple disciplines—structural, life safety, mechanical, electrical, plumbing, fire, and green building—reviewing in parallel or in coordinated cycles. The City sometimes offers paid expedited or priority plan check options, but availability can be limited. In unincorporated County areas, the Department of Public Works and Building and Safety handle plan review, often with separate coordination with Fire and Public Health for certain uses. Review sequences, comment styles, and resubmittal procedures can differ from the City’s approach. For owners and design teams, the key is to confirm jurisdiction by parcel at the outset, then obtain current information on plan check queue times, required submittals, and any pre-screening processes. Understanding whether corrections are consolidated or discipline-specific, how many cycles are typical, and whether third-party or over-the-counter reviews are allowed helps create a realistic schedule. Aligning internal design milestones with expected plan check milestones is essential to controlling overall project duration.",
+      "@type": "Answer",
+      "description": "Plan check for commercial projects typically follows different processes and timelines in the City of Los Angeles versus unincorporated Los Angeles County. Owners should understand which agency has jurisdiction, how many review disciplines are involved, and whether expedited or parallel plan check options are available before locking in their construction schedule.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Jurisdiction has a major impact on commercial plan check timelines in the Los Angeles region. The City of Los Angeles and unincorporated Los Angeles County each have their own building departments, procedures, and staffing levels. In the City, large commercial projects may go through centralized plan check with multiple disciplines—structural, life safety, mechanical, electrical, plumbing, fire, and green building—reviewing in parallel or in coordinated cycles. The City sometimes offers paid expedited or priority plan check options, but availability can be limited. In unincorporated County areas, the Department of Public Works and Building and Safety handle plan review, often with separate coordination with Fire and Public Health for certain uses. Review sequences, comment styles, and resubmittal procedures can differ from the City’s approach. For owners and design teams, the key is to confirm jurisdiction by parcel at the outset, then obtain current information on plan check queue times, required submittals, and any pre-screening processes. Understanding whether corrections are consolidated or discipline-specific, how many cycles are typical, and whether third-party or over-the-counter reviews are allowed helps create a realistic schedule. Aligning internal design milestones with expected plan check milestones is essential to controlling overall project duration.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Plan check for commercial projects typically follows different processes and timelines in the City of Los Angeles versus unincorporated Los Angeles County. Owne"
+}

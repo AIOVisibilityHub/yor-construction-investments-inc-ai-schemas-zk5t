@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-construction-how-do-existing-code-violations-or-unpermitted-work-on-a-los",
+  "name": "Building an ADU When Your Los Angeles County Property Has Code Violations",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do existing code violations or unpermitted work on a Los Angeles County property impact the ability to build a new ADU or convert a garage?",
+    "text": "How do existing code violations or unpermitted work on a Los Angeles County property impact the ability to build a new ADU or convert a garage?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many homeowners in Los Angeles County want to add an ADU on properties that already have unpermitted conversions, old additions, or open code violations. These issues do not always stop you from building an ADU, but they usually affect timing and scope. If violations relate to health, life safety, structural stability, or utility systems that will connect to the new ADU, plan reviewers or inspectors can require that you correct or legalize the existing work before they finalize the ADU or, in some cases, before issuing a building permit. Unpermitted garage conversions are especially common. When converting such a garage into a legal ADU, you may have to bring foundations, framing, insulation, windows, and egress up to current code, and sometimes demolish and rebuild portions that cannot be verified. For older additions or altered electrical and plumbing, the County may request as‑built plans, engineering justification, or targeted openings in walls to verify conditions. To avoid surprises, disclose known violations to your designer and contractor early, and request a pre‑design consultation with the local building department. Budget time and money for potential remediation. Where feasible, some owners choose to demolish substandard unpermitted work and start with a clean, permitted ADU build to reduce long‑term risk and simplify resale and insurance.",
+      "@type": "Answer",
+      "description": "Existing code violations or unpermitted work can delay or complicate ADU approval in Los Angeles County. Some issues must be corrected or legalized before permits are issued or final inspections passed, especially if they affect safety, utilities, or structures tied into the ADU. Owners should expect extra inspections, drawings, and fees when prior work is not documented.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many homeowners in Los Angeles County want to add an ADU on properties that already have unpermitted conversions, old additions, or open code violations. These issues do not always stop you from building an ADU, but they usually affect timing and scope. If violations relate to health, life safety, structural stability, or utility systems that will connect to the new ADU, plan reviewers or inspectors can require that you correct or legalize the existing work before they finalize the ADU or, in some cases, before issuing a building permit. Unpermitted garage conversions are especially common. When converting such a garage into a legal ADU, you may have to bring foundations, framing, insulation, windows, and egress up to current code, and sometimes demolish and rebuild portions that cannot be verified. For older additions or altered electrical and plumbing, the County may request as‑built plans, engineering justification, or targeted openings in walls to verify conditions. To avoid surprises, disclose known violations to your designer and contractor early, and request a pre‑design consultation with the local building department. Budget time and money for potential remediation. Where feasible, some owners choose to demolish substandard unpermitted work and start with a clean, permitted ADU build to reduce long‑term risk and simplify resale and insurance.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Existing code violations or unpermitted work can delay or complicate ADU approval in Los Angeles County. Some issues must be corrected or legalized before permi"
+}

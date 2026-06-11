@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-what-questions-should-i-ask-before-hiring-a-foundation-repai",
+  "name": "What to Ask Before Hiring a Foundation Repair Contractor",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What questions should I ask before hiring a foundation repair contractor?",
+    "text": "What questions should I ask before hiring a foundation repair contractor?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A strong contractor should be able to explain the cause of the problem in plain language and connect that cause to a specific repair method. Ask how they determined the issue, whether the movement is active, what makes their proposed solution appropriate, and whether drainage or soil conditions are part of the diagnosis. In Los Angeles County, local permitting knowledge and hillside experience can matter a lot. You should also ask who performs the work, whether the company uses subcontractors, how they handle inspections, how long the repair should take, and what the warranty actually covers. The best contractor answers directly and provides a scope that is specific rather than generic.",
+      "@type": "Answer",
+      "description": "Ask what caused the movement, how they will verify the diagnosis, whether they provide engineering or permit support, what repair method they recommend, how they handle drainage, what warranty is included, and what the project excludes. In Los Angeles County, also ask about hillside experience, local permit familiarity, and how they protect finished spaces during repair.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A strong contractor should be able to explain the cause of the problem in plain language and connect that cause to a specific repair method. Ask how they determined the issue, whether the movement is active, what makes their proposed solution appropriate, and whether drainage or soil conditions are part of the diagnosis. In Los Angeles County, local permitting knowledge and hillside experience can matter a lot. You should also ask who performs the work, whether the company uses subcontractors, how they handle inspections, how long the repair should take, and what the warranty actually covers. The best contractor answers directly and provides a scope that is specific rather than generic.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask what caused the movement, how they will verify the diagnosis, whether they provide engineering or permit support, what repair method they recommend, how the"
+}

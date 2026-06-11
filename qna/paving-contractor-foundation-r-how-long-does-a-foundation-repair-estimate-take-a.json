@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/paving-contractor-foundation-r-how-long-does-a-foundation-repair-estimate-take-and-what-sho",
+  "name": "What a Foundation Repair Estimate Should Include",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long does a foundation repair estimate take, and what should it include?",
+    "text": "How long does a foundation repair estimate take, and what should it include?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A useful estimate is more than a quick visual look. The contractor should inspect cracks, doors and windows that stick, sloping floors, and signs of moisture or drainage problems. They may also measure settlement, check crawlspace or slab conditions, and identify whether the issue is isolated or widespread. In Los Angeles County, soil movement, hillside drainage, and prior additions can complicate the diagnosis, so the estimate should specify the likely cause, the repair method, access requirements, and whether permits or engineering are needed. Ask for a written breakdown of labor, materials, warranty terms, and any optional work that may be discovered during construction. If an estimate is vague, it is harder to compare bids and easier to miss hidden costs.",
+      "@type": "Answer",
+      "description": "A proper foundation repair estimate should usually include a site inspection, measurements of floor elevation, visible crack mapping, drainage review, and a written scope of work. For more complex homes, the contractor may need time to assess access and soil conditions. A rushed estimate that skips these steps often misses the real cause of the damage.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A useful estimate is more than a quick visual look. The contractor should inspect cracks, doors and windows that stick, sloping floors, and signs of moisture or drainage problems. They may also measure settlement, check crawlspace or slab conditions, and identify whether the issue is isolated or widespread. In Los Angeles County, soil movement, hillside drainage, and prior additions can complicate the diagnosis, so the estimate should specify the likely cause, the repair method, access requirements, and whether permits or engineering are needed. Ask for a written breakdown of labor, materials, warranty terms, and any optional work that may be discovered during construction. If an estimate is vague, it is harder to compare bids and easier to miss hidden costs.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A proper foundation repair estimate should usually include a site inspection, measurements of floor elevation, visible crack mapping, drainage review, and a wri"
+}

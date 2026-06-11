@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/foundation-repair-contractor-can-a-foundation-repair-contractor-fix-sloping-floors-withou",
+  "name": "Can Sloping Floors Be Fixed Without Major Demolition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a foundation repair contractor fix sloping floors without major demolition?",
+    "text": "Can a foundation repair contractor fix sloping floors without major demolition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Sloping floors can sometimes be addressed without major demolition if the issue is localized and the foundation system is accessible. In crawl space homes, support adjustments, beam repair, or targeted stabilization may help. In slab homes, the options are different and may require underpinning or other structural correction. If the floor slope is caused by ongoing settlement, soil movement, or serious framing damage, cosmetic fixes will not solve it. A contractor should first determine whether the slope is stable or still changing, and whether the structure can be corrected from below or from the perimeter. The less invasive option is only appropriate when it actually addresses the cause of the movement.",
+      "@type": "Answer",
+      "description": "Sometimes, yes. If the slope is caused by limited settlement or crawl space support issues, a contractor may be able to stabilize or re-level parts of the structure with relatively targeted work. If the problem is widespread foundation movement, damaged framing, or hillside instability, more invasive repair may be necessary. The repair method should match the cause, not just the symptom.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Sloping floors can sometimes be addressed without major demolition if the issue is localized and the foundation system is accessible. In crawl space homes, support adjustments, beam repair, or targeted stabilization may help. In slab homes, the options are different and may require underpinning or other structural correction. If the floor slope is caused by ongoing settlement, soil movement, or serious framing damage, cosmetic fixes will not solve it. A contractor should first determine whether the slope is stable or still changing, and whether the structure can be corrected from below or from the perimeter. The less invasive option is only appropriate when it actually addresses the cause of the movement.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, yes. If the slope is caused by limited settlement or crawl space support issues, a contractor may be able to stabilize or re-level parts of the struc"
+}

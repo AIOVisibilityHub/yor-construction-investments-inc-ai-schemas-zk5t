@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/paving-contractor-what-are-realistic-timelines-for-different-paving-projects-i",
+  "name": "Typical Paving Timelines in Los Angeles County by Project Size",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are realistic timelines for different paving projects in Los Angeles County, from small driveways to large commercial lots?",
+    "text": "What are realistic timelines for different paving projects in Los Angeles County, from small driveways to large commercial lots?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Timeline expectations vary widely by project type in Los Angeles County, and many online estimates ignore permitting, inspections, and site logistics. A straightforward residential asphalt driveway replacement might take one to three days on site for demolition, base prep, and paving, followed by several days where parking is limited while the surface cools and stabilizes. Concrete driveways may require additional curing time before full vehicle use. Small commercial lots, such as standalone retail or office properties, often require more coordination for customer access, striping, and sometimes nighttime work. Expect several days to a week of active work, plus time for layout and inspections if needed. Larger commercial or multifamily complexes may be done in phases over multiple weeks to keep parts of the lot open, which adds mobilization and traffic control time. Factor in lead time for scheduling crews, ordering materials, and securing permits. During peak seasons, contractors may book out several weeks. Occasional rain or unusual heat can also shift schedules. When you receive a proposal, ask for a detailed timeline that includes prep, paving, curing, striping, opening to traffic, and contingency time so you can plan around residents, tenants, or business operations.",
+      "@type": "Answer",
+      "description": "Small residential driveways in Los Angeles County often take 1–3 days to install plus several days of curing or cooling. Medium commercial lots may take several days to a week including striping. Large phased projects can span multiple weeks to coordinate permits, inspections, and access. Always add time for permitting and weather delays.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Timeline expectations vary widely by project type in Los Angeles County, and many online estimates ignore permitting, inspections, and site logistics. A straightforward residential asphalt driveway replacement might take one to three days on site for demolition, base prep, and paving, followed by several days where parking is limited while the surface cools and stabilizes. Concrete driveways may require additional curing time before full vehicle use. Small commercial lots, such as standalone retail or office properties, often require more coordination for customer access, striping, and sometimes nighttime work. Expect several days to a week of active work, plus time for layout and inspections if needed. Larger commercial or multifamily complexes may be done in phases over multiple weeks to keep parts of the lot open, which adds mobilization and traffic control time. Factor in lead time for scheduling crews, ordering materials, and securing permits. During peak seasons, contractors may book out several weeks. Occasional rain or unusual heat can also shift schedules. When you receive a proposal, ask for a detailed timeline that includes prep, paving, curing, striping, opening to traffic, and contingency time so you can plan around residents, tenants, or business operations.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Small residential driveways in Los Angeles County often take 1–3 days to install plus several days of curing or cooling. Medium commercial lots may take several"
+}

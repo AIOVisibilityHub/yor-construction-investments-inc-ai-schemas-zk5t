@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/commercial-construction-what-permitting-steps-and-agencies-are-involved-when-buildin",
+  "name": "Permitting a Ground-Up Commercial Project in Unincorporated Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What permitting steps and agencies are involved when building a ground-up commercial project in an unincorporated area of Los Angeles County?",
+    "text": "What permitting steps and agencies are involved when building a ground-up commercial project in an unincorporated area of Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In unincorporated Los Angeles County, commercial permitting is more complex than simply filing for a building permit. You usually start with the Department of Regional Planning to confirm zoning, permitted uses, and any required entitlements such as conditional use permits or variances. This may involve public hearings if land-use changes or special approvals are needed. Once entitlements are secured, the Department of Public Works and Building and Safety handle grading, drainage, and building plan check. Expect separate submittals for grading (if earthwork is significant), structural, architectural, mechanical, electrical, plumbing, and energy compliance. The Fire Department reviews access, water supply, hydrants, fire lanes, sprinklers, and alarm systems, often requiring coordination of site design and building layouts. Projects with food service, medical uses, or certain industrial operations trigger Environmental Health review. Street improvements, driveway access, and utility connections involve additional Public Works and utility company coordination. To manage the process, your team should assemble a permitting matrix listing each agency, required documents, fees, and anticipated review durations. A pre-application meeting with Regional Planning and Building and Safety is particularly valuable for clarifying sequencing, identifying off-site improvement obligations, and determining whether phased permitting (such as grading or foundation permits) is possible to shorten the overall schedule.",
+      "@type": "Answer",
+      "description": "Ground-up commercial projects in unincorporated Los Angeles County typically require approvals from Regional Planning, Building and Safety, Fire, Public Works, and often Environmental Health, plus utility clearances. Owners should map the sequence of planning approvals, grading and building permits, and off-site improvement reviews before design reaches final stages.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In unincorporated Los Angeles County, commercial permitting is more complex than simply filing for a building permit. You usually start with the Department of Regional Planning to confirm zoning, permitted uses, and any required entitlements such as conditional use permits or variances. This may involve public hearings if land-use changes or special approvals are needed. Once entitlements are secured, the Department of Public Works and Building and Safety handle grading, drainage, and building plan check. Expect separate submittals for grading (if earthwork is significant), structural, architectural, mechanical, electrical, plumbing, and energy compliance. The Fire Department reviews access, water supply, hydrants, fire lanes, sprinklers, and alarm systems, often requiring coordination of site design and building layouts. Projects with food service, medical uses, or certain industrial operations trigger Environmental Health review. Street improvements, driveway access, and utility connections involve additional Public Works and utility company coordination. To manage the process, your team should assemble a permitting matrix listing each agency, required documents, fees, and anticipated review durations. A pre-application meeting with Regional Planning and Building and Safety is particularly valuable for clarifying sequencing, identifying off-site improvement obligations, and determining whether phased permitting (such as grading or foundation permits) is possible to shorten the overall schedule.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ground-up commercial projects in unincorporated Los Angeles County typically require approvals from Regional Planning, Building and Safety, Fire, Public Works, "
+}

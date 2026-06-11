@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/seismic-retrofitting-what-are-the-most-common-change-orders-and-hidden-costs-owne",
+  "name": "Hidden Costs and Change Orders in Los Angeles County Seismic Retrofits",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most common change orders and hidden costs owners encounter during seismic retrofitting of older multifamily buildings in Los Angeles County?",
+    "text": "What are the most common change orders and hidden costs owners encounter during seismic retrofitting of older multifamily buildings in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Seismic retrofitting of older multifamily buildings in Los Angeles County frequently uncovers conditions that were not apparent in initial inspections or drawings. These discoveries often result in change orders, which can materially increase the project budget and schedule if not anticipated. Typical hidden costs include deteriorated or undersized foundations that require additional concrete, reinforcing, or underpinning. Existing utilities—gas lines, electrical conduits, plumbing, or fire sprinklers—may be located precisely where new frames and shear walls need to be installed, requiring rerouting at extra cost. Opening walls and ceilings sometimes triggers code requirements for related life-safety upgrades, such as improved egress lighting, smoke alarms, or additional bracing. Hazardous materials are another common driver. Older buildings may contain asbestos-containing materials or lead-based paint where demolition or drilling is required. Abatement and specialized disposal can be significantly more expensive than standard demolition. Access and site constraints can also lead to extra shoring, excavation support, or temporary protection for neighboring properties. To manage these risks, owners should budget a contingency—often 10–20 percent of construction cost—and ask prospective contractors about the change orders they most often encounter on similar buildings. A thorough preconstruction investigation, including selective exploratory openings and foundation probing, can reduce surprises and refine cost estimates before work starts.",
+      "@type": "Answer",
+      "description": "Common hidden costs in Los Angeles County seismic retrofits include unexpected foundation deterioration, utility relocations, code-triggered upgrades, asbestos or lead abatement, and access or shoring complications. These items often appear as change orders once walls and slabs are opened, making a contingency budget crucial for older multifamily structures.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Seismic retrofitting of older multifamily buildings in Los Angeles County frequently uncovers conditions that were not apparent in initial inspections or drawings. These discoveries often result in change orders, which can materially increase the project budget and schedule if not anticipated. Typical hidden costs include deteriorated or undersized foundations that require additional concrete, reinforcing, or underpinning. Existing utilities—gas lines, electrical conduits, plumbing, or fire sprinklers—may be located precisely where new frames and shear walls need to be installed, requiring rerouting at extra cost. Opening walls and ceilings sometimes triggers code requirements for related life-safety upgrades, such as improved egress lighting, smoke alarms, or additional bracing. Hazardous materials are another common driver. Older buildings may contain asbestos-containing materials or lead-based paint where demolition or drilling is required. Abatement and specialized disposal can be significantly more expensive than standard demolition. Access and site constraints can also lead to extra shoring, excavation support, or temporary protection for neighboring properties. To manage these risks, owners should budget a contingency—often 10–20 percent of construction cost—and ask prospective contractors about the change orders they most often encounter on similar buildings. A thorough preconstruction investigation, including selective exploratory openings and foundation probing, can reduce surprises and refine cost estimates before work starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common hidden costs in Los Angeles County seismic retrofits include unexpected foundation deterioration, utility relocations, code-triggered upgrades, asbestos "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/commercial-construction-in-los-what-is-the-cheapest-adu-type-to-build-in-los-angeles-county",
+  "name": "What Is the Cheapest ADU Type to Build in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the cheapest ADU type to build in Los Angeles County?",
+    "text": "What is the cheapest ADU type to build in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The least expensive ADU option is usually a garage conversion, because it starts with an existing shell and reduces the amount of new foundation, framing, and exterior work needed. That said, a garage conversion can still become costly if the slab needs repair, the structure is undersized, the roof or walls need strengthening, or utility systems must be extensively upgraded. Attached ADUs may also be cost-efficient when they leverage part of the existing home, but they can be more complex than a straightforward conversion. Detached ADUs are typically the most expensive because they require a new structure, more site work, and complete mechanical, electrical, and plumbing systems. The lowest-cost project is not always the best value if it creates layout compromises or future maintenance issues. A feasibility review should compare total cost, expected rental or use value, and likely construction complexity before you choose the ADU type.",
+      "@type": "Answer",
+      "description": "Garage conversions are often the cheapest ADU type because they use an existing structure and usually need less framing and site work than a detached new build. Costs still depend on foundation condition, insulation, plumbing, electrical upgrades, and whether the garage must be strengthened or reconfigured for code compliance.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The least expensive ADU option is usually a garage conversion, because it starts with an existing shell and reduces the amount of new foundation, framing, and exterior work needed. That said, a garage conversion can still become costly if the slab needs repair, the structure is undersized, the roof or walls need strengthening, or utility systems must be extensively upgraded. Attached ADUs may also be cost-efficient when they leverage part of the existing home, but they can be more complex than a straightforward conversion. Detached ADUs are typically the most expensive because they require a new structure, more site work, and complete mechanical, electrical, and plumbing systems. The lowest-cost project is not always the best value if it creates layout compromises or future maintenance issues. A feasibility review should compare total cost, expected rental or use value, and likely construction complexity before you choose the ADU type.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Garage conversions are often the cheapest ADU type because they use an existing structure and usually need less framing and site work than a detached new build."
+}

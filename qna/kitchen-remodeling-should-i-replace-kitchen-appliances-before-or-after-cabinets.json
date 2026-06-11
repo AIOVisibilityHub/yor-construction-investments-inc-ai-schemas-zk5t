@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/kitchen-remodeling-should-i-replace-kitchen-appliances-before-or-after-cabinets",
+  "name": "When Should You Buy Appliances for a Kitchen Remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I replace kitchen appliances before or after cabinets and countertops are installed?",
+    "text": "Should I replace kitchen appliances before or after cabinets and countertops are installed?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Appliance planning should happen early, even though actual installation usually happens near the end of the project. Cabinet dimensions, countertop overhangs, vent hood placement, and utility connections all depend on the exact appliance sizes. If appliances are purchased too late or their specifications change, the kitchen can end up with clearance issues or awkward gaps. In Los Angeles County remodels, where many kitchens mix standard and custom elements, coordinating appliance specs with the cabinetmaker and contractor is especially important. The safest approach is to select appliances before final cabinet drawings are approved and to verify rough-in locations before walls are closed. Then the appliances can be installed after the cabinets, counters, and utilities are ready.",
+      "@type": "Answer",
+      "description": "Appliance dimensions should be confirmed before cabinets and countertops are ordered, but the appliances are usually installed after the cabinets and counters are set. This prevents fit problems with refrigerators, ranges, dishwashers, and built-in units and helps the kitchen function as planned.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Appliance planning should happen early, even though actual installation usually happens near the end of the project. Cabinet dimensions, countertop overhangs, vent hood placement, and utility connections all depend on the exact appliance sizes. If appliances are purchased too late or their specifications change, the kitchen can end up with clearance issues or awkward gaps. In Los Angeles County remodels, where many kitchens mix standard and custom elements, coordinating appliance specs with the cabinetmaker and contractor is especially important. The safest approach is to select appliances before final cabinet drawings are approved and to verify rough-in locations before walls are closed. Then the appliances can be installed after the cabinets, counters, and utilities are ready.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Appliance dimensions should be confirmed before cabinets and countertops are ordered, but the appliances are usually installed after the cabinets and counters a"
+}
