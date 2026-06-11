@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/solar-system-installation-serv-how-do-solar-system-installation-requirements-differ-between",
+  "name": "LADWP vs SCE: Key Solar Installation Differences in LA County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do solar system installation requirements differ between LADWP and SCE customers within Los Angeles County?",
+    "text": "How do solar system installation requirements differ between LADWP and SCE customers within Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Within Los Angeles County, your utility—most commonly LADWP or SCE—has a major impact on the administrative side of your solar project. Both allow grid-tied solar, but they use different application portals, forms, and review steps. LADWP has its own solar and battery program with distinct interconnection packets, technical requirements, and inspection coordination process. SCE follows the state’s NEM framework and uses separate online interconnection tools, timelines, and fee structures. These differences can affect how quickly your system gets permission to operate. LADWP may have specific metering requirements and program caps, while SCE may impose different timelines and supplemental review rules for larger or more complex systems. In some cases, utilities also specify acceptable inverter certifications, disconnect locations, and labeling details. From a hardware standpoint, you can usually install the same panels, inverters, and batteries in either territory, but your installer must design to the utility’s interconnection rules and submit accurate one-line diagrams and site plans. When comparing quotes, ask which utility process applies to your address, how many projects the installer has completed with that utility in the last year, and what the typical approval timeline looks like. This helps you set realistic expectations and avoid delays due to unfamiliarity with utility-specific requirements.",
+      "@type": "Answer",
+      "description": "LADWP and SCE customers in Los Angeles County face different solar application portals, interconnection forms, incentive programs, and sometimes metering and equipment rules. These utility-specific requirements affect your project timeline and paperwork but do not usually change core installation methods or hardware choices.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Within Los Angeles County, your utility—most commonly LADWP or SCE—has a major impact on the administrative side of your solar project. Both allow grid-tied solar, but they use different application portals, forms, and review steps. LADWP has its own solar and battery program with distinct interconnection packets, technical requirements, and inspection coordination process. SCE follows the state’s NEM framework and uses separate online interconnection tools, timelines, and fee structures. These differences can affect how quickly your system gets permission to operate. LADWP may have specific metering requirements and program caps, while SCE may impose different timelines and supplemental review rules for larger or more complex systems. In some cases, utilities also specify acceptable inverter certifications, disconnect locations, and labeling details. From a hardware standpoint, you can usually install the same panels, inverters, and batteries in either territory, but your installer must design to the utility’s interconnection rules and submit accurate one-line diagrams and site plans. When comparing quotes, ask which utility process applies to your address, how many projects the installer has completed with that utility in the last year, and what the typical approval timeline looks like. This helps you set realistic expectations and avoid delays due to unfamiliarity with utility-specific requirements.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "LADWP and SCE customers in Los Angeles County face different solar application portals, interconnection forms, incentive programs, and sometimes metering and eq"
+}

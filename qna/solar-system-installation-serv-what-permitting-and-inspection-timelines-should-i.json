@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/solar-system-installation-serv-what-permitting-and-inspection-timelines-should-i-realistica",
+  "name": "Realistic Solar Permitting and Inspection Timelines Across LA County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What permitting and inspection timelines should I realistically expect for a rooftop solar system in different Los Angeles County cities?",
+    "text": "What permitting and inspection timelines should I realistically expect for a rooftop solar system in different Los Angeles County cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Los Angeles County does not have a single universal timeline for solar permitting and inspections. Each city or jurisdiction—such as Los Angeles, Pasadena, Santa Clarita, or unincorporated county—runs its own building department with different staffing levels and review processes. In many areas, standard residential rooftop solar permits are “over the counter” or fast-tracked electronically, taking 2–3 weeks. In others, especially where plan checks are manual or workloads are high, approvals can stretch to 4–6 weeks or more. Once your permit is issued, installation itself often takes 1–3 days. After that, you must pass one or more city inspections (building, electrical, and sometimes fire) before your installer can submit final documents to the utility. Utility permission to operate (PTO) can add another 1–3 weeks depending on LADWP or SCE workload and whether your project triggers supplemental review. Ask each installer for recent examples of projects in your exact city and how long permits, inspections, and PTO took. Get a written timeline that breaks down design, permitting, installation, inspection, and utility steps separately. Budget extra time for busy summer months, complex roofs, or systems with batteries or service panel upgrades, which often require additional review and can delay final activation.",
+      "@type": "Answer",
+      "description": "Permitting and inspection timelines for rooftop solar in Los Angeles County vary by city, but homeowners should generally expect 2–6 weeks for permit approval and 1–3 weeks for inspections and utility permission to operate. Busy seasons, plan corrections, and utility backlogs can extend these timelines significantly.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Los Angeles County does not have a single universal timeline for solar permitting and inspections. Each city or jurisdiction—such as Los Angeles, Pasadena, Santa Clarita, or unincorporated county—runs its own building department with different staffing levels and review processes. In many areas, standard residential rooftop solar permits are “over the counter” or fast-tracked electronically, taking 2–3 weeks. In others, especially where plan checks are manual or workloads are high, approvals can stretch to 4–6 weeks or more. Once your permit is issued, installation itself often takes 1–3 days. After that, you must pass one or more city inspections (building, electrical, and sometimes fire) before your installer can submit final documents to the utility. Utility permission to operate (PTO) can add another 1–3 weeks depending on LADWP or SCE workload and whether your project triggers supplemental review. Ask each installer for recent examples of projects in your exact city and how long permits, inspections, and PTO took. Get a written timeline that breaks down design, permitting, installation, inspection, and utility steps separately. Budget extra time for busy summer months, complex roofs, or systems with batteries or service panel upgrades, which often require additional review and can delay final activation.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Permitting and inspection timelines for rooftop solar in Los Angeles County vary by city, but homeowners should generally expect 2–6 weeks for permit approval a"
+}

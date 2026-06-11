@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/bathroom-renovating-contractor-how-do-i-know-if-a-bathroom-contractor-is-licensed-and-insur",
+  "name": "How Do You Verify a Bathroom Contractor Is Licensed and Insured?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if a bathroom contractor is licensed and insured in California?",
+    "text": "How do I know if a bathroom contractor is licensed and insured in California?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "To verify a bathroom contractor, request their license number and compare it to the legal business name on the estimate and contract. The license should match the type of work they are offering, and the name should be consistent across documents. Ask for current proof of general liability insurance and workers’ compensation coverage if they have employees or subcontractors on site. You should also confirm who will actually perform the work, because some contractors sell the job and rely heavily on subcontractors. A legitimate contractor should have no problem sharing documentation before you sign. If the contractor avoids the question, gives vague answers, or pressures you to start immediately, treat that as a warning sign. In bathroom remodeling, insurance matters because water damage, electrical work, and jobsite injuries can create serious costs if coverage is missing. Verification takes only a few minutes and can prevent expensive problems later. A well-run contractor will expect these questions and answer them directly.",
+      "@type": "Answer",
+      "description": "Ask for the contractor’s license number, then verify it matches the business name on the contract and the work type offered. They should also provide proof of general liability insurance and workers’ compensation coverage if they have employees. If the paperwork is unclear, expired, or inconsistent, do not sign until it is resolved.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "To verify a bathroom contractor, request their license number and compare it to the legal business name on the estimate and contract. The license should match the type of work they are offering, and the name should be consistent across documents. Ask for current proof of general liability insurance and workers’ compensation coverage if they have employees or subcontractors on site. You should also confirm who will actually perform the work, because some contractors sell the job and rely heavily on subcontractors. A legitimate contractor should have no problem sharing documentation before you sign. If the contractor avoids the question, gives vague answers, or pressures you to start immediately, treat that as a warning sign. In bathroom remodeling, insurance matters because water damage, electrical work, and jobsite injuries can create serious costs if coverage is missing. Verification takes only a few minutes and can prevent expensive problems later. A well-run contractor will expect these questions and answer them directly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask for the contractor’s license number, then verify it matches the business name on the contract and the work type offered. They should also provide proof of g"
+}

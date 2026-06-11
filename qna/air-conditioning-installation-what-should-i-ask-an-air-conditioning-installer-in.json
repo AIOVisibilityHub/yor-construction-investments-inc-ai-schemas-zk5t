@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/air-conditioning-installation-what-should-i-ask-an-air-conditioning-installer-in-los-angel",
+  "name": "Questions to Ask About Title 24 and SEER2 Before AC Installation in Los Angeles",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I ask an air conditioning installer in Los Angeles about Title 24 and SEER2 requirements before signing a contract?",
+    "text": "What should I ask an air conditioning installer in Los Angeles about Title 24 and SEER2 requirements before signing a contract?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before you sign an AC installation contract in Los Angeles, you should confirm exactly how the contractor will comply with Title 24 energy codes and current SEER2 efficiency requirements. Start by asking which SEER2 rating they are proposing and whether it meets or exceeds the minimum allowed in California for your system type. Clarify whether they considered duct condition, duct location (attic, crawl space), and insulation levels when choosing equipment. Next, ask if the contractor will obtain the permit and schedule all required inspections, including HERS testing where applicable. Request in writing that permit fees, HERS testing, and any required documentation are included in the contract price. Ask how they will handle duct leakage testing, refrigerant charge verification, and airflow testing that may be required to pass. You should also ask whether any duct sealing, duct replacement, or insulation upgrades are needed for compliance and what those will cost. Verify that you will receive final documentation (permit sign-off, HERS reports, and model numbers) for your records. Getting clear answers up front helps avoid surprise costs, failed inspections, or being locked into a non‑compliant system that could create problems when selling or remodeling later.",
+      "@type": "Answer",
+      "description": "Before hiring a Los Angeles AC installer, ask how the proposed system meets current Title 24 and SEER2 efficiency standards, whether the permit and HERS testing are included, how they will document compliance, and if any duct upgrades or insulation changes are required to pass inspection in your specific city within LA County.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before you sign an AC installation contract in Los Angeles, you should confirm exactly how the contractor will comply with Title 24 energy codes and current SEER2 efficiency requirements. Start by asking which SEER2 rating they are proposing and whether it meets or exceeds the minimum allowed in California for your system type. Clarify whether they considered duct condition, duct location (attic, crawl space), and insulation levels when choosing equipment. Next, ask if the contractor will obtain the permit and schedule all required inspections, including HERS testing where applicable. Request in writing that permit fees, HERS testing, and any required documentation are included in the contract price. Ask how they will handle duct leakage testing, refrigerant charge verification, and airflow testing that may be required to pass. You should also ask whether any duct sealing, duct replacement, or insulation upgrades are needed for compliance and what those will cost. Verify that you will receive final documentation (permit sign-off, HERS reports, and model numbers) for your records. Getting clear answers up front helps avoid surprise costs, failed inspections, or being locked into a non‑compliant system that could create problems when selling or remodeling later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before hiring a Los Angeles AC installer, ask how the proposed system meets current Title 24 and SEER2 efficiency standards, whether the permit and HERS testing"
+}

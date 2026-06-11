@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/retailing-walls-contractor-do-i-need-a-survey-before-hiring-a-retaining-wall-contractor",
+  "name": "Do You Need a Survey Before Building a Retaining Wall?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need a survey before hiring a retaining wall contractor in Los Angeles County?",
+    "text": "Do I need a survey before hiring a retaining wall contractor in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A survey is especially useful when the wall must sit near a property line, along a slope, next to an existing structure, or in a tight backyard with limited room for error. It helps establish boundaries, elevations, and grade changes that influence where the wall should go and how high it needs to be. In Los Angeles County, small measurement errors can become bigger issues when permits, drainage, and neighboring properties are involved. A contractor may be able to start with basic site measurements, but a survey reduces the risk of building in the wrong place or discovering grade conflicts later. If your project is structural or complex, the survey can save time and money by supporting a more accurate design from the beginning.",
+      "@type": "Answer",
+      "description": "A survey is often wise when the wall is near a property line, easement, slope, or existing structure. It helps confirm boundaries and elevations so the wall is placed correctly. Without accurate measurements, the contractor may build in the wrong location or miss grading problems that affect drainage and permits.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A survey is especially useful when the wall must sit near a property line, along a slope, next to an existing structure, or in a tight backyard with limited room for error. It helps establish boundaries, elevations, and grade changes that influence where the wall should go and how high it needs to be. In Los Angeles County, small measurement errors can become bigger issues when permits, drainage, and neighboring properties are involved. A contractor may be able to start with basic site measurements, but a survey reduces the risk of building in the wrong place or discovering grade conflicts later. If your project is structural or complex, the survey can save time and money by supporting a more accurate design from the beginning.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A survey is often wise when the wall is near a property line, easement, slope, or existing structure. It helps confirm boundaries and elevations so the wall is "
+}

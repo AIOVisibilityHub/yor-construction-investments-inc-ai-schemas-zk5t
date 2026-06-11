@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/driveway-contractor-how-much-slope-is-too-much-for-a-driveway-contractor-to-fix-",
+  "name": "How Much Driveway Slope Is Too Steep?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much slope is too much for a driveway contractor to fix without major excavation?",
+    "text": "How much slope is too much for a driveway contractor to fix without major excavation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "There is no single cutoff that applies to every property, because the answer depends on the driveway length, grade, drainage path, and available room to rework the approach. Small slope corrections can sometimes be made with resurfacing, regrading, or localized base adjustment. Larger problems may require excavation, a new base, retaining features, or a redesigned entrance to create a safe and usable driveway. In Los Angeles County, the contractor also has to consider street access, curb height, garage elevation, and runoff management. Homeowners should ask the contractor to measure the slope and explain whether the current geometry can be improved without major demolition. If the slope causes scraping, water pooling, vehicle bottoming-out, or loss of traction, the problem may be structural rather than cosmetic. A contractor should be able to identify whether the project is a repair, a partial rebuild, or a full reconstruction based on the site conditions.",
+      "@type": "Answer",
+      "description": "If a driveway slope is extreme, a simple repair may not be enough. Contractors can often correct minor grading issues, but large slope changes may require excavation, retaining features, or redesign of the approach. The point where repair becomes reconstruction depends on the existing elevation, drainage, and available space.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "There is no single cutoff that applies to every property, because the answer depends on the driveway length, grade, drainage path, and available room to rework the approach. Small slope corrections can sometimes be made with resurfacing, regrading, or localized base adjustment. Larger problems may require excavation, a new base, retaining features, or a redesigned entrance to create a safe and usable driveway. In Los Angeles County, the contractor also has to consider street access, curb height, garage elevation, and runoff management. Homeowners should ask the contractor to measure the slope and explain whether the current geometry can be improved without major demolition. If the slope causes scraping, water pooling, vehicle bottoming-out, or loss of traction, the problem may be structural rather than cosmetic. A contractor should be able to identify whether the project is a repair, a partial rebuild, or a full reconstruction based on the site conditions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a driveway slope is extreme, a simple repair may not be enough. Contractors can often correct minor grading issues, but large slope changes may require excav"
+}

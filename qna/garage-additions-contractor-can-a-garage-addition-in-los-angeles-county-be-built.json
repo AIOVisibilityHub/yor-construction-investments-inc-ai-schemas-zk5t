@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/garage-additions-contractor-can-a-garage-addition-in-los-angeles-county-be-built-close-t",
+  "name": "How Close Can a Garage Addition Be to the Property Line?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a garage addition in Los Angeles County be built close to the property line?",
+    "text": "Can a garage addition in Los Angeles County be built close to the property line?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Property line placement is one of the most important design issues for a garage addition. Local zoning rules can limit setbacks, and closer placement may trigger fire-rated walls, restricted window openings, or other construction details. Some lots have additional complications because of easements, corner lots, alleys, hillside rules, or narrow side yards. Even if a garage fits physically, it may still fail code review if the design ignores these constraints. A contractor should check the site survey and local development standards before drawings are finalized. This prevents expensive redesigns after permit submission. If the lot is tight, homeowners should also ask whether a smaller footprint, a different roof form, or a detached versus attached layout would improve compliance. Early planning is especially important in Los Angeles County where local requirements can vary from city to city.",
+      "@type": "Answer",
+      "description": "Sometimes, but not always. In Los Angeles County, setbacks, fire-rating requirements, and local zoning rules can limit how close a garage addition may sit to a property line. The allowable distance depends on the city, garage height, wall openings, and whether the structure is detached or attached.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Property line placement is one of the most important design issues for a garage addition. Local zoning rules can limit setbacks, and closer placement may trigger fire-rated walls, restricted window openings, or other construction details. Some lots have additional complications because of easements, corner lots, alleys, hillside rules, or narrow side yards. Even if a garage fits physically, it may still fail code review if the design ignores these constraints. A contractor should check the site survey and local development standards before drawings are finalized. This prevents expensive redesigns after permit submission. If the lot is tight, homeowners should also ask whether a smaller footprint, a different roof form, or a detached versus attached layout would improve compliance. Early planning is especially important in Los Angeles County where local requirements can vary from city to city.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, but not always. In Los Angeles County, setbacks, fire-rating requirements, and local zoning rules can limit how close a garage addition may sit to a "
+}

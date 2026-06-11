@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/retailing-walls-contractor-what-should-i-do-if-my-retaining-wall-starts-leaning-after-n",
+  "name": "What to Do If a Retaining Wall Starts Leaning After Landscaping",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I do if my retaining wall starts leaning after new landscaping was added?",
+    "text": "What should I do if my retaining wall starts leaning after new landscaping was added?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If a retaining wall starts leaning after landscaping work, the first concern is whether the new landscaping changed water flow or added weight near the wall. Fresh irrigation, raised planters, compacted soil, or added fill can all increase pressure behind the wall. The contractor should inspect the wall, drainage outlets, and nearby grade changes to see whether the new landscape design is forcing water toward the structure or adding surcharge load. In Los Angeles County, even modest landscaping changes can affect a marginal wall, especially on a slope. Avoid assuming the wall only needs a patch or repainting. The priority is to find the source of the movement and correct it before the lean gets worse.",
+      "@type": "Answer",
+      "description": "If a wall begins leaning after landscaping changes, stop adding water or heavy loads near it and have the contractor inspect drainage, soil compaction, and surcharge pressure. New irrigation, planters, or grading can overload the wall or saturate the backfill. The wall may need drainage correction before any cosmetic landscaping fixes.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If a retaining wall starts leaning after landscaping work, the first concern is whether the new landscaping changed water flow or added weight near the wall. Fresh irrigation, raised planters, compacted soil, or added fill can all increase pressure behind the wall. The contractor should inspect the wall, drainage outlets, and nearby grade changes to see whether the new landscape design is forcing water toward the structure or adding surcharge load. In Los Angeles County, even modest landscaping changes can affect a marginal wall, especially on a slope. Avoid assuming the wall only needs a patch or repainting. The priority is to find the source of the movement and correct it before the lean gets worse.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a wall begins leaning after landscaping changes, stop adding water or heavy loads near it and have the contractor inspect drainage, soil compaction, and surc"
+}

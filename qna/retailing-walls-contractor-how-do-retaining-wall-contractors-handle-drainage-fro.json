@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/retailing-walls-contractor-how-do-retaining-wall-contractors-handle-drainage-from-neigh",
+  "name": "How Contractors Handle Neighboring Property Drainage",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do retaining wall contractors handle drainage from neighboring properties in Los Angeles County?",
+    "text": "How do retaining wall contractors handle drainage from neighboring properties in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Neighboring runoff can be a major issue on tight Los Angeles County lots, especially where slopes, patios, and roof drainage all meet in one area. The retaining wall contractor should evaluate where water comes from and where it will go after the wall is built. That may involve redirecting downspouts, regrading the surface, adding drains, or shaping the yard so water flows away from the structure and not toward adjacent properties. If runoff from a neighboring lot is already entering the site, the wall design may need to account for that extra water load. Ignoring outside drainage can cause pressure buildup behind the wall and future disputes about where the water ends up. A good contractor will treat water management as a site-wide issue, not just a wall-by-wall problem.",
+      "@type": "Answer",
+      "description": "The contractor should design the wall so outside runoff does not collect behind it and so the finished drainage path does not send water onto a neighbor’s property. That may require grading, drains, swales, or downspout redirection. If neighboring runoff is already affecting the site, it should be addressed before the wall is built.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Neighboring runoff can be a major issue on tight Los Angeles County lots, especially where slopes, patios, and roof drainage all meet in one area. The retaining wall contractor should evaluate where water comes from and where it will go after the wall is built. That may involve redirecting downspouts, regrading the surface, adding drains, or shaping the yard so water flows away from the structure and not toward adjacent properties. If runoff from a neighboring lot is already entering the site, the wall design may need to account for that extra water load. Ignoring outside drainage can cause pressure buildup behind the wall and future disputes about where the water ends up. A good contractor will treat water management as a site-wide issue, not just a wall-by-wall problem.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The contractor should design the wall so outside runoff does not collect behind it and so the finished drainage path does not send water onto a neighbor’s prope"
+}

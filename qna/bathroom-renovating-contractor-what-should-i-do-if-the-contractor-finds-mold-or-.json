@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/bathroom-renovating-contractor-what-should-i-do-if-the-contractor-finds-mold-or-water-damag",
+  "name": "What Happens If Mold or Water Damage Is Found During a Bathroom Remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I do if the contractor finds mold or water damage during demolition?",
+    "text": "What should I do if the contractor finds mold or water damage during demolition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If mold or water damage is discovered during demolition, the contractor should stop, document the condition, and explain the source of the problem before continuing. Hidden damage often means the original scope needs extra demolition, drying, framing repair, subfloor replacement, or improved waterproofing. In some cases, plumbing leaks or poor shower construction caused the damage, and those problems need to be corrected before finishes go back in. Ask for photos and a written change order that describes the repair work, the added cost, and the schedule impact. If the contractor tries to cover over the damage without addressing the cause, the same problem may return after the remodel is finished. In older bathrooms, this is one of the most important reasons to keep some budget reserve. A contractor experienced with bathroom renovations should know how to isolate the issue, coordinate any needed remediation, and rebuild the area correctly. Clear documentation protects both the homeowner and the contractor when unexpected conditions appear.",
+      "@type": "Answer",
+      "description": "Stop work long enough to document the damage, identify the cause, and get a written change order before repairs continue. Water damage often means the project needs extra demolition, drying, framing repair, or waterproofing improvements. A contractor should explain the issue clearly and show how the fix affects cost and schedule.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If mold or water damage is discovered during demolition, the contractor should stop, document the condition, and explain the source of the problem before continuing. Hidden damage often means the original scope needs extra demolition, drying, framing repair, subfloor replacement, or improved waterproofing. In some cases, plumbing leaks or poor shower construction caused the damage, and those problems need to be corrected before finishes go back in. Ask for photos and a written change order that describes the repair work, the added cost, and the schedule impact. If the contractor tries to cover over the damage without addressing the cause, the same problem may return after the remodel is finished. In older bathrooms, this is one of the most important reasons to keep some budget reserve. A contractor experienced with bathroom renovations should know how to isolate the issue, coordinate any needed remediation, and rebuild the area correctly. Clear documentation protects both the homeowner and the contractor when unexpected conditions appear.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Stop work long enough to document the damage, identify the cause, and get a written change order before repairs continue. Water damage often means the project n"
+}

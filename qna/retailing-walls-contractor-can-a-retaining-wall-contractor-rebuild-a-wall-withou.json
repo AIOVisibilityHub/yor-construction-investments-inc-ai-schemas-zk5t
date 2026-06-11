@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/retailing-walls-contractor-can-a-retaining-wall-contractor-rebuild-a-wall-without-repla",
+  "name": "Can a Retaining Wall Be Rebuilt Without Replacing the Footing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a retaining wall contractor rebuild a wall without replacing the footing?",
+    "text": "Can a retaining wall contractor rebuild a wall without replacing the footing?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Reusing an existing footing is only appropriate when the footing is in good condition and matches the new wall’s structural needs. That means it must be deep enough, wide enough, properly reinforced, and free from major cracking, settlement, or erosion. If the original wall failed because of poor drainage or inadequate foundation design, rebuilding on the same footing often repeats the problem. In Los Angeles County, hillside movement and soil conditions can also make old footings unreliable even if they look intact. A contractor should expose and evaluate the footing before promising reuse. If the footing is marginal, replacing it is usually the safer long-term choice because it allows the wall to be designed correctly for current loads and code expectations.",
+      "@type": "Answer",
+      "description": "Sometimes, but only if the existing footing is structurally sound, properly sized, and compatible with the new wall design. If the footing is cracked, shallow, undersized, or built for a different load, reusing it can cause the new wall to fail. A contractor should inspect the footing before deciding.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Reusing an existing footing is only appropriate when the footing is in good condition and matches the new wall’s structural needs. That means it must be deep enough, wide enough, properly reinforced, and free from major cracking, settlement, or erosion. If the original wall failed because of poor drainage or inadequate foundation design, rebuilding on the same footing often repeats the problem. In Los Angeles County, hillside movement and soil conditions can also make old footings unreliable even if they look intact. A contractor should expose and evaluate the footing before promising reuse. If the footing is marginal, replacing it is usually the safer long-term choice because it allows the wall to be designed correctly for current loads and code expectations.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, but only if the existing footing is structurally sound, properly sized, and compatible with the new wall design. If the footing is cracked, shallow, "
+}

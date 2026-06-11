@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/driveway-contractor-can-a-driveway-contractor-pour-new-concrete-over-an-old-driv",
+  "name": "Can You Pour New Concrete Over an Old Driveway?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a driveway contractor pour new concrete over an old driveway in Los Angeles County?",
+    "text": "Can a driveway contractor pour new concrete over an old driveway in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A concrete overlay can be a cost-effective solution when the existing driveway is structurally sound and the problems are mostly cosmetic. The surface must be properly cleaned, repaired, and prepared so the new layer can bond well. However, if the old driveway has serious settlement, widespread cracking, drainage issues, or a weak base, an overlay often fails because it simply copies the underlying problem. In Los Angeles County, overlays also need careful attention to height transitions at the garage, sidewalk, and street to avoid trip hazards or drainage issues. A contractor should explain whether the existing slab can support an overlay and what preparation is required. Homeowners should ask how the overlay will affect the driveway height, door clearance, and water flow. If the contractor suggests an overlay without inspecting the base, the homeowner should be cautious. An overlay is a surface solution, not a structural rebuild.",
+      "@type": "Answer",
+      "description": "Sometimes, but only if the existing driveway is stable, properly prepared, and not suffering from major settlement or drainage problems. Overlaying concrete over a failed slab can lead to cracking, debonding, or uneven transitions. A contractor should inspect the base and existing condition before recommending an overlay.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A concrete overlay can be a cost-effective solution when the existing driveway is structurally sound and the problems are mostly cosmetic. The surface must be properly cleaned, repaired, and prepared so the new layer can bond well. However, if the old driveway has serious settlement, widespread cracking, drainage issues, or a weak base, an overlay often fails because it simply copies the underlying problem. In Los Angeles County, overlays also need careful attention to height transitions at the garage, sidewalk, and street to avoid trip hazards or drainage issues. A contractor should explain whether the existing slab can support an overlay and what preparation is required. Homeowners should ask how the overlay will affect the driveway height, door clearance, and water flow. If the contractor suggests an overlay without inspecting the base, the homeowner should be cautious. An overlay is a surface solution, not a structural rebuild.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, but only if the existing driveway is stable, properly prepared, and not suffering from major settlement or drainage problems. Overlaying concrete ove"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/solar-system-installation-serv-how-do-time-of-use-tou-rates-in-los-angeles-county-change-th",
+  "name": "Designing Solar Around TOU Rates in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do time-of-use (TOU) rates in Los Angeles County change the ideal solar system size and orientation?",
+    "text": "How do time-of-use (TOU) rates in Los Angeles County change the ideal solar system size and orientation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Under modern TOU rate plans common in Los Angeles County, electricity is most expensive in late afternoon and evening, not midday when solar output peaks. This shifts the optimal design strategy from maximizing total annual kWh to targeting high-value hours. In some cases, a slightly west-facing tilt or using roof planes with better late-day sun can produce financially superior results compared with perfectly south-facing arrays. System sizing also changes. Oversizing purely for annual kWh and exporting large midday surpluses may be less attractive under NEM 3.0’s reduced export credits. Instead, right-sizing to match your daytime and early evening usage and, if possible, pairing with a battery to shift solar into peak hours often yields a better return. Load shifting strategies—running dishwashers, laundry, or EV charging during midday solar windows—can further improve economics. When reviewing proposals, ask installers to show you bill impacts under your actual TOU plan with and without batteries and to model different tilts and roof planes rather than defaulting to south. You want to see not only yearly production but also how much solar directly offsets high-priced TOU periods. This more nuanced design approach aligns your system with how utilities now charge for power in Los Angeles County.",
+      "@type": "Answer",
+      "description": "With TOU rates in Los Angeles County, ideal solar design emphasizes late-afternoon and early-evening production rather than pure annual kWh. This can favor slightly west-tilted panels, load shifting, and battery storage, and may reduce the recommended system size compared to older, flat-rate net metering assumptions.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Under modern TOU rate plans common in Los Angeles County, electricity is most expensive in late afternoon and evening, not midday when solar output peaks. This shifts the optimal design strategy from maximizing total annual kWh to targeting high-value hours. In some cases, a slightly west-facing tilt or using roof planes with better late-day sun can produce financially superior results compared with perfectly south-facing arrays. System sizing also changes. Oversizing purely for annual kWh and exporting large midday surpluses may be less attractive under NEM 3.0’s reduced export credits. Instead, right-sizing to match your daytime and early evening usage and, if possible, pairing with a battery to shift solar into peak hours often yields a better return. Load shifting strategies—running dishwashers, laundry, or EV charging during midday solar windows—can further improve economics. When reviewing proposals, ask installers to show you bill impacts under your actual TOU plan with and without batteries and to model different tilts and roof planes rather than defaulting to south. You want to see not only yearly production but also how much solar directly offsets high-priced TOU periods. This more nuanced design approach aligns your system with how utilities now charge for power in Los Angeles County.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "With TOU rates in Los Angeles County, ideal solar design emphasizes late-afternoon and early-evening production rather than pure annual kWh. This can favor slig"
+}

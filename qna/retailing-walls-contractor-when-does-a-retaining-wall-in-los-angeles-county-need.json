@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/retailing-walls-contractor-when-does-a-retaining-wall-in-los-angeles-county-need-a-stru",
+  "name": "When Does a Retaining Wall Need a Structural Engineer in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does a retaining wall in Los Angeles County need a structural engineer instead of a standard contractor?",
+    "text": "When does a retaining wall in Los Angeles County need a structural engineer instead of a standard contractor?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A structural engineer is typically needed when the wall must resist significant soil pressure, support a surcharge such as a driveway or structure, or meet local permit and seismic requirements. In Los Angeles County, hillside lots, weak soils, drainage constraints, and earthquake considerations can push a project beyond simple hardscape work. A contractor can build the wall, but an engineer should determine footing size, reinforcement, drainage details, and load assumptions for higher-risk sites. If you are unsure, ask for a site assessment before design starts. The most useful sign that engineering is needed is not just wall height, but how much force the wall will carry and what is above or behind it. Choosing engineering early can prevent redesigns, permit delays, and expensive reconstruction.",
+      "@type": "Answer",
+      "description": "A retaining wall usually needs a structural engineer when it is tall, supports heavy loads, holds back steep slopes, or sits near property lines, buildings, or driveways. In Los Angeles County, hillside conditions and seismic requirements often make engineering necessary even for moderately sized walls. The contractor should confirm whether plans, calculations, and permits are required before construction.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A structural engineer is typically needed when the wall must resist significant soil pressure, support a surcharge such as a driveway or structure, or meet local permit and seismic requirements. In Los Angeles County, hillside lots, weak soils, drainage constraints, and earthquake considerations can push a project beyond simple hardscape work. A contractor can build the wall, but an engineer should determine footing size, reinforcement, drainage details, and load assumptions for higher-risk sites. If you are unsure, ask for a site assessment before design starts. The most useful sign that engineering is needed is not just wall height, but how much force the wall will carry and what is above or behind it. Choosing engineering early can prevent redesigns, permit delays, and expensive reconstruction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A retaining wall usually needs a structural engineer when it is tall, supports heavy loads, holds back steep slopes, or sits near property lines, buildings, or "
+}

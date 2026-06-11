@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/retailing-walls-contractor-can-a-retaining-wall-contractor-build-next-to-a-property-lin",
+  "name": "Can a Retaining Wall Be Built on a Property Line?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a retaining wall contractor build next to a property line in Los Angeles County?",
+    "text": "Can a retaining wall contractor build next to a property line in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A retaining wall can sometimes be built near a property line, but the project must be planned carefully. The contractor should confirm the boundary location before digging, because even a small mistake can create disputes, access problems, or inspection issues. The wall’s exact placement may be influenced by setbacks, easements, drainage flow, and whether excavation will affect the adjacent property. In Los Angeles County, hillside lots and tight urban parcels make boundary accuracy especially important. If the wall is close to the line, the contractor should also consider how maintenance, waterproofing, and future repairs will be handled. Building too close without a clear plan can make it difficult to control water or service the wall later.",
+      "@type": "Answer",
+      "description": "Yes, but the wall’s location may be limited by setbacks, access, grading, drainage, and the need to avoid affecting the neighboring property. A contractor should confirm property boundaries before excavating. If the wall sits on or near the line, design and construction details become more important because repairs and drainage are harder later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A retaining wall can sometimes be built near a property line, but the project must be planned carefully. The contractor should confirm the boundary location before digging, because even a small mistake can create disputes, access problems, or inspection issues. The wall’s exact placement may be influenced by setbacks, easements, drainage flow, and whether excavation will affect the adjacent property. In Los Angeles County, hillside lots and tight urban parcels make boundary accuracy especially important. If the wall is close to the line, the contractor should also consider how maintenance, waterproofing, and future repairs will be handled. Building too close without a clear plan can make it difficult to control water or service the wall later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but the wall’s location may be limited by setbacks, access, grading, drainage, and the need to avoid affecting the neighboring property. A contractor shoul"
+}

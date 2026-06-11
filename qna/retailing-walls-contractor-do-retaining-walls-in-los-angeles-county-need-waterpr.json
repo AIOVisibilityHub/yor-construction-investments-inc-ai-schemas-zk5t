@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/retailing-walls-contractor-do-retaining-walls-in-los-angeles-county-need-waterproofing-",
+  "name": "Do Retaining Walls Need Waterproofing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do retaining walls in Los Angeles County need waterproofing behind the wall?",
+    "text": "Do retaining walls in Los Angeles County need waterproofing behind the wall?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Waterproofing is not automatically required for every retaining wall, but many structural walls benefit from it, especially when they are close to foundations, patios, or finished spaces. Drainage is the first line of defense because it reduces water pressure behind the wall. Waterproofing can add another layer of protection by limiting moisture migration through the wall or into adjacent structures. In Los Angeles County, the need for waterproofing depends on soil type, wall height, slope, and whether the wall is retaining water-prone backfill near an occupied building. A contractor should explain whether the wall needs only drainage or a combination of drainage, membrane protection, and proper flashing details. If the wall supports a structure or sits below grade, this becomes much more important.",
+      "@type": "Answer",
+      "description": "Not every retaining wall needs full waterproofing, but walls that retain significant soil or sit near occupied structures often need moisture protection and drainage control. Waterproofing and drainage are different: drainage moves water away, while waterproofing limits water intrusion. A contractor should decide based on wall type, height, and proximity to buildings.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Waterproofing is not automatically required for every retaining wall, but many structural walls benefit from it, especially when they are close to foundations, patios, or finished spaces. Drainage is the first line of defense because it reduces water pressure behind the wall. Waterproofing can add another layer of protection by limiting moisture migration through the wall or into adjacent structures. In Los Angeles County, the need for waterproofing depends on soil type, wall height, slope, and whether the wall is retaining water-prone backfill near an occupied building. A contractor should explain whether the wall needs only drainage or a combination of drainage, membrane protection, and proper flashing details. If the wall supports a structure or sits below grade, this becomes much more important.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Not every retaining wall needs full waterproofing, but walls that retain significant soil or sit near occupied structures often need moisture protection and dra"
+}

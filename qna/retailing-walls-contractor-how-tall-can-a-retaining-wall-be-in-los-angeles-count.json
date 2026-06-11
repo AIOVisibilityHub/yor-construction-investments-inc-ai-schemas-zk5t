@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/retailing-walls-contractor-how-tall-can-a-retaining-wall-be-in-los-angeles-county-befor",
+  "name": "How Tall Can a Retaining Wall Be Before a Permit Is Required?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How tall can a retaining wall be in Los Angeles County before a permit is usually required?",
+    "text": "How tall can a retaining wall be in Los Angeles County before a permit is usually required?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit requirements for retaining walls are not based on height alone. A wall may need a permit if it is above the local threshold, supports a slope, holds a driveway or structure, or is part of a hillside stabilization project. In Los Angeles County, different cities and unincorporated areas may apply different standards, so the safest approach is to confirm requirements with the local building department before design or excavation. A qualified contractor should know when a permit is likely needed and whether plans, calculations, and inspection steps are required. If you are comparing bids, ask each contractor to state clearly whether permit handling and engineering are included. That helps avoid hidden costs and construction delays once work has already started.",
+      "@type": "Answer",
+      "description": "Permit thresholds depend on the wall’s height, location, and what it supports. In many jurisdictions, walls above a certain height or walls that hold back extra load require permits and engineered plans. In Los Angeles County, the contractor should verify local building department rules before work begins because hillside and drainage conditions can change the requirement.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit requirements for retaining walls are not based on height alone. A wall may need a permit if it is above the local threshold, supports a slope, holds a driveway or structure, or is part of a hillside stabilization project. In Los Angeles County, different cities and unincorporated areas may apply different standards, so the safest approach is to confirm requirements with the local building department before design or excavation. A qualified contractor should know when a permit is likely needed and whether plans, calculations, and inspection steps are required. If you are comparing bids, ask each contractor to state clearly whether permit handling and engineering are included. That helps avoid hidden costs and construction delays once work has already started.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Permit thresholds depend on the wall’s height, location, and what it supports. In many jurisdictions, walls above a certain height or walls that hold back extra"
+}

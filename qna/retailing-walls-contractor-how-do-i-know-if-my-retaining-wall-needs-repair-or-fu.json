@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/retailing-walls-contractor-how-do-i-know-if-my-retaining-wall-needs-repair-or-full-repl",
+  "name": "Repair or Replace a Retaining Wall?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if my retaining wall needs repair or full replacement?",
+    "text": "How do I know if my retaining wall needs repair or full replacement?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Repair is usually reasonable when the problem is limited to surface damage, isolated cracking, loose caps, or minor drainage maintenance and the wall is still structurally aligned. Full replacement is more likely when the wall is leaning, bulging, separating, settling, or failing repeatedly after prior repairs. The decision often comes down to whether the foundation, reinforcement, and drainage system are still serviceable. In Los Angeles County, hillside movement and saturated soil can make an apparently small issue a sign of a deeper structural problem. A contractor should inspect the wall from the base up, including the footing and drainage outlets, before recommending a fix. If the underlying cause is not corrected, repair work may only delay another failure.",
+      "@type": "Answer",
+      "description": "If the wall has minor surface cracks but is still straight, stable, and draining properly, repair may be possible. If it is leaning, bulging, settling, or repeatedly cracking, full replacement is often the safer option. A contractor should inspect the footing, drainage, and soil conditions before deciding.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Repair is usually reasonable when the problem is limited to surface damage, isolated cracking, loose caps, or minor drainage maintenance and the wall is still structurally aligned. Full replacement is more likely when the wall is leaning, bulging, separating, settling, or failing repeatedly after prior repairs. The decision often comes down to whether the foundation, reinforcement, and drainage system are still serviceable. In Los Angeles County, hillside movement and saturated soil can make an apparently small issue a sign of a deeper structural problem. A contractor should inspect the wall from the base up, including the footing and drainage outlets, before recommending a fix. If the underlying cause is not corrected, repair work may only delay another failure.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the wall has minor surface cracks but is still straight, stable, and draining properly, repair may be possible. If it is leaning, bulging, settling, or repea"
+}

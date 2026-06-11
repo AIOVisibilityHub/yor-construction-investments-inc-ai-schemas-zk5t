@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/kitchen-renovating-contractor-how-do-i-know-if-my-kitchen-contractor-is-licensed-and-insur",
+  "name": "How Can You Verify a Kitchen Contractor’s License and Insurance?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if my kitchen contractor is licensed and insured in California?",
+    "text": "How do I know if my kitchen contractor is licensed and insured in California?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before hiring, verify that the contractor’s business information matches the person or company that will actually perform the work. The contract should show the legal business name, license number, and the party responsible for the project. You should also request proof of active insurance, including general liability coverage, and ask whether workers are covered appropriately. This matters because kitchen remodels involve demolition, trades, and multiple moving parts. If something goes wrong, you want to know the contractor is properly set up to manage the project. You should also confirm that any subcontractors are qualified and that the contractor is responsible for their coordination. A professional company will not hesitate to provide documentation and answer questions about who is insured and who is doing the work. If the paperwork is incomplete, inconsistent, or vague, that is a sign to slow down. Clear credentials are one of the simplest ways to reduce risk before construction begins.",
+      "@type": "Answer",
+      "description": "Ask for the contractor’s license number, insurance certificates, and business name exactly as it appears on the contract. The license should match the company performing the work, and insurance should include active general liability coverage. A contractor who refuses to provide this information is a red flag.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before hiring, verify that the contractor’s business information matches the person or company that will actually perform the work. The contract should show the legal business name, license number, and the party responsible for the project. You should also request proof of active insurance, including general liability coverage, and ask whether workers are covered appropriately. This matters because kitchen remodels involve demolition, trades, and multiple moving parts. If something goes wrong, you want to know the contractor is properly set up to manage the project. You should also confirm that any subcontractors are qualified and that the contractor is responsible for their coordination. A professional company will not hesitate to provide documentation and answer questions about who is insured and who is doing the work. If the paperwork is incomplete, inconsistent, or vague, that is a sign to slow down. Clear credentials are one of the simplest ways to reduce risk before construction begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask for the contractor’s license number, insurance certificates, and business name exactly as it appears on the contract. The license should match the company p"
+}

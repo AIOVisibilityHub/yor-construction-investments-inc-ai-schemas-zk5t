@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-additions-contractor-what-maintenance-responsibilities-should-homeowners-expect-a",
+  "name": "Post-Construction Maintenance After an Attached ADU Addition in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What maintenance responsibilities should homeowners expect after completing an attached ADU addition in Los Angeles County?",
+    "text": "What maintenance responsibilities should homeowners expect after completing an attached ADU addition in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Once an attached ADU addition is complete, homeowners sometimes assume it will behave like a normal new unit, but the connection to an older home creates specific maintenance needs. You will need to monitor roof tie‑in points, flashing, and gutters carefully, as these are common locations for leaks if debris accumulates or sealants age. Check exterior caulking and paint regularly where old and new siding or stucco meet. Ensure that grading and drainage still direct water away from both the original foundation and the new addition; any changes in soil settlement should be addressed quickly. The ADU’s dedicated mechanical systems—mini‑splits, water heaters, ventilation fans—require filter changes, periodic servicing, and occasional flushing or condensate line cleaning. Shared systems, such as an upgraded main panel or combined sewer line, should be treated as critical infrastructure: keep records of their installation and know where cleanouts and shutoffs are located. Inside, inspect bathrooms and kitchens periodically for signs of slow leaks, especially at walls adjoining the main home. Ask your ADU additions contractor to provide a maintenance checklist and equipment manuals at project closeout so you can schedule routine tasks and plan for long‑term replacement cycles.",
+      "@type": "Answer",
+      "description": "After an attached ADU addition, homeowners are responsible for maintaining new roofs, flashing, drainage, and shared walls, as well as servicing added HVAC, plumbing, and electrical systems. Regular inspections of tie‑in areas, caulking, and grading are important to prevent moisture issues where the ADU connects to the existing house.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Once an attached ADU addition is complete, homeowners sometimes assume it will behave like a normal new unit, but the connection to an older home creates specific maintenance needs. You will need to monitor roof tie‑in points, flashing, and gutters carefully, as these are common locations for leaks if debris accumulates or sealants age. Check exterior caulking and paint regularly where old and new siding or stucco meet. Ensure that grading and drainage still direct water away from both the original foundation and the new addition; any changes in soil settlement should be addressed quickly. The ADU’s dedicated mechanical systems—mini‑splits, water heaters, ventilation fans—require filter changes, periodic servicing, and occasional flushing or condensate line cleaning. Shared systems, such as an upgraded main panel or combined sewer line, should be treated as critical infrastructure: keep records of their installation and know where cleanouts and shutoffs are located. Inside, inspect bathrooms and kitchens periodically for signs of slow leaks, especially at walls adjoining the main home. Ask your ADU additions contractor to provide a maintenance checklist and equipment manuals at project closeout so you can schedule routine tasks and plan for long‑term replacement cycles.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "After an attached ADU addition, homeowners are responsible for maintaining new roofs, flashing, drainage, and shared walls, as well as servicing added HVAC, plu"
+}

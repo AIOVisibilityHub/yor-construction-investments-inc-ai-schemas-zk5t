@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-additions-contractor-how-can-i-structure-a-contract-with-an-adu-additions-contrac",
+  "name": "Contract Strategies for Managing Hidden-Condition Change Orders on ADU Additions",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I structure a contract with an ADU additions contractor in Los Angeles County to handle change orders from hidden conditions fairly?",
+    "text": "How can I structure a contract with an ADU additions contractor in Los Angeles County to handle change orders from hidden conditions fairly?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hidden conditions are inevitable when tying an ADU addition into an existing home, so your contract should spell out how these surprises will be managed. Start by defining what counts as a hidden condition—items not visible or reasonably knowable before demolition, such as concealed rot, undersized framing, or undocumented utilities. Include a contingency allowance in your budget, either as a percentage or fixed amount, reserved specifically for such discoveries. The contract should describe how extra work is priced, whether with pre‑agreed hourly labor rates, unit costs (per square foot or linear foot), or small fixed‑price change orders. Insist that all change orders be documented in writing, including scope, cost, and schedule impact, and that you must approve them before the extra work proceeds, except in true emergencies. Require the contractor to provide photos and, where relevant, inspector notes to justify hidden‑condition changes. Clarify who is authorized to approve change orders on your side so decisions are not delayed. Having this structure in place reduces misunderstandings and keeps your ADU addition financially predictable while still allowing necessary corrections to be made safely and promptly.",
+      "@type": "Answer",
+      "description": "A fair ADU addition contract defines hidden conditions, sets hourly or unit rates for extra work, requires written change orders before proceeding, and includes a contingency allowance. It should also explain how pricing is documented, how schedule impacts are handled, and who approves changes on your behalf.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hidden conditions are inevitable when tying an ADU addition into an existing home, so your contract should spell out how these surprises will be managed. Start by defining what counts as a hidden condition—items not visible or reasonably knowable before demolition, such as concealed rot, undersized framing, or undocumented utilities. Include a contingency allowance in your budget, either as a percentage or fixed amount, reserved specifically for such discoveries. The contract should describe how extra work is priced, whether with pre‑agreed hourly labor rates, unit costs (per square foot or linear foot), or small fixed‑price change orders. Insist that all change orders be documented in writing, including scope, cost, and schedule impact, and that you must approve them before the extra work proceeds, except in true emergencies. Require the contractor to provide photos and, where relevant, inspector notes to justify hidden‑condition changes. Clarify who is authorized to approve change orders on your side so decisions are not delayed. Having this structure in place reduces misunderstandings and keeps your ADU addition financially predictable while still allowing necessary corrections to be made safely and promptly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A fair ADU addition contract defines hidden conditions, sets hourly or unit rates for extra work, requires written change orders before proceeding, and includes"
+}

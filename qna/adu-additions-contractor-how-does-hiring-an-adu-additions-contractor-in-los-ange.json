@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-additions-contractor-how-does-hiring-an-adu-additions-contractor-in-los-angeles-c",
+  "name": "Attached ADU Addition Contractor vs Detached ADU Builder in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does hiring an ADU additions contractor in Los Angeles County differ from hiring a ground-up ADU builder when you’re expanding an existing house?",
+    "text": "How does hiring an ADU additions contractor in Los Angeles County differ from hiring a ground-up ADU builder when you’re expanding an existing house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When you’re adding an ADU as an addition to your existing home in Los Angeles County, the contractor’s role is more complex than for a detached, ground‑up ADU. An additions‑focused ADU contractor must first verify your as‑built conditions, including foundation, framing, and existing utilities, then confirm that lot coverage, floor‑area ratio, height, and setback rules still allow an attached unit. They also have to solve code‑compliant fire separation, sound separation, and egress between the primary home and the new ADU. This often requires more detailed structural engineering and sometimes selective demolition to expose framing for inspection. Utility design is more intricate because gas, water, sewer, and electrical are typically branching from existing systems instead of starting fresh. Inside the house, the contractor must manage staging and dust protection so you can often remain in place during construction. Permitting can take longer because plan reviewers scrutinize how the addition impacts the main dwelling’s compliance, including parking, access, and any existing nonconformities. When interviewing contractors, ask specifically about attached ADU additions they’ve built, how they coordinated engineering and city reviews, and what strategies they use to protect occupied spaces and control change orders. Choosing someone who regularly does structural tie‑ins and attached units reduces risk and surprises.",
+      "@type": "Answer",
+      "description": "Hiring an ADU additions contractor for an attached expansion in Los Angeles County involves more structural integration, zoning checks on FAR and setbacks, and tie‑in to existing utilities than a ground‑up detached ADU. Expect more engineering, as‑built verification, and city plan review focused on how the new ADU interacts with your current structure and fire/egress paths.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When you’re adding an ADU as an addition to your existing home in Los Angeles County, the contractor’s role is more complex than for a detached, ground‑up ADU. An additions‑focused ADU contractor must first verify your as‑built conditions, including foundation, framing, and existing utilities, then confirm that lot coverage, floor‑area ratio, height, and setback rules still allow an attached unit. They also have to solve code‑compliant fire separation, sound separation, and egress between the primary home and the new ADU. This often requires more detailed structural engineering and sometimes selective demolition to expose framing for inspection. Utility design is more intricate because gas, water, sewer, and electrical are typically branching from existing systems instead of starting fresh. Inside the house, the contractor must manage staging and dust protection so you can often remain in place during construction. Permitting can take longer because plan reviewers scrutinize how the addition impacts the main dwelling’s compliance, including parking, access, and any existing nonconformities. When interviewing contractors, ask specifically about attached ADU additions they’ve built, how they coordinated engineering and city reviews, and what strategies they use to protect occupied spaces and control change orders. Choosing someone who regularly does structural tie‑ins and attached units reduces risk and surprises.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hiring an ADU additions contractor for an attached expansion in Los Angeles County involves more structural integration, zoning checks on FAR and setbacks, and "
+}

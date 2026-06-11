@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-additions-contractor-what-are-realistic-per-square-foot-cost-ranges-for-attached-",
+  "name": "Per-Square-Foot Cost Expectations for Attached ADU Additions in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are realistic per-square-foot cost ranges for attached ADU additions in Los Angeles County compared with detached ADUs?",
+    "text": "What are realistic per-square-foot cost ranges for attached ADU additions in Los Angeles County compared with detached ADUs?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Per‑square‑foot costs for ADU projects in Los Angeles County are often quoted for detached units, but attached additions behave differently. Detached ADUs can sometimes be more straightforward because they start from new foundations and framing, with fewer unknowns. Attached ADU additions must integrate with existing structure, which means more design time, demolition, and reinforcement work. As a result, attached units often price in the same tier or slightly higher per square foot than comparable detached ADUs with similar finishes. You should expect a range that resembles mid‑ to high‑end whole‑home remodeling costs, not the cost of simple cosmetic upgrades. Structural complexity—over‑garage, hillside lots, multi‑story tie‑ins—pushes numbers up. Smaller attached ADUs often have a higher apparent cost per square foot because bathrooms, kitchens, and utility upgrades are spread over fewer square feet. When you interview ADU additions contractors, ask them to break out costs by trades and to show example budgets from past attached projects, not just detached builds. This will give you a more accurate expectation for your particular scenario, including allowances for structural reinforcement, utility upgrades, and contingencies for hidden conditions behind existing walls and ceilings.",
+      "@type": "Answer",
+      "description": "Attached ADU additions in Los Angeles County often fall in a similar or slightly higher cost range per square foot than detached ADUs because of structural tie‑ins and working around existing conditions. Many projects land in a broad range roughly comparable to mid- to high-end remodel pricing, with premiums for complex structures and finishes.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Per‑square‑foot costs for ADU projects in Los Angeles County are often quoted for detached units, but attached additions behave differently. Detached ADUs can sometimes be more straightforward because they start from new foundations and framing, with fewer unknowns. Attached ADU additions must integrate with existing structure, which means more design time, demolition, and reinforcement work. As a result, attached units often price in the same tier or slightly higher per square foot than comparable detached ADUs with similar finishes. You should expect a range that resembles mid‑ to high‑end whole‑home remodeling costs, not the cost of simple cosmetic upgrades. Structural complexity—over‑garage, hillside lots, multi‑story tie‑ins—pushes numbers up. Smaller attached ADUs often have a higher apparent cost per square foot because bathrooms, kitchens, and utility upgrades are spread over fewer square feet. When you interview ADU additions contractors, ask them to break out costs by trades and to show example budgets from past attached projects, not just detached builds. This will give you a more accurate expectation for your particular scenario, including allowances for structural reinforcement, utility upgrades, and contingencies for hidden conditions behind existing walls and ceilings.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Attached ADU additions in Los Angeles County often fall in a similar or slightly higher cost range per square foot than detached ADUs because of structural tie‑"
+}

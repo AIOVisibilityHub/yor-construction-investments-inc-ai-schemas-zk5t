@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/air-conditioning-installation-what-is-the-best-way-to-add-ac-during-a-los-angeles-home-add",
+  "name": "Designing AC for Los Angeles Home Additions for Even Cooling",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way to add AC during a Los Angeles home addition so the old and new spaces cool evenly?",
+    "text": "What is the best way to add AC during a Los Angeles home addition so the old and new spaces cool evenly?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Adding AC during a Los Angeles home addition is more complex than simply tying new ducts into an old system. The first step is a fresh load calculation for the entire post‑addition home, not just the new square footage. This shows whether your existing equipment can handle the added load or if you need a larger system or a second system. If the existing system is close to its limits, oversizing it to cover the addition may lead to short cycling and uneven comfort. In that case, many homeowners opt for a separate system or ductless mini‑split dedicated to the new area, especially for upstairs additions or separate suites. This allows independent control and can improve comfort. When it is feasible to keep one system, proper duct design and balancing are crucial. New supply runs and at least one return in the addition help ensure airflow, and zoning may be recommended so the thermostat can account for different sun exposure and usage patterns. Coordinate HVAC plans with your addition’s framing and window layout early, so the new space receives adequate supply and returns without last‑minute compromises that hurt performance.",
+      "@type": "Answer",
+      "description": "When adding AC during a Los Angeles home addition, start with a new load calculation for the entire home, then decide whether to upsize and rebalance the existing system or install a separate system or mini‑split for the addition. Duct design, zoning, and return air placement are critical for even cooling.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Adding AC during a Los Angeles home addition is more complex than simply tying new ducts into an old system. The first step is a fresh load calculation for the entire post‑addition home, not just the new square footage. This shows whether your existing equipment can handle the added load or if you need a larger system or a second system. If the existing system is close to its limits, oversizing it to cover the addition may lead to short cycling and uneven comfort. In that case, many homeowners opt for a separate system or ductless mini‑split dedicated to the new area, especially for upstairs additions or separate suites. This allows independent control and can improve comfort. When it is feasible to keep one system, proper duct design and balancing are crucial. New supply runs and at least one return in the addition help ensure airflow, and zoning may be recommended so the thermostat can account for different sun exposure and usage patterns. Coordinate HVAC plans with your addition’s framing and window layout early, so the new space receives adequate supply and returns without last‑minute compromises that hurt performance.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "When adding AC during a Los Angeles home addition, start with a new load calculation for the entire home, then decide whether to upsize and rebalance the existi"
+}

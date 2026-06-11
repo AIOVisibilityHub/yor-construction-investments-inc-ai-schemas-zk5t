@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/retailing-walls-contractor-what-causes-a-retaining-wall-to-fail-after-heavy-rain-in-los",
+  "name": "Why Retaining Walls Fail After Heavy Rain",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What causes a retaining wall to fail after heavy rain in Los Angeles County?",
+    "text": "What causes a retaining wall to fail after heavy rain in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Heavy rain is one of the most common triggers for retaining wall failure because water dramatically increases the force on the wall. If the drain system is clogged, missing, or poorly placed, water can build up behind the wall and push it outward. Saturated clay or fill soil can also become much heavier and less stable, increasing movement. Other causes include shallow footings, inadequate reinforcement, poor compaction, and surface runoff flowing toward the wall instead of away from it. In Los Angeles County, storm runoff from slopes, roofs, and neighboring lots can overwhelm a weak design. After a rain event, the contractor should check drainage outlets, backfill condition, settlement, and whether the wall is moving. The repair should address the cause of the water load, not just the visible damage.",
+      "@type": "Answer",
+      "description": "Heavy rain often exposes drainage problems, poor backfill, blocked drain pipes, undersized footings, or weak soil behind the wall. When water saturates the soil, lateral pressure rises quickly and can push the wall outward or cause it to settle. A contractor should inspect drainage first, not just patch visible cracks.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Heavy rain is one of the most common triggers for retaining wall failure because water dramatically increases the force on the wall. If the drain system is clogged, missing, or poorly placed, water can build up behind the wall and push it outward. Saturated clay or fill soil can also become much heavier and less stable, increasing movement. Other causes include shallow footings, inadequate reinforcement, poor compaction, and surface runoff flowing toward the wall instead of away from it. In Los Angeles County, storm runoff from slopes, roofs, and neighboring lots can overwhelm a weak design. After a rain event, the contractor should check drainage outlets, backfill condition, settlement, and whether the wall is moving. The repair should address the cause of the water load, not just the visible damage.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Heavy rain often exposes drainage problems, poor backfill, blocked drain pipes, undersized footings, or weak soil behind the wall. When water saturates the soil"
+}

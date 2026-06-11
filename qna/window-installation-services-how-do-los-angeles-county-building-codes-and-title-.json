@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/window-installation-services-how-do-los-angeles-county-building-codes-and-title-24-energy",
+  "name": "How Los Angeles County Codes and Title 24 Impact Replacement Window Choices",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do Los Angeles County building codes and Title 24 energy standards specifically affect the type of replacement windows I’m allowed to install in an older home?",
+    "text": "How do Los Angeles County building codes and Title 24 energy standards specifically affect the type of replacement windows I’m allowed to install in an older home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When replacing windows in an older Los Angeles County home, you cannot simply match what is already there. California’s Title 24 energy standards set minimum performance ratings for U-factor and solar heat gain coefficient (SHGC), so your new windows must meet or exceed those values to pass inspection. Local jurisdictions in the county may also adopt slightly stricter requirements in areas with high heat or fire risk. Safety rules are just as important. Bedrooms must maintain adequate egress opening size, so changing window style or frame thickness can accidentally make an emergency escape window noncompliant. Glass near doors, showers, tubs, stair landings, or low to the floor often must be tempered or safety glass. Multi‑story homes may need specific anchoring or structural verification, especially when enlarging openings. Before choosing a product line, ask the installer for NFRC performance labels and confirmation the windows meet current Title 24 values for your climate zone. Request that they verify egress dimensions, tempered glass locations, and any local amendments in your city (Los Angeles, Pasadena, Santa Monica, etc.). A contractor experienced in Los Angeles County permits can usually tell you in advance which models and configurations are approved, helping you avoid failed inspections, reordering windows, or opening walls twice.",
+      "@type": "Answer",
+      "description": "Los Angeles County follows California Title 24 energy standards plus local building codes, which can limit which windows you can install in an older home. U-factor, solar heat gain coefficient (SHGC), safety glazing in certain locations, egress size, and tempered glass near doors or tubs all affect which window products are compliant.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When replacing windows in an older Los Angeles County home, you cannot simply match what is already there. California’s Title 24 energy standards set minimum performance ratings for U-factor and solar heat gain coefficient (SHGC), so your new windows must meet or exceed those values to pass inspection. Local jurisdictions in the county may also adopt slightly stricter requirements in areas with high heat or fire risk. Safety rules are just as important. Bedrooms must maintain adequate egress opening size, so changing window style or frame thickness can accidentally make an emergency escape window noncompliant. Glass near doors, showers, tubs, stair landings, or low to the floor often must be tempered or safety glass. Multi‑story homes may need specific anchoring or structural verification, especially when enlarging openings. Before choosing a product line, ask the installer for NFRC performance labels and confirmation the windows meet current Title 24 values for your climate zone. Request that they verify egress dimensions, tempered glass locations, and any local amendments in your city (Los Angeles, Pasadena, Santa Monica, etc.). A contractor experienced in Los Angeles County permits can usually tell you in advance which models and configurations are approved, helping you avoid failed inspections, reordering windows, or opening walls twice.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Los Angeles County follows California Title 24 energy standards plus local building codes, which can limit which windows you can install in an older home. U-fac"
+}

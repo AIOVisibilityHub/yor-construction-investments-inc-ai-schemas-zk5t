@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/air-conditioning-installation-how-do-i-verify-that-my-ac-installation-in-los-angeles-count",
+  "name": "Checklist to Confirm Your Los Angeles AC Installation Was Done Correctly",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I verify that my AC installation in Los Angeles County was done correctly before I make the final payment?",
+    "text": "How do I verify that my AC installation in Los Angeles County was done correctly before I make the final payment?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before making the final payment for an AC installation in Los Angeles County, you can take several concrete steps to confirm the work was done correctly. First, ask for a copy of the permit and confirmation that final inspection has passed. If HERS testing was required, request the official report showing that duct leakage, airflow, and refrigerant charge are within acceptable limits. Compare the model numbers on the installed condenser, air handler or furnace, and thermostat with those listed in your contract. Ask the technician to show you measured airflow, temperature split across the coil, and basic system operating pressures, explained in simple terms. Visually inspect ductwork for sealed joints, support straps, and labels for new runs. Confirm that condensate drains are properly sloped, insulated where needed, and equipped with safety switches in attic installations. Make sure you receive user instructions for your thermostat, filter sizes and locations, and a recommended maintenance schedule. Finally, ask for written warranty information and any required registration steps. Holding a small portion of payment until you receive these items creates an incentive for prompt completion of all details.",
+      "@type": "Answer",
+      "description": "To verify AC installation quality in Los Angeles County, check that permits are pulled and signed off, HERS reports (if required) are passed, model numbers match the contract, airflow and temperature splits are measured, ductwork is sealed and labeled, and you received startup documentation and warranty registration info before final payment.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before making the final payment for an AC installation in Los Angeles County, you can take several concrete steps to confirm the work was done correctly. First, ask for a copy of the permit and confirmation that final inspection has passed. If HERS testing was required, request the official report showing that duct leakage, airflow, and refrigerant charge are within acceptable limits. Compare the model numbers on the installed condenser, air handler or furnace, and thermostat with those listed in your contract. Ask the technician to show you measured airflow, temperature split across the coil, and basic system operating pressures, explained in simple terms. Visually inspect ductwork for sealed joints, support straps, and labels for new runs. Confirm that condensate drains are properly sloped, insulated where needed, and equipped with safety switches in attic installations. Make sure you receive user instructions for your thermostat, filter sizes and locations, and a recommended maintenance schedule. Finally, ask for written warranty information and any required registration steps. Holding a small portion of payment until you receive these items creates an incentive for prompt completion of all details.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "To verify AC installation quality in Los Angeles County, check that permits are pulled and signed off, HERS reports (if required) are passed, model numbers matc"
+}

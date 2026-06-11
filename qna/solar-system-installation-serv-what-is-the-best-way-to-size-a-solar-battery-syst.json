@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/solar-system-installation-serv-what-is-the-best-way-to-size-a-solar-battery-system-in-los-a",
+  "name": "Sizing Solar + Battery in LA County for PSPS and Wildfire Outages",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way to size a solar + battery system in Los Angeles County specifically for frequent Public Safety Power Shutoff (PSPS) and wildfire outages?",
+    "text": "What is the best way to size a solar + battery system in Los Angeles County specifically for frequent Public Safety Power Shutoff (PSPS) and wildfire outages?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If your primary reason for installing solar + batteries in Los Angeles County is resilience during PSPS and wildfire-related outages, you should size the system around critical loads instead of your full historical usage. Begin by listing essentials: refrigeration, Wi‑Fi, lighting, medical devices, phone charging, and perhaps a mini-split or specific outlets. Your installer can design a critical loads panel that isolates these circuits. Battery capacity is then chosen to power those loads for at least 24–48 hours without assuming full solar recharge, since smoke, clouds, or utility safety rules can reduce daytime production or trigger inverter shutdown if the grid behaves abnormally. Multiple batteries or higher-capacity models may be needed for homes at the wildland–urban interface or in areas with repeated multi-day outages. Panel count and orientation should support reliable daytime charging when the sun is available, with enough margin to replenish batteries even when partially obscured by smoke. Ask installers to run outage scenarios using your actual critical load list rather than generic “whole home backup” marketing. Verify that the system’s transfer switch and islanding capabilities comply with local codes and that you understand which circuits will work during an outage. This design approach ensures your investment focuses on keeping truly important devices running when you need them most.",
+      "@type": "Answer",
+      "description": "For PSPS and wildfire outages in Los Angeles County, solar + battery systems should be sized around critical loads, not whole-home usage. Start by defining essential circuits, then select a battery and inverter setup that can cover those loads for 1–2 days, recognizing that smoke and shutoff rules can limit solar charging during events.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If your primary reason for installing solar + batteries in Los Angeles County is resilience during PSPS and wildfire-related outages, you should size the system around critical loads instead of your full historical usage. Begin by listing essentials: refrigeration, Wi‑Fi, lighting, medical devices, phone charging, and perhaps a mini-split or specific outlets. Your installer can design a critical loads panel that isolates these circuits. Battery capacity is then chosen to power those loads for at least 24–48 hours without assuming full solar recharge, since smoke, clouds, or utility safety rules can reduce daytime production or trigger inverter shutdown if the grid behaves abnormally. Multiple batteries or higher-capacity models may be needed for homes at the wildland–urban interface or in areas with repeated multi-day outages. Panel count and orientation should support reliable daytime charging when the sun is available, with enough margin to replenish batteries even when partially obscured by smoke. Ask installers to run outage scenarios using your actual critical load list rather than generic “whole home backup” marketing. Verify that the system’s transfer switch and islanding capabilities comply with local codes and that you understand which circuits will work during an outage. This design approach ensures your investment focuses on keeping truly important devices running when you need them most.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "For PSPS and wildfire outages in Los Angeles County, solar + battery systems should be sized around critical loads, not whole-home usage. Start by defining esse"
+}

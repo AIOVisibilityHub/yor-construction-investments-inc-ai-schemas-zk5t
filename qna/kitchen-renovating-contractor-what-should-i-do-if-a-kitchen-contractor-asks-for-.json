@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/kitchen-renovating-contractor-what-should-i-do-if-a-kitchen-contractor-asks-for-a-large-up",
+  "name": "Should You Pay a Large Deposit for a Kitchen Remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I do if a kitchen contractor asks for a large upfront payment?",
+    "text": "What should I do if a kitchen contractor asks for a large upfront payment?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A large upfront payment should be treated carefully. A construction contract should explain exactly what the deposit covers, such as design work, permit fees, mobilization, or ordered materials. It should also tie future payments to visible progress milestones rather than vague promises. If the contractor asks for a large amount before work begins, ask for a written breakdown and compare it with the rest of the market. You should also confirm what happens if the project is delayed, canceled, or materials are not ordered on time. The payment schedule should protect both sides, but it should not leave you exposed before any work is completed. For a Los Angeles County kitchen remodel, it is smart to keep the contract and payment terms specific. The more detailed the scope and milestone schedule, the easier it is to track progress and avoid disputes. If the contractor cannot explain why the upfront payment is needed, that is a warning sign worth slowing down for.",
+      "@type": "Answer",
+      "description": "Request a written payment schedule that matches completed milestones, not a large deposit without explanation. A reasonable contract should tie payments to work progress, ordered materials, and inspections. If the request feels unusual, ask for a breakdown before paying anything substantial.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A large upfront payment should be treated carefully. A construction contract should explain exactly what the deposit covers, such as design work, permit fees, mobilization, or ordered materials. It should also tie future payments to visible progress milestones rather than vague promises. If the contractor asks for a large amount before work begins, ask for a written breakdown and compare it with the rest of the market. You should also confirm what happens if the project is delayed, canceled, or materials are not ordered on time. The payment schedule should protect both sides, but it should not leave you exposed before any work is completed. For a Los Angeles County kitchen remodel, it is smart to keep the contract and payment terms specific. The more detailed the scope and milestone schedule, the easier it is to track progress and avoid disputes. If the contractor cannot explain why the upfront payment is needed, that is a warning sign worth slowing down for.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Request a written payment schedule that matches completed milestones, not a large deposit without explanation. A reasonable contract should tie payments to work"
+}

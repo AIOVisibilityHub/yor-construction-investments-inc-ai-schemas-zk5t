@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/solar-system-installation-serv-what-should-i-know-about-installing-solar-on-an-older-los-an",
+  "name": "Installing Solar on Older LA County Homes With Outdated Electrical",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I know about installing solar on an older Los Angeles County home with outdated electrical and partial knob-and-tube wiring?",
+    "text": "What should I know about installing solar on an older Los Angeles County home with outdated electrical and partial knob-and-tube wiring?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many Los Angeles County homes built before the 1970s still have older main panels, limited amperage, or legacy wiring such as knob-and-tube in parts of the house. Solar adds generation that must safely backfeed your electrical system, so utilities and inspectors will not approve installations that tie into unsafe or severely undersized infrastructure. You may need to upgrade your main service panel, replace subpanels, or rewire specific circuits before or during the solar project. During a site visit, ask the installer to inspect panel age, brand, and available breaker space, and to note any visible legacy wiring. Some older panel brands are known to be problematic and may be flagged for replacement. If your home has a mix of wiring types, you may be referred to a licensed electrician for a more detailed assessment before finalizing your solar design. Budget realistically for these upgrades, as they can add thousands of dollars but also increase safety and capacity for future EV chargers or heat pumps. Make sure your contract clearly states whether electrical upgrades are included, optional, or contingent on utility or city requirements. Addressing these issues upfront helps avoid failed inspections, delays, and last‑minute change orders once the crew is already scheduled.",
+      "@type": "Answer",
+      "description": "Installing solar on older Los Angeles County homes with outdated panels or knob-and-tube wiring often requires electrical upgrades before interconnection. Utilities and inspectors may reject systems tied into unsafe or undersized wiring, so a pre-solar electrical assessment and clear upgrade plan are crucial.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many Los Angeles County homes built before the 1970s still have older main panels, limited amperage, or legacy wiring such as knob-and-tube in parts of the house. Solar adds generation that must safely backfeed your electrical system, so utilities and inspectors will not approve installations that tie into unsafe or severely undersized infrastructure. You may need to upgrade your main service panel, replace subpanels, or rewire specific circuits before or during the solar project. During a site visit, ask the installer to inspect panel age, brand, and available breaker space, and to note any visible legacy wiring. Some older panel brands are known to be problematic and may be flagged for replacement. If your home has a mix of wiring types, you may be referred to a licensed electrician for a more detailed assessment before finalizing your solar design. Budget realistically for these upgrades, as they can add thousands of dollars but also increase safety and capacity for future EV chargers or heat pumps. Make sure your contract clearly states whether electrical upgrades are included, optional, or contingent on utility or city requirements. Addressing these issues upfront helps avoid failed inspections, delays, and last‑minute change orders once the crew is already scheduled.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Installing solar on older Los Angeles County homes with outdated panels or knob-and-tube wiring often requires electrical upgrades before interconnection. Utili"
+}

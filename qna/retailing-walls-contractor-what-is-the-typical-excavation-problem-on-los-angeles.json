@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/retailing-walls-contractor-what-is-the-typical-excavation-problem-on-los-angeles-county",
+  "name": "Common Excavation Problems in Retaining Wall Projects",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the typical excavation problem on Los Angeles County retaining wall jobs?",
+    "text": "What is the typical excavation problem on Los Angeles County retaining wall jobs?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Excavation is often the most underestimated part of a retaining wall project. Common problems include narrow access for equipment, unmarked or buried utilities, unstable slopes, loose fill soil, and unexpected debris from prior construction. On hillside properties, excavation can also expose soft layers or create temporary instability that must be managed before footing installation. In Los Angeles County, older lots may have undocumented fill or previous grading that changes how the wall can be built. A contractor should evaluate access, disposal routes, and soil behavior before quoting the job. If a site looks straightforward from above ground, excavation can still reveal conditions that affect cost and schedule. Planning for contingencies reduces the chance of change orders once digging starts.",
+      "@type": "Answer",
+      "description": "The most common excavation problems are limited equipment access, unexpected buried utilities, unstable soil, and overexcavation on slopes. In older neighborhoods, fill dirt and hidden debris can also complicate footing work. A contractor should inspect the site carefully and plan for hauling, shoring, and safe access before digging begins.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Excavation is often the most underestimated part of a retaining wall project. Common problems include narrow access for equipment, unmarked or buried utilities, unstable slopes, loose fill soil, and unexpected debris from prior construction. On hillside properties, excavation can also expose soft layers or create temporary instability that must be managed before footing installation. In Los Angeles County, older lots may have undocumented fill or previous grading that changes how the wall can be built. A contractor should evaluate access, disposal routes, and soil behavior before quoting the job. If a site looks straightforward from above ground, excavation can still reveal conditions that affect cost and schedule. Planning for contingencies reduces the chance of change orders once digging starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common excavation problems are limited equipment access, unexpected buried utilities, unstable soil, and overexcavation on slopes. In older neighborhoo"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/air-conditioning-installation-what-happens-if-my-ac-installation-in-los-angeles-fails-hers",
+  "name": "What to Expect if Your AC Installation Fails HERS Testing in Los Angeles",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if my AC installation in Los Angeles fails HERS testing, and how does that delay my project?",
+    "text": "What happens if my AC installation in Los Angeles fails HERS testing, and how does that delay my project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When an AC installation in Los Angeles fails HERS testing, it usually means the system does not meet required standards for duct leakage, airflow, refrigerant charge, or fan watt draw. You cannot simply ignore a failed test; the contractor must identify the cause, perform corrective work, and arrange a retest. Common fixes include sealing leaky ducts, resizing or adding registers, adjusting blower speed, or recharging and balancing the refrigerant. How much this delays your project depends on the severity of the issue and scheduling. Simple sealing or adjustments may be done in a single visit, with a retest within a few days. More complex problems, such as needing to replace long duct runs or access tight attic spaces, can stretch corrective work into multiple visits. Final city or county inspection often hinges on a passing HERS report, so a failure will typically postpone your final sign‑off and the ability to close out permits. To minimize delays, ask your installer upfront how they design to pass HERS, whether a retest fee is included if needed, and how they prioritize warranty or callback work related to failed tests.",
+      "@type": "Answer",
+      "description": "If your Los Angeles AC installation fails HERS testing, the contractor must correct issues such as duct leakage, airflow, or refrigerant charge, then schedule a retest. This can add days to weeks depending on access and HERS rater availability, and final inspection approval is typically delayed until a passing report is submitted.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When an AC installation in Los Angeles fails HERS testing, it usually means the system does not meet required standards for duct leakage, airflow, refrigerant charge, or fan watt draw. You cannot simply ignore a failed test; the contractor must identify the cause, perform corrective work, and arrange a retest. Common fixes include sealing leaky ducts, resizing or adding registers, adjusting blower speed, or recharging and balancing the refrigerant. How much this delays your project depends on the severity of the issue and scheduling. Simple sealing or adjustments may be done in a single visit, with a retest within a few days. More complex problems, such as needing to replace long duct runs or access tight attic spaces, can stretch corrective work into multiple visits. Final city or county inspection often hinges on a passing HERS report, so a failure will typically postpone your final sign‑off and the ability to close out permits. To minimize delays, ask your installer upfront how they design to pass HERS, whether a retest fee is included if needed, and how they prioritize warranty or callback work related to failed tests.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If your Los Angeles AC installation fails HERS testing, the contractor must correct issues such as duct leakage, airflow, or refrigerant charge, then schedule a"
+}

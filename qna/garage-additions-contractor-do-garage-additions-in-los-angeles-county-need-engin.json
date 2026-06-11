@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/garage-additions-contractor-do-garage-additions-in-los-angeles-county-need-engineering-d",
+  "name": "Do You Need Engineering for a Garage Addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do garage additions in Los Angeles County need engineering drawings or can a contractor submit basic plans?",
+    "text": "Do garage additions in Los Angeles County need engineering drawings or can a contractor submit basic plans?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether engineering is required depends on the design, the site, and local review standards. Simple projects may be handled with standard architectural plans, but many garage additions need structural calculations, foundation details, or special design for roof spans, lateral loads, or slope conditions. In Los Angeles County, engineering becomes more likely when the project is attached to the home, placed near a property line, built on a hillside, or intended for future conversion. Homeowners should ask the contractor early whether engineering is included or if it will be a separate cost. This matters because a bid that excludes engineering can appear cheaper but may not reflect the real project budget. A contractor experienced with local permitting should know when stamped plans are likely to be needed and should build that into the schedule.",
+      "@type": "Answer",
+      "description": "Many garage additions need engineered drawings, especially if the structure is large, close to a property line, on a slope, or has unusual framing. Basic plans may not be enough for permit approval when structural, soil, or site conditions require calculations.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether engineering is required depends on the design, the site, and local review standards. Simple projects may be handled with standard architectural plans, but many garage additions need structural calculations, foundation details, or special design for roof spans, lateral loads, or slope conditions. In Los Angeles County, engineering becomes more likely when the project is attached to the home, placed near a property line, built on a hillside, or intended for future conversion. Homeowners should ask the contractor early whether engineering is included or if it will be a separate cost. This matters because a bid that excludes engineering can appear cheaper but may not reflect the real project budget. A contractor experienced with local permitting should know when stamped plans are likely to be needed and should build that into the schedule.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Many garage additions need engineered drawings, especially if the structure is large, close to a property line, on a slope, or has unusual framing. Basic plans "
+}

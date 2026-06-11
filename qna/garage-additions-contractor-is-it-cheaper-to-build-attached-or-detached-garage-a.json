@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/garage-additions-contractor-is-it-cheaper-to-build-attached-or-detached-garage-additions",
+  "name": "Attached vs Detached Garage Addition Costs",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it cheaper to build attached or detached garage additions in Los Angeles County?",
+    "text": "Is it cheaper to build attached or detached garage additions in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "There is no universal cheaper option because attached and detached garages have different cost drivers. Detached garages often avoid major structural tie-ins with the home, but they may require separate utility trenching, drainage work, and driveway or access improvements. Attached garages can share walls or circulation with the home, but they often need more complex structural integration, fire separation, and careful detailing where the new construction meets the existing house. In Los Angeles County, site layout and code requirements can matter more than the basic label of attached versus detached. The right answer depends on lot shape, access, utility routing, and whether the homeowner wants future conversion potential. Homeowners should ask each contractor to price both options if the site allows it, then compare the full scope rather than assuming one type is automatically cheaper.",
+      "@type": "Answer",
+      "description": "Detached garages are often simpler to separate from the house, but they can still be expensive if they need new utility runs, driveway work, or extra site preparation. Attached garages may require more structural integration and fire-rated detailing, which can also increase cost.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "There is no universal cheaper option because attached and detached garages have different cost drivers. Detached garages often avoid major structural tie-ins with the home, but they may require separate utility trenching, drainage work, and driveway or access improvements. Attached garages can share walls or circulation with the home, but they often need more complex structural integration, fire separation, and careful detailing where the new construction meets the existing house. In Los Angeles County, site layout and code requirements can matter more than the basic label of attached versus detached. The right answer depends on lot shape, access, utility routing, and whether the homeowner wants future conversion potential. Homeowners should ask each contractor to price both options if the site allows it, then compare the full scope rather than assuming one type is automatically cheaper.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Detached garages are often simpler to separate from the house, but they can still be expensive if they need new utility runs, driveway work, or extra site prepa"
+}

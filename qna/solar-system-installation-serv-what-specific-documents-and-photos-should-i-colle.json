@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/solar-system-installation-serv-what-specific-documents-and-photos-should-i-collect-before-r",
+  "name": "Pre-Quote Checklist: What LA County Homeowners Should Gather for Solar",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What specific documents and photos should I collect before requesting solar quotes for a property in Los Angeles County?",
+    "text": "What specific documents and photos should I collect before requesting solar quotes for a property in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Preparing in advance can significantly improve the quality of solar quotes you receive in Los Angeles County. Start by downloading 12 months of utility bills so installers can see your seasonal usage patterns and rate plans. Take clear, well-lit photos of your main electrical panel with the door open, any subpanels, and the breakers, plus a wider shot showing surrounding walls and clearances. Next, capture roof photos from the ground at different angles, focusing on potential array areas and any nearby trees, chimneys, or equipment that could cause shading. If you have access to an upstairs window or balcony, take higher perspective shots. For larger lots or hillside properties, a few photos of the yard and potential ground-mount or carport locations are helpful. Collect any HOA guidelines, prior roof or structural reports, and notes about past electrical work. If your home has special equipment like a pool, spa, or EV charger, mention it and include photos of related panels and controls. By sending this package with your quote request, you help installers avoid guesswork, reduce the risk of later change orders, and get more accurate system size, production estimates, and pricing from the first round.",
+      "@type": "Answer",
+      "description": "Before requesting solar quotes in Los Angeles County, gather 12 months of utility bills, photos of your main panel and subpanels, roof and yard photos from multiple angles, and any HOA or building restrictions. Providing this upfront allows installers to give more accurate designs and pricing with fewer assumptions.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Preparing in advance can significantly improve the quality of solar quotes you receive in Los Angeles County. Start by downloading 12 months of utility bills so installers can see your seasonal usage patterns and rate plans. Take clear, well-lit photos of your main electrical panel with the door open, any subpanels, and the breakers, plus a wider shot showing surrounding walls and clearances. Next, capture roof photos from the ground at different angles, focusing on potential array areas and any nearby trees, chimneys, or equipment that could cause shading. If you have access to an upstairs window or balcony, take higher perspective shots. For larger lots or hillside properties, a few photos of the yard and potential ground-mount or carport locations are helpful. Collect any HOA guidelines, prior roof or structural reports, and notes about past electrical work. If your home has special equipment like a pool, spa, or EV charger, mention it and include photos of related panels and controls. By sending this package with your quote request, you help installers avoid guesswork, reduce the risk of later change orders, and get more accurate system size, production estimates, and pricing from the first round.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before requesting solar quotes in Los Angeles County, gather 12 months of utility bills, photos of your main panel and subpanels, roof and yard photos from mult"
+}

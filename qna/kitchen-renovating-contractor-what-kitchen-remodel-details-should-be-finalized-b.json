@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/kitchen-renovating-contractor-what-kitchen-remodel-details-should-be-finalized-before-demo",
+  "name": "What Should Be Finalized Before Kitchen Demo Starts?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What kitchen remodel details should be finalized before demolition starts?",
+    "text": "What kitchen remodel details should be finalized before demolition starts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The more decisions you finish before demolition, the smoother the remodel will run. At minimum, the layout, cabinet design, countertop material, appliance sizes, plumbing fixture placement, electrical plan, lighting choices, and backsplash or flooring selections should be approved before the first wall comes down. Those decisions affect dimensions, rough-ins, and ordering timelines. If selections are still open, the contractor may be forced to pause work, revise framing, reorder materials, or issue change orders. In Los Angeles County, that can also create permit or inspection complications if the finished design keeps changing. The best projects start with clear drawings and a locked selection list. Ask the contractor to identify which decisions are “must-have” before demo and which can safely wait. That helps you prioritize the items that affect construction the most. A well-prepared kitchen remodel usually spends more time up front on planning and less time improvising after demolition begins.",
+      "@type": "Answer",
+      "description": "Finalize the layout, cabinet selections, countertop material, appliances, plumbing locations, electrical plan, lighting, and tile decisions before demolition. Late changes are expensive and can slow the schedule. A contractor should not start demolition with major selections still undecided.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The more decisions you finish before demolition, the smoother the remodel will run. At minimum, the layout, cabinet design, countertop material, appliance sizes, plumbing fixture placement, electrical plan, lighting choices, and backsplash or flooring selections should be approved before the first wall comes down. Those decisions affect dimensions, rough-ins, and ordering timelines. If selections are still open, the contractor may be forced to pause work, revise framing, reorder materials, or issue change orders. In Los Angeles County, that can also create permit or inspection complications if the finished design keeps changing. The best projects start with clear drawings and a locked selection list. Ask the contractor to identify which decisions are “must-have” before demo and which can safely wait. That helps you prioritize the items that affect construction the most. A well-prepared kitchen remodel usually spends more time up front on planning and less time improvising after demolition begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Finalize the layout, cabinet selections, countertop material, appliances, plumbing locations, electrical plan, lighting, and tile decisions before demolition. L"
+}

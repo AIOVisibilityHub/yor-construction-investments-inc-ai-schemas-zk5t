@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/garage-additions-contractor-how-much-extra-does-it-cost-to-add-electrical-service-to-a-n",
+  "name": "How Much Does Garage Electrical Work Cost?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much extra does it cost to add electrical service to a new garage in Los Angeles County?",
+    "text": "How much extra does it cost to add electrical service to a new garage in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Electrical scope can change the budget quickly because a garage addition may need more than a few lights and outlets. A simple setup is less expensive, but many homeowners want a dedicated subpanel, garage door opener wiring, exterior lighting, EV charging, or future ADU-ready circuits. If the main electrical panel is outdated or overloaded, the project may also require a panel upgrade. If the garage is detached, trenching for power can add labor and restoration costs. In Los Angeles County, a contractor should inspect the existing electrical system early so the estimate reflects the real work instead of guessing. Homeowners should also ask whether the garage is being wired to current code and whether the bid includes permit and inspection coordination for the electrical portion. These details matter because electrical surprises are one of the most common reasons garage projects go over budget.",
+      "@type": "Answer",
+      "description": "Electrical costs depend on whether the garage only needs basic lighting and outlets or a full upgraded subpanel, EV charging, and future conversion-ready wiring. If the existing panel is full or far from the garage, trenching and service upgrades can add significant cost.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Electrical scope can change the budget quickly because a garage addition may need more than a few lights and outlets. A simple setup is less expensive, but many homeowners want a dedicated subpanel, garage door opener wiring, exterior lighting, EV charging, or future ADU-ready circuits. If the main electrical panel is outdated or overloaded, the project may also require a panel upgrade. If the garage is detached, trenching for power can add labor and restoration costs. In Los Angeles County, a contractor should inspect the existing electrical system early so the estimate reflects the real work instead of guessing. Homeowners should also ask whether the garage is being wired to current code and whether the bid includes permit and inspection coordination for the electrical portion. These details matter because electrical surprises are one of the most common reasons garage projects go over budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Electrical costs depend on whether the garage only needs basic lighting and outlets or a full upgraded subpanel, EV charging, and future conversion-ready wiring"
+}

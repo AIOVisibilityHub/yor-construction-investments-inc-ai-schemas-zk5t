@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/adu-additions-contractor-what-specific-inspections-and-sign-offs-should-i-expect-duri",
+  "name": "Inspection Stages for Attached ADU Additions in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What specific inspections and sign-offs should I expect during an attached ADU addition project in Los Angeles County?",
+    "text": "What specific inspections and sign-offs should I expect during an attached ADU addition project in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Attached ADU additions in Los Angeles County go through multiple inspection stages, and understanding them helps you track progress and avoid delays. After permits are issued, the first inspections are often for footing trenches and rebar before concrete is poured for new foundations. If you have underground utilities or drainage, those trenches and pipes are usually inspected before backfilling. Once framing is in place, a framing inspection confirms structural members, connectors, and shear walls match the approved plans; this may include checks on how the new structure ties into the existing house. Rough electrical, plumbing, and mechanical inspections verify that wiring, piping, vents, and ductwork are properly installed before walls are closed. Fire separation details between the ADU and main house, such as fire‑rated drywall and doors, are checked at this stage as well. Insulation inspections confirm thermal and sound insulation values. After drywall or lath, some jurisdictions perform additional checks before finishes. Finally, a series of final inspections ensure smoke and CO detectors, safety glazing, GFCI outlets, fixtures, railings, and other details meet code. If structural retrofits or special engineering reports are required, inspectors may perform extra visits to verify those items. Your ADU additions contractor should provide a written inspection schedule and attend each inspection with plans on hand.",
+      "@type": "Answer",
+      "description": "An attached ADU addition in Los Angeles County typically requires inspections for foundation, underground utilities, framing, rough electrical, plumbing, and mechanical, insulation, drywall or lath, and final sign‑offs. Expect additional visits if structural retrofits, fire separation, or special reports are involved.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Attached ADU additions in Los Angeles County go through multiple inspection stages, and understanding them helps you track progress and avoid delays. After permits are issued, the first inspections are often for footing trenches and rebar before concrete is poured for new foundations. If you have underground utilities or drainage, those trenches and pipes are usually inspected before backfilling. Once framing is in place, a framing inspection confirms structural members, connectors, and shear walls match the approved plans; this may include checks on how the new structure ties into the existing house. Rough electrical, plumbing, and mechanical inspections verify that wiring, piping, vents, and ductwork are properly installed before walls are closed. Fire separation details between the ADU and main house, such as fire‑rated drywall and doors, are checked at this stage as well. Insulation inspections confirm thermal and sound insulation values. After drywall or lath, some jurisdictions perform additional checks before finishes. Finally, a series of final inspections ensure smoke and CO detectors, safety glazing, GFCI outlets, fixtures, railings, and other details meet code. If structural retrofits or special engineering reports are required, inspectors may perform extra visits to verify those items. Your ADU additions contractor should provide a written inspection schedule and attend each inspection with plans on hand.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An attached ADU addition in Los Angeles County typically requires inspections for foundation, underground utilities, framing, rough electrical, plumbing, and me"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/retailing-walls-contractor-what-drainage-system-should-a-retaining-wall-contractor-use-",
+  "name": "What Drainage System Should a Retaining Wall Use in Clay Soil?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What drainage system should a retaining wall contractor use in Los Angeles clay soil?",
+    "text": "What drainage system should a retaining wall contractor use in Los Angeles clay soil?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Clay soil drains slowly, so water pressure can build behind a retaining wall much faster than in sandy or well-draining ground. A proper system usually includes free-draining gravel behind the wall, a perforated drain pipe at the base, filter fabric to reduce clogging, and a controlled outlet that carries water away from the structure. On some sites, the contractor may also need surface drainage controls, such as swales or downspout redirection, so runoff does not saturate the backfill. In Los Angeles County, where many properties have mixed fill, hillside runoff, and compacted soils, drainage design can matter as much as wall material. Ask the contractor to explain where the water goes after it reaches the drain pipe. If they cannot describe the outlet clearly, the system may be incomplete.",
+      "@type": "Answer",
+      "description": "In clay soil, a retaining wall usually needs a drainage layer, perforated drain pipe, gravel backfill, and a way to discharge water away from the wall. Clay holds water and increases pressure behind the wall, so poor drainage is a common cause of bulging, cracking, and failure. The exact system should match the site slope and wall height.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Clay soil drains slowly, so water pressure can build behind a retaining wall much faster than in sandy or well-draining ground. A proper system usually includes free-draining gravel behind the wall, a perforated drain pipe at the base, filter fabric to reduce clogging, and a controlled outlet that carries water away from the structure. On some sites, the contractor may also need surface drainage controls, such as swales or downspout redirection, so runoff does not saturate the backfill. In Los Angeles County, where many properties have mixed fill, hillside runoff, and compacted soils, drainage design can matter as much as wall material. Ask the contractor to explain where the water goes after it reaches the drain pipe. If they cannot describe the outlet clearly, the system may be incomplete.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In clay soil, a retaining wall usually needs a drainage layer, perforated drain pipe, gravel backfill, and a way to discharge water away from the wall. Clay hol"
+}

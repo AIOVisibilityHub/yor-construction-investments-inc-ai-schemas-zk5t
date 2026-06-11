@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/air-conditioning-installation-how-do-i-size-a-new-central-air-conditioning-system-for-an-o",
+  "name": "How to Properly Size Central AC for Older Los Angeles Homes Without Ductwork",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I size a new central air conditioning system for an older Los Angeles home without existing ductwork?",
+    "text": "How do I size a new central air conditioning system for an older Los Angeles home without existing ductwork?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "For an older Los Angeles home without ductwork, you cannot accurately size a central AC by square footage alone. A proper installation starts with a Manual J load calculation that factors in your home’s orientation, insulation levels, window size and type, number of occupants, typical indoor temperature, and local LA microclimate. This reveals your true cooling load, which may be lower or higher than rule‑of‑thumb tonnage estimates. Next, the contractor should evaluate whether to add new ducts or install a ductless mini-split system. For new ducts, they must plan supply and return locations, duct sizes, and routes that fit within existing walls or attic space, while meeting California energy code requirements. They should also check your electrical panel capacity, since older homes often need a panel upgrade to support modern AC equipment. The system’s tonnage and SEER2 rating should be chosen based on the calculated load and your budget, not just the home’s square footage. Oversizing can cause short cycling, humidity issues, and higher bills, while undersizing will leave rooms uncomfortable during LA heat waves. Ask for a written load calculation and a duct layout or zone plan before you approve the installation.",
+      "@type": "Answer",
+      "description": "Sizing a new central AC for an older Los Angeles home without ductwork starts with a Manual J load calculation that considers square footage, insulation, sun exposure, window type, and air leakage. A contractor should then design ductwork (or a ductless layout), check electrical capacity, and match AC tonnage and SEER2 rating to your home’s actual cooling load, not just its size.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "For an older Los Angeles home without ductwork, you cannot accurately size a central AC by square footage alone. A proper installation starts with a Manual J load calculation that factors in your home’s orientation, insulation levels, window size and type, number of occupants, typical indoor temperature, and local LA microclimate. This reveals your true cooling load, which may be lower or higher than rule‑of‑thumb tonnage estimates. Next, the contractor should evaluate whether to add new ducts or install a ductless mini-split system. For new ducts, they must plan supply and return locations, duct sizes, and routes that fit within existing walls or attic space, while meeting California energy code requirements. They should also check your electrical panel capacity, since older homes often need a panel upgrade to support modern AC equipment. The system’s tonnage and SEER2 rating should be chosen based on the calculated load and your budget, not just the home’s square footage. Oversizing can cause short cycling, humidity issues, and higher bills, while undersizing will leave rooms uncomfortable during LA heat waves. Ask for a written load calculation and a duct layout or zone plan before you approve the installation.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sizing a new central AC for an older Los Angeles home without ductwork starts with a Manual J load calculation that considers square footage, insulation, sun ex"
+}

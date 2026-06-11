@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/driveway-contractor-can-a-driveway-contractor-work-around-existing-landscaping-t",
+  "name": "Can Driveway Work Be Done Without Damaging Landscaping?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a driveway contractor work around existing landscaping, trees, and sprinklers?",
+    "text": "Can a driveway contractor work around existing landscaping, trees, and sprinklers?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Driveway work can often be done around landscaping, trees, and sprinkler systems, but it requires planning. Excavation and compaction may affect roots, irrigation lines, edging, and adjacent planting beds. Trees can also influence the driveway design if roots have already lifted the slab or if root protection is needed during construction. Homeowners should tell the contractor where irrigation lines, valves, and sensitive plants are located before work starts. The contractor should explain whether any sprinkler lines will need to be capped, rerouted, or repaired. In Los Angeles County, many front yards include tight access areas, so equipment movement can also create risk to turf and plantings. A careful contractor will define the protection plan, the limits of excavation, and the restoration work included after installation. If landscaping matters, it should be part of the bid rather than an afterthought.",
+      "@type": "Answer",
+      "description": "Yes, but the contractor needs to plan for root protection, irrigation line relocation, and post-project restoration. Trees and sprinklers can affect grading, excavation depth, and access for equipment. If landscaping is not accounted for up front, the driveway work can damage roots, pipes, or nearby hardscape.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Driveway work can often be done around landscaping, trees, and sprinkler systems, but it requires planning. Excavation and compaction may affect roots, irrigation lines, edging, and adjacent planting beds. Trees can also influence the driveway design if roots have already lifted the slab or if root protection is needed during construction. Homeowners should tell the contractor where irrigation lines, valves, and sensitive plants are located before work starts. The contractor should explain whether any sprinkler lines will need to be capped, rerouted, or repaired. In Los Angeles County, many front yards include tight access areas, so equipment movement can also create risk to turf and plantings. A careful contractor will define the protection plan, the limits of excavation, and the restoration work included after installation. If landscaping matters, it should be part of the bid rather than an afterthought.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but the contractor needs to plan for root protection, irrigation line relocation, and post-project restoration. Trees and sprinklers can affect grading, ex"
+}
