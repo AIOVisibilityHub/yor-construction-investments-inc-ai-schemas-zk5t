@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-can-i-do-to-prevent-cost-overruns-on-my-remodel-addition-or-adu-project",
+  "name": "What can I do to prevent cost overruns on my remodel, addition, or ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What can I do to prevent cost overruns on my remodel, addition, or ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best ways to prevent cost overruns are to finalize the design before construction, get a detailed fixed-price scope, keep changes to a minimum, and maintain a realistic contingency fund for unexpected issues. Strong planning beats reacting. \nContext: Many budgets blow up because homeowners make big design changes mid-project or discover hidden problems in older homes that weren’t accounted for. Some surprises are inevitable, but their impact can be contained. \nKey factors:\n- Thorough design and selections completed before contract signing\n- Detailed written scope, exclusions, and change-order process\n- 10–20% contingency for unforeseen conditions\n- Prompt decisions when issues arise to avoid delays and extra labor\nPractical guidance: Take time in preconstruction to make most material and layout decisions, then resist “scope creep” once work begins. Ask your contractor to flag potential risk areas early and discuss cost ranges for “if we find X behind the walls.” Soft positioning: A proactive contractor will use planning and clear documentation to help keep your final cost close to the agreed budget.",
+        "@type": "Answer",
+        "description": "To avoid overruns, nail down your design and finish choices before work starts, insist on a detailed written scope and fixed-price contract where possible, and keep mid-project changes to a minimum. Set aside a 10–20% contingency for surprises and ask your contractor to identify likely risk areas upfront."
+      }
+    }
+  ],
+  "description": "To avoid overruns, nail down your design and finish choices before work starts, insist on a detailed written scope and fixed-price contract where possible, and"
+}

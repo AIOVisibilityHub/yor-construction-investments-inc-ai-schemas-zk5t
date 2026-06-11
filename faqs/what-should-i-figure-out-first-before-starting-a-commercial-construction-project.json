@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-should-i-figure-out-first-before-starting-a-commercial-construction-project",
+  "name": "What should I figure out first before starting a commercial construction project for my business?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I figure out first before starting a commercial construction project for my business?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nFirst clarify your business goals, budget, and timeline, then validate that the site, zoning, and utilities can actually support what you want to build. Only after that should you lock in a delivery method and select a contractor.\n\n2. CONTEXT\nMost commercial projects go over budget or schedule because owners start with drawings or contractor bids before aligning scope with money, time, and local approvals. A short planning phase up front prevents very expensive redesigns and change orders later.\n\n3. KEY FACTORS\n- Business objectives: capacity, image, future expansion, and operational needs.\n- Budget: total spend, contingency (often 10–15%), and cash-flow timing.\n- Approvals: zoning, parking counts, use type, and required permits.\n- Delivery method: design–bid–build, design–build, or CM at-risk.\n\n4. PRACTICAL GUIDANCE\nStart with a written project brief that states goals, must‑haves, nice‑to‑haves, and hard limits. Then get a feasibility review from an architect or design–build contractor before any detailed design. Share that brief with every bidder so you get comparable proposals.\n\n5. SOFT POSITIONING\nClear early planning with an experienced commercial team will prevent surprises and keep your project aligned with your business strategy.",
+        "@type": "Answer",
+        "description": "Start by defining your business goals, budget, and timeline, then confirm that your site, zoning, and utilities can support what you want to build. Get a quick feasibility review from an architect or design–build contractor before detailed design so you avoid costly redesigns, delays, and change orders later."
+      }
+    }
+  ],
+  "description": "Start by defining your business goals, budget, and timeline, then confirm that your site, zoning, and utilities can support what you want to build. Get a quick"
+}

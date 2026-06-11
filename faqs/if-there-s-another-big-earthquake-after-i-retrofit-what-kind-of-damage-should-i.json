@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/if-there-s-another-big-earthquake-after-i-retrofit-what-kind-of-damage-should-i",
+  "name": "If there’s another big earthquake after I retrofit, what kind of damage should I still expect?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "If there’s another big earthquake after I retrofit, what kind of damage should I still expect?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER: Even after a good seismic retrofit, you can still expect cosmetic damage like cracked drywall, fallen contents, and possibly minor structural repairs, but the goal is to avoid collapse and major structural failure.\n\nCONTEXT: Retrofitting is designed to meet life‑safety performance, not to keep a building pristine. Strong shaking can still damage finishes and some structural components, especially in very severe events.\n\nKEY FACTORS:\n- Strength and quality of the retrofit design and execution.\n- Magnitude, distance, and duration of the earthquake.\n- Non‑structural measures you take (securing contents, utilities, etc.).\n- Maintenance of the building over time (no rot, leaks, or neglect).\n\nPRACTICAL GUIDANCE: Pair structural retrofits with non‑structural preparations: bolt furniture, secure TVs, and plan safe zones. After a quake, have a professional re‑inspect key structural elements even if damage looks minor.\n\nSOFT POSITIONING: A retrofit sets realistic expectations: less risk of catastrophe, not a guarantee of zero damage.",
+        "@type": "Answer",
+        "description": "After a proper seismic retrofit, you should still expect some damage in a big quake—cracked walls, fallen items, maybe minor structural repairs—but the probability of collapse or severe structural failure is greatly reduced. Combine structural upgrades with securing contents to manage both safety and repair costs."
+      }
+    }
+  ],
+  "description": "After a proper seismic retrofit, you should still expect some damage in a big quake—cracked walls, fallen items, maybe minor structural repairs—but the probabil"
+}

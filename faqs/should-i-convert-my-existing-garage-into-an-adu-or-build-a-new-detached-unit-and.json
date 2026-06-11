@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/should-i-convert-my-existing-garage-into-an-adu-or-build-a-new-detached-unit-and",
+  "name": "Should I convert my existing garage into an ADU or build a new detached unit, and what are the trade-offs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Should I convert my existing garage into an ADU or build a new detached unit, and what are the trade-offs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Garage conversions usually cost less and can be faster because the basic structure exists, but they may have layout or parking trade-offs. New detached ADUs cost more but often give better design, privacy, and long-term value. \nContext: Conversions must meet current codes for foundations, insulation, and structure, and you may lose covered parking or storage. New builds provide more flexibility in size, layout, and placement, but require new foundations and full framing. \nKey factors:\n- Condition and size of your existing garage\n- Need for parking or storage vs living space\n- Budget and financing constraints\n- Desired privacy, light, and outdoor space for the ADU\nPractical guidance: Have a professional assess the garage’s structural condition and estimate both options so you can compare real numbers and layouts. Consider how each option affects daily life, parking, and future resale before choosing. Soft positioning: A contractor experienced in both conversions and new ADUs can walk you through pros and cons specific to your property.",
+        "@type": "Answer",
+        "description": "Garage conversions often cost less and can be quicker since you’re reusing a structure, but they may compromise parking, storage, and layout flexibility. New detached ADUs are more expensive but usually offer better design, privacy, and resale appeal. Get concept plans and budget ranges for both before deciding."
+      }
+    }
+  ],
+  "description": "Garage conversions often cost less and can be quicker since you’re reusing a structure, but they may compromise parking, storage, and layout flexibility. New de"
+}

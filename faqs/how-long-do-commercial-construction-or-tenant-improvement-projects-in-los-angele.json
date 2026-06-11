@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-long-do-commercial-construction-or-tenant-improvement-projects-in-los-angele",
+  "name": "How long do commercial construction or tenant improvement projects in Los Angeles typically take, and what slows them down?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How long do commercial construction or tenant improvement projects in Los Angeles typically take, and what slows them down?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small to mid-size tenant improvements in Los Angeles often take 2–6 months of construction after permits, while larger ground-up or major renovations can run 9–18+ months. Permitting, plan revisions, long lead items, and inspection scheduling are the main slowdowns. \nContext: LA agencies must review life-safety, fire, structural, and accessibility aspects, and changes to occupancy or systems can trigger additional reviews. Supply chain issues and landlord constraints can also affect timing. \nKey factors:\n- Project size, complexity, and change of use/occupancy\n- Time required for design, landlord, and city approvals\n- Lead times for key materials (HVAC, switchgear, storefronts, etc.)\n- Inspection availability and re-inspection if corrections are needed\nPractical guidance: Ask for a preconstruction phase focused on planning, value engineering, and early ordering of critical materials. Build schedule float around permit approvals and inspections, and avoid late-stage scope changes. Soft positioning: A competent commercial contractor will leverage preconstruction to de-risk timelines before you commit to an opening date.",
+        "@type": "Answer",
+        "description": "In Los Angeles, many small to mid-size tenant improvements take about 2–6 months of construction once permits are in hand, while major or ground-up projects can run 9–18+ months. Permitting, design changes, long lead materials, and inspection scheduling are the biggest causes of delay, so invest in preconstruction planning and early approvals."
+      }
+    }
+  ],
+  "description": "In Los Angeles, many small to mid-size tenant improvements take about 2–6 months of construction once permits are in hand, while major or ground-up projects can"
+}

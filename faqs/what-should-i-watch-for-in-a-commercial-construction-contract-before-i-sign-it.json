@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-should-i-watch-for-in-a-commercial-construction-contract-before-i-sign-it",
+  "name": "What should I watch for in a commercial construction contract before I sign it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I watch for in a commercial construction contract before I sign it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nFocus on scope clarity, change-order rules, payment terms, schedule, and dispute procedures. A good contract should make responsibilities and processes explicit, not vague.\n\n2. CONTEXT\nMany disputes arise not from bad intent but from ambiguous contracts. You want to know exactly what is included, how changes are handled, and what happens if something goes wrong.\n\n3. KEY FACTORS\n- Scope: detailed attachments, drawings, and specifications.\n- Price: lump sum vs. cost-plus, allowances, and unit prices.\n- Changes: written approval procedures and pricing methods.\n- Schedule and delays: milestones, extensions, and liquidated damages if any.\n\n4. PRACTICAL GUIDANCE\nRead the entire agreement, including exhibits, and cross-check that it matches the proposal you accepted. Ask questions about anything unclear and request revisions before signing, rather than assuming you can sort it out later.\n\n5. SOFT POSITIONING\nA professional commercial contractor will be open to clarifying language so both sides fully understand the deal.",
+        "@type": "Answer",
+        "description": "Before signing, review scope attachments, price structure, allowances, change‑order procedures, payment terms, and schedule in your commercial contract. Make sure it matches the proposal you approved, ask questions about anything unclear, and resolve ambiguities in writing instead of relying on verbal assurances."
+      }
+    }
+  ],
+  "description": "Before signing, review scope attachments, price structure, allowances, change‑order procedures, payment terms, and schedule in your commercial contract. Make su"
+}

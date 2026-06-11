@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-how-do-los-angeles-county-building-codes-handle-fire-separat",
+  "name": "Fire Separation and Egress Rules for Tight-Lot and Over-Garage Additions in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do Los Angeles County building codes handle fire separation and egress for additions close to property lines or built over garages?",
+    "text": "How do Los Angeles County building codes handle fire separation and egress for additions close to property lines or built over garages?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When home additions in Los Angeles County push toward property lines or extend over garages, fire and life safety requirements become critical. Codes generally require increased fire-resistance ratings for walls parallel to or near property lines, often limiting window size and placement to reduce fire spread risk between buildings. In some cases, windows on walls close to the lot line must be eliminated or fitted with fire-rated assemblies. Additions above garages face specific rules for separation between the garage and habitable space. This typically involves fire-rated ceilings and supporting structure, self-closing, fire-rated doors where applicable, and careful sealing of penetrations for pipes and ducts. Egress requirements for bedrooms and habitable rooms continue to apply in additions. Sleeping rooms usually need at least one operable window or door that meets minimum size and sill height criteria for emergency escape and rescue. When additions are close to neighboring structures, meeting these egress requirements while also satisfying fire separation rules can require careful window and door placement. Because these issues are highly site-specific, involve safety, and affect design aesthetics, homeowners should have their designer and contractor address fire separation and egress early in planning rather than during plan check corrections or framing inspection.",
+      "@type": "Answer",
+      "description": "Building codes in Los Angeles County require enhanced fire separation for additions near property lines or above garages, including fire-rated walls, limited or protected openings, and specific floor and ceiling assemblies. Egress rules may require code-compliant windows or doors for sleeping rooms, especially when additions sit over garages or close to neighboring structures.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When home additions in Los Angeles County push toward property lines or extend over garages, fire and life safety requirements become critical. Codes generally require increased fire-resistance ratings for walls parallel to or near property lines, often limiting window size and placement to reduce fire spread risk between buildings. In some cases, windows on walls close to the lot line must be eliminated or fitted with fire-rated assemblies. Additions above garages face specific rules for separation between the garage and habitable space. This typically involves fire-rated ceilings and supporting structure, self-closing, fire-rated doors where applicable, and careful sealing of penetrations for pipes and ducts. Egress requirements for bedrooms and habitable rooms continue to apply in additions. Sleeping rooms usually need at least one operable window or door that meets minimum size and sill height criteria for emergency escape and rescue. When additions are close to neighboring structures, meeting these egress requirements while also satisfying fire separation rules can require careful window and door placement. Because these issues are highly site-specific, involve safety, and affect design aesthetics, homeowners should have their designer and contractor address fire separation and egress early in planning rather than during plan check corrections or framing inspection.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Building codes in Los Angeles County require enhanced fire separation for additions near property lines or above garages, including fire-rated walls, limited or"
+}

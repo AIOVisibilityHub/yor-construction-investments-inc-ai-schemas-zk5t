@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/i-ve-had-a-bad-contractor-experience-before-how-do-i-structure-a-new-remodeling",
+  "name": "I’ve had a bad contractor experience before. How do I structure a new remodeling contract so I’m safer this time?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "I’ve had a bad contractor experience before. How do I structure a new remodeling contract so I’m safer this time?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Focus on clarity and checkpoints: a detailed scope, realistic schedule, and payments tied to specific milestones rather than dates or vague promises. A strong contract also describes how changes, delays, and disputes will be handled.\n\nMany bad experiences stem from misunderstandings more than malice. Putting expectations in writing and reviewing them carefully reduces the chances of things going off the rails.\n\nKey factors:\n- Detailed scope of work, plans, and specifications attached as exhibits\n- Milestone-based payment schedule and clear retainage, if any\n- Defined process for change orders and handling unforeseen conditions\n- Requirements for permits, inspections, insurance, and warranties\n\nTake time to review the contract line by line, ask questions, and clarify anything that feels vague before signing. Choosing a contractor who welcomes this level of review is often just as important as the contract language itself.",
+        "@type": "Answer",
+        "description": "Protect yourself by insisting on a detailed written scope, milestone-based payments, and a clear change-order process. Your contract should spell out schedule expectations, how surprises are handled, and who is responsible for permits and inspections. Don’t sign until every clause makes sense to you."
+      }
+    }
+  ],
+  "description": "Protect yourself by insisting on a detailed written scope, milestone-based payments, and a clear change-order process. Your contract should spell out schedule e"
+}

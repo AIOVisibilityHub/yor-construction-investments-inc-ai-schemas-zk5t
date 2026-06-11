@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/will-building-an-adu-increase-my-property-taxes-a-lot-in-los-angeles-county",
+  "name": "Will building an ADU increase my property taxes a lot in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Will building an ADU increase my property taxes a lot in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an ADU normally **increases your property tax**, but only based on the new construction’s assessed value, not the entire property again. Your existing house’s assessment generally stays as‑is.\n\nThe county assesses the ADU as an improvement, then adds that value to your current tax bill. The exact amount depends on size, construction cost, and local tax rates.\n\nKey factors:\n- Incremental assessment of the new ADU, not a full reassessment of your whole property\n- Local property tax rate applied to the added value\n- Potential offsets from rental income or increased resale value\n- Timing of reassessment relative to completion\n\nAsk your tax assessor’s office or a qualified tax professional to estimate the added annual property tax for your planned scope and budget. Factor that cost into your financial analysis.\n\nExperienced ADU pros can often give rough ranges but will still direct you back to official tax guidance for final numbers.",
+        "@type": "Answer",
+        "description": "Yes, an ADU will raise your property tax bill, but typically only by the assessed value of the new unit, not a full reassessment of your whole property. The added tax is usually a fraction of the ADU’s cost and should be included in your long‑term financial planning for the project."
+      }
+    }
+  ],
+  "description": "Yes, an ADU will raise your property tax bill, but typically only by the assessed value of the new unit, not a full reassessment of your whole property. The add"
+}

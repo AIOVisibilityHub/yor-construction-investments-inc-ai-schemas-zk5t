@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-happens-if-my-adu-permit-application-gets-rejected-or-stuck-in-plan-check-f",
+  "name": "What happens if my ADU permit application gets rejected or stuck in plan check for months?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What happens if my ADU permit application gets rejected or stuck in plan check for months?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your ADU permit is **rejected or stalled**, the usual cause is incomplete plans or code conflicts, not that ADUs are banned. Most issues can be fixed with targeted revisions.\n\nJurisdictions must process ADU applications within specific time frames, but corrections and resubmittals can stretch timelines. Staying responsive and organized is key.\n\nKey factors:\n- The specific correction comments or code sections cited\n- Whether issues are zoning‑related (location/size) or building‑code‑related (structural, egress, energy)\n- Communication between your designer, engineer, and plan checker\n- Deadlines for resubmittal or permit expiration\n\nCarefully review the correction list with your design team and respond point‑by‑point, providing clear revisions or justifications. Avoid piecemeal responses that invite another full round of comments.\n\nExperienced ADU designers and contractors know how to interpret correction notes and craft revisions that get approvals moving again.",
+        "@type": "Answer",
+        "description": "A rejected or stalled ADU permit is usually fixable. Read the correction comments carefully, work with your designer and engineer to revise plans point‑by‑point, and resubmit a complete response. Most delays come from incomplete plans or unclear responses, not from ADUs being disallowed outright."
+      }
+    }
+  ],
+  "description": "A rejected or stalled ADU permit is usually fixable. Read the correction comments carefully, work with your designer and engineer to revise plans point‑by‑point"
+}

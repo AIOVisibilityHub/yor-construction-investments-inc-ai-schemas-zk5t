@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-what-happens-to-property-taxes-in-los-angeles-county-when-a-",
+  "name": "How Home Additions Change Property Taxes in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens to property taxes in Los Angeles County when a homeowner builds a significant home addition?",
+    "text": "What happens to property taxes in Los Angeles County when a homeowner builds a significant home addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Building a significant home addition in Los Angeles County almost always affects your property taxes. Under California’s assessment rules, the county assessor generally reassesses the value of “new construction,” which includes major additions that add living area or substantially upgrade the property. The existing portion of your home typically retains its prior assessed value subject to annual Proposition 13 increases, while the addition is assessed at its current market value when completed. The assessor then combines the old assessed value and the new construction value to calculate your updated property tax basis. This means your tax bill will rise by the taxes attributable to the addition, not by a complete reassessment of your entire property, in most cases. The size, quality, and type of space you add—such as a new primary suite versus a simple storage room—affect how much value is added. Converting non-habitable space to habitable space, like finishing a storage area into a bedroom, can also trigger reassessment. Before committing to a large addition, homeowners can contact the county assessor’s office for general guidance on how similar projects have been treated. This helps you model the long-term carrying cost of your expanded home, not just upfront construction expenses.",
+      "@type": "Answer",
+      "description": "In Los Angeles County, a significant home addition usually triggers a reassessment of the new construction value, which increases the property tax bill based on the added value. The original assessed value of the existing structure often remains under Proposition 13 rules, but the addition’s value is added as new taxable assessment.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Building a significant home addition in Los Angeles County almost always affects your property taxes. Under California’s assessment rules, the county assessor generally reassesses the value of “new construction,” which includes major additions that add living area or substantially upgrade the property. The existing portion of your home typically retains its prior assessed value subject to annual Proposition 13 increases, while the addition is assessed at its current market value when completed. The assessor then combines the old assessed value and the new construction value to calculate your updated property tax basis. This means your tax bill will rise by the taxes attributable to the addition, not by a complete reassessment of your entire property, in most cases. The size, quality, and type of space you add—such as a new primary suite versus a simple storage room—affect how much value is added. Converting non-habitable space to habitable space, like finishing a storage area into a bedroom, can also trigger reassessment. Before committing to a large addition, homeowners can contact the county assessor’s office for general guidance on how similar projects have been treated. This helps you model the long-term carrying cost of your expanded home, not just upfront construction expenses.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In Los Angeles County, a significant home addition usually triggers a reassessment of the new construction value, which increases the property tax bill based on"
+}

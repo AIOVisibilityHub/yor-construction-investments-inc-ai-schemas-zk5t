@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-often-do-seismic-retrofit-standards-change-and-will-today-s-retrofit-become",
+  "name": "How often do seismic retrofit standards change, and will today’s retrofit become outdated in a few years?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How often do seismic retrofit standards change, and will today’s retrofit become outdated in a few years?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER: Seismic design standards evolve periodically as new research and earthquake data emerge, but a well‑designed retrofit based on current codes should remain valuable and relevant for many years.\n\nCONTEXT: Building codes are updated in cycles, yet upgrades that dramatically improve basic load paths and foundation anchoring seldom become “obsolete,” even if newer guidelines later refine details.\n\nKEY FACTORS:\n- Code update cycles (often every few years at state and local levels).\n- Whether your retrofit is engineered or uses prescriptive details.\n- Documentation quality, which helps future engineers evaluate it.\n- Potential need for future supplemental, not replacement, upgrades.\n\nPRACTICAL GUIDANCE: Ask your engineer or contractor to clearly label and document retrofit work so future professionals understand what was done. View retrofitting as a major step forward that may be fine‑tuned later, not a one‑time perfection requirement.\n\nSOFT POSITIONING: Doing a modern retrofit now moves your building far ahead of many unretrofitted structures, even as codes continue to advance.",
+        "@type": "Answer",
+        "description": "Seismic standards do change over time, but a retrofit built to current codes and good engineering practice should stay beneficial for many years. Future code updates might suggest refinements, not that you “start over.” Thorough documentation makes it easier to supplement—not replace—today’s work later on."
+      }
+    }
+  ],
+  "description": "Seismic standards do change over time, but a retrofit built to current codes and good engineering practice should stay beneficial for many years. Future code up"
+}

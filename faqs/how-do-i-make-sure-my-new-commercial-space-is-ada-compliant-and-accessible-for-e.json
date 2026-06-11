@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-do-i-make-sure-my-new-commercial-space-is-ada-compliant-and-accessible-for-e",
+  "name": "How do I make sure my new commercial space is ADA compliant and accessible for everyone?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I make sure my new commercial space is ADA compliant and accessible for everyone?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nWork with your architect and contractor to design and build to current ADA and local accessibility codes, focusing on entries, parking, restrooms, paths of travel, and service counters. Accessibility needs to be integrated, not added at the end.\n\n2. CONTEXT\nNon-compliance can lead to expensive retrofits, lost customers, and potential enforcement issues. Many older buildings in LA require upgrades when you remodel or change use.\n\n3. KEY FACTORS\n- Scope: entrances, parking, interior routes, restrooms, and signage.\n- Existing conditions: slopes, door widths, and clearances in older structures.\n- Triggers: level of alteration may require upgraded paths of travel.\n- Reviews: building department and sometimes third-party access specialists.\n\n4. PRACTICAL GUIDANCE\nAsk your design team to perform an accessibility review early and to highlight any “technically infeasible” conditions that might need alternative solutions. During construction, verify key dimensions in the field before finishes go in.\n\n5. SOFT POSITIONING\nAn experienced commercial team will treat accessibility as a core design and construction requirement, not a box to check at the end.",
+        "@type": "Answer",
+        "description": "Ensure ADA compliance by having your architect and contractor design and build with accessibility as a core requirement—focusing on entries, parking, paths of travel, restrooms, and counters. Review accessibility early, verify key dimensions in the field, and understand which upgrades are triggered by your remodel or change of use."
+      }
+    }
+  ],
+  "description": "Ensure ADA compliance by having your architect and contractor design and build with accessibility as a core requirement—focusing on entries, parking, paths of t"
+}

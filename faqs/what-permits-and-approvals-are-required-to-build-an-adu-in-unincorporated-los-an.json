@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-permits-and-approvals-are-required-to-build-an-adu-in-unincorporated-los-an",
+  "name": "What permits and approvals are required to build an ADU in unincorporated Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What permits and approvals are required to build an ADU in unincorporated Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For unincorporated Los Angeles County, you’ll need **planning approval plus building permits**, along with any required sign‑offs from fire, public works, and utility agencies. The county has a defined ADU process, but it’s still paperwork‑heavy.\n\nYou typically start with Regional Planning, then move to Building and Safety once your planning review is approved. Each step may generate corrections that must be addressed before you can build.\n\nKey factors:\n- Regional Planning application and site plan review\n- Full architectural, structural, and Title 24 energy plans\n- Agency referrals (fire, sanitation, utilities) as applicable\n- Building permit issuance, inspections, and final sign‑off\n\nExpect multiple plan submittals and be prepared to respond quickly to correction notices to avoid delays. A complete, code‑compliant plan set submitted through the county’s online system can save weeks.\n\nTeams used to the LA County ADU workflow can manage submittals, corrections, and inspections so you’re not navigating agencies on your own.",
+        "@type": "Answer",
+        "description": "You’ll need both planning approval and building permits to construct an ADU in unincorporated Los Angeles County, plus any required fire, sanitation, and utility sign‑offs. The typical path is: planning application and site review, full construction plans and agency referrals, building permit issuance, inspections, then final approval."
+      }
+    }
+  ],
+  "description": "You’ll need both planning approval and building permits to construct an ADU in unincorporated Los Angeles County, plus any required fire, sanitation, and utilit"
+}

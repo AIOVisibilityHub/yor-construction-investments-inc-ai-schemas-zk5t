@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-do-i-know-if-my-existing-home-structure-can-handle-a-second-story-addition",
+  "name": "How do I know if my existing home structure can handle a second-story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if my existing home structure can handle a second-story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need a structural assessment by an engineer or qualified design-build contractor to determine if your foundation and framing can support a second story. Visual inspection alone isn’t enough because the loads and code requirements are significant.\n\nSometimes an existing foundation can be reinforced, but in other cases it must be partially replaced or heavily upgraded. That structural scope drives cost and feasibility.\n\nKey factors:\n- Age, condition, and type of the foundation and framing\n- Soil conditions and previous additions or modifications\n- Current building codes and seismic requirements in your area\n- Access for reinforcement work and temporary supports during construction\n\nBefore committing to a second story, budget for structural analysis and be open to plan B options (such as rear or side additions) if your existing structure cannot be cost-effectively upgraded. A reputable contractor will not promise a second story without verifying structural capacity first.",
+        "@type": "Answer",
+        "description": "You only know if your home can support a second story after a structural evaluation by an engineer or qualified contractor. They’ll analyze your foundation, framing, and local code/seismic requirements and then recommend reinforcement or alternate addition options based on what’s safe and cost-effective."
+      }
+    }
+  ],
+  "description": "You only know if your home can support a second story after a structural evaluation by an engineer or qualified contractor. They’ll analyze your foundation, fra"
+}

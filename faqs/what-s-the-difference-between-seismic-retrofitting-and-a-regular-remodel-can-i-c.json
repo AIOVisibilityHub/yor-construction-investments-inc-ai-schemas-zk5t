@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-s-the-difference-between-seismic-retrofitting-and-a-regular-remodel-can-i-c",
+  "name": "What’s the difference between seismic retrofitting and a regular remodel? Can I combine them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What’s the difference between seismic retrofitting and a regular remodel? Can I combine them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER: Seismic retrofitting focuses on structural safety—strengthening the skeleton of the building—while a remodel focuses on appearance and functionality. Yes, you can often combine them, which may be more efficient.\n\nCONTEXT: Retrofits target foundations, shear walls, and structural connections, which are often exposed during remodel work anyway. Coordinating both can reduce opening/closing walls twice and duplicating work.\n\nKEY FACTORS:\n- Whether walls, floors, or foundations will already be opened for the remodel.\n- Need for structural engineering to support new layouts or openings.\n- City permits: structural and architectural scopes may be reviewed together.\n- Budget and tolerance for a larger, single project.\n\nPRACTICAL GUIDANCE: Tell your designer and contractor early that seismic safety is a priority. Ask your structural engineer to integrate retrofit details into remodel plans, so inspectors can approve everything together.\n\nSOFT POSITIONING: Combining retrofit and remodel work is often the most cost‑effective way to improve both safety and livability at the same time.",
+        "@type": "Answer",
+        "description": "Seismic retrofitting strengthens the structure (foundations, shear walls, connections) for earthquake safety; remodeling changes finishes and layout. They can absolutely be combined, and doing them together often saves money and avoids opening up the same areas twice. Coordinate early with your designer and structural engineer."
+      }
+    }
+  ],
+  "description": "Seismic retrofitting strengthens the structure (foundations, shear walls, connections) for earthquake safety; remodeling changes finishes and layout. They can a"
+}

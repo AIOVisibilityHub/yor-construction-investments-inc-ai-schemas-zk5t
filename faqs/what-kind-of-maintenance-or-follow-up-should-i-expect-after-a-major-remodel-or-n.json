@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-kind-of-maintenance-or-follow-up-should-i-expect-after-a-major-remodel-or-n",
+  "name": "What kind of maintenance or follow-up should I expect after a major remodel or new addition is finished?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance or follow-up should I expect after a major remodel or new addition is finished?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a major remodel or addition, expect a short adjustment period where minor issues—like sticking doors, small paint touch-ups, or caulking cracks—may appear as the home settles. A good contractor anticipates this and includes a warranty and punch-list process.\n\nYou’ll also need to maintain new systems and finishes according to manufacturer guidelines to protect warranties. Some items, like sealants or grout, may need periodic inspection.\n\nKey factors:\n- Warranty length and what it covers (labor vs. materials)\n- Scheduled follow-up visit or defined punch-list period\n- Maintenance requirements for roofing, caulking, grout, and finishes\n- Documentation of appliances, fixtures, and systems installed\n\nBefore final payment, confirm the warranty terms, get all manuals and paint codes, and schedule any agreed follow-up visits. Keeping a simple maintenance log and photo record of your project will make any future repairs or upgrades easier to manage.",
+        "@type": "Answer",
+        "description": "Expect a brief post-construction period for minor touch-ups as the work settles, plus ongoing maintenance to keep warranties valid. Clarify warranty terms, punch-list timing, and maintenance needs for roofing, sealants, and finishes before final payment and keep all manuals and records in one place."
+      }
+    }
+  ],
+  "description": "Expect a brief post-construction period for minor touch-ups as the work settles, plus ongoing maintenance to keep warranties valid. Clarify warranty terms, punc"
+}

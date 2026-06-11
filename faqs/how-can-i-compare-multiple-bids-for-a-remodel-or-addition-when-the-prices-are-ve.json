@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-can-i-compare-multiple-bids-for-a-remodel-or-addition-when-the-prices-are-ve",
+  "name": "How can I compare multiple bids for a remodel or addition when the prices are very different?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How can I compare multiple bids for a remodel or addition when the prices are very different?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by aligning the scope: make sure each bid covers the same work, materials, and allowances, then evaluate completeness, quality of assumptions, and contractor qualifications—not just the number at the bottom. Big price gaps usually reflect scope or quality differences. \nContext: Some bids omit important items like permits, engineering, or prep work to appear lower upfront. Others include higher allowances for finishes or more robust waterproofing and structural work. \nKey factors:\n- Detailed line items vs vague lump sums\n- Included vs excluded items (permits, demo, debris removal, fixtures)\n- Allowance amounts for finishes and fixtures\n- Contractor experience, license, insurance, and references\nPractical guidance: Ask each contractor to clarify exclusions and provide a list of assumed materials/allowances, then build a simple comparison table. Be cautious of outlier low bids unless they can clearly explain how they’re achieving savings without cutting corners. Soft positioning: A transparent contractor will help you understand what’s in their bid so you can compare it fairly to others.",
+        "@type": "Answer",
+        "description": "To compare very different bids, first align scope: confirm each one includes the same work, permits, and materials with similar allowances. Review detailed line items, exclusions, and assumptions, and weigh contractor experience and transparency. Large price gaps usually signal scope or quality differences, so question outlier low bids carefully."
+      }
+    }
+  ],
+  "description": "To compare very different bids, first align scope: confirm each one includes the same work, permits, and materials with similar allowances. Review detailed line"
+}

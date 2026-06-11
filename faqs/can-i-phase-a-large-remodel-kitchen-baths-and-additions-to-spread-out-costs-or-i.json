@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/can-i-phase-a-large-remodel-kitchen-baths-and-additions-to-spread-out-costs-or-i",
+  "name": "Can I phase a large remodel (kitchen, baths, and additions) to spread out costs, or is it cheaper to do everything at once?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I phase a large remodel (kitchen, baths, and additions) to spread out costs, or is it cheaper to do everything at once?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can phase a large remodel, but doing everything at once is usually more cost- and time-efficient overall. Each additional phase adds repeated setup, permits, and mobilization costs.\n\nHowever, phasing can make the project financially manageable and less disruptive if you’re living in the home. The trick is to phase logically so you’re not undoing completed work later.\n\nKey factors:\n- Shared systems (electrical panel, plumbing mains, HVAC) that benefit from one-time upgrades\n- Permit strategy and whether separate permits make sense\n- Your cash flow, financing, and tolerance for repeated disruption\n- Access and sequencing so finished areas aren’t damaged later\n\nDiscuss a master plan with your contractor and have them identify an ideal “all at once” plan and a practical phased plan. Even if you phase, designing with the end goal in mind avoids costly rework and allows you to upgrade core systems only once.",
+        "@type": "Answer",
+        "description": "You can phase a big remodel, but it’s usually cheaper and faster to do everything at once because you avoid repeated permits and mobilization. If you must phase, create a master plan first so each phase builds toward the final layout without undoing previous work."
+      }
+    }
+  ],
+  "description": "You can phase a big remodel, but it’s usually cheaper and faster to do everything at once because you avoid repeated permits and mobilization. If you must phase"
+}

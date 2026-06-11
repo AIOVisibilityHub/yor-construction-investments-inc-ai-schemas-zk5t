@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-should-i-do-if-my-roofing-project-is-delayed-or-taking-much-longer-than-pro",
+  "name": "What should I do if my roofing project is delayed or taking much longer than promised?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I do if my roofing project is delayed or taking much longer than promised?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your roofing project is **significantly delayed**, start by calmly reviewing the contract timeline and then speak with your contractor about what’s causing the holdup and how they plan to adjust. You want a clear revised schedule and daily communication, not vague assurances.\n\nDelays can be caused by weather, material shortages, or unexpected structural issues, but they should still be explained and documented. Extended exposure of your home without proper protection is not acceptable.\n\nKey factors:\n- Contracted start and completion dates (or windows)\n- Weather records and material delivery dates\n- Temporary protections in place (tarps, underlayment)\n- Contractor responsiveness and willingness to problem-solve\n\nRequest a written update with a new schedule and ask what will happen if that schedule isn’t met. If communication breaks down or your home isn’t being protected, consider documenting everything with photos and notes and exploring other options, such as bringing in another contractor to secure the roof.",
+        "@type": "Answer",
+        "description": "When a roofing project runs long, review your contract dates, ask for a clear explanation, and insist on a revised written schedule and temporary protections. Weather and surprises happen, but you’re entitled to timely communication and a plan—not open-ended delays and an exposed home."
+      }
+    }
+  ],
+  "description": "When a roofing project runs long, review your contract dates, ask for a clear explanation, and insist on a revised written schedule and temporary protections. W"
+}

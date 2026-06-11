@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-types-of-buildings-are-considered-high-priority-for-seismic-retrofitting-in",
+  "name": "What types of buildings are considered “high priority” for seismic retrofitting in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What types of buildings are considered “high priority” for seismic retrofitting in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER: High‑priority buildings usually include soft‑story apartments, unreinforced masonry structures, older non‑ductile concrete buildings, and pre‑1980 single‑family homes on raised foundations without proper bolting and bracing.\n\nCONTEXT: These building types have historically performed poorly in earthquakes, with collapses or serious damage in past California quakes. Local ordinances and state guidelines often single them out for evaluation or mandatory upgrades.\n\nKEY FACTORS:\n- Multi‑unit soft‑story buildings with open parking at the ground level.\n- Brick or block walls without adequate reinforcement.\n- Tall, older concrete buildings lacking ductile detailing.\n- Homes with cripple walls, unbolted sill plates, or hillside conditions.\n\nPRACTICAL GUIDANCE: If your building fits any of these categories, don’t wait for a mandate—get a seismic assessment and a prioritized retrofit plan. It’s often cheaper and easier to act before ordinances impose hard deadlines.\n\nSOFT POSITIONING: A structural engineer familiar with LA’s building stock can quickly tell you where your property sits on the risk spectrum.",
+        "@type": "Answer",
+        "description": "In the Los Angeles area, high‑priority seismic retrofit candidates include soft‑story apartments (with open parking at ground level), unreinforced masonry buildings, older non‑ductile concrete structures, and many pre‑1980 homes on raised foundations that lack proper bolting and bracing—these have historically performed poorly in big quakes."
+      }
+    }
+  ],
+  "description": "In the Los Angeles area, high‑priority seismic retrofit candidates include soft‑story apartments (with open parking at ground level), unreinforced masonry build"
+}

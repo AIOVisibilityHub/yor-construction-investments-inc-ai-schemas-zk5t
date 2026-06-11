@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/in-los-angeles-county-what-should-i-know-about-permits-and-inspections-for-a-gar",
+  "name": "In Los Angeles County, what should I know about permits and inspections for a garage conversion to an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "In Los Angeles County, what should I know about permits and inspections for a garage conversion to an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles County, garage conversions to ADUs typically require full building permits, plan review, and multiple inspections covering structure, fire separation, insulation, egress, and upgraded electrical and plumbing. Simply finishing the garage without permits won’t qualify as a legal ADU.\n\nYou’ll also need to address parking and setback rules, which can vary between the County and individual cities. Meeting energy and seismic requirements is especially important in this region.\n\nKey factors:\n- Whether your property is in the City of Los Angeles or another LA County jurisdiction\n- Existing garage condition and whether structural upgrades are needed\n- Fire-rated assemblies between ADU and any remaining garage area\n- Compliance with energy, ventilation, and seismic standards\n\nStart with a zoning check and a feasibility review before designing the interior. Work with a contractor who has recent experience getting garage ADUs approved in your specific LA jurisdiction, as they’ll know local interpretations of the state ADU rules.",
+        "@type": "Answer",
+        "description": "In Los Angeles County, a garage conversion to an ADU needs full permits, plan review, and inspections for structure, fire separation, energy, and seismic compliance. Rules differ by city, so start with a zoning check and use a contractor familiar with ADUs in your specific LA jurisdiction."
+      }
+    }
+  ],
+  "description": "In Los Angeles County, a garage conversion to an ADU needs full permits, plan review, and inspections for structure, fire separation, energy, and seismic compli"
+}

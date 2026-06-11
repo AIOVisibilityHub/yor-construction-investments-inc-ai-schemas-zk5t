@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-do-adus-work-on-multifamily-properties-in-los-angeles-county-duplexes-and-sm",
+  "name": "How do ADUs work on multifamily properties in Los Angeles County (duplexes and small apartment buildings)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do ADUs work on multifamily properties in Los Angeles County (duplexes and small apartment buildings)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multifamily properties in Los Angeles County often have **broader ADU options**, including multiple conversion ADUs plus newly built units, subject to caps. The rules differ from single‑family lots and can unlock significant extra housing.\n\nOwners can sometimes convert non‑habitable space (storage, boiler rooms, tuck‑under parking) into ADUs and add detached units on the lot. Each jurisdiction sets precise limits based on unit count and zoning.\n\nKey factors:\n- Maximum number of conversion ADUs allowed as a percentage of existing units\n- Limits on newly constructed detached ADUs on multifamily lots\n- Parking, access, and fire separation requirements\n- Impact on existing tenants and rent‑controlled units\n\nHave a feasibility study done that maps all existing structures and non‑habitable spaces, then overlays local multifamily ADU rules. Multi‑unit ADU projects benefit from careful phasing and tenant communication.\n\nContractors with multifamily ADU experience can help you unlock this density without running afoul of safety or tenant regulations.",
+        "@type": "Answer",
+        "description": "On multifamily properties, you can often add several ADUs by converting existing non‑habitable areas and sometimes by building new detached units, up to limits tied to your current unit count. Rules differ from single‑family ADUs, so a detailed feasibility study is essential before you start design or budgeting."
+      }
+    }
+  ],
+  "description": "On multifamily properties, you can often add several ADUs by converting existing non‑habitable areas and sometimes by building new detached units, up to limits"
+}

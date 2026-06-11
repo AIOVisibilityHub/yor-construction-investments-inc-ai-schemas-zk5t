@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/custom-build-contractor-servic-is-it-cheaper-to-remodel-a-bathroom-or-build-a-new-one-as-pa",
+  "name": "Bathroom Remodel vs New Bathroom in an ADU",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it cheaper to remodel a bathroom or build a new one as part of an ADU project?",
+    "text": "Is it cheaper to remodel a bathroom or build a new one as part of an ADU project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A bathroom remodel is usually less expensive than adding a brand-new bathroom because the existing room already has plumbing connections, drainage, and a defined footprint. In ADU work, however, the comparison can change depending on whether the project is converting existing space or creating a new detached unit. If a new bathroom is close to existing plumbing lines, the cost may remain manageable. If the bathroom must be added far from utilities or requires slab cutting, trenching, or major structural changes, costs can rise quickly. Homeowners should compare the value of reusing an existing layout versus creating a new one with better function. The best answer depends on utility distance, waterproofing complexity, and how much of the project is structural versus cosmetic.",
+      "@type": "Answer",
+      "description": "It is usually cheaper to remodel an existing bathroom than to build a completely new one, because a new bathroom requires additional plumbing, drainage, ventilation, waterproofing, and finish work. In an ADU, the final cost depends on how far the new bathroom is from existing utility lines and whether major structural changes are needed. Existing-space conversions are often more economical.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A bathroom remodel is usually less expensive than adding a brand-new bathroom because the existing room already has plumbing connections, drainage, and a defined footprint. In ADU work, however, the comparison can change depending on whether the project is converting existing space or creating a new detached unit. If a new bathroom is close to existing plumbing lines, the cost may remain manageable. If the bathroom must be added far from utilities or requires slab cutting, trenching, or major structural changes, costs can rise quickly. Homeowners should compare the value of reusing an existing layout versus creating a new one with better function. The best answer depends on utility distance, waterproofing complexity, and how much of the project is structural versus cosmetic.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "It is usually cheaper to remodel an existing bathroom than to build a completely new one, because a new bathroom requires additional plumbing, drainage, ventila"
+}

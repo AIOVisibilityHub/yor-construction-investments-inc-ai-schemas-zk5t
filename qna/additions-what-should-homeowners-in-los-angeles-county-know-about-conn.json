@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-what-should-homeowners-in-los-angeles-county-know-about-conn",
+  "name": "Connecting New Additions to Older Foundations and Framing in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should homeowners in Los Angeles County know about connecting a new addition to an older home’s foundation and framing?",
+    "text": "What should homeowners in Los Angeles County know about connecting a new addition to an older home’s foundation and framing?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Tying a new addition into an older home in Los Angeles County involves more than simply aligning walls. Older foundations and framing were often built to earlier codes and may not provide adequate support or seismic performance for the expanded structure. Building departments typically require a licensed engineer to evaluate the existing foundation and main structural elements where they will connect to the addition. If the existing foundation is shallow, unreinforced, or deteriorated, the engineer may call for underpinning, new adjacent footings, or partial replacement to create a continuous, code-compliant system. At the framing level, added beams, posts, and shear walls may be required to carry new loads and resist lateral forces from earthquakes. The connection details—anchor bolts, straps, hold-downs, and blocking—must be carefully designed and executed so old and new sections move together under seismic events. This can be more invasive than homeowners anticipate, sometimes affecting finishes or ceilings in the existing house. Discuss these implications early with your contractor and engineer so your budget includes potential upgrades to the existing structure. Skipping this step can lead to mid-project surprises when the building department or engineer refuses to sign off without strengthening measures.",
+      "@type": "Answer",
+      "description": "Connecting a new addition to an older home in Los Angeles County usually requires structural evaluation of the existing foundation and framing. Engineers may specify new footings, piers, shear walls, or hardware to tie old and new structures together so they perform correctly under seismic loads and meet current building codes.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Tying a new addition into an older home in Los Angeles County involves more than simply aligning walls. Older foundations and framing were often built to earlier codes and may not provide adequate support or seismic performance for the expanded structure. Building departments typically require a licensed engineer to evaluate the existing foundation and main structural elements where they will connect to the addition. If the existing foundation is shallow, unreinforced, or deteriorated, the engineer may call for underpinning, new adjacent footings, or partial replacement to create a continuous, code-compliant system. At the framing level, added beams, posts, and shear walls may be required to carry new loads and resist lateral forces from earthquakes. The connection details—anchor bolts, straps, hold-downs, and blocking—must be carefully designed and executed so old and new sections move together under seismic events. This can be more invasive than homeowners anticipate, sometimes affecting finishes or ceilings in the existing house. Discuss these implications early with your contractor and engineer so your budget includes potential upgrades to the existing structure. Skipping this step can lead to mid-project surprises when the building department or engineer refuses to sign off without strengthening measures.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Connecting a new addition to an older home in Los Angeles County usually requires structural evaluation of the existing foundation and framing. Engineers may sp"
+}

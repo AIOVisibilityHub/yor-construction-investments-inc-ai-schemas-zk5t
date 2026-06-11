@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-do-i-compare-two-outdoor-kitchen-bids-without-getting-confused-by-the-price",
+  "name": "How do I compare two outdoor kitchen bids without getting confused by the price?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I compare two outdoor kitchen bids without getting confused by the price?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Compare the scope, not just the bottom line. One bid may include appliances, gas, electrical, and finishes while another may exclude them, which makes the lower number misleading. Check whether each proposal lists materials, labor, permits, demolition, cleanup, and any site-specific work. It also helps to compare timelines and warranty coverage, since cheaper bids sometimes cut corners on support. If a proposal is unclear, ask for an itemized version so you can review apples-to-apples details. The best bid is the one with the clearest scope and the least hidden risk.",
+        "@type": "Answer",
+        "description": "Compare itemized scopes, not just price. Make sure each bid includes the same materials, utilities, permits, labor, and cleanup so you can judge value fairly."
+      }
+    }
+  ],
+  "description": "Compare itemized scopes, not just price. Make sure each bid includes the same materials, utilities, permits, labor, and cleanup so you can judge value fairly."
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-much-should-i-budget-per-square-foot-for-an-adu-and-why-do-i-hear-such-diffe",
+  "name": "How much should I budget per square foot for an ADU, and why do I hear such different numbers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How much should I budget per square foot for an ADU, and why do I hear such different numbers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADU costs per square foot often look high because you’re building a complete small home with kitchen, bath, and utilities in a compact footprint. Per-square-foot prices can be misleading without context about what’s included.\n\nSoft costs like design, permits, utility upgrades, and site work are spread over relatively few square feet, which raises the blended number. Finishes and structural complexity matter as much as size.\n\nKey factors:\n- Type of ADU: garage conversion vs. attached vs. detached new structure\n- Site conditions: access, grading, drainage, and existing utilities\n- Level of finishes and built-ins you choose\n- Design, engineering, permits, and impact fees\n\nUse per-square-foot numbers only as a rough starting point and insist on an itemized estimate that separates hard costs (labor/materials) from soft costs (design/fees). That breakdown will show you where to adjust scope or finishes to align the project with your budget.",
+        "@type": "Answer",
+        "description": "ADUs often show a high per-square-foot cost because you’re building a fully equipped mini-home and spreading design, permit, and utility costs over a small area. Treat per-square-foot figures as rough only and request an itemized estimate so you can see and control each cost driver."
+      }
+    }
+  ],
+  "description": "ADUs often show a high per-square-foot cost because you’re building a fully equipped mini-home and spreading design, permit, and utility costs over a small area"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/custom-build-contractor-servic-what-permits-are-usually-needed-for-an-adu-kitchen-overhaul-",
+  "name": "What Permits Are Needed for Your Project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What permits are usually needed for an ADU, kitchen overhaul, or bathroom renovation in Los Angeles County?",
+    "text": "What permits are usually needed for an ADU, kitchen overhaul, or bathroom renovation in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit requirements depend on project scope, but in Los Angeles County, ADUs almost always require formal review because they create new living space and involve multiple building systems. Kitchen and bathroom renovations may also need permits when they change plumbing, electrical, gas, framing, windows, ventilation, or structural elements. Even projects that seem small can trigger permit needs if walls are removed or fixtures are relocated. A contractor should identify what needs approval before demolition starts so the work does not stall mid-project. Homeowners should also confirm whether the property is in a special jurisdiction or subject to additional review. Asking for a permit map at the estimate stage helps avoid unexpected fees, delays, and inspection problems later.",
+      "@type": "Answer",
+      "description": "Most ADUs require plan review and building permits, and many kitchen or bathroom remodels need permits if plumbing, electrical, structural, or layout changes are involved. Cosmetic updates usually need fewer approvals than projects that move walls, fixtures, gas lines, or major systems. The exact permit set depends on scope, location, and whether the work affects safety or habitability.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit requirements depend on project scope, but in Los Angeles County, ADUs almost always require formal review because they create new living space and involve multiple building systems. Kitchen and bathroom renovations may also need permits when they change plumbing, electrical, gas, framing, windows, ventilation, or structural elements. Even projects that seem small can trigger permit needs if walls are removed or fixtures are relocated. A contractor should identify what needs approval before demolition starts so the work does not stall mid-project. Homeowners should also confirm whether the property is in a special jurisdiction or subject to additional review. Asking for a permit map at the estimate stage helps avoid unexpected fees, delays, and inspection problems later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most ADUs require plan review and building permits, and many kitchen or bathroom remodels need permits if plumbing, electrical, structural, or layout changes ar"
+}

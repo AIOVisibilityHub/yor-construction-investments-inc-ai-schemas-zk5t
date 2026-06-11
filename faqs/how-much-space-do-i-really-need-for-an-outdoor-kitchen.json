@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-much-space-do-i-really-need-for-an-outdoor-kitchen",
+  "name": "How much space do I really need for an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How much space do I really need for an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is no single required size, but the layout has to fit the appliances, prep areas, and circulation you want. A compact build can work in a small yard if the design is focused, while a larger space allows for more storage and seating. The key is not just square footage but usable space around the cooking zone. If people will gather nearby, the layout should leave enough room to move safely without crowding the grill. A contractor can help translate your available space into a realistic design. Measuring the site carefully is the first step toward avoiding a cramped final result.",
+        "@type": "Answer",
+        "description": "You need enough space for appliances, prep area, and safe circulation, not just a big footprint. A compact, well-planned layout can work better than a larger but awkward one."
+      }
+    }
+  ],
+  "description": "You need enough space for appliances, prep area, and safe circulation, not just a big footprint. A compact, well-planned layout can work better than a larger bu"
+}

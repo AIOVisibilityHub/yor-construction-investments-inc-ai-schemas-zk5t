@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/custom-build-contractor-servic-how-do-i-compare-contractor-bids-for-an-adu-or-major-remodel",
+  "name": "How to Compare ADU and Remodel Contractor Bids",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I compare contractor bids for an ADU or major remodel when the numbers are very different?",
+    "text": "How do I compare contractor bids for an ADU or major remodel when the numbers are very different?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When contractor bids differ significantly, the total price alone is not enough to judge value. Homeowners should compare the scope breakdown to see whether each bid includes demolition, structural work, permits, utility connections, waterproofing, insulation, finishes, and inspections. Differences in allowances for cabinets, tile, fixtures, or countertops can make bids look similar when they are not. The best comparison is a scope matrix that shows exactly what each contractor included and what each excluded. It is also worth checking who is responsible for engineering coordination, permit processing, and change orders. A bid that looks cheap may leave out major items that become expensive later, while a more complete bid can be more predictable overall.",
+      "@type": "Answer",
+      "description": "Compare bids line by line, not just by total price. Check scope, allowances, exclusions, permit fees, engineering, site work, fixtures, finishes, and cleanup so you can see what is actually included. A lower bid may omit critical work, while a higher bid may include more complete planning and fewer surprises.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When contractor bids differ significantly, the total price alone is not enough to judge value. Homeowners should compare the scope breakdown to see whether each bid includes demolition, structural work, permits, utility connections, waterproofing, insulation, finishes, and inspections. Differences in allowances for cabinets, tile, fixtures, or countertops can make bids look similar when they are not. The best comparison is a scope matrix that shows exactly what each contractor included and what each excluded. It is also worth checking who is responsible for engineering coordination, permit processing, and change orders. A bid that looks cheap may leave out major items that become expensive later, while a more complete bid can be more predictable overall.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare bids line by line, not just by total price. Check scope, allowances, exclusions, permit fees, engineering, site work, fixtures, finishes, and cleanup so"
+}

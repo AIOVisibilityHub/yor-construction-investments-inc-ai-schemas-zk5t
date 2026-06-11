@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/is-seismic-retrofitting-mandatory-for-my-building-in-los-angeles-county-or-is-it",
+  "name": "Is seismic retrofitting mandatory for my building in Los Angeles County, or is it still optional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is seismic retrofitting mandatory for my building in Los Angeles County, or is it still optional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER: Whether seismic retrofitting is mandatory depends on your building type and jurisdiction; some LA cities require retrofits for soft-story, non-ductile concrete, and certain vulnerable buildings, while others remain voluntary but strongly recommended.\n\nCONTEXT: Los Angeles city and several nearby jurisdictions have specific retrofit ordinances for high-risk building types. LA County has also moved toward mandating retrofits for certain high-rise non-ductile concrete buildings, with long compliance timelines.\n\nKEY FACTORS:\n- Location: City of Los Angeles vs. other cities vs. unincorporated County.\n- Building type: soft-story apartments, non-ductile concrete, URM masonry, etc.\n- Occupancy: residential, commercial, public.\n- Any official compliance notices or city letters you’ve received.\n\nPRACTICAL GUIDANCE: Call your local building department with your address and ask if your structure falls under a seismic retrofit ordinance. Keep any official notices and deadlines organized, and get professional help if you’re unsure how to interpret them.\n\nSOFT POSITIONING: A contractor experienced with LA-area ordinances can quickly tell you if your building is likely subject to mandatory retrofit rules.",
+        "@type": "Answer",
+        "description": "In Los Angeles County, seismic retrofitting is mandatory only for certain building types under specific city or county ordinances (like some soft‑story or non‑ductile concrete buildings). For many single‑family homes it’s still voluntary but highly recommended. Confirm with your local building department using your exact address and building type."
+      }
+    }
+  ],
+  "description": "In Los Angeles County, seismic retrofitting is mandatory only for certain building types under specific city or county ordinances (like some soft‑story or non‑d"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/are-there-any-special-adu-rules-i-should-know-about-if-my-property-is-in-the-cit",
+  "name": "Are there any special ADU rules I should know about if my property is in the city of Los Angeles versus unincorporated LA County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Are there any special ADU rules I should know about if my property is in the city of Los Angeles versus unincorporated LA County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, the **city of Los Angeles and unincorporated Los Angeles County have different ADU ordinances**, even though both must follow state law. Details on size, height, parking, and process can differ.\n\nYour address determines which agency controls your project, so the first step is confirming whether you’re inside city limits or in unincorporated territory. From there, you can pull the correct ADU standards.\n\nKey factors:\n- Different planning departments, submittal portals, and forms\n- Slightly different rules on maximum size, height, and setbacks\n- Varying parking and replacement‑parking requirements\n- Different plan check timelines and fee structures\n\nUse your Assessor’s Parcel Number (APN) or local GIS tools to confirm jurisdiction before you start design. Never assume that a rule you read for “LA ADUs” applies everywhere in the county.\n\nADU professionals operating county‑wide will know how your jurisdiction’s rules differ and design accordingly.",
+        "@type": "Answer",
+        "description": "Yes. The city of Los Angeles and unincorporated Los Angeles County each have their own ADU ordinance, application process, and detailed standards, even though both follow state law. Confirm which jurisdiction your property falls under first, then follow that agency’s specific rules on size, height, parking, and permits."
+      }
+    }
+  ],
+  "description": "Yes. The city of Los Angeles and unincorporated Los Angeles County each have their own ADU ordinance, application process, and detailed standards, even though b"
+}

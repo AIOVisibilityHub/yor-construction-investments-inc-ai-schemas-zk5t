@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-are-the-biggest-risks-and-things-that-can-go-wrong-with-adu-construction",
+  "name": "What are the biggest risks and things that can go wrong with ADU construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What are the biggest risks and things that can go wrong with ADU construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest ADU risks are **cost overruns, delays, design/permit mistakes, and contractor issues**. Most horror stories trace back to rushed planning or unclear scopes.\n\nADUs are small but complex, with nearly all the systems of a full house crammed into a tight footprint. A small oversight in plans or permitting can create outsized delays or change orders.\n\nKey factors:\n- Underestimating total cost or skipping contingency\n- Incomplete plans that trigger repeated plan check corrections\n- Hidden site conditions (sewer depth, soil issues, utilities)\n- Unlicensed or under‑qualified contractors and poor contracts\n\nProtect yourself by getting detailed, stamped plans; a fixed‑scope, well‑written construction contract; and a realistic budget with a 10–20% contingency. Check licensing, insurance, and references before signing anything.\n\nExperienced ADU builders anticipate typical pitfalls and design your project to avoid surprises in the field.",
+        "@type": "Answer",
+        "description": "ADU projects most often go wrong through cost overruns, schedule delays, permit problems, and contractor issues. Avoid this by having complete, code‑compliant plans, a realistic budget with contingency, clear written scopes, and a vetted, licensed contractor who’s built ADUs before—not just general remodels."
+      }
+    }
+  ],
+  "description": "ADU projects most often go wrong through cost overruns, schedule delays, permit problems, and contractor issues. Avoid this by having complete, code‑compliant p"
+}

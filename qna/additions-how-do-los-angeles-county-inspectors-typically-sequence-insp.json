@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-how-do-los-angeles-county-inspectors-typically-sequence-insp",
+  "name": "Inspection Sequence and Common Failures for Home Additions in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do Los Angeles County inspectors typically sequence inspections for a home addition, and what causes the most common failures?",
+    "text": "How do Los Angeles County inspectors typically sequence inspections for a home addition, and what causes the most common failures?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The inspection process for a home addition in Los Angeles County follows a structured sequence, but homeowners rarely receive a practical overview. After permits are issued and work begins, inspectors typically first check footing and foundation work, including excavations, forms, reinforcement, and anchor bolts before concrete is poured. Underground plumbing or electrical conduits may be inspected at this stage as well. Once the structure is framed, a combined framing and rough mechanical, electrical, and plumbing (MEP) inspection is scheduled. Inspectors look for correct beam sizes, proper joist and stud spacing, required hold-downs and straps, and compliant rough wiring, outlets, and plumbing runs. Insulation and, in some jurisdictions, shear wall nailing and exterior lath require separate visits before drywall and finishes conceal the work. Final inspection confirms that the addition matches approved plans, all outlets, fixtures, and smoke/CO detectors function, and safety items like handrails and tempered glass are correctly installed. Common failures include missing or improperly installed hold-downs and straps, incorrect nailing patterns on shear walls, field changes that don’t match the approved plans, incomplete rough MEP work at the time of inspection, and lack of access or safety at the jobsite. To reduce re-inspections, contractors should have a complete set of stamped approved plans onsite and ensure all work for that stage is ready before the inspector arrives.",
+      "@type": "Answer",
+      "description": "Los Angeles County home additions usually require sequential inspections for footing/foundation, underground utilities, framing and rough MEP, insulation, lath or shear, and final. Failures often stem from missing straps or anchors, improper nailing patterns, unapproved field changes, incomplete rough plumbing or electrical, and deviations from the approved plans without documented revisions.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The inspection process for a home addition in Los Angeles County follows a structured sequence, but homeowners rarely receive a practical overview. After permits are issued and work begins, inspectors typically first check footing and foundation work, including excavations, forms, reinforcement, and anchor bolts before concrete is poured. Underground plumbing or electrical conduits may be inspected at this stage as well. Once the structure is framed, a combined framing and rough mechanical, electrical, and plumbing (MEP) inspection is scheduled. Inspectors look for correct beam sizes, proper joist and stud spacing, required hold-downs and straps, and compliant rough wiring, outlets, and plumbing runs. Insulation and, in some jurisdictions, shear wall nailing and exterior lath require separate visits before drywall and finishes conceal the work. Final inspection confirms that the addition matches approved plans, all outlets, fixtures, and smoke/CO detectors function, and safety items like handrails and tempered glass are correctly installed. Common failures include missing or improperly installed hold-downs and straps, incorrect nailing patterns on shear walls, field changes that don’t match the approved plans, incomplete rough MEP work at the time of inspection, and lack of access or safety at the jobsite. To reduce re-inspections, contractors should have a complete set of stamped approved plans onsite and ensure all work for that stage is ready before the inspector arrives.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Los Angeles County home additions usually require sequential inspections for footing/foundation, underground utilities, framing and rough MEP, insulation, lath "
+}

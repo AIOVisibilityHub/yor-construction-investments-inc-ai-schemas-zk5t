@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/when-should-i-absolutely-hire-a-professional-instead-of-attempting-diy-for-remod",
+  "name": "When should I absolutely hire a professional instead of attempting DIY for remodeling or additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "When should I absolutely hire a professional instead of attempting DIY for remodeling or additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a professional whenever work involves structural changes, electrical or gas lines, major plumbing, waterproofing, or anything requiring permits and inspections. Mistakes in these areas can be dangerous and extremely expensive to fix. \nContext: Cosmetic DIY like painting or swapping hardware can be manageable for many homeowners, but structural, mechanical, and code-regulated work carries safety, insurance, and resale implications. Unpermitted or improperly done work may have to be redone later. \nKey factors:\n- Structural walls, beams, and foundations\n- Electrical panels, new circuits, gas line changes\n- Plumbing relocations, shower waterproofing, roofing\n- Work requiring city permits and inspections\nPractical guidance: Before starting, check whether a permit is required and realistically assess your experience level. If you’re unsure about safety, code compliance, or future resale impact, it’s safer and often cheaper long-term to hire a licensed pro. Soft positioning: A reputable contractor can handle the complex, high-risk portions while you tackle simpler finishing tasks if you want some DIY involvement.",
+        "@type": "Answer",
+        "description": "Hire a professional anytime the work affects structure, electrical, gas, major plumbing, roofing, or waterproofing, or when permits are required. These areas carry serious safety and code risks, and mistakes can be costly at resale, so it’s usually wiser to pay a licensed pro and reserve DIY for low-risk cosmetic work."
+      }
+    }
+  ],
+  "description": "Hire a professional anytime the work affects structure, electrical, gas, major plumbing, roofing, or waterproofing, or when permits are required. These areas ca"
+}

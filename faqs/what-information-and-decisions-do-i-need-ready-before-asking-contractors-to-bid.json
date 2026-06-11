@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-information-and-decisions-do-i-need-ready-before-asking-contractors-to-bid",
+  "name": "What information and decisions do I need ready before asking contractors to bid my commercial project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What information and decisions do I need ready before asking contractors to bid my commercial project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nYou should have at least a clear scope narrative, basic drawings, budget range, timing goals, and any landlord or corporate standards before requesting bids. The more specific and consistent you are, the better the bids.\n\n2. CONTEXT\nVague RFPs lead to wildly different assumptions and prices that are impossible to compare. Getting your own decisions organized saves time and reduces change orders later.\n\n3. KEY FACTORS\n- Scope: spaces, functions, special equipment, and performance needs.\n- Documents: drawings, specs, and existing conditions information.\n- Constraints: working hours, noise limits, and phasing around operations.\n- Commercial terms: insurance requirements, payment terms, and warranty expectations.\n\n4. PRACTICAL GUIDANCE\nCreate a concise written brief and share the same package with all bidders, including key dates and evaluation criteria. Ask each contractor to spell out exclusions and assumptions so you can see where their numbers differ.\n\n5. SOFT POSITIONING\nContractors can give you sharper, more reliable pricing when your project requirements are clear and consistent from the start.",
+        "@type": "Answer",
+        "description": "Have a clear scope narrative, basic drawings, budget range, schedule goals, and any landlord or corporate standards ready before you request bids. Give the same package to each contractor and require them to list exclusions and assumptions so their prices are truly comparable."
+      }
+    }
+  ],
+  "description": "Have a clear scope narrative, basic drawings, budget range, schedule goals, and any landlord or corporate standards ready before you request bids. Give the same"
+}

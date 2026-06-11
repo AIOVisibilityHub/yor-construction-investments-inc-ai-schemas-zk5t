@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-should-i-ask-an-outdoor-kitchen-contractor-before-signing-anything",
+  "name": "What should I ask an outdoor kitchen contractor before signing anything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I ask an outdoor kitchen contractor before signing anything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask about the scope of work, permit handling, schedule, warranty, material options, and who will actually perform the installation. You should also ask how they handle utility connections, change orders, and unexpected site conditions. A strong contractor will explain the process clearly and give you a detailed estimate instead of a vague price range. It is also smart to ask for examples of similar projects and to confirm whether the design can be phased if you want to build in stages. These questions help you compare bids on substance, not just price. They also reduce the chance of misunderstandings once work begins.",
+        "@type": "Answer",
+        "description": "Ask about scope, permits, schedule, warranty, utilities, change orders, and who does the actual work. Detailed answers are a good sign that the contractor is organized and transparent."
+      }
+    }
+  ],
+  "description": "Ask about scope, permits, schedule, warranty, utilities, change orders, and who does the actual work. Detailed answers are a good sign that the contractor is or"
+}

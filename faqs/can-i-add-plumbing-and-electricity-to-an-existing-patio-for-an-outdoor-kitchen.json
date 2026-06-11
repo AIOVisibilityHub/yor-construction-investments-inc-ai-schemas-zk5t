@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/can-i-add-plumbing-and-electricity-to-an-existing-patio-for-an-outdoor-kitchen",
+  "name": "Can I add plumbing and electricity to an existing patio for an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I add plumbing and electricity to an existing patio for an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but it usually requires careful planning and may involve permits, trenching, or access to existing utility lines. The complexity depends on how far the patio is from service connections and whether the site allows for clean routing. Adding water and power can greatly improve functionality, but it also increases cost and coordination. A contractor should evaluate the site before you commit to appliance choices or cabinet layouts. In some cases, the utility work may influence where the kitchen can realistically go. Early site review prevents unrealistic designs and avoids costly surprises.",
+        "@type": "Answer",
+        "description": "Yes, but adding plumbing and electricity often requires permits, utility routing, and site-specific planning. Have the location evaluated before finalizing the design."
+      }
+    }
+  ],
+  "description": "Yes, but adding plumbing and electricity often requires permits, utility routing, and site-specific planning. Have the location evaluated before finalizing the"
+}

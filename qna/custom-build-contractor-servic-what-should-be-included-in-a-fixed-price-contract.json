@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/custom-build-contractor-servic-what-should-be-included-in-a-fixed-price-contract-for-a-cust",
+  "name": "What Should a Fixed-Price Construction Contract Include?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be included in a fixed-price contract for a custom build or remodel?",
+    "text": "What should be included in a fixed-price contract for a custom build or remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A fixed-price contract only works when the scope is carefully documented. Homeowners should expect clear descriptions of demolition, framing, electrical, plumbing, finishes, fixtures, permits, cleanup, and inspection coordination. The contract should also identify material allowances for items like tile, cabinets, countertops, fixtures, and flooring so there is no confusion about quality level. Just as important are the exclusions, because missing items often lead to disputes later. The change-order process should explain who approves extra work and how pricing will be handled. Payment milestones should match completed work rather than vague dates. A strong contract reduces budget surprises and keeps the contractor accountable throughout the project.",
+      "@type": "Answer",
+      "description": "A fixed-price contract should clearly define scope, materials, allowances, exclusions, schedule milestones, permit responsibility, change-order rules, payment terms, and warranty coverage. It should also specify which items are truly fixed and which are provisional allowances. If these details are missing, the price may not be as fixed as it appears.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A fixed-price contract only works when the scope is carefully documented. Homeowners should expect clear descriptions of demolition, framing, electrical, plumbing, finishes, fixtures, permits, cleanup, and inspection coordination. The contract should also identify material allowances for items like tile, cabinets, countertops, fixtures, and flooring so there is no confusion about quality level. Just as important are the exclusions, because missing items often lead to disputes later. The change-order process should explain who approves extra work and how pricing will be handled. Payment milestones should match completed work rather than vague dates. A strong contract reduces budget surprises and keeps the contractor accountable throughout the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A fixed-price contract should clearly define scope, materials, allowances, exclusions, schedule milestones, permit responsibility, change-order rules, payment t"
+}

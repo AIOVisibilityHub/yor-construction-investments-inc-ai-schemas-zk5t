@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/is-it-okay-to-roof-over-existing-shingles-or-should-i-insist-on-a-full-tear-off",
+  "name": "Is it okay to roof over existing shingles, or should I insist on a full tear-off?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is it okay to roof over existing shingles, or should I insist on a full tear-off?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While building codes sometimes allow **one additional layer** of shingles, a **full tear-off** is usually the better long-term choice. Tear-offs expose hidden damage, let you replace underlayment, and often improve appearance and lifespan.\n\nLayering new shingles over old ones can trap heat and moisture, add unnecessary weight, and hide problems in the decking. It also makes future repairs more difficult and can void some warranties.\n\nKey factors:\n- Current number of layers and their condition\n- Roof structure’s ability to handle added weight\n- Local code limits and fire rating requirements\n- Manufacturer warranty rules\n\nAsk your roofer to explain building code rules for your home and show you what they find once they start removing material. In most cases, paying a bit more now for a proper tear-off saves money and trouble over the life of the roof.",
+        "@type": "Answer",
+        "description": "Although a second shingle layer is sometimes allowed, a full tear-off is usually the smarter option. Removing the old roof exposes hidden damage, lets you replace underlayment and flashing properly, and avoids extra weight and moisture trapping that can shorten your new roof’s lifespan."
+      }
+    }
+  ],
+  "description": "Although a second shingle layer is sometimes allowed, a full tear-off is usually the smarter option. Removing the old roof exposes hidden damage, lets you repla"
+}

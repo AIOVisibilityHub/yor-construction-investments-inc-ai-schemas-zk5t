@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-do-i-know-if-my-los-angeles-house-actually-needs-seismic-retrofitting-or-if",
+  "name": "How do I know if my Los Angeles house actually needs seismic retrofitting, or if it’s just a “nice to have” upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if my Los Angeles house actually needs seismic retrofitting, or if it’s just a “nice to have” upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER: In Los Angeles, your home likely *needs* seismic retrofitting if it was built before modern seismic codes (roughly before 1980) or shows structural vulnerabilities like cripple walls, soft-story ground floors, or unbolted foundations.\n\nCONTEXT: LA County is in a high seismic zone, and many older homes were never designed for today’s expected shaking levels. Retrofitting focuses on keeping the structure from sliding off its foundation or collapsing in a strong quake.\n\nKEY FACTORS:\n- Year built (pre-1980 is higher risk).\n- Type of construction (raised foundation, soft-story, hillside, masonry).\n- Visible issues: unbolted sill plates, weak garage openings, tall cripple walls.\n- Any prior retrofit or structural upgrades documented.\n\nPRACTICAL GUIDANCE: Start with a seismic evaluation by a qualified structural engineer or retrofit contractor who knows LA codes. Ask for a written report that prioritizes risk items by urgency and cost. Use that to plan a phased retrofit if budget is tight.\n\nSOFT POSITIONING: A local seismic specialist can quickly assess whether retrofitting is essential for your specific Los Angeles property.",
+        "@type": "Answer",
+        "description": "In Los Angeles, a home likely *needs* seismic retrofitting if it was built before about 1980, sits on a raised foundation, has a soft or open ground floor, or isn’t bolted to the foundation. Have a local structural engineer or retrofit contractor inspect it and provide a written risk and priority report."
+      }
+    }
+  ],
+  "description": "In Los Angeles, a home likely *needs* seismic retrofitting if it was built before about 1980, sits on a raised foundation, has a soft or open ground floor, or i"
+}

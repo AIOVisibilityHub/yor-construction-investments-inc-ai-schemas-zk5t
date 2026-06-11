@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-are-the-basic-eligibility-rules-for-building-an-adu-on-my-property-in-los-a",
+  "name": "What are the basic eligibility rules for building an ADU on my property in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What are the basic eligibility rules for building an ADU on my property in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most single-family and many multifamily lots in Los Angeles County can build at least one ADU if they meet state and local requirements, but size, height, and placement are regulated. You must also comply with setbacks, access, and utility rules. \nContext: California’s ADU laws are relatively permissive, yet each jurisdiction adds its own development standards. Key questions include where on the lot the ADU can sit, how big it can be, and how it connects to utilities and fire access. \nKey factors:\n- Zoning classification and whether ADUs are allowed by right\n- Maximum ADU size, height limits, and lot coverage\n- Setbacks from property lines and existing structures\n- Parking rules, utility connections, and any fire-safety requirements\nPractical guidance: Ask your contractor or designer to check your specific city’s ADU ordinance and your parcel’s zoning before serious design work. Provide your site plan or survey if you have one so they can flag constraints early. Soft positioning: An ADU-savvy builder can quickly assess feasibility and suggest configurations that work within local rules.",
+        "@type": "Answer",
+        "description": "In Los Angeles County, most single-family and many multifamily lots can support at least one ADU, but you must follow local limits on size, height, setbacks, lot coverage, and utilities. Have a professional review your parcel’s zoning and your city’s current ADU ordinance early to confirm what’s allowed on your specific property."
+      }
+    }
+  ],
+  "description": "In Los Angeles County, most single-family and many multifamily lots can support at least one ADU, but you must follow local limits on size, height, setbacks, lo"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/do-i-need-a-permit-for-an-outdoor-kitchen-in-california",
+  "name": "Do I need a permit for an outdoor kitchen in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for an outdoor kitchen in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many outdoor kitchen projects do require permits, especially when they involve gas lines, electrical work, plumbing, or a covered structure. The permit need depends on what is being installed and how the project connects to existing utilities. A contractor should review the scope early so you do not run into delays after construction has started. Permit requirements can also affect design choices, placement, and timeline. If your build is simple and mostly freestanding, the process may be easier, but utility connections still need careful review. The safest approach is to confirm permit needs before ordering appliances or beginning demolition.",
+        "@type": "Answer",
+        "description": "Yes, many outdoor kitchens need permits if they involve gas, electrical, plumbing, or structures. Confirm permit requirements before work starts so the project does not get delayed."
+      }
+    }
+  ],
+  "description": "Yes, many outdoor kitchens need permits if they involve gas, electrical, plumbing, or structures. Confirm permit requirements before work starts so the project"
+}

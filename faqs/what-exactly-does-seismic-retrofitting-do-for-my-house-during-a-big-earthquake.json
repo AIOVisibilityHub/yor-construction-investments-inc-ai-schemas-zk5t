@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-exactly-does-seismic-retrofitting-do-for-my-house-during-a-big-earthquake",
+  "name": "What exactly does seismic retrofitting do for my house during a big earthquake?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What exactly does seismic retrofitting do for my house during a big earthquake?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER: Seismic retrofitting does not make your home “earthquake-proof,” but it dramatically reduces the chance of collapse, severe structural damage, and loss of life.\n\nCONTEXT: A retrofit strengthens the load path between roof, walls, and foundation so the building moves as one unit instead of tearing apart at weak connections. The goal is life safety and damage reduction, not perfection.\n\nKEY FACTORS:\n- Adds anchor bolts and hold-downs to keep the house on its foundation.\n- Stiffens weak areas (cripple walls, soft-story openings) with plywood or steel.\n- Ties roof, floors, and walls together so forces can redistribute.\n- May upgrade chimneys, water heaters, and utilities to reduce secondary damage.\n\nPRACTICAL GUIDANCE: Ask your contractor to explain, in plain language, how each retrofit component helps in shaking. Request before/after diagrams so you understand how forces will travel through the structure.\n\nSOFT POSITIONING: A well-designed retrofit focuses on preventing catastrophic failure, which is the most important safety outcome in a major quake.",
+        "@type": "Answer",
+        "description": "Seismic retrofitting doesn’t make a building earthquake-proof; it makes it much less likely to slide off its foundation, partially collapse, or suffer catastrophic structural damage. It strengthens connections between foundation, walls, and roof so the structure moves together instead of tearing apart during strong shaking."
+      }
+    }
+  ],
+  "description": "Seismic retrofitting doesn’t make a building earthquake-proof; it makes it much less likely to slide off its foundation, partially collapse, or suffer catastrop"
+}

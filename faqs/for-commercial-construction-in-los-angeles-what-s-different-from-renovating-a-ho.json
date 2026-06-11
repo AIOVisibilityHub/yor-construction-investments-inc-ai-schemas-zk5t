@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/for-commercial-construction-in-los-angeles-what-s-different-from-renovating-a-ho",
+  "name": "For commercial construction in Los Angeles, what’s different from renovating a house that I should be aware of?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "For commercial construction in Los Angeles, what’s different from renovating a house that I should be aware of?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial construction in Los Angeles typically involves stricter code requirements, more complex permitting, and additional reviews for accessibility, fire-life safety, and sometimes planning approvals. Timelines and soft costs are usually higher than comparable residential work.\n\nYou also need to consider tenant operations, business downtime, and inspection sequencing with the local building department. Coordination with landlords, neighboring tenants, and utility providers can be a major factor.\n\nKey factors:\n- Occupancy type (office, retail, restaurant, medical, etc.) and associated code requirements\n- Accessibility (ADA) compliance, including restrooms, entries, and paths of travel\n- Fire-life safety systems, sprinklers, and exiting requirements\n- Plan check, health department, and other agency reviews\n\nEngage a design and construction team with specific Los Angeles commercial experience and ask for a permit and inspection roadmap upfront. That roadmap will help you understand critical path items that affect when you can open or resume full operations.",
+        "@type": "Answer",
+        "description": "Commercial projects in Los Angeles face stricter codes, more complex permits, and additional reviews for accessibility and fire-life safety compared with homes. Soft costs and timelines are higher, and business operations must be coordinated. Use a team experienced with LA commercial permitting and ask for a clear approval roadmap."
+      }
+    }
+  ],
+  "description": "Commercial projects in Los Angeles face stricter codes, more complex permits, and additional reviews for accessibility and fire-life safety compared with homes."
+}

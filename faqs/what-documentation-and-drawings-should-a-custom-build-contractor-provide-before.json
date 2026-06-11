@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-documentation-and-drawings-should-a-custom-build-contractor-provide-before",
+  "name": "What documentation and drawings should a custom build contractor provide before I sign anything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What documentation and drawings should a custom build contractor provide before I sign anything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER\nYou should see dimensioned plans, a written scope of work, specifications or allowances for major materials, a payment schedule, and contract terms covering changes, warranties, and timelines.\n\nCONTEXT\nVague one‑page proposals invite misunderstandings and disputes. Good documentation protects both you and the contractor by clarifying expectations.\n\nKEY FACTORS\n- Floor plans, elevations, and any structural/engineering sheets as needed.\n- Written description of work by area (demo, framing, finishes, mechanicals).\n- Inclusions and exclusions, plus allowances for items not yet selected.\n- Schedule outline, payment milestones, and warranty details.\n\nPRACTICAL GUIDANCE\nAsk the contractor to walk you through each document line by line and clarify anything unclear before you sign. If something you care about isn’t written down, request that it be added to the scope or specifications.\n\nSOFT POSITIONING\nProfessional contractors rely on comprehensive documentation to deliver predictable results and maintain a good working relationship.",
+        "@type": "Answer",
+        "description": "Before signing, expect dimensioned plans, a detailed written scope, clear inclusions/exclusions, material specs or allowances, a payment schedule, and terms for change orders, timelines, and warranties. If it matters to you, make sure it’s spelled out in writing."
+      }
+    }
+  ],
+  "description": "Before signing, expect dimensioned plans, a detailed written scope, clear inclusions/exclusions, material specs or allowances, a payment schedule, and terms for"
+}

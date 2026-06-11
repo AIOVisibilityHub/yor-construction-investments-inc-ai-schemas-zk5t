@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/custom-build-contractor-servic-what-makes-an-adu-project-more-expensive-than-a-standard-roo",
+  "name": "Why Can an ADU Cost More Than a Room Addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What makes an ADU project more expensive than a standard room addition?",
+    "text": "What makes an ADU project more expensive than a standard room addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An ADU often costs more than a standard room addition because it is not just extra square footage; it is a separate living unit with its own functional requirements. That usually means more plumbing, more electrical work, a kitchen, a bathroom, energy-related compliance items, and more detailed permit review. If the unit needs separate access or utility coordination, the cost rises further. A room addition that simply enlarges the main house may be less complex because it does not have to operate independently. Homeowners should compare the long-term benefits of rental income or multigenerational use against the added construction and approval costs. A contractor who understands both project types can help determine which option better fits the property and budget.",
+      "@type": "Answer",
+      "description": "An ADU can cost more because it must function as a separate living unit, which often adds kitchen, bathroom, utility, and code-related requirements. Separate access, plumbing, electrical, energy compliance, and permitting can all increase complexity. A room addition may be simpler if it only expands the main house without creating a full independent unit.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An ADU often costs more than a standard room addition because it is not just extra square footage; it is a separate living unit with its own functional requirements. That usually means more plumbing, more electrical work, a kitchen, a bathroom, energy-related compliance items, and more detailed permit review. If the unit needs separate access or utility coordination, the cost rises further. A room addition that simply enlarges the main house may be less complex because it does not have to operate independently. Homeowners should compare the long-term benefits of rental income or multigenerational use against the added construction and approval costs. A contractor who understands both project types can help determine which option better fits the property and budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An ADU can cost more because it must function as a separate living unit, which often adds kitchen, bathroom, utility, and code-related requirements. Separate ac"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-how-do-los-angeles-county-energy-and-title-24-requirements-a",
+  "name": "Impact of Title 24 on Windows and Insulation in Los Angeles County Additions",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do Los Angeles County energy and Title 24 requirements affect window choices and insulation in a home addition?",
+    "text": "How do Los Angeles County energy and Title 24 requirements affect window choices and insulation in a home addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "California’s energy code, often referred to as Title 24, directly shapes design decisions for home additions in Los Angeles County. Additions must meet current energy standards, even if the existing home predates those requirements. This affects window selection, insulation levels, and sometimes lighting and HVAC equipment. Windows in the new addition typically must meet maximum U-factor and solar heat gain coefficient (SHGC) values, which generally rules out single-pane units and many low-cost products. High-performance dual-pane or better glazing becomes the norm, which may raise upfront costs but improves comfort and efficiency. The proportion of window area to wall area is also limited to keep heat loss and gain within acceptable bounds. Title 24 also dictates minimum R-values for wall, floor, and attic insulation in the added space. Air sealing around penetrations, recessed lights, and ducts is emphasized to reduce leakage. Depending on the scope, you may need to show that the HVAC system is properly sized for the expanded conditioned area and that ducts meet efficiency standards. Because energy compliance is verified in documentation and sometimes field testing, coordinate early with your designer or energy consultant. Choosing noncompliant windows or insulation during design can lead to last-minute changes, cost increases, or permit delays when the energy calculations are reviewed.",
+      "@type": "Answer",
+      "description": "Energy and Title 24 rules in Los Angeles County require home additions to meet specific insulation values, window performance (U-factor and solar heat gain), and sometimes lighting and HVAC standards. These rules often limit cheaper single-pane windows and thin insulation, pushing homeowners toward higher-performance glazing, proper air sealing, and adequate attic and wall insulation.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "California’s energy code, often referred to as Title 24, directly shapes design decisions for home additions in Los Angeles County. Additions must meet current energy standards, even if the existing home predates those requirements. This affects window selection, insulation levels, and sometimes lighting and HVAC equipment. Windows in the new addition typically must meet maximum U-factor and solar heat gain coefficient (SHGC) values, which generally rules out single-pane units and many low-cost products. High-performance dual-pane or better glazing becomes the norm, which may raise upfront costs but improves comfort and efficiency. The proportion of window area to wall area is also limited to keep heat loss and gain within acceptable bounds. Title 24 also dictates minimum R-values for wall, floor, and attic insulation in the added space. Air sealing around penetrations, recessed lights, and ducts is emphasized to reduce leakage. Depending on the scope, you may need to show that the HVAC system is properly sized for the expanded conditioned area and that ducts meet efficiency standards. Because energy compliance is verified in documentation and sometimes field testing, coordinate early with your designer or energy consultant. Choosing noncompliant windows or insulation during design can lead to last-minute changes, cost increases, or permit delays when the energy calculations are reviewed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Energy and Title 24 rules in Los Angeles County require home additions to meet specific insulation values, window performance (U-factor and solar heat gain), an"
+}

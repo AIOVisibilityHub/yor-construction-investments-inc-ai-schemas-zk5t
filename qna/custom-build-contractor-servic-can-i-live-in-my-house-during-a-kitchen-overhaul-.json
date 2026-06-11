@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/custom-build-contractor-servic-can-i-live-in-my-house-during-a-kitchen-overhaul-or-bathroom",
+  "name": "Can You Live in the House During a Remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I live in my house during a kitchen overhaul or bathroom remodel?",
+    "text": "Can I live in my house during a kitchen overhaul or bathroom remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether you can stay in the house during a remodel depends on project scope and your tolerance for disruption. A single bathroom update may be manageable if another bathroom remains available, but a full kitchen overhaul can make daily living difficult because meal prep, refrigeration, and cleanup become complicated. Dust containment, noise, temporary utility shutdowns, and material staging also affect livability. For larger remodels or ADU builds tied to the main house, some homeowners choose to move out temporarily to reduce stress and keep the project moving efficiently. A contractor should explain the expected downtime for water, power, and kitchen access so you can decide early whether to stay or relocate.",
+      "@type": "Answer",
+      "description": "Many homeowners can stay in the house during a remodel, but it depends on the size of the project, how many bathrooms remain usable, how much dust and noise will be generated, and whether water or electricity will be shut off. Larger projects or whole-home updates are much harder to live through safely and comfortably.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether you can stay in the house during a remodel depends on project scope and your tolerance for disruption. A single bathroom update may be manageable if another bathroom remains available, but a full kitchen overhaul can make daily living difficult because meal prep, refrigeration, and cleanup become complicated. Dust containment, noise, temporary utility shutdowns, and material staging also affect livability. For larger remodels or ADU builds tied to the main house, some homeowners choose to move out temporarily to reduce stress and keep the project moving efficiently. A contractor should explain the expected downtime for water, power, and kitchen access so you can decide early whether to stay or relocate.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Many homeowners can stay in the house during a remodel, but it depends on the size of the project, how many bathrooms remain usable, how much dust and noise wil"
+}

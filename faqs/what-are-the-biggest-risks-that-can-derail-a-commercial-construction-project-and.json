@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-are-the-biggest-risks-that-can-derail-a-commercial-construction-project-and",
+  "name": "What are the biggest risks that can derail a commercial construction project, and how do I avoid them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What are the biggest risks that can derail a commercial construction project, and how do I avoid them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nThe biggest risks are unclear scope, incomplete design, underestimating permitting, and picking a contractor on price alone. These usually show up later as change orders, delays, and disputes.\n\n2. CONTEXT\nMost serious problems are predictable early if someone looks closely at drawings, approvals, and budget alignment. Owners who rush into construction without this alignment are more vulnerable to \"surprises.\"\n\n3. KEY FACTORS\n- Incomplete plans: missing details lead to field changes and cost increases.\n- Approvals: zoning, fire, or health requirements discovered late.\n- Cash flow: insufficient contingency for unknowns and price volatility.\n- Communication: unclear decision-making and slow responses.\n\n4. PRACTICAL GUIDANCE\nInvest in thorough preconstruction: design coordination, constructability review, and realistic cost/schedule modeling. Require written RFIs, change-order logs, and frequent update meetings so issues surface early and are documented.\n\n5. SOFT POSITIONING\nA risk-aware commercial builder will push for detailed upfront planning and transparent communication, not just a fast start date.",
+        "@type": "Answer",
+        "description": "Major risks in commercial construction include unclear scope, incomplete plans, permitting surprises, and choosing a contractor on price alone. Reduce them by investing in preconstruction planning, realistic budgeting with contingency, and structured communication so design, approvals, and costs are aligned before work starts."
+      }
+    }
+  ],
+  "description": "Major risks in commercial construction include unclear scope, incomplete plans, permitting surprises, and choosing a contractor on price alone. Reduce them by i"
+}

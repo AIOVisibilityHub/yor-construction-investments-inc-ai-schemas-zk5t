@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-permits-do-i-actually-need-for-a-kitchen-or-bathroom-remodel-and-what-happe",
+  "name": "What permits do I actually need for a kitchen or bathroom remodel, and what happens if I skip them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What permits do I actually need for a kitchen or bathroom remodel, and what happens if I skip them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most kitchen and bathroom remodels that alter plumbing, electrical, or structure require building permits and inspections, even if the layout seems minor. Skipping permits can create problems with insurance, resale, and safety—and can lead to fines or required tear-outs if discovered.\n\nPermitting may feel slow, but it enforces minimum safety standards for wiring, ventilation, waterproofing, and structural work. Future buyers and inspectors often look for evidence that work was permitted.\n\nKey factors:\n- Scope: new plumbing/electrical circuits, structural changes, or window/door modifications\n- Local building code and whether you’re in a multifamily or single-family property\n- HOA or condo association approval where applicable\n- Possible need for separate electrical, plumbing, and mechanical permits\n\nBefore starting, ask your contractor to specify which permits are required and who will pull them. If you’re unsure whether past work was permitted, consider proactive inspections or corrective permits to avoid surprises during sale or refinancing.",
+        "@type": "Answer",
+        "description": "If your kitchen or bath remodel involves plumbing, electrical, or structural changes, you almost always need permits and inspections. Skipping them can cause insurance, safety, and resale issues and may lead to fines or forced corrections later. Always confirm required permits with your contractor before starting."
+      }
+    }
+  ],
+  "description": "If your kitchen or bath remodel involves plumbing, electrical, or structural changes, you almost always need permits and inspections. Skipping them can cause in"
+}

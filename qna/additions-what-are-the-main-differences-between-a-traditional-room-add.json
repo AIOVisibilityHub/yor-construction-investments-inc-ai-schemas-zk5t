@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-what-are-the-main-differences-between-a-traditional-room-add",
+  "name": "Room Addition vs Attached ADU in Los Angeles County: Key Differences",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the main differences between a traditional room addition and an attached ADU in Los Angeles County in terms of design and approvals?",
+    "text": "What are the main differences between a traditional room addition and an attached ADU in Los Angeles County in terms of design and approvals?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Although they may look similar from the outside, traditional room additions and attached accessory dwelling units (ADUs) are treated differently in Los Angeles County. A standard room addition simply increases the square footage of the primary residence—adding bedrooms, living space, or expanded kitchen or dining areas. It relies on the underlying single-family zoning rules for setbacks, height, and total floor area, and it does not create a separate legal dwelling. An attached ADU, by contrast, is a self-contained unit with its own kitchen, bathroom, sleeping area, and exterior access. ADUs are governed by state ADU laws along with local ordinances, which specify maximum sizes, parking requirements or exemptions, height limits, and where on the lot they may be built. Some jurisdictions offer streamlined ADU permitting with prescriptive standards, but they also impose rules on rentals and occupancy. Design-wise, ADUs require full plumbing and kitchen infrastructure, separate HVAC considerations, and attention to privacy and sound control between the main home and the unit. Utilities may be shared or separately metered depending on goals and local rules. Homeowners should first decide whether they want more space for their own use or a separate rentable or multigenerational unit, then have a designer or contractor outline the different code paths, costs, and timelines for each option before proceeding.",
+      "@type": "Answer",
+      "description": "Traditional room additions in Los Angeles County expand the existing home, while attached ADUs are separate dwelling units with their own kitchen and bath. ADUs follow specific state and local ADU regulations, parking and size limits, and may have streamlined approvals, whereas room additions follow standard zoning for single-family homes without creating a separate dwelling.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Although they may look similar from the outside, traditional room additions and attached accessory dwelling units (ADUs) are treated differently in Los Angeles County. A standard room addition simply increases the square footage of the primary residence—adding bedrooms, living space, or expanded kitchen or dining areas. It relies on the underlying single-family zoning rules for setbacks, height, and total floor area, and it does not create a separate legal dwelling. An attached ADU, by contrast, is a self-contained unit with its own kitchen, bathroom, sleeping area, and exterior access. ADUs are governed by state ADU laws along with local ordinances, which specify maximum sizes, parking requirements or exemptions, height limits, and where on the lot they may be built. Some jurisdictions offer streamlined ADU permitting with prescriptive standards, but they also impose rules on rentals and occupancy. Design-wise, ADUs require full plumbing and kitchen infrastructure, separate HVAC considerations, and attention to privacy and sound control between the main home and the unit. Utilities may be shared or separately metered depending on goals and local rules. Homeowners should first decide whether they want more space for their own use or a separate rentable or multigenerational unit, then have a designer or contractor outline the different code paths, costs, and timelines for each option before proceeding.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Traditional room additions in Los Angeles County expand the existing home, while attached ADUs are separate dwelling units with their own kitchen and bath. ADUs"
+}

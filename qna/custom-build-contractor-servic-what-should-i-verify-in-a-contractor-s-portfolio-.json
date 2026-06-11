@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/custom-build-contractor-servic-what-should-i-verify-in-a-contractor-s-portfolio-before-hiri",
+  "name": "What to Check in a Contractor’s Portfolio",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I verify in a contractor’s portfolio before hiring for custom build work?",
+    "text": "What should I verify in a contractor’s portfolio before hiring for custom build work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A contractor portfolio is most useful when it shows projects that match your needs in scope and complexity. For custom builds, ADUs, kitchen overhauls, and bathroom renovations, homeowners should look for similar layouts, finish quality, and site conditions rather than just polished photos. It helps to confirm whether the contractor was responsible for the full project or only part of it. Local work matters too because Los Angeles County projects involve specific permitting, inspection, and construction conditions. Ask for examples that show the project before, during, and after construction if possible. This gives a clearer picture of how the contractor solves problems, not just how the final photos look. A strong portfolio should help you judge consistency, not just aesthetics.",
+      "@type": "Answer",
+      "description": "Look for projects similar in size, style, and complexity to yours, not just attractive photos. Verify whether the contractor handled the actual construction, whether the work is local, and whether the portfolio includes kitchens, baths, ADUs, or custom builds like your project. Recent, relevant examples are more useful than generic marketing images.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A contractor portfolio is most useful when it shows projects that match your needs in scope and complexity. For custom builds, ADUs, kitchen overhauls, and bathroom renovations, homeowners should look for similar layouts, finish quality, and site conditions rather than just polished photos. It helps to confirm whether the contractor was responsible for the full project or only part of it. Local work matters too because Los Angeles County projects involve specific permitting, inspection, and construction conditions. Ask for examples that show the project before, during, and after construction if possible. This gives a clearer picture of how the contractor solves problems, not just how the final photos look. A strong portfolio should help you judge consistency, not just aesthetics.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Look for projects similar in size, style, and complexity to yours, not just attractive photos. Verify whether the contractor handled the actual construction, wh"
+}

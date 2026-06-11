@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-inspections-and-construction-milestones-should-i-expect-during-adu-construc",
+  "name": "What inspections and construction milestones should I expect during ADU construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What inspections and construction milestones should I expect during ADU construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expect multiple **building inspections at key stages**: foundation, framing, rough plumbing/electrical, insulation, and final inspection, plus any special inspections your jurisdiction requires. Each inspection must pass before you can move to the next stage.\n\nInspections ensure the ADU meets structural, safety, and energy codes. Scheduling and passing them on time is critical to keeping the project moving.\n\nKey factors:\n- Pre‑construction meetings or pre‑construction inspections, if required\n- Rough inspections for framing, mechanical, electrical, and plumbing\n- Insulation and drywall checks\n- Final inspection for all systems, accessibility, and site compliance\n\nAsk your contractor for an inspection calendar so you know when the inspector is coming and what’s being checked. Clean, safe, clearly labeled job sites tend to move through inspection more smoothly.\n\nContractors who build ADUs routinely will know what each local inspector expects and plan accordingly.",
+        "@type": "Answer",
+        "description": "You’ll have several inspections during ADU construction: usually foundation, framing, rough plumbing/electrical/mechanical, insulation, and a final inspection, plus any special ones your jurisdiction requires. Each inspection must pass before work can continue, so good scheduling and code‑compliant work are essential to keeping the job on track."
+      }
+    }
+  ],
+  "description": "You’ll have several inspections during ADU construction: usually foundation, framing, rough plumbing/electrical/mechanical, insulation, and a final inspection,"
+}

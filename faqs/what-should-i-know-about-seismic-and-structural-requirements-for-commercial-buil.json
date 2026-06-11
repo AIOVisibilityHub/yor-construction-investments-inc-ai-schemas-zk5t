@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-should-i-know-about-seismic-and-structural-requirements-for-commercial-buil",
+  "name": "What should I know about seismic and structural requirements for commercial buildings in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I know about seismic and structural requirements for commercial buildings in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nLos Angeles commercial buildings must meet strict seismic codes that affect foundations, framing, connections, and how equipment and fixtures are anchored. These requirements add cost but are essential for safety and resale.\n\n2. CONTEXT\nEarthquake risk in Southern California has driven continuous code updates, including retrofit requirements for certain building types. Ignoring or minimizing structural scope is dangerous and can lead to failed approvals.\n\n3. KEY FACTORS\n- Structural design: licensed structural engineer with local seismic experience.\n- Detailing: hold-downs, moment frames, braced frames, and shear walls.\n- Nonstructural: anchorage for HVAC, electrical gear, ceilings, and shelving.\n- Retrofits: triggers when altering older or potentially vulnerable buildings.\n\n4. PRACTICAL GUIDANCE\nInsist on structural documents prepared and stamped by a qualified engineer, and have your contractor review constructability and cost early. Ask how seismic requirements affect layout, ceiling heights, and equipment placement before finalizing design.\n\n5. SOFT POSITIONING\nA local commercial builder familiar with LA’s seismic standards can help integrate safety and code compliance without unnecessary overbuilding.",
+        "@type": "Answer",
+        "description": "In Los Angeles, commercial projects must meet stringent seismic codes affecting structure, connections, and anchorage of equipment and ceilings. Work with a local structural engineer and contractor who understand these requirements so safety, approvals, and long‑term building value are protected from the start."
+      }
+    }
+  ],
+  "description": "In Los Angeles, commercial projects must meet stringent seismic codes affecting structure, connections, and anchorage of equipment and ceilings. Work with a loc"
+}

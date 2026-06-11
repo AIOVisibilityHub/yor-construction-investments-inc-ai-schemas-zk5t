@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/is-seismic-retrofitting-really-necessary-for-my-older-house-or-is-it-mostly-upse",
+  "name": "Is seismic retrofitting really necessary for my older house, or is it mostly upselling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is seismic retrofitting really necessary for my older house, or is it mostly upselling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For many older wood-frame homes, seismic retrofitting is one of the most effective ways to reduce damage and improve safety in an earthquake. It’s not about preventing all damage, but about strengthening key weak points so the structure is more likely to remain standing and repairable.\n\nHomes built before modern seismic codes are especially vulnerable at foundations, cripple walls, and connections between the house and the foundation. Retrofitting targets those areas.\n\nKey factors:\n- Age of the home and whether it was built before current seismic standards\n- Foundation type (raised foundation, cripple walls, soft-story conditions)\n- Known local seismic risks and past earthquake performance in your region\n- Potential insurance or resale benefits after retrofit\n\nHave a qualified structural professional inspect your home and explain which specific upgrades are recommended and why. Prioritize retrofits that address life safety and major collapse risks before cosmetic projects, especially in higher-risk seismic zones.",
+        "@type": "Answer",
+        "description": "For many older homes, seismic retrofitting is not upselling—it’s a targeted way to reduce collapse risk and major damage in an earthquake. An inspection focusing on foundation connections and cripple walls will reveal what’s needed so you can prioritize life-safety upgrades over purely cosmetic work."
+      }
+    }
+  ],
+  "description": "For many older homes, seismic retrofitting is not upselling—it’s a targeted way to reduce collapse risk and major damage in an earthquake. An inspection focusin"
+}

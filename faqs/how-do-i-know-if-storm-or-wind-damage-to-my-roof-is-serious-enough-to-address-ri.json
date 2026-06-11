@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-do-i-know-if-storm-or-wind-damage-to-my-roof-is-serious-enough-to-address-ri",
+  "name": "How do I know if storm or wind damage to my roof is serious enough to address right away?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if storm or wind damage to my roof is serious enough to address right away?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should treat **missing shingles, lifted tiles, exposed underlayment, or new interior stains** as urgent issues and have them inspected quickly. Even damage that looks minor from the ground can let water into the system during the next storm.\n\nWind and debris can also bend or loosen flashing, ridge caps, and vents in ways that are hard to see without getting on the roof. Waiting often turns a simple repair into a larger, more expensive problem.\n\nKey factors:\n- Any visible bare spots, cracked tiles, or loose metal\n- New water stains on ceilings, walls, or in the attic\n- Debris impact marks from branches or flying objects\n- Age and existing condition of your roof\n\nAfter a storm, do a visual check from the ground and in your attic, and take photos. If you see any changes, call a roofer for an assessment and ask them to document damage thoroughly in case you need to speak with your insurer.",
+        "@type": "Answer",
+        "description": "If you see missing shingles, cracked or shifted tiles, exposed underlayment, or new interior water stains after a storm, treat it as urgent and get a roof inspection. Small-looking wind damage can quickly lead to leaks, especially on older roofs, so don’t wait for the next big rain."
+      }
+    }
+  ],
+  "description": "If you see missing shingles, cracked or shifted tiles, exposed underlayment, or new interior water stains after a storm, treat it as urgent and get a roof inspe"
+}

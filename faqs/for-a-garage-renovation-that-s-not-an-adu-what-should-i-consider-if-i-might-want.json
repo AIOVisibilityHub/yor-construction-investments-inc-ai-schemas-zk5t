@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/for-a-garage-renovation-that-s-not-an-adu-what-should-i-consider-if-i-might-want",
+  "name": "For a garage renovation that’s not an ADU, what should I consider if I might want to convert it later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "For a garage renovation that’s not an ADU, what should I consider if I might want to convert it later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you’re renovating a garage now but may convert it to living space or an ADU later, it’s smart to plan with future code and layout needs in mind. Some early choices can make a future conversion much easier and cheaper.\n\nYou don’t need to fully build out the ADU now, but you can prepare the shell and infrastructure thoughtfully. That way you’re not undoing recent work when you decide to convert.\n\nKey factors:\n- Ceiling height, insulation, and potential window/door locations\n- Slab condition and potential for future plumbing drains\n- Electrical capacity and panel location for future circuits\n- Structural upgrades or seismic improvements to meet habitation standards\n\nTell your contractor about your long-term plans and ask what “ADU-ready” upgrades are sensible at this stage. Investing a bit more now in insulation, framing, and utilities can significantly reduce the cost and disruption of a future full conversion.",
+        "@type": "Answer",
+        "description": "If you might convert your garage later, plan the renovation to be “ADU-ready.” Pay attention to ceiling height, insulation, slab condition, and electrical capacity, and consider future window, door, and plumbing locations. These choices can make a later conversion faster and far less expensive."
+      }
+    }
+  ],
+  "description": "If you might convert your garage later, plan the renovation to be “ADU-ready.” Pay attention to ceiling height, insulation, slab condition, and electrical capac"
+}

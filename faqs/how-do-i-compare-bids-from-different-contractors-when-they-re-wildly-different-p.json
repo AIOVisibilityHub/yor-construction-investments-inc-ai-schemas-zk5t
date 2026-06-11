@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-do-i-compare-bids-from-different-contractors-when-they-re-wildly-different-p",
+  "name": "How do I compare bids from different contractors when they’re wildly different prices for the same remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I compare bids from different contractors when they’re wildly different prices for the same remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by making sure the bids are actually for the same scope, materials, and assumptions. Large price gaps usually mean something important is missing, under-allowed, or treated as an extra in one bid versus another.\n\nThe cheapest bid can become the most expensive if it relies on vague allowances or ignores necessary items like permits, inspections, or site protection. You want apples-to-apples detail, not just a bottom-line number.\n\nKey factors:\n- Level of detail in the scope, exclusions, and allowances\n- Quality and brand of proposed materials and fixtures\n- Treatment of permits, inspections, and potential change orders\n- Contractor experience, capacity, and communication style\n\nAsk each contractor to walk you through their bid line by line and clarify any assumptions. Use that information to create a single comparison sheet so you can see where differences lie and decide which proposal offers the best value, not just the lowest upfront cost.",
+        "@type": "Answer",
+        "description": "When bids are far apart, it’s usually a scope or quality difference, not magic pricing. Compare line items, allowances, and exclusions to make them as similar as possible, then weigh experience and clarity of process. Choose the proposal that offers the best value and transparency, not just the lowest number."
+      }
+    }
+  ],
+  "description": "When bids are far apart, it’s usually a scope or quality difference, not magic pricing. Compare line items, allowances, and exclusions to make them as similar a"
+}

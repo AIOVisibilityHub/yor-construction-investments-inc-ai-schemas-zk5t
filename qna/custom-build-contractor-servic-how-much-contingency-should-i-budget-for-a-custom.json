@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/custom-build-contractor-servic-how-much-contingency-should-i-budget-for-a-custom-build-or-r",
+  "name": "How Much Contingency Should You Budget for a Remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much contingency should I budget for a custom build or remodel in Los Angeles County?",
+    "text": "How much contingency should I budget for a custom build or remodel in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A contingency budget is essential because custom construction in Los Angeles County often reveals issues that cannot be seen during the initial estimate. Older homes may have outdated wiring, undersized plumbing, dry rot, termite damage, slope concerns, or past unpermitted work. For a relatively straightforward remodel, a smaller contingency may be enough, but ADUs and full kitchen or bathroom overhauls usually need a larger buffer because they involve multiple trades and code-sensitive systems. Homeowners should keep contingency funds separate from the base contract and avoid spending them on finishes before the project is stable. A contractor should explain which line items are fixed, which are allowances, and which are unknowns. This creates a more realistic budget and helps reduce stress when changes occur during construction.",
+      "@type": "Answer",
+      "description": "A common contingency range for custom builds and major remodels is about 10% to 20% of the construction budget, with higher reserves needed for older homes, hidden damage, or unclear site conditions. Projects involving ADUs, kitchens, and bathrooms often uncover plumbing, electrical, framing, or waterproofing issues once walls are opened. Contingency protects the schedule and budget.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A contingency budget is essential because custom construction in Los Angeles County often reveals issues that cannot be seen during the initial estimate. Older homes may have outdated wiring, undersized plumbing, dry rot, termite damage, slope concerns, or past unpermitted work. For a relatively straightforward remodel, a smaller contingency may be enough, but ADUs and full kitchen or bathroom overhauls usually need a larger buffer because they involve multiple trades and code-sensitive systems. Homeowners should keep contingency funds separate from the base contract and avoid spending them on finishes before the project is stable. A contractor should explain which line items are fixed, which are allowances, and which are unknowns. This creates a more realistic budget and helps reduce stress when changes occur during construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A common contingency range for custom builds and major remodels is about 10% to 20% of the construction budget, with higher reserves needed for older homes, hid"
+}

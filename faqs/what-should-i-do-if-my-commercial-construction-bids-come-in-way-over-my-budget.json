@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-should-i-do-if-my-commercial-construction-bids-come-in-way-over-my-budget",
+  "name": "What should I do if my commercial construction bids come in way over my budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I do if my commercial construction bids come in way over my budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nIf bids exceed your budget, pause and work with your design and construction team to value‑engineer the project instead of just picking the lowest number. Adjusting scope, materials, and phasing is usually more effective than pressuring contractors to cut corners.\n\n2. CONTEXT\nOver-budget bids are common when design progressed without real-time cost input. It’s fixable, but only if you’re willing to revisit scope and expectations.\n\n3. KEY FACTORS\n- Scope creep: features added during design without cost checks.\n- Market conditions: labor and materials may have changed since initial estimates.\n- Allowances: high-end finishes or equipment that can be substituted.\n- Phasing: deferrable work that can be postponed to a later phase.\n\n4. PRACTICAL GUIDANCE\nAsk your preferred contractor for a list of cost-saving options with their impact on function and quality, then prioritize changes that don’t hurt your business model. Re‑bid only the revised package once you’ve aligned scope and budget.\n\n5. SOFT POSITIONING\nAn experienced commercial builder will treat an over-budget situation as a joint problem to solve, not a reason to walk away.",
+        "@type": "Answer",
+        "description": "When bids are over budget, pause and value‑engineer with your design and construction team instead of just choosing the lowest bid. Adjust scope, finishes, and phasing to protect function while cutting cost, then re‑align drawings and pricing so your budget and design match."
+      }
+    }
+  ],
+  "description": "When bids are over budget, pause and value‑engineer with your design and construction team instead of just choosing the lowest bid. Adjust scope, finishes, and"
+}

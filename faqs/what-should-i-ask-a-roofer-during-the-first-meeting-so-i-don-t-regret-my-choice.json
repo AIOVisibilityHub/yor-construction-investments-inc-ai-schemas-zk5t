@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-should-i-ask-a-roofer-during-the-first-meeting-so-i-don-t-regret-my-choice",
+  "name": "What should I ask a roofer during the first meeting so I don’t regret my choice later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I ask a roofer during the first meeting so I don’t regret my choice later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask about **experience, crew, licensing/insurance, detailed scope, materials, warranty, and communication**. You want to understand who will be on your roof, exactly what they will do, and how they stand behind their work.\n\nThe first meeting is your chance to judge not only technical knowledge but also clarity and transparency. A contractor who explains things plainly now is more likely to handle surprises professionally later.\n\nKey questions:\n- How long have you been roofing, and who will actually do the work?\n- Are you licensed and insured, and can I see proof?\n- What materials and underlayment do you recommend and why?\n- What does your workmanship warranty cover, and for how long?\n\nTake notes and don’t feel pressured to decide on the spot. Compare answers from at least two contractors and favor the one who listens to your concerns and provides clear, specific explanations instead of vague reassurances.",
+        "@type": "Answer",
+        "description": "In the first meeting, ask about the roofer’s experience, who will be on your roof, license and insurance, exact scope of work, material choices, and workmanship and material warranties. Their willingness to provide clear, specific answers is as important as the numbers in their quote."
+      }
+    }
+  ],
+  "description": "In the first meeting, ask about the roofer’s experience, who will be on your roof, license and insurance, exact scope of work, material choices, and workmanship"
+}

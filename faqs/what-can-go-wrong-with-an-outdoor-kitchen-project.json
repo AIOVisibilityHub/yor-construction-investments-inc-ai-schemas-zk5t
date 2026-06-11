@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-can-go-wrong-with-an-outdoor-kitchen-project",
+  "name": "What can go wrong with an outdoor kitchen project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What can go wrong with an outdoor kitchen project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common problems include poor layout, undersized utilities, moisture damage, delayed appliances, and surprise site conditions. If the design ignores drainage, ventilation, or access to gas and electrical lines, the finished kitchen may be inconvenient or expensive to fix. Another common issue is choosing materials that look good but do not hold up outdoors. The best way to reduce risk is to plan the utility work early and confirm every major component before construction starts. Clear drawings and an itemized scope also prevent misunderstandings. Most problems are avoidable when the project is designed for the site instead of copied from a catalog.",
+        "@type": "Answer",
+        "description": "Typical risks include bad layout, utility issues, moisture damage, and appliance delays. Careful planning and detailed scope documents reduce most of these problems."
+      }
+    }
+  ],
+  "description": "Typical risks include bad layout, utility issues, moisture damage, and appliance delays. Careful planning and detailed scope documents reduce most of these prob"
+}

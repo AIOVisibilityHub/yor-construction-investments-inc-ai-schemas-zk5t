@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/does-seismic-retrofitting-change-how-my-house-looks-or-is-it-mostly-hidden",
+  "name": "Does seismic retrofitting change how my house looks, or is it mostly hidden?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Does seismic retrofitting change how my house looks, or is it mostly hidden?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER: Most seismic retrofit work on houses is concealed in crawlspaces, garages, and wall cavities, but some upgrades—like new shear walls or steel frames—can affect visible areas unless carefully integrated.\n\nCONTEXT: Foundation bolts, hold‑downs, and many braces are out of sight once the project is finished. However, new plywood in a garage, steel elements, or modified openings can change appearances.\n\nKEY FACTORS:\n- Whether work is interior, in the garage, or under the house.\n- Need for new shear walls that replace or reduce openings.\n- Finishes and trim used to cover structural upgrades.\n- Historic or architectural constraints on visible changes.\n\nPRACTICAL GUIDANCE: Ask your contractor to show you where visible changes will be and how they’ll finish or paint those areas. If aesthetics are critical (e.g., front façade or historic features), involve the designer early to blend structure and style.\n\nSOFT POSITIONING: Good planning can deliver major seismic upgrades with minimal impact on the look of your home.",
+        "@type": "Answer",
+        "description": "Most seismic retrofit work is hidden in crawlspaces, garages, or inside walls, but some elements—like new plywood shear walls, steel frames, or changed openings—can affect visible areas. Discuss where changes will show and how they’ll be finished so safety improvements don’t compromise your home’s look."
+      }
+    }
+  ],
+  "description": "Most seismic retrofit work is hidden in crawlspaces, garages, or inside walls, but some elements—like new plywood shear walls, steel frames, or changed openings"
+}

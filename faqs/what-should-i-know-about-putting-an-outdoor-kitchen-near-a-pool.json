@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-should-i-know-about-putting-an-outdoor-kitchen-near-a-pool",
+  "name": "What should I know about putting an outdoor kitchen near a pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I know about putting an outdoor kitchen near a pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Placement near a pool can work well, but safety, traffic flow, and splash exposure all matter. You want enough separation so cooking, seating, and wet foot traffic do not interfere with each other. Materials should also handle water exposure and heavy use without staining or slipping. Utility routing can become more complicated when the kitchen is near other outdoor systems, so early planning matters. A good layout keeps the cooking zone functional while preserving safe access around the pool. In many cases, the best design is one that balances convenience with clean circulation.",
+        "@type": "Answer",
+        "description": "An outdoor kitchen near a pool can work well if you plan for safety, traffic flow, and water-resistant materials. Early layout planning is important because utilities can get more complex."
+      }
+    }
+  ],
+  "description": "An outdoor kitchen near a pool can work well if you plan for safety, traffic flow, and water-resistant materials. Early layout planning is important because uti"
+}

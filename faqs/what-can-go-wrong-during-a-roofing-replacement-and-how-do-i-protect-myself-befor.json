@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-can-go-wrong-during-a-roofing-replacement-and-how-do-i-protect-myself-befor",
+  "name": "What can go wrong during a roofing replacement, and how do I protect myself before signing a contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What can go wrong during a roofing replacement, and how do I protect myself before signing a contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest issues during roofing replacement are hidden damage, poor installation, and inadequate ventilation or flashing, which can lead to leaks and premature failure. Rushed tear-offs without proper protection can also damage landscaping and interiors.\n\nMost of these problems are preventable with a detailed scope and a contractor who follows manufacturer specifications. Roofing is as much about details as it is about the shingles or membrane you choose.\n\nKey factors:\n- Written scope covering underlayment, flashing, ventilation, and sheathing repairs\n- How hidden damage will be priced if discovered after tear-off\n- Proof of license, insurance, and manufacturer certifications\n- Cleanup plan and protection for gutters, driveway, and landscaping\n\nBefore signing, insist on a written contract with clear materials, installation methods, and change-order process. Ask for photos of the roof deck after tear-off and before new installation so you can verify that damaged areas were properly addressed.",
+        "@type": "Answer",
+        "description": "Roof replacements go wrong when hidden damage, flashing, and ventilation aren’t handled correctly. Protect yourself with a detailed written scope, clear pricing for any wood repairs, and proof of license and insurance. Ask for photo documentation of the roof deck and flashing before the new roof goes on."
+      }
+    }
+  ],
+  "description": "Roof replacements go wrong when hidden damage, flashing, and ventilation aren’t handled correctly. Protect yourself with a detailed written scope, clear pricing"
+}

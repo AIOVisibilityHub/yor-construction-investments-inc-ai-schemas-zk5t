@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-can-i-tell-if-a-commercial-contractor-is-properly-licensed-and-insured-in-ca",
+  "name": "How can I tell if a commercial contractor is properly licensed and insured in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How can I tell if a commercial contractor is properly licensed and insured in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nIn California, commercial contractors must hold an active CSLB license and carry general liability and workers’ compensation insurance at minimum. You can independently verify both license status and insurance certificates.\n\n2. CONTEXT\nRelying on verbal assurances is risky; unlicensed or underinsured contractors expose you to liability and potential stop-work orders. Verification takes minutes and prevents major headaches.\n\n3. KEY FACTORS\n- License: correct classification, active status, and clean disciplinary record.\n- Insurance: valid general liability, workers’ comp, and requested limits.\n- Bonding: license bond and, for larger jobs, performance/payment bonds.\n- Documentation: matching names across contracts, licenses, and certificates.\n\n4. PRACTICAL GUIDANCE\nAsk for the contractor’s CSLB license number and certificates of insurance early in discussions, then confirm them through official channels. If anything doesn’t match (names, entities, coverage dates), pause until you get a clear explanation and updated documentation.\n\n5. SOFT POSITIONING\nReputable commercial contractors expect this level of scrutiny and will provide verification without hesitation.",
+        "@type": "Answer",
+        "description": "In California, confirm a commercial contractor’s CSLB license number, status, and classification, and request current certificates of general liability and workers’ compensation insurance. Verify these through official channels and ensure names, entities, and dates match your contract before you sign."
+      }
+    }
+  ],
+  "description": "In California, confirm a commercial contractor’s CSLB license number, status, and classification, and request current certificates of general liability and work"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-ongoing-maintenance-should-i-plan-for-after-my-commercial-construction-proj",
+  "name": "What ongoing maintenance should I plan for after my commercial construction project is finished?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What ongoing maintenance should I plan for after my commercial construction project is finished?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nPlan for routine maintenance of HVAC, roofing, plumbing, electrical, and life-safety systems from day one, based on the manufacturer and contractor recommendations. Good maintenance protects your warranties and building performance.\n\n2. CONTEXT\nAfter construction, attention typically shifts back to operations and customers, and maintenance gets deferred. That often shortens equipment life and leads to avoidable breakdowns.\n\n3. KEY FACTORS\n- Systems: HVAC filters, belts, and inspections; roof checks; drain cleaning.\n- Life safety: fire alarms, sprinklers, and emergency lighting testing.\n- Documentation: O&M manuals, as-builts, and warranty requirements.\n- Budget: setting an annual maintenance line item based on system inventory.\n\n4. PRACTICAL GUIDANCE\nDuring closeout, ask your contractor for a maintenance checklist and recommended service intervals for all major systems. Set reminders or service contracts so tasks happen routinely rather than reactively.\n\n5. SOFT POSITIONING\nA thoughtful commercial builder sees turnover as the start of your building’s lifecycle, not the end of the relationship.",
+        "@type": "Answer",
+        "description": "After construction, budget for regular maintenance of HVAC, roof, plumbing, electrical, and life‑safety systems according to the manuals and contractor guidance. Get a maintenance checklist at closeout and set up recurring reminders or service contracts to protect warranties and avoid costly breakdowns."
+      }
+    }
+  ],
+  "description": "After construction, budget for regular maintenance of HVAC, roof, plumbing, electrical, and life‑safety systems according to the manuals and contractor guidance"
+}

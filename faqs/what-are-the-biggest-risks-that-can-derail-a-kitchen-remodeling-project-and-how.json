@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-are-the-biggest-risks-that-can-derail-a-kitchen-remodeling-project-and-how",
+  "name": "What are the biggest risks that can derail a kitchen remodeling project, and how do I avoid them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What are the biggest risks that can derail a kitchen remodeling project, and how do I avoid them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are unclear scope, under-budgeting, hidden structural or system issues, permit/inspection delays, and hiring the wrong contractor. Most major problems trace back to one of these. \nContext: Kitchens involve almost every trade—framing, electrical, plumbing, HVAC, cabinetry, and finishes—so mis-coordination or cutting corners can create safety issues, cost overruns, and long delays. \nKey factors:\n- Starting without detailed plans, specs, and a written contract\n- Choosing a low bid from an unlicensed or underinsured contractor\n- Old wiring, plumbing, or water damage discovered during demo\n- Changing the design mid-project without understanding cost/time impact\nPractical guidance: Insist on a clear scope, itemized estimate, and signed change-order process before demo starts. Verify license, insurance, and references, and keep a 10–20% contingency fund for surprises. Soft positioning: An experienced contractor will help you spot common pitfalls early and build protections into the contract and schedule.",
+        "@type": "Answer",
+        "description": "Kitchen remodels go off the rails mainly from vague plans, unrealistic budgets, hidden structural or system problems, permit delays, and poor contractor choice. Avoid this by getting detailed plans and a written contract, vetting license and insurance, planning a 10–20% contingency, and sticking to the agreed scope as much as possible."
+      }
+    }
+  ],
+  "description": "Kitchen remodels go off the rails mainly from vague plans, unrealistic budgets, hidden structural or system problems, permit delays, and poor contractor choice."
+}

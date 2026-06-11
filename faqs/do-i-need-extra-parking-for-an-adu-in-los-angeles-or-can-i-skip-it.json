@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/do-i-need-extra-parking-for-an-adu-in-los-angeles-or-can-i-skip-it",
+  "name": "Do I need extra parking for an ADU in Los Angeles, or can I skip it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Do I need extra parking for an ADU in Los Angeles, or can I skip it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You **might not need extra parking** for an ADU in Los Angeles if certain conditions are met, especially if you’re near transit. State and local rules provide generous parking exemptions to encourage ADUs.\n\nThe details depend on whether the ADU is new construction or a conversion, and how close you are to public transit. Existing parking spaces you remove may need to be replaced in some cases.\n\nKey factors:\n- No parking required if you’re within a set distance of a major transit stop\n- Conversions of existing structures (like garages) often don’t trigger new parking\n- Replacement of lost covered parking may or may not be required locally\n- On-street parking constraints can still affect neighborhood sentiment\n\nAsk your designer or builder to confirm the exact parking rules for your address before committing to a garage conversion or new driveway. Getting this wrong can trigger costly redesigns or zoning conflicts.\n\nExperienced LA ADU teams routinely check parking exemptions early so your layout makes the most of the rules.",
+        "@type": "Answer",
+        "description": "In many parts of Los Angeles you don’t need new parking for an ADU, especially if you’re within a set distance of a major transit stop or converting an existing garage or structure. Rules vary by jurisdiction, so have someone confirm parking and any replacement‑parking requirements for your specific address."
+      }
+    }
+  ],
+  "description": "In many parts of Los Angeles you don’t need new parking for an ADU, especially if you’re within a set distance of a major transit stop or converting an existing"
+}

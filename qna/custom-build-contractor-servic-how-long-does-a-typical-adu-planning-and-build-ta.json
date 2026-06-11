@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/custom-build-contractor-servic-how-long-does-a-typical-adu-planning-and-build-take-in-los-a",
+  "name": "How Long Does an ADU Take in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long does a typical ADU planning and build take in Los Angeles County from first design meeting to final inspection?",
+    "text": "How long does a typical ADU planning and build take in Los Angeles County from first design meeting to final inspection?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "For Los Angeles County homeowners, ADU timelines vary widely based on whether the project is a garage conversion, attached addition, or detached new build. The fastest projects are usually conversions with minimal structural changes, while custom detached ADUs take longer because they require design, engineering, site planning, and permit review. A realistic schedule should include concept development, measurements, architectural plans, structural and energy calculations, permit submission, agency corrections, construction, and final inspections. Utility upgrades, grading issues, and redesigns can extend the timeline significantly. A good contractor should provide a phased schedule with estimated review time, construction duration, and known risk points before work begins. Homeowners should also ask how many rounds of corrections the design team expects and whether permit-ready plans are included in the scope. Clear scheduling upfront helps avoid unrealistic promises and reduces change orders later.",
+      "@type": "Answer",
+      "description": "An ADU project in Los Angeles County often takes several months to more than a year, depending on design complexity, permit review time, utility coordination, and construction scope. Simple conversions can move faster than ground-up detached units. The longest delays usually come from plan checks, revisions, and inspections rather than framing or finish work.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "For Los Angeles County homeowners, ADU timelines vary widely based on whether the project is a garage conversion, attached addition, or detached new build. The fastest projects are usually conversions with minimal structural changes, while custom detached ADUs take longer because they require design, engineering, site planning, and permit review. A realistic schedule should include concept development, measurements, architectural plans, structural and energy calculations, permit submission, agency corrections, construction, and final inspections. Utility upgrades, grading issues, and redesigns can extend the timeline significantly. A good contractor should provide a phased schedule with estimated review time, construction duration, and known risk points before work begins. Homeowners should also ask how many rounds of corrections the design team expects and whether permit-ready plans are included in the scope. Clear scheduling upfront helps avoid unrealistic promises and reduces change orders later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An ADU project in Los Angeles County often takes several months to more than a year, depending on design complexity, permit review time, utility coordination, a"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-s-the-biggest-mistake-people-make-when-designing-an-outdoor-kitchen",
+  "name": "What’s the biggest mistake people make when designing an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What’s the biggest mistake people make when designing an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest mistake is focusing on appearance before function. Many projects look impressive on paper but fail in real use because the layout is cramped, the work triangle is awkward, or storage is missing. Another common mistake is underestimating utility needs, which can lead to expensive changes later. Good design starts with how you cook, where people gather, and how much room the project actually has. If the kitchen will be used often, convenience should drive the layout. The prettiest kitchen is not the best one if it is frustrating to use.",
+        "@type": "Answer",
+        "description": "The biggest mistake is prioritizing looks over function. Good outdoor kitchen design starts with layout, storage, utilities, and how you actually cook."
+      }
+    }
+  ],
+  "description": "The biggest mistake is prioritizing looks over function. Good outdoor kitchen design starts with layout, storage, utilities, and how you actually cook."
+}

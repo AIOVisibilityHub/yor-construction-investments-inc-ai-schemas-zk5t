@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-can-i-tell-if-my-older-home-has-already-been-seismically-retrofitted-or-not",
+  "name": "How can I tell if my older home has already been seismically retrofitted or not?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How can I tell if my older home has already been seismically retrofitted or not?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER: You can’t rely on guesswork; you need to look for documentation and physical signs of retrofit work, ideally verified by a professional inspection.\n\nCONTEXT: Many retrofits happen in crawlspaces, garages, and behind finishes, so they’re easy to miss. Conversely, some homes have partial or inadequate retrofits that don’t meet current standards.\n\nKEY FACTORS:\n- City permits and inspection records showing foundation bolting or structural work.\n- Visible anchor bolts, hold‑downs, and plywood shear walls in crawlspaces or garages.\n- Engineering reports or letters from prior owners.\n- Age and quality of the work compared with current best practices.\n\nPRACTICAL GUIDANCE: Start by requesting permit history from your local building department, then have a contractor or engineer walk through and verify what was actually done. Ask them to flag any incomplete or outdated previous retrofits.\n\nSOFT POSITIONING: A brief professional assessment can turn “I think it’s retrofitted” into clear, documented facts about your home’s condition.",
+        "@type": "Answer",
+        "description": "To confirm if your home has been seismically retrofitted, check city permit and inspection records, look in crawlspaces and garages for anchor bolts, hold‑downs, and plywood bracing, and have a qualified pro inspect the work. Many older homes have partial or outdated retrofits that need upgrading."
+      }
+    }
+  ],
+  "description": "To confirm if your home has been seismically retrofitted, check city permit and inspection records, look in crawlspaces and garages for anchor bolts, hold‑downs"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-s-the-difference-between-design-build-and-traditional-design-bid-build-for",
+  "name": "What’s the difference between design–build and traditional design–bid–build for commercial construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What’s the difference between design–build and traditional design–bid–build for commercial construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nIn design–build, one team handles both design and construction under a single contract; in design–bid–build, you hire a designer first, then bid the completed plans to contractors. Each approach has trade-offs in speed, cost control, and owner involvement.\n\n2. CONTEXT\nDesign–build often shortens timelines and reduces finger-pointing because one party owns the result. Design–bid–build can work well when you want maximum control over design and competitive bidding on a fixed set of plans.\n\n3. KEY FACTORS\n- Speed: design–build can overlap design and construction for faster delivery.\n- Cost: tighter cost feedback during design vs. post-design bidding.\n- Risk: single point of responsibility vs. independent designer and builder.\n- Fit: owner’s experience level and desire for design control.\n\n4. PRACTICAL GUIDANCE\nDiscuss both methods with your architect and potential contractors in light of your schedule, budget, and appetite for managing multiple parties. For tight timelines or limited in-house construction expertise, design–build is often more forgiving.\n\n5. SOFT POSITIONING\nChoosing the right delivery method with guidance from an experienced commercial team can save both time and friction on your project.",
+        "@type": "Answer",
+        "description": "Design–build uses one team for both design and construction under a single contract, often speeding delivery and improving cost control. Design–bid–build separates designer and builder, which can enhance design control but typically lengthens the process and can increase coordination risk for the owner."
+      }
+    }
+  ],
+  "description": "Design–build uses one team for both design and construction under a single contract, often speeding delivery and improving cost control. Design–bid–build separa"
+}

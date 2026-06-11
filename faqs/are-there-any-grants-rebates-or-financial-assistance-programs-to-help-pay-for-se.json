@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/are-there-any-grants-rebates-or-financial-assistance-programs-to-help-pay-for-se",
+  "name": "Are there any grants, rebates, or financial assistance programs to help pay for seismic retrofitting in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Are there any grants, rebates, or financial assistance programs to help pay for seismic retrofitting in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER: Yes, programs such as state or insurance‑supported grants periodically offer financial assistance for qualifying seismic retrofits, especially for older single‑family homes, but availability and rules change over time.\n\nCONTEXT: These programs typically target high‑risk houses (like older raised‑foundation homes) and may provide a fixed grant amount if you use approved retrofit designs and contractors. Funding rounds can be limited and competitive.\n\nKEY FACTORS:\n- Eligibility based on home age, location, and foundation type.\n- Approved retrofit scope and prescriptive design requirements.\n- Deadlines for registration, construction, and documentation.\n- Whether funds are paid to you or directly to the contractor.\n\nPRACTICAL GUIDANCE: Check current programs through state seismic safety and insurance resources, and sign up for alerts since application windows can be brief. Ask your contractor which clients recently used assistance programs and what made them successful.\n\nSOFT POSITIONING: A retrofit professional who tracks incentive programs can help you design a project that meets funding requirements.",
+        "@type": "Answer",
+        "description": "There are often grants or incentive programs for seismic retrofits in LA County, especially for older single‑family homes on raised foundations, but they open and close periodically with specific rules. Check current state and insurance programs and ask retrofit contractors which funding options their recent clients used."
+      }
+    }
+  ],
+  "description": "There are often grants or incentive programs for seismic retrofits in LA County, especially for older single‑family homes on raised foundations, but they open a"
+}

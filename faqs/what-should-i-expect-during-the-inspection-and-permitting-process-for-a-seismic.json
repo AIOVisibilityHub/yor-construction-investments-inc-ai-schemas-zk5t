@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-should-i-expect-during-the-inspection-and-permitting-process-for-a-seismic",
+  "name": "What should I expect during the inspection and permitting process for a seismic retrofit in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I expect during the inspection and permitting process for a seismic retrofit in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER: You should expect plan review by the city or county, one or more inspections during construction, and a final sign‑off once the retrofit is complete and code‑compliant.\n\nCONTEXT: LA jurisdictions take structural work seriously; inspectors will check that anchor bolts, hold‑downs, nailing, and materials match the approved plans. This protects you and future owners.\n\nKEY FACTORS:\n- Plan review time (varies by city and project complexity).\n- Required inspections: foundation, framing, final.\n- Access requirements (open walls, exposed bolts when inspector arrives).\n- Any corrections or revisions requested by the building department.\n\nPRACTICAL GUIDANCE: Clarify with your contractor who is responsible for scheduling inspections and talking to the inspector. Keep copies of approved plans on site and be prepared for minor corrections or extra connections requested during inspections.\n\nSOFT POSITIONING: A contractor experienced with LA building departments can usually streamline plan approval and inspection scheduling.",
+        "@type": "Answer",
+        "description": "For a seismic retrofit in LA, your plans are reviewed by the building department, then inspectors visit during key stages (like anchor bolting and shear wall installation) and again at final. They verify work matches approved plans. Make sure your contractor handles scheduling and keeps plans and the site inspection‑ready."
+      }
+    }
+  ],
+  "description": "For a seismic retrofit in LA, your plans are reviewed by the building department, then inspectors visit during key stages (like anchor bolting and shear wall in"
+}

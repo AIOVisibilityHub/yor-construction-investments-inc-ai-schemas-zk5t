@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-should-i-ask-a-kitchen-contractor-before-i-sign-anything",
+  "name": "What should I ask a kitchen contractor before I sign anything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I ask a kitchen contractor before I sign anything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nAsk about their license and insurance, how many kitchens they’ve done recently, who will be on site daily, what’s included in the price, how changes are handled, and how long the project should take. Get every key answer reflected in the written contract.\n\n2. CONTEXT\nMany disputes come from assumptions about scope, timelines, or what “standard” means. Clear questions up front reduce misunderstandings and unexpected costs.\n\n3. KEY FACTORS\n- **Credentials**: license, insurance, worker’s comp, references.\n- **Scope details**: demo, disposal, permits, clean‑up, punch list.\n- **Schedule** and whether they work consecutive days.\n- **Change order and payment** procedures.\n\n4. PRACTICAL GUIDANCE\nPrepare a written list and take notes during meetings. If an answer matters to you (timeline, dust control, product brands), ask to see it in the contract, not just in conversation.\n\n5. SOFT POSITIONING\nA professional contractor welcomes detailed questions and sees them as the start of a clear working relationship.",
+        "@type": "Answer",
+        "description": "Ask about license/insurance, recent kitchen experience, what exactly is included, who supervises daily, the schedule, how change orders work, and payment terms. Then make sure those key points are clearly written into the contract before signing."
+      }
+    }
+  ],
+  "description": "Ask about license/insurance, recent kitchen experience, what exactly is included, who supervises daily, the schedule, how change orders work, and payment terms."
+}

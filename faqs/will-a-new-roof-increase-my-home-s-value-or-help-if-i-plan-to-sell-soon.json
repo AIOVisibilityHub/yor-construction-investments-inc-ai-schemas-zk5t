@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/will-a-new-roof-increase-my-home-s-value-or-help-if-i-plan-to-sell-soon",
+  "name": "Will a new roof increase my home’s value or help if I plan to sell soon?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Will a new roof increase my home’s value or help if I plan to sell soon?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A **new roof often boosts curb appeal, reduces buyer objections, and can improve resale value**, especially if the old roof is visibly aged or leaking. It may not return every dollar in a quick flip, but it can make your home easier and faster to sell.\n\nBuyers and inspectors pay close attention to roof condition because replacement is a major expense. An old or questionable roof often leads to price negotiations or delayed closings.\n\nKey factors:\n- Age and appearance of your current roof\n- Local buyer expectations and competition\n- Transferability of warranties to the new owner\n- Energy-efficient or cool-roof upgrades you install\n\nIf you plan to sell within a few years, talk with your agent and roofer about what level of roof work makes the most sense—full replacement, targeted repairs, or a documented professional inspection. Being able to show a recent roof report and clear documentation reassures buyers and strengthens your negotiating position.",
+        "@type": "Answer",
+        "description": "A new roof can improve curb appeal, reduce inspection issues, and make your home easier to sell, especially if the existing roof is old or problematic. You may not recoup every dollar immediately, but fewer buyer objections and smoother negotiations often justify the investment."
+      }
+    }
+  ],
+  "description": "A new roof can improve curb appeal, reduce inspection issues, and make your home easier to sell, especially if the existing roof is old or problematic. You may"
+}

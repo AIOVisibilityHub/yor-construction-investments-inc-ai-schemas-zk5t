@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-do-i-know-if-a-contractor-is-experienced-with-outdoor-kitchens-specifically",
+  "name": "How do I know if a contractor is experienced with outdoor kitchens specifically?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if a contractor is experienced with outdoor kitchens specifically?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for evidence of completed outdoor kitchen projects, not just general construction experience. Ask to see photos of similar builds, details about materials and utility work, and examples of how they handled drainage, weather exposure, and appliance installation. Outdoor kitchens involve a mix of design, structure, and mechanical work, so general remodeling experience is not always enough. You should also ask how they coordinate permits and subcontractors when gas or electrical work is involved. A contractor with the right experience will answer those questions clearly and confidently. Specific project experience matters because outdoor kitchens fail when they are treated like indoor kitchens.",
+        "@type": "Answer",
+        "description": "Ask for completed outdoor kitchen examples, material details, and utility-work experience. General construction skills help, but outdoor kitchen-specific experience is more important."
+      }
+    }
+  ],
+  "description": "Ask for completed outdoor kitchen examples, material details, and utility-work experience. General construction skills help, but outdoor kitchen-specific experi"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-are-the-main-zoning-and-setback-issues-i-should-know-about-before-planning",
+  "name": "What are the main zoning and setback issues I should know about before planning a room addition in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What are the main zoning and setback issues I should know about before planning a room addition in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main issues are allowable lot coverage, required yard setbacks, building height limits, and sometimes floor-area ratio (FAR) and hillside or special overlay rules. These control where and how big you can build. \nContext: Many LA neighborhoods have specific zoning codes that limit how close you can build to property lines, how tall additions can be, and how much total square footage your lot can support. Ignoring these early can lead to redesigns or permit refusals. \nKey factors:\n- Zoning designation for your parcel and any overlays (e.g., hillside)\n- Front, side, and rear yard setback requirements\n- Maximum lot coverage and total floor area allowed\n- Easements and utility locations on your property\nPractical guidance: Before designing, have your contractor or designer pull your property’s zoning information and check setbacks and FAR. Provide a recent survey if available and avoid relying on rough assumptions or neighbor projects. Soft positioning: A builder experienced with LA zoning can collaborate with your designer to fit your plans within local rules from the start.",
+        "@type": "Answer",
+        "description": "Before planning a room addition in Los Angeles, you need to understand your property’s zoning, required front/side/rear setbacks, height limits, and any floor-area or overlay restrictions. Have your team pull your parcel’s zoning data early and design within those rules to avoid costly redesigns or permit denials."
+      }
+    }
+  ],
+  "description": "Before planning a room addition in Los Angeles, you need to understand your property’s zoning, required front/side/rear setbacks, height limits, and any floor-a"
+}

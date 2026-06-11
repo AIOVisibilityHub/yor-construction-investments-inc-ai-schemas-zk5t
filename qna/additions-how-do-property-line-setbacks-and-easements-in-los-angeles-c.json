@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5tqna/additions-how-do-property-line-setbacks-and-easements-in-los-angeles-c",
+  "name": "How Setbacks and Easements Limit Addition Placement in Los Angeles County",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do property line setbacks and easements in Los Angeles County affect where I can place a new room or garage addition?",
+    "text": "How do property line setbacks and easements in Los Angeles County affect where I can place a new room or garage addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Setbacks and easements are often the first constraints that reshape home addition plans in Los Angeles County. Setbacks are minimum required distances between your structure and property lines. Front, side, and rear setbacks vary by zoning district and can be larger on corner or through lots. These rules define a “buildable area,” and any addition must sit entirely within that envelope unless a variance or special approval is obtained. Easements—such as utility, drainage, or access easements—further restrict building locations. You generally cannot build foundations or permanent structures over these areas, and even low structures or fences may face restrictions. On narrow or small lots, cumulative setbacks and easements can dramatically limit where you can place a new room, garage, or second unit. For garage additions, additional rules may apply to driveway width, turning radius, and distance from the street or alley. Fire separation requirements can limit window placement or require fire-rated walls when building close to the side or rear property lines. Before investing in detailed design, obtain a current survey or accurate site plan and have a designer or contractor overlay zoning setbacks and known easements. This upfront step helps avoid proposing an addition that appears ideal to you but cannot be approved by the jurisdiction.",
+      "@type": "Answer",
+      "description": "Setbacks and easements in Los Angeles County limit how close a new room or garage addition can be built to property lines and utility or access areas. These rules can shrink the buildable footprint, shift the addition away from the preferred spot, or prevent certain wall heights or openings along lot lines, especially on narrow lots.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Setbacks and easements are often the first constraints that reshape home addition plans in Los Angeles County. Setbacks are minimum required distances between your structure and property lines. Front, side, and rear setbacks vary by zoning district and can be larger on corner or through lots. These rules define a “buildable area,” and any addition must sit entirely within that envelope unless a variance or special approval is obtained. Easements—such as utility, drainage, or access easements—further restrict building locations. You generally cannot build foundations or permanent structures over these areas, and even low structures or fences may face restrictions. On narrow or small lots, cumulative setbacks and easements can dramatically limit where you can place a new room, garage, or second unit. For garage additions, additional rules may apply to driveway width, turning radius, and distance from the street or alley. Fire separation requirements can limit window placement or require fire-rated walls when building close to the side or rear property lines. Before investing in detailed design, obtain a current survey or accurate site plan and have a designer or contractor overlay zoning setbacks and known easements. This upfront step helps avoid proposing an addition that appears ideal to you but cannot be approved by the jurisdiction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Setbacks and easements in Los Angeles County limit how close a new room or garage addition can be built to property lines and utility or access areas. These rul"
+}

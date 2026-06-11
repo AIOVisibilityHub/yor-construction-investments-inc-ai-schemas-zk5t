@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-can-i-tell-if-a-roofer-s-warranty-is-actually-good-or-just-marketing",
+  "name": "How can I tell if a roofer’s warranty is actually good or just marketing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How can I tell if a roofer’s warranty is actually good or just marketing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A solid roofing warranty clearly defines **what is covered, for how long, and under what conditions**, and is backed by both the manufacturer and the contractor. Marketing phrases like “lifetime” mean little without specific written terms.\n\nMost roofs have two separate warranties: one for materials from the manufacturer and one for workmanship from the contractor. Both matter if something goes wrong.\n\nKey factors:\n- Length and coverage of workmanship warranty (labor and leaks)\n- Whether the manufacturer warranty is standard or upgraded and registered\n- Transferability if you sell your home\n- Exclusions (improper ventilation, ponding water, neglect, or other trades’ damage)\n\nAsk for a sample warranty document before you sign, and have the roofer walk through real examples of what would and wouldn’t be covered. Prioritize contractors who stand behind their labor for many years, not just the minimum required.",
+        "@type": "Answer",
+        "description": "A good roofing warranty clearly states what’s covered, for how long, and under what conditions, and it includes both manufacturer and workmanship coverage. Get the actual documents, ask how leak issues would be handled in practice, and be wary of vague “lifetime” claims without specifics."
+      }
+    }
+  ],
+  "description": "A good roofing warranty clearly states what’s covered, for how long, and under what conditions, and it includes both manufacturer and workmanship coverage. Get"
+}

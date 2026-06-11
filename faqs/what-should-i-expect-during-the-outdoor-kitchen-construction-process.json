@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-should-i-expect-during-the-outdoor-kitchen-construction-process",
+  "name": "What should I expect during the outdoor kitchen construction process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I expect during the outdoor kitchen construction process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with site evaluation, design decisions, and material selection, followed by permits if needed and then construction. If utilities are involved, that work often happens before the main kitchen build so everything is ready for installation. You should expect some disruption in the yard, plus possible inspections and delivery coordination for appliances or materials. Good contractors keep you updated on sequence, timing, and any changes that affect the plan. The smoother projects are the ones where the scope is finalized early. Understanding the steps ahead of time makes the build feel much more manageable.",
+        "@type": "Answer",
+        "description": "Expect site evaluation, design, permits if needed, utility work, construction, and inspections. Finalizing the scope early helps the process move more smoothly."
+      }
+    }
+  ],
+  "description": "Expect site evaluation, design, permits if needed, utility work, construction, and inspections. Finalizing the scope early helps the process move more smoothly."
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/can-i-manage-a-commercial-construction-project-myself-to-save-money-or-do-i-real",
+  "name": "Can I manage a commercial construction project myself to save money, or do I really need a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I manage a commercial construction project myself to save money, or do I really need a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nYou can self-manage as an owner-builder, but commercial projects are complex enough that most businesses benefit from a general contractor’s coordination, safety, and compliance expertise. Savings often vanish when DIY management causes delays or rework.\n\n2. CONTEXT\nCommercial work involves multiple trades, inspections, and strict codes. Unless you have construction experience and plenty of time, acting as your own GC is risky.\n\n3. KEY FACTORS\n- Experience: your familiarity with construction, codes, and scheduling.\n- Time: daily availability for decisions, site visits, and issue resolution.\n- Risk: safety, liability, and potential code or inspection failures.\n- Scale: number of trades and complexity of systems.\n\n4. PRACTICAL GUIDANCE\nIf you want more control, consider a construction management or negotiated contract rather than going fully solo. Be honest about your capacity and what happens to your main business if the project consumes more time than expected.\n\n5. SOFT POSITIONING\nA good commercial contractor will welcome an engaged owner while still shielding you from day-to-day construction risk and complexity.",
+        "@type": "Answer",
+        "description": "You can try to manage a commercial project yourself, but code, safety, and coordination complexity mean most owners are better off with a general contractor. Unless you have real construction experience and significant time, cost “savings” can quickly disappear in delays, rework, and compliance problems."
+      }
+    }
+  ],
+  "description": "You can try to manage a commercial project yourself, but code, safety, and coordination complexity mean most owners are better off with a general contractor. Un"
+}

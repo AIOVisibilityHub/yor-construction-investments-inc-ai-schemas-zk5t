@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/how-do-i-know-if-my-roof-really-needs-to-be-replaced-or-if-a-repair-is-enough",
+  "name": "How do I know if my roof really needs to be replaced or if a repair is enough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof really needs to be replaced or if a repair is enough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You generally need a full **roof replacement** when there is widespread damage, age-related wear, or repeated leaks; isolated issues can often be fixed with **targeted repairs**. A professional roof inspection is the only reliable way to confirm which is more cost‑effective for your situation.\n\nRoofs can look fine from the ground while hiding soft spots, cracked underlayment, or failing flashing. Age, prior installation quality, and local weather all affect whether a repair will last or just delay an inevitable replacement.\n\nKey factors:\n- Age of the roof (asphalt typically 18–25 years, tile/metal longer)\n- Number, size, and location of leaks\n- Condition of shingles/tiles (curling, cracking, bare patches)\n- Integrity of decking and flashing around penetrations (vents, chimneys, skylights)\n\nStart with a detailed inspection and ask the roofer to show you photos of all problem areas and give both a repair quote and a replacement quote. Use expected remaining lifespan, not just upfront price, to decide. A reputable contractor will explain both options and not push replacement if a sound repair is available.",
+        "@type": "Answer",
+        "description": "You need a full roof replacement when damage is widespread, the roof is near the end of its lifespan, or leaks keep returning despite repairs. A thorough inspection with photos, plus side‑by‑side repair vs replacement estimates, is the best way to decide which option is truly more cost‑effective."
+      }
+    }
+  ],
+  "description": "You need a full roof replacement when damage is widespread, the roof is near the end of its lifespan, or leaks keep returning despite repairs. A thorough inspec"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-setbacks-and-property-line-rules-apply-to-adus-and-how-close-can-i-build-to",
+  "name": "What setbacks and property-line rules apply to ADUs, and how close can I build to my neighbor’s fence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What setbacks and property-line rules apply to ADUs, and how close can I build to my neighbor’s fence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most ADU rules require at least **about 4 feet of setback** from side and rear property lines for new detached units, though conversions of existing structures can sometimes be closer. Front yard rules usually mirror those for the main house.\n\nSetbacks protect fire safety, privacy, and access, so they’re enforced closely during plan review and inspections. Trying to push these limits without clear legal basis is a common cause of redesigns.\n\nKey factors:\n- Standard side and rear yard setbacks, and any ADU‑specific reductions\n- Whether your project is all‑new construction or a conversion of an existing structure\n- Easements and utility lines that may require extra clearance\n- Height limits and window placement affecting neighbor privacy\n\nGet a current copy of your local ADU setback rules and have your designer measure from surveyed property lines, not old fences. Don’t rely on assumptions about where your lot really ends.\n\nPros familiar with local ADU codes can layout the unit to maximize space while staying compliant and neighbor‑friendly.",
+        "@type": "Answer",
+        "description": "New detached ADUs typically must sit at least about 4 feet from the side and rear property lines, while converted existing structures sometimes can stay closer. Rules vary by jurisdiction and whether it’s new build or conversion, so have your designer lay out the ADU using actual surveyed property lines and current codes."
+      }
+    }
+  ],
+  "description": "New detached ADUs typically must sit at least about 4 feet from the side and rear property lines, while converted existing structures sometimes can stay closer."
+}

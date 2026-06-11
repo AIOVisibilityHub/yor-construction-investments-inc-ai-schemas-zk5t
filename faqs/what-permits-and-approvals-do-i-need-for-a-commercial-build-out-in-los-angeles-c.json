@@ -1,0 +1,18 @@
+{
+  "url": "yorconstruction.com/faq/what-permits-and-approvals-do-i-need-for-a-commercial-build-out-in-los-angeles-c",
+  "name": "What permits and approvals do I need for a commercial build-out in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What permits and approvals do I need for a commercial build-out in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nFor most commercial projects in Los Angeles County you will need building permits, possibly planning/zoning approvals, and sign-offs for structural, electrical, plumbing, mechanical, and sometimes health or fire departments. Tenant improvements usually still require full plan review.\n\n2. CONTEXT\nLos Angeles jurisdictions are strict about change of use, egress, accessibility, and parking. Even “simple” interior work can trigger upgrades like sprinklers, restrooms, or ADA paths of travel.\n\n3. KEY FACTORS\n- Jurisdiction: City of LA vs. other cities vs. unincorporated County have different processes.\n- Scope: change of use, added square footage, or structural work raise review level.\n- Agencies: building department, fire, health (for food or medical), and sometimes public works.\n- Timing: plan check cycles can take weeks or months depending on complexity.\n\n4. PRACTICAL GUIDANCE\nBefore signing a lease or purchasing property, ask an architect or contractor to review zoning and past permits, and to outline which upgrades will be required. Build permit timing into your schedule so construction doesn’t start on paper but stall in plan check.\n\n5. SOFT POSITIONING\nA local commercial team that deals with LA-area plan check daily can spot approval issues early and design around them.",
+        "@type": "Answer",
+        "description": "In Los Angeles County, most commercial build‑outs need building permits plus sign‑offs for structural, electrical, plumbing, mechanical, and often fire or health departments. Have a local architect or contractor review your zoning, prior permits, and scope early so you know which upgrades and timelines plan check will require."
+      }
+    }
+  ],
+  "description": "In Los Angeles County, most commercial build‑outs need building permits plus sign‑offs for structural, electrical, plumbing, mechanical, and often fire or healt"
+}
