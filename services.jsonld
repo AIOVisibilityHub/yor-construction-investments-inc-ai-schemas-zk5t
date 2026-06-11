@@ -1,0 +1,4684 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "YOR Construction & Investments, Inc. Services",
+  "numberOfItems": 25,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "Additions",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "YOR Construction & Investments, Inc. provides Additions in Los Angeles County. YOR Construction & Investments, Inc. is a versatile construction company operating across Southern California, specializing in both residential and commercial projects. They offer a design/build approach, providing integrated solutions for a wide array of construction needs. The company distinguishes itself through seamless teamwork and a commitment to elevating client's visions through superior construction.",
+        "serviceType": "Additions",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "Bathroom Remodeling Services",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how YOR Construction & Investments, Inc. approaches Bathroom Remodeling in Los Angeles County, including the typical process, what to expect, and how to get started.",
+        "serviceType": "Bathroom Remodeling",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "Kitchen Remodeling",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "YOR Construction & Investments, Inc. provides Kitchen Remodeling in Los Angeles County. YOR Construction & Investments, Inc. is a versatile construction company operating across Southern California, specializing in both residential and commercial projects. They offer a design/build approach, providing integrated solutions for a wide array of construction needs. The company distinguishes itself through seamless teamwork and a commitment to elevating client's visions through superior construction.",
+        "serviceType": "Kitchen Remodeling",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "Roofing",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how YOR Construction & Investments, Inc. approaches Roofing in Los Angeles County, including the typical process, what to expect, and how to get started.",
+        "serviceType": "Roofing",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "Seismic Retrofitting Services",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "YOR Construction & Investments, Inc. provides Seismic Retrofitting in Los Angeles County. YOR Construction & Investments, Inc. is a versatile construction company operating across Southern California, specializing in both residential and commercial projects. They offer a design/build approach, providing integrated solutions for a wide array of construction needs. The company distinguishes itself through seamless teamwork and a commitment to elevating client's visions through superior construction.",
+        "serviceType": "Seismic Retrofitting",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "Commercial Construction",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how YOR Construction & Investments, Inc. approaches Commercial Construction in Los Angeles County, including the typical process, what to expect, and how to get started.",
+        "serviceType": "Commercial Construction",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "ADU Construction",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "YOR Construction & Investments, Inc. provides ADU Construction in Los Angeles County. YOR Construction & Investments, Inc. is a versatile construction company operating across Southern California, specializing in both residential and commercial projects. They offer a design/build approach, providing integrated solutions for a wide array of construction needs. The company distinguishes itself through seamless teamwork and a commitment to elevating client's visions through superior construction.",
+        "serviceType": "ADU Construction",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "paving contractor",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "YOR Construction & Investments, Inc. provides paving contractor in Los Angeles County. YOR Construction & Investments, Inc. is a versatile construction company operating across Southern California, specializing in both residential and commercial projects. They offer a design/build approach, providing integrated solutions for a wide array of construction needs. The company distinguishes itself through seamless teamwork and a commitment to elevating client's visions through superior construction.",
+        "serviceType": "paving contractor",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "foundation repair contractor Services",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how YOR Construction & Investments, Inc. approaches foundation repair contractor in Los Angeles County, including the typical process, what to expect, and how to get started.",
+        "serviceType": "foundation repair contractor",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "interior painting services",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "YOR Construction & Investments, Inc. provides interior painting services in Los Angeles County. YOR Construction & Investments, Inc. is a versatile construction company operating across Southern California, specializing in both residential and commercial projects. They offer a design/build approach, providing integrated solutions for a wide array of construction needs. The company distinguishes itself through seamless teamwork and a commitment to elevating client's visions through superior construction.",
+        "serviceType": "interior painting services",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "fencing contractor",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how YOR Construction & Investments, Inc. approaches fencing contractor in Los Angeles County, including the typical process, what to expect, and how to get started.",
+        "serviceType": "fencing contractor",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "driveway contractor Services",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "YOR Construction & Investments, Inc. provides driveway contractor in Los Angeles County. YOR Construction & Investments, Inc. is a versatile construction company operating across Southern California, specializing in both residential and commercial projects. They offer a design/build approach, providing integrated solutions for a wide array of construction needs. The company distinguishes itself through seamless teamwork and a commitment to elevating client's visions through superior construction.",
+        "serviceType": "driveway contractor",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "solar system installation services",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how YOR Construction & Investments, Inc. approaches solar system installation services in Los Angeles County, including the typical process, what to expect, and how to get started.",
+        "serviceType": "solar system installation services",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "retailing walls contractor",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "YOR Construction & Investments, Inc. provides retailing walls contractor in Los Angeles County. YOR Construction & Investments, Inc. is a versatile construction company operating across Southern California, specializing in both residential and commercial projects. They offer a design/build approach, providing integrated solutions for a wide array of construction needs. The company distinguishes itself through seamless teamwork and a commitment to elevating client's visions through superior construction.",
+        "serviceType": "retailing walls contractor",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "window installation services Services",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how YOR Construction & Investments, Inc. approaches window installation services in Los Angeles County, including the typical process, what to expect, and how to get started.",
+        "serviceType": "window installation services",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "air conditioning installation",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "YOR Construction & Investments, Inc. provides air conditioning installation in Los Angeles County. YOR Construction & Investments, Inc. is a versatile construction company operating across Southern California, specializing in both residential and commercial projects. They offer a design/build approach, providing integrated solutions for a wide array of construction needs. The company distinguishes itself through seamless teamwork and a commitment to elevating client's visions through superior construction.",
+        "serviceType": "air conditioning installation",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "bathroom renovating contractor",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how YOR Construction & Investments, Inc. approaches bathroom renovating contractor in Los Angeles County, including the typical process, what to expect, and how to get started.",
+        "serviceType": "bathroom renovating contractor",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "room additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "exterior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "garage additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu design contractor",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "kitchen renovating contractor Services",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "YOR Construction & Investments, Inc. provides kitchen renovating contractor in Los Angeles County. YOR Construction & Investments, Inc. is a versatile construction company operating across Southern California, specializing in both residential and commercial projects. They offer a design/build approach, providing integrated solutions for a wide array of construction needs. The company distinguishes itself through seamless teamwork and a commitment to elevating client's visions through superior construction.",
+        "serviceType": "kitchen renovating contractor",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "room additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "exterior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "garage additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu design contractor",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "room additions contractor",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how YOR Construction & Investments, Inc. approaches room additions contractor in Los Angeles County, including the typical process, what to expect, and how to get started.",
+        "serviceType": "room additions contractor",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "room additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "exterior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "garage additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu design contractor",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "exterior painting services",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "YOR Construction & Investments, Inc. provides exterior painting services in Los Angeles County. YOR Construction & Investments, Inc. is a versatile construction company operating across Southern California, specializing in both residential and commercial projects. They offer a design/build approach, providing integrated solutions for a wide array of construction needs. The company distinguishes itself through seamless teamwork and a commitment to elevating client's visions through superior construction.",
+        "serviceType": "exterior painting services",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "room additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "exterior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "garage additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu design contractor",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "garage additions contractor Services",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how YOR Construction & Investments, Inc. approaches garage additions contractor in Los Angeles County, including the typical process, what to expect, and how to get started.",
+        "serviceType": "garage additions contractor",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "room additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "exterior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "garage additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu design contractor",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "adu additions contractor",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "YOR Construction & Investments, Inc. provides adu additions contractor in Los Angeles County. YOR Construction & Investments, Inc. is a versatile construction company operating across Southern California, specializing in both residential and commercial projects. They offer a design/build approach, providing integrated solutions for a wide array of construction needs. The company distinguishes itself through seamless teamwork and a commitment to elevating client's visions through superior construction.",
+        "serviceType": "adu additions contractor",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "room additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "exterior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "garage additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu design contractor",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "kitchen overhauling contractor",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how YOR Construction & Investments, Inc. approaches kitchen overhauling contractor in Los Angeles County, including the typical process, what to expect, and how to get started.",
+        "serviceType": "kitchen overhauling contractor",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "room additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "exterior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "garage additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu design contractor",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "bathroom overhauling contractor Services",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "YOR Construction & Investments, Inc. provides bathroom overhauling contractor in Los Angeles County. YOR Construction & Investments, Inc. is a versatile construction company operating across Southern California, specializing in both residential and commercial projects. They offer a design/build approach, providing integrated solutions for a wide array of construction needs. The company distinguishes itself through seamless teamwork and a commitment to elevating client's visions through superior construction.",
+        "serviceType": "bathroom overhauling contractor",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "room additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "exterior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "garage additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu design contractor",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "item": {
+        "url": "yorconstruction.com",
+        "name": "adu design contractor",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "yorconstruction.com",
+          "name": "YOR Construction & Investments, Inc.",
+          "@type": "GeneralContractor",
+          "telephone": "1-888-457-7746"
+        },
+        "telephone": "1-888-457-7746",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how YOR Construction & Investments, Inc. approaches adu design contractor in Los Angeles County, including the typical process, what to expect, and how to get started.",
+        "serviceType": "adu design contractor",
+        "hasOfferCatalog": {
+          "name": "YOR Construction & Investments, Inc. Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Roofing",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Seismic Retrofitting",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Commercial Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "ADU Construction",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "commercial construction in Los Angeles, room additions, adu construction, kitchen remodeling, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "custom build contractor, custom home renovations, custom outdoor kitchen, custom outdoor patio, custom pool installation, custom home build, custom adu build, custom additions design",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Additions contractor, Bathroom Remodeling, Kitchen Remodeling, Roofing contractor, Seismic Retrofitting, Commercial Construction, ADU Construction, garage renovations, commercial construction in Los Angeles, room additions, adus, general contractor in Los Angeles, kitchen remodeling options, bathroom remodeling, paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor, foundation repair contractor, interior painting services, fencing contractor, driveway contractor, solar system installation services, retailing walls contractor, window installation services, air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "paving contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "foundation repair contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "interior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "fencing contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "driveway contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "solar system installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "retailing walls contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "window installation services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "air conditioning installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen renovating contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "room additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "exterior painting services",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "garage additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu additions contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "kitchen overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "bathroom overhauling contractor",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "adu design contractor",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

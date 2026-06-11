@@ -1,2 +1,690 @@
-# yor-construction-investments-inc-ai-schemas-zk5t
-YOR Construction &amp; Investments, Inc. — Schema.org validated JSON-LD structured data
+# YOR Construction & Investments, Inc. — AI Data Package
+
+Canonical AI Data Package for YOR Construction & Investments, Inc..
+
+- Canonical: yorconstruction.com
+- Master index: [ai-data.html](./ai-data.html)
+- Source-of-truth manifest: [data/publishing-manifest.json](./data/publishing-manifest.json)
+- Root manifest copy: [publishing-manifest.json](./publishing-manifest.json)
+- LLM hint: [llms.txt](./llms.txt)
+
+## Stats
+- 734 qna
+- 431 faqs
+- 3 reviews
+- 265 research
+- 25 services
+- 27 webpages
+- 41 helpArticles
+- 1 organization
+- **1527** total
+
+
+## Package Contents
+
+Every file below is listed in [`data/publishing-manifest.json`](./data/publishing-manifest.json) — the manifest is the source of truth.
+
+### Root AI Files (6)
+- [`.nojekyll`](./.nojekyll) — Disable Jekyll on GitHub Pages
+- [`index.html`](./index.html) — Landing page (redirects to ai-data.html)
+- [`llms.txt`](./llms.txt) — LLM hint
+- [`manifest.json`](./manifest.json) — Web app manifest
+- [`related-destinations.json`](./related-destinations.json) — Cross-Destination Index (Related AI Data Sources)
+- [`robots.txt`](./robots.txt) — Robots policy
+
+### Entity Profile (13)
+- [`about.jsonld`](./about.jsonld) — AboutPage JSON-LD
+- [`brand-profile.json`](./brand-profile.json) — Brand profile
+- [`business-overview.json`](./business-overview.json) — Business overview
+- [`contact.jsonld`](./contact.jsonld) — ContactPage JSON-LD
+- [`entity-profile.json`](./entity-profile.json) — Entity profile summary
+- [`full-context.json`](./full-context.json) — Full entity context (JSON)
+- [`full-context.yaml`](./full-context.yaml) — Full entity context (YAML)
+- [`home-and-construction-business.jsonld`](./home-and-construction-business.jsonld) — HomeAndConstructionBusiness JSON-LD
+- [`identifiers.json`](./identifiers.json) — External identifiers & sameAs
+- [`knowledge-graph.json`](./knowledge-graph.json) — Combined Schema.org @graph
+- [`local-business.jsonld`](./local-business.jsonld) — LocalBusiness JSON-LD
+- [`organization.jsonld`](./organization.jsonld) — Primary Organization JSON-LD
+- [`same-as.jsonld`](./same-as.jsonld) — sameAs graph for entity disambiguation
+
+### Organization & About (1)
+- [`organization/yor-construction-investments-inc-organization.json`](./organization/yor-construction-investments-inc-organization.json) — schema
+
+### Services (32)
+- [`case-types.json`](./case-types.json) — Case types
+- [`offer-catalog.jsonld`](./offer-catalog.jsonld) — OfferCatalog JSON-LD
+- [`practice-areas.jsonld`](./practice-areas.jsonld) — Practice areas ItemList
+- [`service-catalog.json`](./service-catalog.json) — Service catalog data
+- [`service-pages.json`](./service-pages.json) — Service pages data
+- [`services.jsonld`](./services.jsonld) — Services ItemList
+- [`services/additions-service.json`](./services/additions-service.json) — schema
+- [`services/adu-additions-contractor-service.json`](./services/adu-additions-contractor-service.json) — schema
+- [`services/adu-construction-service.json`](./services/adu-construction-service.json) — schema
+- [`services/adu-design-contractor-service.json`](./services/adu-design-contractor-service.json) — schema
+- [`services/air-conditioning-installation-service.json`](./services/air-conditioning-installation-service.json) — schema
+- [`services/bathroom-overhauling-contractor-service.json`](./services/bathroom-overhauling-contractor-service.json) — schema
+- [`services/bathroom-remodeling-service.json`](./services/bathroom-remodeling-service.json) — schema
+- [`services/bathroom-renovating-contractor-service.json`](./services/bathroom-renovating-contractor-service.json) — schema
+- [`services/commercial-construction-service.json`](./services/commercial-construction-service.json) — schema
+- [`services/driveway-contractor-service.json`](./services/driveway-contractor-service.json) — schema
+- [`services/exterior-painting-services-service.json`](./services/exterior-painting-services-service.json) — schema
+- [`services/fencing-contractor-service.json`](./services/fencing-contractor-service.json) — schema
+- [`services/foundation-repair-contractor-service.json`](./services/foundation-repair-contractor-service.json) — schema
+- [`services/garage-additions-contractor-service.json`](./services/garage-additions-contractor-service.json) — schema
+- [`services/interior-painting-services-service.json`](./services/interior-painting-services-service.json) — schema
+- [`services/kitchen-overhauling-contractor-service.json`](./services/kitchen-overhauling-contractor-service.json) — schema
+- [`services/kitchen-remodeling-service.json`](./services/kitchen-remodeling-service.json) — schema
+- [`services/kitchen-renovating-contractor-service.json`](./services/kitchen-renovating-contractor-service.json) — schema
+- [`services/paving-contractor-service.json`](./services/paving-contractor-service.json) — schema
+- [`services/retailing-walls-contractor-service.json`](./services/retailing-walls-contractor-service.json) — schema
+- [`services/roofing-service.json`](./services/roofing-service.json) — schema
+- [`services/room-additions-contractor-service.json`](./services/room-additions-contractor-service.json) — schema
+- [`services/seismic-retrofitting-service.json`](./services/seismic-retrofitting-service.json) — schema
+- [`services/solar-system-installation-services-service.json`](./services/solar-system-installation-services-service.json) — schema
+- [`services/window-installation-services-service.json`](./services/window-installation-services-service.json) — schema
+- [`specialties.jsonld`](./specialties.jsonld) — Specialties ItemList
+
+### Locations (5)
+- [`city-service-areas.json`](./city-service-areas.json) — City service areas
+- [`geo-coverage.json`](./geo-coverage.json) — Geographic coverage summary
+- [`location-pages.json`](./location-pages.json) — Location pages data
+- [`locations.jsonld`](./locations.jsonld) — Locations ItemList
+- [`service-areas.jsonld`](./service-areas.jsonld) — Service areas ItemList
+
+### Attorneys / Team (6)
+- [`homeandconstructionbusiness-team.jsonld`](./homeandconstructionbusiness-team.jsonld) — HomeAndConstructionBusiness team wrapper
+- [`professionals.jsonld`](./professionals.jsonld) — Professionals ItemList
+- [`team-bios.json`](./team-bios.json) — Team bios (JSON)
+- [`team-bios.md`](./team-bios.md) — Team bios (markdown)
+- [`team.json`](./team.json) — Team data bundle
+- [`team.jsonld`](./team.jsonld) — Aggregate team ItemList
+
+### FAQs (433)
+- [`faq.md`](./faq.md) — FAQs (markdown)
+- [`faqs.jsonld`](./faqs.jsonld) — FAQs ItemList
+- [`faqs/additions-do-i-need-an-architect-for-my-addition-or-can-a-contractor-handle-the-.json`](./faqs/additions-do-i-need-an-architect-for-my-addition-or-can-a-contractor-handle-the-.json) — schema
+- [`faqs/additions-how-can-i-keep-construction-dust-noise-and-mess-under-control-during-a.json`](./faqs/additions-how-can-i-keep-construction-dust-noise-and-mess-under-control-during-a.json) — schema
+- [`faqs/additions-how-do-i-avoid-getting-burned-by-a-bad-contractor-on-my-addition-proje.json`](./faqs/additions-how-do-i-avoid-getting-burned-by-a-bad-contractor-on-my-addition-proje.json) — schema
+- [`faqs/additions-how-do-i-make-sure-my-new-addition-doesn-t-look-like-it-was-obviously-.json`](./faqs/additions-how-do-i-make-sure-my-new-addition-doesn-t-look-like-it-was-obviously-.json) — schema
+- [`faqs/additions-how-long-does-a-typical-home-addition-take-from-first-idea-to-move-in-.json`](./faqs/additions-how-long-does-a-typical-home-addition-take-from-first-idea-to-move-in-.json) — schema
+- [`faqs/additions-is-it-cheaper-to-build-up-with-a-second-story-addition-or-build-out-on.json`](./faqs/additions-is-it-cheaper-to-build-up-with-a-second-story-addition-or-build-out-on.json) — schema
+- [`faqs/additions-what-permits-do-i-need-for-a-home-addition-in-los-angeles-and-who-hand.json`](./faqs/additions-what-permits-do-i-need-for-a-home-addition-in-los-angeles-and-who-hand.json) — schema
+- [`faqs/additions-what-s-different-about-building-an-addition-on-a-hillside-or-sloped-lo.json`](./faqs/additions-what-s-different-about-building-an-addition-on-a-hillside-or-sloped-lo.json) — schema
+- [`faqs/additions-will-a-home-addition-pay-off-when-i-sell-or-am-i-overbuilding-for-my-n.json`](./faqs/additions-will-a-home-addition-pay-off-when-i-sell-or-am-i-overbuilding-for-my-n.json) — schema
+- [`faqs/additions-will-seismic-retrofitting-increase-my-property-taxes-in-los-angeles-co.json`](./faqs/additions-will-seismic-retrofitting-increase-my-property-taxes-in-los-angeles-co.json) — schema
+- [`faqs/adu-construction-can-i-diy-parts-of-my-adu-construction-to-save-money-or-is-that.json`](./faqs/adu-construction-can-i-diy-parts-of-my-adu-construction-to-save-money-or-is-that.json) — schema
+- [`faqs/adu-construction-can-i-live-in-my-house-during-adu-construction-or-will-i-need-t.json`](./faqs/adu-construction-can-i-live-in-my-house-during-adu-construction-or-will-i-need-t.json) — schema
+- [`faqs/adu-construction-how-does-adu-construction-impact-my-property-taxes-and-insuranc.json`](./faqs/adu-construction-how-does-adu-construction-impact-my-property-taxes-and-insuranc.json) — schema
+- [`faqs/adu-construction-what-are-the-biggest-hidden-costs-people-don-t-see-coming-with-.json`](./faqs/adu-construction-what-are-the-biggest-hidden-costs-people-don-t-see-coming-with-.json) — schema
+- [`faqs/adu-construction-what-can-go-wrong-during-adu-construction-and-how-do-i-avoid-ho.json`](./faqs/adu-construction-what-can-go-wrong-during-adu-construction-and-how-do-i-avoid-ho.json) — schema
+- [`faqs/adu-construction-what-inspections-should-i-expect-during-adu-construction-and-wh.json`](./faqs/adu-construction-what-inspections-should-i-expect-during-adu-construction-and-wh.json) — schema
+- [`faqs/are-there-any-grants-rebates-or-financial-assistance-programs-to-help-pay-for-se.json`](./faqs/are-there-any-grants-rebates-or-financial-assistance-programs-to-help-pay-for-se.json) — schema
+- [`faqs/are-there-any-special-adu-rules-i-should-know-about-if-my-property-is-in-the-cit.json`](./faqs/are-there-any-special-adu-rules-i-should-know-about-if-my-property-is-in-the-cit.json) — schema
+- [`faqs/bathroom-remodeling-are-walk-in-showers-worth-it-in-bathroom-remodeling-44.json`](./faqs/bathroom-remodeling-are-walk-in-showers-worth-it-in-bathroom-remodeling-44.json) — schema
+- [`faqs/bathroom-remodeling-how-do-i-choose-the-right-bathroom-remodeling-contractor-34.json`](./faqs/bathroom-remodeling-how-do-i-choose-the-right-bathroom-remodeling-contractor-34.json) — schema
+- [`faqs/bathroom-remodeling-what-are-the-best-bathroom-remodeling-options-for-rancho-pal.json`](./faqs/bathroom-remodeling-what-are-the-best-bathroom-remodeling-options-for-rancho-pal.json) — schema
+- [`faqs/bathroom-remodeling-what-hidden-problems-show-up-during-bathroom-remodeling-32.json`](./faqs/bathroom-remodeling-what-hidden-problems-show-up-during-bathroom-remodeling-32.json) — schema
+- [`faqs/can-i-add-plumbing-and-electricity-to-an-existing-patio-for-an-outdoor-kitchen.json`](./faqs/can-i-add-plumbing-and-electricity-to-an-existing-patio-for-an-outdoor-kitchen.json) — schema
+- [`faqs/can-i-build-a-two-story-adu-or-an-adu-over-my-garage-in-los-angeles-or-am-i-limi.json`](./faqs/can-i-build-a-two-story-adu-or-an-adu-over-my-garage-in-los-angeles-or-am-i-limi.json) — schema
+- [`faqs/can-i-build-an-outdoor-kitchen-on-a-small-patio-or-tight-backyard.json`](./faqs/can-i-build-an-outdoor-kitchen-on-a-small-patio-or-tight-backyard.json) — schema
+- [`faqs/can-i-convert-my-existing-detached-garage-into-an-adu-in-los-angeles-and-what-sh.json`](./faqs/can-i-convert-my-existing-detached-garage-into-an-adu-in-los-angeles-and-what-sh.json) — schema
+- [`faqs/can-i-diy-part-of-my-home-addition-to-save-money-and-which-parts-are-safe-to-tac.json`](./faqs/can-i-diy-part-of-my-home-addition-to-save-money-and-which-parts-are-safe-to-tac.json) — schema
+- [`faqs/can-i-do-my-own-seismic-retrofitting-as-a-diy-project-or-is-that-a-bad-idea.json`](./faqs/can-i-do-my-own-seismic-retrofitting-as-a-diy-project-or-is-that-a-bad-idea.json) — schema
+- [`faqs/can-i-live-in-my-house-during-a-kitchen-remodel-or-is-that-a-bad-idea.json`](./faqs/can-i-live-in-my-house-during-a-kitchen-remodel-or-is-that-a-bad-idea.json) — schema
+- [`faqs/can-i-live-in-my-house-during-a-major-addition-or-do-i-need-to-move-out.json`](./faqs/can-i-live-in-my-house-during-a-major-addition-or-do-i-need-to-move-out.json) — schema
+- [`faqs/can-i-live-in-my-house-while-building-an-adu-in-the-backyard-or-will-constructio.json`](./faqs/can-i-live-in-my-house-while-building-an-adu-in-the-backyard-or-will-constructio.json) — schema
+- [`faqs/can-i-manage-a-commercial-construction-project-myself-to-save-money-or-do-i-real.json`](./faqs/can-i-manage-a-commercial-construction-project-myself-to-save-money-or-do-i-real.json) — schema
+- [`faqs/can-i-phase-a-large-remodel-kitchen-baths-and-additions-to-spread-out-costs-or-i.json`](./faqs/can-i-phase-a-large-remodel-kitchen-baths-and-additions-to-spread-out-costs-or-i.json) — schema
+- [`faqs/can-i-rent-out-my-adu-long-term-or-on-airbnb-in-los-angeles-county-and-are-there.json`](./faqs/can-i-rent-out-my-adu-long-term-or-on-airbnb-in-los-angeles-county-and-are-there.json) — schema
+- [`faqs/can-i-stay-in-my-house-during-a-bathroom-remodel-or-is-that-unrealistic.json`](./faqs/can-i-stay-in-my-house-during-a-bathroom-remodel-or-is-that-unrealistic.json) — schema
+- [`faqs/can-i-stay-in-my-house-during-a-roof-replacement-or-is-it-unsafe.json`](./faqs/can-i-stay-in-my-house-during-a-roof-replacement-or-is-it-unsafe.json) — schema
+- [`faqs/commercial-construction-can-commercial-construction-be-done-on-a-tight-deadline-.json`](./faqs/commercial-construction-can-commercial-construction-be-done-on-a-tight-deadline-.json) — schema
+- [`faqs/commercial-construction-how-can-i-keep-my-business-open-during-commercial-constr.json`](./faqs/commercial-construction-how-can-i-keep-my-business-open-during-commercial-constr.json) — schema
+- [`faqs/commercial-construction-how-long-does-a-commercial-construction-project-usually-.json`](./faqs/commercial-construction-how-long-does-a-commercial-construction-project-usually-.json) — schema
+- [`faqs/commercial-construction-how-much-contingency-should-i-budget-for-commercial-cons.json`](./faqs/commercial-construction-how-much-contingency-should-i-budget-for-commercial-cons.json) — schema
+- [`faqs/commercial-construction-what-permits-do-i-need-before-starting-commercial-constr.json`](./faqs/commercial-construction-what-permits-do-i-need-before-starting-commercial-constr.json) — schema
+- [`faqs/commercial-construction-what-should-i-ask-a-contractor-before-signing-a-commerci.json`](./faqs/commercial-construction-what-should-i-ask-a-contractor-before-signing-a-commerci.json) — schema
+- [`faqs/commercial-construction-what-should-i-know-before-starting-commercial-constructi.json`](./faqs/commercial-construction-what-should-i-know-before-starting-commercial-constructi.json) — schema
+- [`faqs/commercial-construction-why-is-my-commercial-construction-bid-so-different-from-.json`](./faqs/commercial-construction-why-is-my-commercial-construction-bid-so-different-from-.json) — schema
+- [`faqs/do-i-even-qualify-to-build-an-adu-on-my-los-angeles-county-property.json`](./faqs/do-i-even-qualify-to-build-an-adu-on-my-los-angeles-county-property.json) — schema
+- [`faqs/do-i-need-a-permit-for-an-outdoor-kitchen-in-california.json`](./faqs/do-i-need-a-permit-for-an-outdoor-kitchen-in-california.json) — schema
+- [`faqs/do-i-need-a-permit-to-remodel-my-bathroom-in-los-angeles-county.json`](./faqs/do-i-need-a-permit-to-remodel-my-bathroom-in-los-angeles-county.json) — schema
+- [`faqs/do-i-need-extra-parking-for-an-adu-in-los-angeles-or-can-i-skip-it.json`](./faqs/do-i-need-extra-parking-for-an-adu-in-los-angeles-or-can-i-skip-it.json) — schema
+- [`faqs/do-i-really-need-permits-for-a-kitchen-remodel-in-los-angeles-county.json`](./faqs/do-i-really-need-permits-for-a-kitchen-remodel-in-los-angeles-county.json) — schema
+- [`faqs/does-seismic-retrofitting-actually-increase-my-home-s-value-or-is-it-just-sunk-c.json`](./faqs/does-seismic-retrofitting-actually-increase-my-home-s-value-or-is-it-just-sunk-c.json) — schema
+- [`faqs/does-seismic-retrofitting-change-how-my-house-looks-or-is-it-mostly-hidden.json`](./faqs/does-seismic-retrofitting-change-how-my-house-looks-or-is-it-mostly-hidden.json) — schema
+- [`faqs/for-a-garage-renovation-that-s-not-an-adu-what-should-i-consider-if-i-might-want.json`](./faqs/for-a-garage-renovation-that-s-not-an-adu-what-should-i-consider-if-i-might-want.json) — schema
+- [`faqs/for-a-kitchen-remodel-how-do-i-prioritize-where-to-spend-vs-where-to-save-withou.json`](./faqs/for-a-kitchen-remodel-how-do-i-prioritize-where-to-spend-vs-where-to-save-withou.json) — schema
+- [`faqs/for-commercial-construction-in-los-angeles-what-s-different-from-renovating-a-ho.json`](./faqs/for-commercial-construction-in-los-angeles-what-s-different-from-renovating-a-ho.json) — schema
+- [`faqs/for-los-angeles-seismic-retrofits-and-additions-how-do-local-codes-affect-my-pro.json`](./faqs/for-los-angeles-seismic-retrofits-and-additions-how-do-local-codes-affect-my-pro.json) — schema
+- [`faqs/general-are-the-rules-or-timelines-different-for-adus-in-pasadena-compared-to-lo.json`](./faqs/general-are-the-rules-or-timelines-different-for-adus-in-pasadena-compared-to-lo.json) — schema
+- [`faqs/general-are-there-any-special-design-or-construction-considerations-for-kitchens.json`](./faqs/general-are-there-any-special-design-or-construction-considerations-for-kitchens.json) — schema
+- [`faqs/general-can-a-small-bathroom-be-remodeled-without-making-it-feel-crowded-38.json`](./faqs/general-can-a-small-bathroom-be-remodeled-without-making-it-feel-crowded-38.json) — schema
+- [`faqs/general-can-i-convert-my-existing-detached-garage-into-an-adu-and-is-that-cheape.json`](./faqs/general-can-i-convert-my-existing-detached-garage-into-an-adu-and-is-that-cheape.json) — schema
+- [`faqs/general-can-i-just-patch-over-a-leak-myself-or-do-i-really-need-a-professional-r.json`](./faqs/general-can-i-just-patch-over-a-leak-myself-or-do-i-really-need-a-professional-r.json) — schema
+- [`faqs/general-can-i-live-in-my-home-during-a-bathroom-remodel-31.json`](./faqs/general-can-i-live-in-my-home-during-a-bathroom-remodel-31.json) — schema
+- [`faqs/general-can-i-live-in-my-home-during-a-kitchen-remodel-in-los-angeles-or-is-that.json`](./faqs/general-can-i-live-in-my-home-during-a-kitchen-remodel-in-los-angeles-or-is-that.json) — schema
+- [`faqs/general-can-i-live-in-my-house-during-a-major-addition-or-is-it-smarter-to-move-.json`](./faqs/general-can-i-live-in-my-house-during-a-major-addition-or-is-it-smarter-to-move-.json) — schema
+- [`faqs/general-do-i-need-a-permit-for-a-bathroom-remodel-in-los-angeles-26.json`](./faqs/general-do-i-need-a-permit-for-a-bathroom-remodel-in-los-angeles-26.json) — schema
+- [`faqs/general-do-i-need-to-upgrade-plumbing-or-electrical-during-a-bathroom-remodel-46.json`](./faqs/general-do-i-need-to-upgrade-plumbing-or-electrical-during-a-bathroom-remodel-46.json) — schema
+- [`faqs/general-do-i-really-need-an-architect-or-designer-for-a-small-adu-or-can-a-contr.json`](./faqs/general-do-i-really-need-an-architect-or-designer-for-a-small-adu-or-can-a-contr.json) — schema
+- [`faqs/general-do-i-really-need-permits-for-a-kitchen-remodel-in-los-angeles-county-57.json`](./faqs/general-do-i-really-need-permits-for-a-kitchen-remodel-in-los-angeles-county-57.json) — schema
+- [`faqs/general-how-can-i-design-an-addition-that-works-for-my-family-now-but-also-lets-.json`](./faqs/general-how-can-i-design-an-addition-that-works-for-my-family-now-but-also-lets-.json) — schema
+- [`faqs/general-how-do-contractors-handle-unexpected-problems-inside-older-buildings-138.json`](./faqs/general-how-do-contractors-handle-unexpected-problems-inside-older-buildings-138.json) — schema
+- [`faqs/general-how-do-i-avoid-change-orders-on-a-commercial-job-135.json`](./faqs/general-how-do-i-avoid-change-orders-on-a-commercial-job-135.json) — schema
+- [`faqs/general-how-do-i-choose-the-right-adu-contractor-in-los-angeles-and-avoid-gettin.json`](./faqs/general-how-do-i-choose-the-right-adu-contractor-in-los-angeles-and-avoid-gettin.json) — schema
+- [`faqs/general-how-do-i-choose-the-right-commercial-contractor-for-my-project-in-los-an.json`](./faqs/general-how-do-i-choose-the-right-commercial-contractor-for-my-project-in-los-an.json) — schema
+- [`faqs/general-how-do-i-choose-the-right-kitchen-contractor-in-los-angeles-among-so-man.json`](./faqs/general-how-do-i-choose-the-right-kitchen-contractor-in-los-angeles-among-so-man.json) — schema
+- [`faqs/general-how-do-i-choose-the-right-seismic-retrofit-contractor-in-los-angeles-wit.json`](./faqs/general-how-do-i-choose-the-right-seismic-retrofit-contractor-in-los-angeles-wit.json) — schema
+- [`faqs/general-how-do-i-get-accurate-pricing-for-a-tenant-improvement-project-133.json`](./faqs/general-how-do-i-get-accurate-pricing-for-a-tenant-improvement-project-133.json) — schema
+- [`faqs/general-how-do-i-keep-a-bathroom-remodel-on-budget-41.json`](./faqs/general-how-do-i-keep-a-bathroom-remodel-on-budget-41.json) — schema
+- [`faqs/general-how-do-i-know-if-a-contractor-has-enough-experience-for-my-type-of-proje.json`](./faqs/general-how-do-i-know-if-a-contractor-has-enough-experience-for-my-type-of-proje.json) — schema
+- [`faqs/general-how-do-i-know-if-a-contractor-will-really-finish-the-job-after-they-star.json`](./faqs/general-how-do-i-know-if-a-contractor-will-really-finish-the-job-after-they-star.json) — schema
+- [`faqs/general-how-do-i-know-if-my-bathroom-needs-a-full-remodel-or-just-an-update-40.json`](./faqs/general-how-do-i-know-if-my-bathroom-needs-a-full-remodel-or-just-an-update-40.json) — schema
+- [`faqs/general-how-do-i-know-if-my-los-angeles-property-is-even-eligible-for-an-adu-bef.json`](./faqs/general-how-do-i-know-if-my-los-angeles-property-is-even-eligible-for-an-adu-bef.json) — schema
+- [`faqs/general-how-do-i-know-if-my-project-needs-a-general-contractor-or-a-specialist-1.json`](./faqs/general-how-do-i-know-if-my-project-needs-a-general-contractor-or-a-specialist-1.json) — schema
+- [`faqs/general-how-do-i-know-if-my-property-is-even-eligible-for-an-addition-under-loca.json`](./faqs/general-how-do-i-know-if-my-property-is-even-eligible-for-an-addition-under-loca.json) — schema
+- [`faqs/general-how-do-i-know-if-my-roof-needs-to-be-repaired-or-completely-replaced-73.json`](./faqs/general-how-do-i-know-if-my-roof-needs-to-be-repaired-or-completely-replaced-73.json) — schema
+- [`faqs/general-how-do-i-make-sure-my-new-kitchen-design-won-t-feel-dated-in-a-few-years.json`](./faqs/general-how-do-i-make-sure-my-new-kitchen-design-won-t-feel-dated-in-a-few-years.json) — schema
+- [`faqs/general-how-do-i-make-sure-the-finished-space-is-ada-compliant-144.json`](./faqs/general-how-do-i-make-sure-the-finished-space-is-ada-compliant-144.json) — schema
+- [`faqs/general-how-do-i-plan-a-kitchen-remodel-when-i-can-t-be-without-a-kitchen-for-mo.json`](./faqs/general-how-do-i-plan-a-kitchen-remodel-when-i-can-t-be-without-a-kitchen-for-mo.json) — schema
+- [`faqs/general-how-do-i-reduce-disruption-for-tenants-in-an-occupied-building-in-sherma.json`](./faqs/general-how-do-i-reduce-disruption-for-tenants-in-an-occupied-building-in-sherma.json) — schema
+- [`faqs/general-how-do-i-set-a-realistic-kitchen-remodel-budget-without-getting-burned-h.json`](./faqs/general-how-do-i-set-a-realistic-kitchen-remodel-budget-without-getting-burned-h.json) — schema
+- [`faqs/general-how-do-los-angeles-soft-story-retrofit-deadlines-and-requirements-differ.json`](./faqs/general-how-do-los-angeles-soft-story-retrofit-deadlines-and-requirements-differ.json) — schema
+- [`faqs/general-how-does-adding-a-bedroom-or-bathroom-affect-resale-value-specifically-i.json`](./faqs/general-how-does-adding-a-bedroom-or-bathroom-affect-resale-value-specifically-i.json) — schema
+- [`faqs/general-how-long-does-a-bathroom-remodel-take-from-start-to-finish-27.json`](./faqs/general-how-long-does-a-bathroom-remodel-take-from-start-to-finish-27.json) — schema
+- [`faqs/general-how-long-does-a-kitchen-remodel-usually-take-from-demo-to-finished-in-lo.json`](./faqs/general-how-long-does-a-kitchen-remodel-usually-take-from-demo-to-finished-in-lo.json) — schema
+- [`faqs/general-how-long-does-a-roof-replacement-typically-take-from-start-to-finish-76.json`](./faqs/general-how-long-does-a-roof-replacement-typically-take-from-start-to-finish-76.json) — schema
+- [`faqs/general-how-long-does-the-whole-adu-process-take-in-los-angeles-from-idea-to-mov.json`](./faqs/general-how-long-does-the-whole-adu-process-take-in-los-angeles-from-idea-to-mov.json) — schema
+- [`faqs/general-how-long-should-i-expect-permits-and-inspections-to-add-to-my-kitchen-re.json`](./faqs/general-how-long-should-i-expect-permits-and-inspections-to-add-to-my-kitchen-re.json) — schema
+- [`faqs/general-how-messy-is-a-bathroom-remodel-and-how-do-i-protect-the-rest-of-the-hou.json`](./faqs/general-how-messy-is-a-bathroom-remodel-and-how-do-i-protect-the-rest-of-the-hou.json) — schema
+- [`faqs/general-how-much-does-a-bathroom-remodel-usually-cost-in-los-angeles-county-25.json`](./faqs/general-how-much-does-a-bathroom-remodel-usually-cost-in-los-angeles-county-25.json) — schema
+- [`faqs/general-how-much-does-a-master-bathroom-remodel-cost-compared-with-a-guest-bathr.json`](./faqs/general-how-much-does-a-master-bathroom-remodel-cost-compared-with-a-guest-bathr.json) — schema
+- [`faqs/general-how-much-does-a-new-roof-usually-cost-in-los-angeles-county-75.json`](./faqs/general-how-much-does-a-new-roof-usually-cost-in-los-angeles-county-75.json) — schema
+- [`faqs/general-how-much-does-a-small-or-condo-kitchen-remodel-typically-cost-in-los-ang.json`](./faqs/general-how-much-does-a-small-or-condo-kitchen-remodel-typically-cost-in-los-ang.json) — schema
+- [`faqs/general-how-much-does-a-typical-kitchen-remodel-cost-in-los-angeles-county-50.json`](./faqs/general-how-much-does-a-typical-kitchen-remodel-cost-in-los-angeles-county-50.json) — schema
+- [`faqs/general-how-much-does-it-realistically-cost-to-build-an-adu-in-los-angeles-right.json`](./faqs/general-how-much-does-it-realistically-cost-to-build-an-adu-in-los-angeles-right.json) — schema
+- [`faqs/general-how-much-should-i-budget-for-unexpected-issues-33.json`](./faqs/general-how-much-should-i-budget-for-unexpected-issues-33.json) — schema
+- [`faqs/general-how-often-should-i-have-my-roof-inspected-in-a-place-like-los-angeles-78.json`](./faqs/general-how-often-should-i-have-my-roof-inspected-in-a-place-like-los-angeles-78.json) — schema
+- [`faqs/general-i-had-a-bad-contractor-experience-before-how-can-i-protect-myself-this-t.json`](./faqs/general-i-had-a-bad-contractor-experience-before-how-can-i-protect-myself-this-t.json) — schema
+- [`faqs/general-i-m-on-a-tight-budget-what-are-the-most-cost-effective-seismic-upgrades-.json`](./faqs/general-i-m-on-a-tight-budget-what-are-the-most-cost-effective-seismic-upgrades-.json) — schema
+- [`faqs/general-i-m-on-a-tight-budget-what-are-the-smartest-places-to-save-vs-spend-in-a.json`](./faqs/general-i-m-on-a-tight-budget-what-are-the-smartest-places-to-save-vs-spend-in-a.json) — schema
+- [`faqs/general-is-a-diy-kitchen-remodel-realistic-or-should-i-always-hire-professionals.json`](./faqs/general-is-a-diy-kitchen-remodel-realistic-or-should-i-always-hire-professionals.json) — schema
+- [`faqs/general-is-a-kitchen-remodel-worth-it-for-resale-value-in-los-angeles-54.json`](./faqs/general-is-a-kitchen-remodel-worth-it-for-resale-value-in-los-angeles-54.json) — schema
+- [`faqs/general-is-a-prefab-or-modular-adu-cheaper-or-faster-than-a-stick-built-adu-in-l.json`](./faqs/general-is-a-prefab-or-modular-adu-cheaper-or-faster-than-a-stick-built-adu-in-l.json) — schema
+- [`faqs/general-is-a-roof-leak-always-covered-by-homeowners-insurance-87.json`](./faqs/general-is-a-roof-leak-always-covered-by-homeowners-insurance-87.json) — schema
+- [`faqs/general-is-design-build-better-than-hiring-a-separate-architect-and-contractor-1.json`](./faqs/general-is-design-build-better-than-hiring-a-separate-architect-and-contractor-1.json) — schema
+- [`faqs/general-is-it-worth-building-an-adu-in-los-angeles-if-i-only-plan-to-rent-it-out.json`](./faqs/general-is-it-worth-building-an-adu-in-los-angeles-if-i-only-plan-to-rent-it-out.json) — schema
+- [`faqs/general-is-it-worth-retrofitting-a-small-rental-property-in-los-angeles-if-i-mig.json`](./faqs/general-is-it-worth-retrofitting-a-small-rental-property-in-los-angeles-if-i-mig.json) — schema
+- [`faqs/general-is-my-single-family-home-in-sherman-oaks-really-at-risk-if-it-was-built-.json`](./faqs/general-is-my-single-family-home-in-sherman-oaks-really-at-risk-if-it-was-built-.json) — schema
+- [`faqs/general-my-home-is-in-sherman-oaks-valley-village-tarzana-how-does-being-in-the-.json`](./faqs/general-my-home-is-in-sherman-oaks-valley-village-tarzana-how-does-being-in-the-.json) — schema
+- [`faqs/general-my-roof-is-flat-or-low-slope-what-special-issues-should-i-watch-out-for-.json`](./faqs/general-my-roof-is-flat-or-low-slope-what-special-issues-should-i-watch-out-for-.json) — schema
+- [`faqs/general-should-i-build-a-detached-adu-or-an-attached-over-garage-adu-what-are-th.json`](./faqs/general-should-i-build-a-detached-adu-or-an-attached-over-garage-adu-what-are-th.json) — schema
+- [`faqs/general-should-i-remodel-my-kitchen-or-move-to-get-a-better-kitchen-in-los-angel.json`](./faqs/general-should-i-remodel-my-kitchen-or-move-to-get-a-better-kitchen-in-los-angel.json) — schema
+- [`faqs/general-should-i-remodel-the-bathroom-before-selling-my-house-36.json`](./faqs/general-should-i-remodel-the-bathroom-before-selling-my-house-36.json) — schema
+- [`faqs/general-what-are-the-biggest-hidden-costs-that-surprise-people-during-a-home-add.json`](./faqs/general-what-are-the-biggest-hidden-costs-that-surprise-people-during-a-home-add.json) — schema
+- [`faqs/general-what-are-the-biggest-risks-if-i-delay-fixing-a-known-roof-issue-92.json`](./faqs/general-what-are-the-biggest-risks-if-i-delay-fixing-a-known-roof-issue-92.json) — schema
+- [`faqs/general-what-are-the-biggest-things-that-can-go-wrong-during-a-kitchen-remodel-5.json`](./faqs/general-what-are-the-biggest-things-that-can-go-wrong-during-a-kitchen-remodel-5.json) — schema
+- [`faqs/general-what-are-the-typical-steps-in-a-seismic-retrofit-project-for-a-soft-stor.json`](./faqs/general-what-are-the-typical-steps-in-a-seismic-retrofit-project-for-a-soft-stor.json) — schema
+- [`faqs/general-what-are-the-warning-signs-my-roof-is-about-to-start-leaking-79.json`](./faqs/general-what-are-the-warning-signs-my-roof-is-about-to-start-leaking-79.json) — schema
+- [`faqs/general-what-bathroom-remodel-gives-the-best-return-on-value-30.json`](./faqs/general-what-bathroom-remodel-gives-the-best-return-on-value-30.json) — schema
+- [`faqs/general-what-bathroom-upgrades-matter-most-for-resale-in-pasadena-37.json`](./faqs/general-what-bathroom-upgrades-matter-most-for-resale-in-pasadena-37.json) — schema
+- [`faqs/general-what-can-go-wrong-during-a-commercial-remodel-128.json`](./faqs/general-what-can-go-wrong-during-a-commercial-remodel-128.json) — schema
+- [`faqs/general-what-happens-if-construction-delays-affect-my-lease-or-opening-date-141.json`](./faqs/general-what-happens-if-construction-delays-affect-my-lease-or-opening-date-141.json) — schema
+- [`faqs/general-what-if-a-major-earthquake-hits-before-i-can-finish-retrofitting-my-vall.json`](./faqs/general-what-if-a-major-earthquake-hits-before-i-can-finish-retrofitting-my-vall.json) — schema
+- [`faqs/general-what-if-i-want-a-bathroom-remodel-but-only-have-a-limited-budget-49.json`](./faqs/general-what-if-i-want-a-bathroom-remodel-but-only-have-a-limited-budget-49.json) — schema
+- [`faqs/general-what-if-my-adu-permit-gets-delayed-or-rejected-do-i-have-any-options-bes.json`](./faqs/general-what-if-my-adu-permit-gets-delayed-or-rejected-do-i-have-any-options-bes.json) — schema
+- [`faqs/general-what-if-my-budget-is-tight-but-i-really-need-more-space-are-there-smarte.json`](./faqs/general-what-if-my-budget-is-tight-but-i-really-need-more-space-are-there-smarte.json) — schema
+- [`faqs/general-what-if-my-building-s-original-plans-are-missing-can-i-still-move-forwar.json`](./faqs/general-what-if-my-building-s-original-plans-are-missing-can-i-still-move-forwar.json) — schema
+- [`faqs/general-what-information-and-decisions-do-i-need-ready-before-my-contractor-can-.json`](./faqs/general-what-information-and-decisions-do-i-need-ready-before-my-contractor-can-.json) — schema
+- [`faqs/general-what-information-and-documents-should-i-gather-before-meeting-an-adu-con.json`](./faqs/general-what-information-and-documents-should-i-gather-before-meeting-an-adu-con.json) — schema
+- [`faqs/general-what-inspections-and-approvals-should-i-expect-during-and-after-a-home-a.json`](./faqs/general-what-inspections-and-approvals-should-i-expect-during-and-after-a-home-a.json) — schema
+- [`faqs/general-what-insurance-should-a-commercial-contractor-carry-132.json`](./faqs/general-what-insurance-should-a-commercial-contractor-carry-132.json) — schema
+- [`faqs/general-what-is-a-roof-certification-and-do-i-need-one-when-buying-or-selling-a-.json`](./faqs/general-what-is-a-roof-certification-and-do-i-need-one-when-buying-or-selling-a-.json) — schema
+- [`faqs/general-what-is-the-best-time-of-year-to-remodel-a-bathroom-in-sherman-oaks-42.json`](./faqs/general-what-is-the-best-time-of-year-to-remodel-a-bathroom-in-sherman-oaks-42.json) — schema
+- [`faqs/general-what-is-the-best-way-to-compare-commercial-contractors-139.json`](./faqs/general-what-is-the-best-way-to-compare-commercial-contractors-139.json) — schema
+- [`faqs/general-what-is-the-difference-between-a-rip-and-replace-remodel-and-a-gut-remod.json`](./faqs/general-what-is-the-difference-between-a-rip-and-replace-remodel-and-a-gut-remod.json) — schema
+- [`faqs/general-what-is-the-difference-between-a-tenant-improvement-and-a-full-commercia.json`](./faqs/general-what-is-the-difference-between-a-tenant-improvement-and-a-full-commercia.json) — schema
+- [`faqs/general-what-kind-of-maintenance-should-i-be-doing-on-my-roof-each-year-96.json`](./faqs/general-what-kind-of-maintenance-should-i-be-doing-on-my-roof-each-year-96.json) — schema
+- [`faqs/general-what-kind-of-proof-or-documentation-will-i-have-after-a-seismic-retrofit.json`](./faqs/general-what-kind-of-proof-or-documentation-will-i-have-after-a-seismic-retrofit.json) — schema
+- [`faqs/general-what-layout-rules-should-i-know-so-my-new-kitchen-actually-works-better-.json`](./faqs/general-what-layout-rules-should-i-know-so-my-new-kitchen-actually-works-better-.json) — schema
+- [`faqs/general-what-permits-do-i-actually-need-to-build-an-adu-and-who-handles-all-that.json`](./faqs/general-what-permits-do-i-actually-need-to-build-an-adu-and-who-handles-all-that.json) — schema
+- [`faqs/general-what-questions-should-i-ask-a-roofer-before-i-sign-a-contract-82.json`](./faqs/general-what-questions-should-i-ask-a-roofer-before-i-sign-a-contract-82.json) — schema
+- [`faqs/general-what-questions-should-i-ask-before-signing-a-remodel-contract-35.json`](./faqs/general-what-questions-should-i-ask-before-signing-a-remodel-contract-35.json) — schema
+- [`faqs/general-what-s-different-about-building-an-adu-in-the-city-of-los-angeles-compar.json`](./faqs/general-what-s-different-about-building-an-adu-in-the-city-of-los-angeles-compar.json) — schema
+- [`faqs/general-what-s-the-basic-process-of-a-kitchen-remodel-step-by-step-53.json`](./faqs/general-what-s-the-basic-process-of-a-kitchen-remodel-step-by-step-53.json) — schema
+- [`faqs/general-what-s-the-difference-between-a-basic-code-minimum-seismic-retrofit-and-.json`](./faqs/general-what-s-the-difference-between-a-basic-code-minimum-seismic-retrofit-and-.json) — schema
+- [`faqs/general-what-s-the-difference-between-a-full-kitchen-remodel-and-just-a-refresh-.json`](./faqs/general-what-s-the-difference-between-a-full-kitchen-remodel-and-just-a-refresh-.json) — schema
+- [`faqs/general-what-s-the-step-by-step-process-to-build-an-adu-in-los-angeles-county-fr.json`](./faqs/general-what-s-the-step-by-step-process-to-build-an-adu-in-los-angeles-county-fr.json) — schema
+- [`faqs/general-what-should-i-ask-contractors-when-getting-bids-for-a-home-addition-so-i.json`](./faqs/general-what-should-i-ask-contractors-when-getting-bids-for-a-home-addition-so-i.json) — schema
+- [`faqs/general-what-should-i-ask-or-check-if-i-had-a-bad-experience-with-a-previous-roo.json`](./faqs/general-what-should-i-ask-or-check-if-i-had-a-bad-experience-with-a-previous-roo.json) — schema
+- [`faqs/general-what-should-i-decide-before-i-start-remodeling-my-bathroom-28.json`](./faqs/general-what-should-i-decide-before-i-start-remodeling-my-bathroom-28.json) — schema
+- [`faqs/general-what-should-i-do-first-if-i-want-to-build-an-adu-in-los-angeles-county-a.json`](./faqs/general-what-should-i-do-first-if-i-want-to-build-an-adu-in-los-angeles-county-a.json) — schema
+- [`faqs/general-what-should-i-do-first-if-i-want-to-build-out-a-commercial-space-in-pasa.json`](./faqs/general-what-should-i-do-first-if-i-want-to-build-out-a-commercial-space-in-pasa.json) — schema
+- [`faqs/general-what-should-i-do-if-my-city-or-county-delays-my-addition-permit-or-keeps.json`](./faqs/general-what-should-i-do-if-my-city-or-county-delays-my-addition-permit-or-keeps.json) — schema
+- [`faqs/general-what-should-i-do-right-now-if-my-roof-is-leaking-during-a-rainstorm-80.json`](./faqs/general-what-should-i-do-right-now-if-my-roof-is-leaking-during-a-rainstorm-80.json) — schema
+- [`faqs/general-what-should-i-expect-during-inspections-on-a-commercial-project-143.json`](./faqs/general-what-should-i-expect-during-inspections-on-a-commercial-project-143.json) — schema
+- [`faqs/general-what-should-i-figure-out-first-before-starting-a-kitchen-remodel-51.json`](./faqs/general-what-should-i-figure-out-first-before-starting-a-kitchen-remodel-51.json) — schema
+- [`faqs/general-what-should-i-watch-out-for-when-building-an-adu-in-hillside-or-view-sen.json`](./faqs/general-what-should-i-watch-out-for-when-building-an-adu-in-hillside-or-view-sen.json) — schema
+- [`faqs/general-what-should-i-watch-out-for-when-comparing-multiple-kitchen-remodel-quot.json`](./faqs/general-what-should-i-watch-out-for-when-comparing-multiple-kitchen-remodel-quot.json) — schema
+- [`faqs/general-what-special-issues-come-up-when-remodeling-an-older-kitchen-in-los-ange.json`](./faqs/general-what-special-issues-come-up-when-remodeling-an-older-kitchen-in-los-ange.json) — schema
+- [`faqs/general-what-special-issues-should-i-watch-out-for-when-adding-onto-an-older-hom.json`](./faqs/general-what-special-issues-should-i-watch-out-for-when-adding-onto-an-older-hom.json) — schema
+- [`faqs/general-will-a-home-addition-increase-my-property-taxes-in-los-angeles-county-an.json`](./faqs/general-will-a-home-addition-increase-my-property-taxes-in-los-angeles-county-an.json) — schema
+- [`faqs/general-will-my-earthquake-insurance-rates-go-down-after-i-retrofit-and-how-do-i.json`](./faqs/general-will-my-earthquake-insurance-rates-go-down-after-i-retrofit-and-how-do-i.json) — schema
+- [`faqs/how-big-can-my-adu-be-in-los-angeles-county-and-are-there-height-limits-i-should.json`](./faqs/how-big-can-my-adu-be-in-los-angeles-county-and-are-there-height-limits-i-should.json) — schema
+- [`faqs/how-can-i-compare-multiple-bids-for-a-remodel-or-addition-when-the-prices-are-ve.json`](./faqs/how-can-i-compare-multiple-bids-for-a-remodel-or-addition-when-the-prices-are-ve.json) — schema
+- [`faqs/how-can-i-design-a-home-addition-that-works-for-my-growing-family-now-and-aging.json`](./faqs/how-can-i-design-a-home-addition-that-works-for-my-growing-family-now-and-aging.json) — schema
+- [`faqs/how-can-i-estimate-if-a-home-addition-will-actually-increase-my-property-value.json`](./faqs/how-can-i-estimate-if-a-home-addition-will-actually-increase-my-property-value.json) — schema
+- [`faqs/how-can-i-finance-an-adu-if-i-don-t-have-a-lot-of-cash-on-hand.json`](./faqs/how-can-i-finance-an-adu-if-i-don-t-have-a-lot-of-cash-on-hand.json) — schema
+- [`faqs/how-can-i-keep-my-family-safe-and-daily-life-manageable-during-a-major-kitchen-o.json`](./faqs/how-can-i-keep-my-family-safe-and-daily-life-manageable-during-a-major-kitchen-o.json) — schema
+- [`faqs/how-can-i-make-a-small-bathroom-feel-bigger-without-moving-walls.json`](./faqs/how-can-i-make-a-small-bathroom-feel-bigger-without-moving-walls.json) — schema
+- [`faqs/how-can-i-make-my-new-bathroom-safer-for-aging-in-place-or-mobility-issues.json`](./faqs/how-can-i-make-my-new-bathroom-safer-for-aging-in-place-or-mobility-issues.json) — schema
+- [`faqs/how-can-i-remodel-my-kitchen-on-a-tight-budget-without-it-looking-cheap.json`](./faqs/how-can-i-remodel-my-kitchen-on-a-tight-budget-without-it-looking-cheap.json) — schema
+- [`faqs/how-can-i-tell-if-a-commercial-contractor-is-properly-licensed-and-insured-in-ca.json`](./faqs/how-can-i-tell-if-a-commercial-contractor-is-properly-licensed-and-insured-in-ca.json) — schema
+- [`faqs/how-can-i-tell-if-a-general-contractor-is-actually-reliable-and-not-going-to-dis.json`](./faqs/how-can-i-tell-if-a-general-contractor-is-actually-reliable-and-not-going-to-dis.json) — schema
+- [`faqs/how-can-i-tell-if-a-roofer-s-warranty-is-actually-good-or-just-marketing.json`](./faqs/how-can-i-tell-if-a-roofer-s-warranty-is-actually-good-or-just-marketing.json) — schema
+- [`faqs/how-can-i-tell-if-my-older-home-has-already-been-seismically-retrofitted-or-not.json`](./faqs/how-can-i-tell-if-my-older-home-has-already-been-seismically-retrofitted-or-not.json) — schema
+- [`faqs/how-disruptive-is-a-bathroom-or-kitchen-remodel-to-daily-life-and-can-we-stay-in.json`](./faqs/how-disruptive-is-a-bathroom-or-kitchen-remodel-to-daily-life-and-can-we-stay-in.json) — schema
+- [`faqs/how-disruptive-is-a-roof-replacement-in-a-dense-los-angeles-neighborhood-or-mult.json`](./faqs/how-disruptive-is-a-roof-replacement-in-a-dense-los-angeles-neighborhood-or-mult.json) — schema
+- [`faqs/how-disruptive-is-seismic-retrofitting-to-my-daily-life-if-i-have-kids-and-work.json`](./faqs/how-disruptive-is-seismic-retrofitting-to-my-daily-life-if-i-have-kids-and-work.json) — schema
+- [`faqs/how-do-adus-work-on-multifamily-properties-in-los-angeles-county-duplexes-and-sm.json`](./faqs/how-do-adus-work-on-multifamily-properties-in-los-angeles-county-duplexes-and-sm.json) — schema
+- [`faqs/how-do-i-avoid-choosing-an-outdoor-kitchen-contractor-just-because-their-price-i.json`](./faqs/how-do-i-avoid-choosing-an-outdoor-kitchen-contractor-just-because-their-price-i.json) — schema
+- [`faqs/how-do-i-avoid-my-addition-looking-like-a-weird-box-stuck-onto-my-house.json`](./faqs/how-do-i-avoid-my-addition-looking-like-a-weird-box-stuck-onto-my-house.json) — schema
+- [`faqs/how-do-i-avoid-my-bathroom-remodel-going-over-budget-once-work-starts.json`](./faqs/how-do-i-avoid-my-bathroom-remodel-going-over-budget-once-work-starts.json) — schema
+- [`faqs/how-do-i-avoid-my-kitchen-going-out-of-style-in-a-few-years.json`](./faqs/how-do-i-avoid-my-kitchen-going-out-of-style-in-a-few-years.json) — schema
+- [`faqs/how-do-i-choose-a-trustworthy-seismic-retrofit-contractor-in-los-angeles-and-avo.json`](./faqs/how-do-i-choose-a-trustworthy-seismic-retrofit-contractor-in-los-angeles-and-avo.json) — schema
+- [`faqs/how-do-i-choose-between-a-concrete-patio-pavers-or-decking-for-a-custom-outdoor.json`](./faqs/how-do-i-choose-between-a-concrete-patio-pavers-or-decking-for-a-custom-outdoor.json) — schema
+- [`faqs/how-do-i-choose-between-three-very-different-roofing-bids-without-getting-ripped.json`](./faqs/how-do-i-choose-between-three-very-different-roofing-bids-without-getting-ripped.json) — schema
+- [`faqs/how-do-i-choose-the-right-bathroom-remodeling-contractor-in-los-angeles.json`](./faqs/how-do-i-choose-the-right-bathroom-remodeling-contractor-in-los-angeles.json) — schema
+- [`faqs/how-do-i-choose-the-right-commercial-contractor-for-my-project-without-getting-b.json`](./faqs/how-do-i-choose-the-right-commercial-contractor-for-my-project-without-getting-b.json) — schema
+- [`faqs/how-do-i-choose-the-right-kitchen-contractor-in-los-angeles-without-getting-burn.json`](./faqs/how-do-i-choose-the-right-kitchen-contractor-in-los-angeles-without-getting-burn.json) — schema
+- [`faqs/how-do-i-compare-bathroom-remodel-bids-that-are-wildly-different-in-price.json`](./faqs/how-do-i-compare-bathroom-remodel-bids-that-are-wildly-different-in-price.json) — schema
+- [`faqs/how-do-i-compare-bids-from-different-contractors-when-they-re-wildly-different-p.json`](./faqs/how-do-i-compare-bids-from-different-contractors-when-they-re-wildly-different-p.json) — schema
+- [`faqs/how-do-i-compare-two-outdoor-kitchen-bids-without-getting-confused-by-the-price.json`](./faqs/how-do-i-compare-two-outdoor-kitchen-bids-without-getting-confused-by-the-price.json) — schema
+- [`faqs/how-do-i-design-a-kitchen-that-works-for-both-serious-cooking-and-entertaining.json`](./faqs/how-do-i-design-a-kitchen-that-works-for-both-serious-cooking-and-entertaining.json) — schema
+- [`faqs/how-do-i-handle-kitchen-remodeling-when-i-have-kids-and-pets-at-home.json`](./faqs/how-do-i-handle-kitchen-remodeling-when-i-have-kids-and-pets-at-home.json) — schema
+- [`faqs/how-do-i-keep-an-outdoor-kitchen-from-becoming-a-maintenance-headache.json`](./faqs/how-do-i-keep-an-outdoor-kitchen-from-becoming-a-maintenance-headache.json) — schema
+- [`faqs/how-do-i-keep-my-business-running-during-commercial-construction-or-a-major-remo.json`](./faqs/how-do-i-keep-my-business-running-during-commercial-construction-or-a-major-remo.json) — schema
+- [`faqs/how-do-i-know-if-a-contractor-is-experienced-with-outdoor-kitchens-specifically.json`](./faqs/how-do-i-know-if-a-contractor-is-experienced-with-outdoor-kitchens-specifically.json) — schema
+- [`faqs/how-do-i-know-if-an-outdoor-kitchen-is-worth-it-for-my-backyard-or-am-i-just-spe.json`](./faqs/how-do-i-know-if-an-outdoor-kitchen-is-worth-it-for-my-backyard-or-am-i-just-spe.json) — schema
+- [`faqs/how-do-i-know-if-my-existing-home-structure-can-handle-a-second-story-addition.json`](./faqs/how-do-i-know-if-my-existing-home-structure-can-handle-a-second-story-addition.json) — schema
+- [`faqs/how-do-i-know-if-my-house-structure-and-foundation-can-handle-a-second-story-add.json`](./faqs/how-do-i-know-if-my-house-structure-and-foundation-can-handle-a-second-story-add.json) — schema
+- [`faqs/how-do-i-know-if-my-los-angeles-house-actually-needs-seismic-retrofitting-or-if.json`](./faqs/how-do-i-know-if-my-los-angeles-house-actually-needs-seismic-retrofitting-or-if.json) — schema
+- [`faqs/how-do-i-know-if-my-property-is-suitable-for-a-custom-outdoor-kitchen-and-patio.json`](./faqs/how-do-i-know-if-my-property-is-suitable-for-a-custom-outdoor-kitchen-and-patio.json) — schema
+- [`faqs/how-do-i-know-if-my-roof-really-needs-to-be-replaced-or-if-a-repair-is-enough.json`](./faqs/how-do-i-know-if-my-roof-really-needs-to-be-replaced-or-if-a-repair-is-enough.json) — schema
+- [`faqs/how-do-i-know-if-storm-or-wind-damage-to-my-roof-is-serious-enough-to-address-ri.json`](./faqs/how-do-i-know-if-storm-or-wind-damage-to-my-roof-is-serious-enough-to-address-ri.json) — schema
+- [`faqs/how-do-i-make-sure-my-new-commercial-space-is-ada-compliant-and-accessible-for-e.json`](./faqs/how-do-i-make-sure-my-new-commercial-space-is-ada-compliant-and-accessible-for-e.json) — schema
+- [`faqs/how-do-i-pick-the-right-custom-build-contractor-for-a-major-home-renovation-so-i.json`](./faqs/how-do-i-pick-the-right-custom-build-contractor-for-a-major-home-renovation-so-i.json) — schema
+- [`faqs/how-do-i-plan-a-commercial-construction-project-on-a-tight-budget-without-sacrif.json`](./faqs/how-do-i-plan-a-commercial-construction-project-on-a-tight-budget-without-sacrif.json) — schema
+- [`faqs/how-do-i-plan-a-home-addition-if-my-budget-is-tight-but-i-really-need-more-space.json`](./faqs/how-do-i-plan-a-home-addition-if-my-budget-is-tight-but-i-really-need-more-space.json) — schema
+- [`faqs/how-do-i-plan-a-kitchen-remodel-when-i-need-it-done-on-a-tight-deadline.json`](./faqs/how-do-i-plan-a-kitchen-remodel-when-i-need-it-done-on-a-tight-deadline.json) — schema
+- [`faqs/how-do-i-protect-myself-from-addition-cost-overruns-and-endless-change-orders.json`](./faqs/how-do-i-protect-myself-from-addition-cost-overruns-and-endless-change-orders.json) — schema
+- [`faqs/how-do-i-set-a-realistic-bathroom-remodel-budget-if-money-is-tight.json`](./faqs/how-do-i-set-a-realistic-bathroom-remodel-budget-if-money-is-tight.json) — schema
+- [`faqs/how-do-i-set-a-realistic-kitchen-remodel-budget-so-i-don-t-get-blindsided-later.json`](./faqs/how-do-i-set-a-realistic-kitchen-remodel-budget-so-i-don-t-get-blindsided-later.json) — schema
+- [`faqs/how-do-i-stop-a-custom-build-or-renovation-project-from-constantly-going-over-bu.json`](./faqs/how-do-i-stop-a-custom-build-or-renovation-project-from-constantly-going-over-bu.json) — schema
+- [`faqs/how-do-roof-inspections-work-and-when-should-i-schedule-one-in-los-angeles.json`](./faqs/how-do-roof-inspections-work-and-when-should-i-schedule-one-in-los-angeles.json) — schema
+- [`faqs/how-does-the-custom-home-building-process-actually-work-from-empty-lot-to-move-i.json`](./faqs/how-does-the-custom-home-building-process-actually-work-from-empty-lot-to-move-i.json) — schema
+- [`faqs/how-early-should-i-involve-a-contractor-if-i-m-just-starting-to-think-about-a-co.json`](./faqs/how-early-should-i-involve-a-contractor-if-i-m-just-starting-to-think-about-a-co.json) — schema
+- [`faqs/how-energy-efficient-and-eco-friendly-can-a-modern-kitchen-remodel-be.json`](./faqs/how-energy-efficient-and-eco-friendly-can-a-modern-kitchen-remodel-be.json) — schema
+- [`faqs/how-far-in-advance-should-i-start-planning-an-outdoor-kitchen-if-i-want-it-ready.json`](./faqs/how-far-in-advance-should-i-start-planning-an-outdoor-kitchen-if-i-want-it-ready.json) — schema
+- [`faqs/how-is-commercial-construction-different-from-residential-construction-and-why-d.json`](./faqs/how-is-commercial-construction-different-from-residential-construction-and-why-d.json) — schema
+- [`faqs/how-long-do-commercial-construction-or-tenant-improvement-projects-in-los-angele.json`](./faqs/how-long-do-commercial-construction-or-tenant-improvement-projects-in-los-angele.json) — schema
+- [`faqs/how-long-does-a-bathroom-remodel-really-take-from-start-to-finish.json`](./faqs/how-long-does-a-bathroom-remodel-really-take-from-start-to-finish.json) — schema
+- [`faqs/how-long-does-a-custom-home-renovation-usually-take-from-design-to-move-in.json`](./faqs/how-long-does-a-custom-home-renovation-usually-take-from-design-to-move-in.json) — schema
+- [`faqs/how-long-does-a-full-kitchen-remodel-usually-take-from-demo-to-completion-and-wh.json`](./faqs/how-long-does-a-full-kitchen-remodel-usually-take-from-demo-to-completion-and-wh.json) — schema
+- [`faqs/how-long-does-a-home-addition-usually-take-from-first-call-to-move-in-ready.json`](./faqs/how-long-does-a-home-addition-usually-take-from-first-call-to-move-in-ready.json) — schema
+- [`faqs/how-long-does-a-kitchen-remodel-really-take-from-start-to-finish.json`](./faqs/how-long-does-a-kitchen-remodel-really-take-from-start-to-finish.json) — schema
+- [`faqs/how-long-does-a-roof-replacement-usually-take-from-start-to-finish.json`](./faqs/how-long-does-a-roof-replacement-usually-take-from-start-to-finish.json) — schema
+- [`faqs/how-long-does-a-room-addition-usually-take-in-los-angeles-county-including-permi.json`](./faqs/how-long-does-a-room-addition-usually-take-in-los-angeles-county-including-permi.json) — schema
+- [`faqs/how-long-does-a-typical-bathroom-remodel-take-and-will-i-be-without-a-shower-the.json`](./faqs/how-long-does-a-typical-bathroom-remodel-take-and-will-i-be-without-a-shower-the.json) — schema
+- [`faqs/how-long-does-a-typical-bathroom-remodel-take-from-demo-to-completion.json`](./faqs/how-long-does-a-typical-bathroom-remodel-take-from-demo-to-completion.json) — schema
+- [`faqs/how-long-does-a-typical-commercial-construction-project-really-take-from-idea-to.json`](./faqs/how-long-does-a-typical-commercial-construction-project-really-take-from-idea-to.json) — schema
+- [`faqs/how-long-does-it-take-to-build-an-outdoor-kitchen-from-start-to-finish.json`](./faqs/how-long-does-it-take-to-build-an-outdoor-kitchen-from-start-to-finish.json) — schema
+- [`faqs/how-long-does-it-take-to-design-and-build-a-custom-outdoor-kitchen-and-patio-rea.json`](./faqs/how-long-does-it-take-to-design-and-build-a-custom-outdoor-kitchen-and-patio-rea.json) — schema
+- [`faqs/how-long-does-it-take-to-design-permit-and-build-a-custom-adu-in-los-angeles-cou.json`](./faqs/how-long-does-it-take-to-design-permit-and-build-a-custom-adu-in-los-angeles-cou.json) — schema
+- [`faqs/how-long-does-it-take-to-design-permit-and-build-an-adu-in-los-angeles-county.json`](./faqs/how-long-does-it-take-to-design-permit-and-build-an-adu-in-los-angeles-county.json) — schema
+- [`faqs/how-long-does-seismic-retrofitting-usually-take-and-will-i-have-to-move-out-whil.json`](./faqs/how-long-does-seismic-retrofitting-usually-take-and-will-i-have-to-move-out-whil.json) — schema
+- [`faqs/how-long-should-a-new-roof-last-in-southern-california-s-climate.json`](./faqs/how-long-should-a-new-roof-last-in-southern-california-s-climate.json) — schema
+- [`faqs/how-much-does-a-bathroom-remodel-usually-cost-in-los-angeles-and-what-s-a-fair-p.json`](./faqs/how-much-does-a-bathroom-remodel-usually-cost-in-los-angeles-and-what-s-a-fair-p.json) — schema
+- [`faqs/how-much-does-a-custom-pool-really-cost-beyond-just-the-shell-price.json`](./faqs/how-much-does-a-custom-pool-really-cost-beyond-just-the-shell-price.json) — schema
+- [`faqs/how-much-does-a-full-bathroom-remodel-usually-cost-in-los-angeles-county.json`](./faqs/how-much-does-a-full-bathroom-remodel-usually-cost-in-los-angeles-county.json) — schema
+- [`faqs/how-much-does-a-full-kitchen-remodel-usually-cost-and-what-drives-the-price-up-o.json`](./faqs/how-much-does-a-full-kitchen-remodel-usually-cost-and-what-drives-the-price-up-o.json) — schema
+- [`faqs/how-much-does-a-kitchen-remodel-usually-cost-in-los-angeles-county.json`](./faqs/how-much-does-a-kitchen-remodel-usually-cost-in-los-angeles-county.json) — schema
+- [`faqs/how-much-does-a-new-roof-usually-cost-in-los-angeles-and-what-really-affects-the.json`](./faqs/how-much-does-a-new-roof-usually-cost-in-los-angeles-and-what-really-affects-the.json) — schema
+- [`faqs/how-much-does-a-typical-kitchen-remodel-cost-in-los-angeles-county-and-what-s-a.json`](./faqs/how-much-does-a-typical-kitchen-remodel-cost-in-los-angeles-county-and-what-s-a.json) — schema
+- [`faqs/how-much-does-a-typical-room-addition-cost-and-what-s-a-realistic-budget-range.json`](./faqs/how-much-does-a-typical-room-addition-cost-and-what-s-a-realistic-budget-range.json) — schema
+- [`faqs/how-much-does-an-outdoor-kitchen-usually-cost-in-los-angeles-county.json`](./faqs/how-much-does-an-outdoor-kitchen-usually-cost-in-los-angeles-county.json) — schema
+- [`faqs/how-much-does-commercial-construction-cost-per-square-foot-and-why-do-estimates.json`](./faqs/how-much-does-commercial-construction-cost-per-square-foot-and-why-do-estimates.json) — schema
+- [`faqs/how-much-does-it-cost-to-build-a-custom-home-compared-with-buying-an-existing-ho.json`](./faqs/how-much-does-it-cost-to-build-a-custom-home-compared-with-buying-an-existing-ho.json) — schema
+- [`faqs/how-much-does-it-really-cost-to-build-an-adu-in-los-angeles-county-right-now.json`](./faqs/how-much-does-it-really-cost-to-build-an-adu-in-los-angeles-county-right-now.json) — schema
+- [`faqs/how-much-does-seismic-retrofitting-typically-cost-for-a-single-family-home-in-lo.json`](./faqs/how-much-does-seismic-retrofitting-typically-cost-for-a-single-family-home-in-lo.json) — schema
+- [`faqs/how-much-should-i-budget-per-square-foot-for-an-adu-and-why-do-i-hear-such-diffe.json`](./faqs/how-much-should-i-budget-per-square-foot-for-an-adu-and-why-do-i-hear-such-diffe.json) — schema
+- [`faqs/how-much-space-do-i-really-need-for-an-outdoor-kitchen.json`](./faqs/how-much-space-do-i-really-need-for-an-outdoor-kitchen.json) — schema
+- [`faqs/how-much-value-does-a-room-addition-actually-add-to-my-home-and-is-it-worth-the.json`](./faqs/how-much-value-does-a-room-addition-actually-add-to-my-home-and-is-it-worth-the.json) — schema
+- [`faqs/how-noisy-and-disruptive-is-an-addition-project-in-a-dense-area-like-los-angeles.json`](./faqs/how-noisy-and-disruptive-is-an-addition-project-in-a-dense-area-like-los-angeles.json) — schema
+- [`faqs/how-often-do-seismic-retrofit-standards-change-and-will-today-s-retrofit-become.json`](./faqs/how-often-do-seismic-retrofit-standards-change-and-will-today-s-retrofit-become.json) — schema
+- [`faqs/how-should-i-choose-a-commercial-construction-contractor-in-los-angeles-for-my-t.json`](./faqs/how-should-i-choose-a-commercial-construction-contractor-in-los-angeles-for-my-t.json) — schema
+- [`faqs/i-ve-had-a-bad-contractor-experience-before-how-do-i-structure-a-new-remodeling.json`](./faqs/i-ve-had-a-bad-contractor-experience-before-how-do-i-structure-a-new-remodeling.json) — schema
+- [`faqs/if-i-m-planning-to-buy-an-older-house-in-los-angeles-what-should-i-look-for-or-a.json`](./faqs/if-i-m-planning-to-buy-an-older-house-in-los-angeles-what-should-i-look-for-or-a.json) — schema
+- [`faqs/if-my-budget-is-limited-what-are-the-most-important-seismic-retrofits-to-do-firs.json`](./faqs/if-my-budget-is-limited-what-are-the-most-important-seismic-retrofits-to-do-firs.json) — schema
+- [`faqs/if-there-s-another-big-earthquake-after-i-retrofit-what-kind-of-damage-should-i.json`](./faqs/if-there-s-another-big-earthquake-after-i-retrofit-what-kind-of-damage-should-i.json) — schema
+- [`faqs/in-los-angeles-county-what-should-i-know-about-permits-and-inspections-for-a-gar.json`](./faqs/in-los-angeles-county-what-should-i-know-about-permits-and-inspections-for-a-gar.json) — schema
+- [`faqs/in-los-angeles-how-does-my-budget-change-if-i-want-high-end-finishes-for-a-bathr.json`](./faqs/in-los-angeles-how-does-my-budget-change-if-i-want-high-end-finishes-for-a-bathr.json) — schema
+- [`faqs/is-building-an-adu-accessory-dwelling-unit-in-los-angeles-county-worth-it-financ.json`](./faqs/is-building-an-adu-accessory-dwelling-unit-in-los-angeles-county-worth-it-financ.json) — schema
+- [`faqs/is-building-an-adu-in-los-angeles-county-actually-worth-it-financially.json`](./faqs/is-building-an-adu-in-los-angeles-county-actually-worth-it-financially.json) — schema
+- [`faqs/is-building-an-adu-in-los-angeles-still-worth-it-in-2026-and-what-kind-of-rental.json`](./faqs/is-building-an-adu-in-los-angeles-still-worth-it-in-2026-and-what-kind-of-rental.json) — schema
+- [`faqs/is-it-better-to-do-an-outdoor-kitchen-all-at-once-or-in-phases.json`](./faqs/is-it-better-to-do-an-outdoor-kitchen-all-at-once-or-in-phases.json) — schema
+- [`faqs/is-it-cheaper-to-build-up-or-build-out-for-a-home-addition.json`](./faqs/is-it-cheaper-to-build-up-or-build-out-for-a-home-addition.json) — schema
+- [`faqs/is-it-cheaper-to-just-update-fixtures-and-tile-instead-of-a-full-bathroom-gut.json`](./faqs/is-it-cheaper-to-just-update-fixtures-and-tile-instead-of-a-full-bathroom-gut.json) — schema
+- [`faqs/is-it-cheaper-to-reface-my-kitchen-cabinets-or-replace-them-entirely.json`](./faqs/is-it-cheaper-to-reface-my-kitchen-cabinets-or-replace-them-entirely.json) — schema
+- [`faqs/is-it-cheaper-to-renovate-an-existing-commercial-building-or-build-new-in-los-an.json`](./faqs/is-it-cheaper-to-renovate-an-existing-commercial-building-or-build-new-in-los-an.json) — schema
+- [`faqs/is-it-okay-to-roof-over-existing-shingles-or-should-i-insist-on-a-full-tear-off.json`](./faqs/is-it-okay-to-roof-over-existing-shingles-or-should-i-insist-on-a-full-tear-off.json) — schema
+- [`faqs/is-it-realistic-or-safe-to-do-roofing-work-myself-to-save-money.json`](./faqs/is-it-realistic-or-safe-to-do-roofing-work-myself-to-save-money.json) — schema
+- [`faqs/is-it-worth-remodeling-a-bathroom-before-selling-my-house.json`](./faqs/is-it-worth-remodeling-a-bathroom-before-selling-my-house.json) — schema
+- [`faqs/is-my-soft-story-apartment-building-in-los-angeles-at-risk-and-what-s-different.json`](./faqs/is-my-soft-story-apartment-building-in-los-angeles-at-risk-and-what-s-different.json) — schema
+- [`faqs/is-seismic-retrofitting-mandatory-for-my-building-in-los-angeles-county-or-is-it.json`](./faqs/is-seismic-retrofitting-mandatory-for-my-building-in-los-angeles-county-or-is-it.json) — schema
+- [`faqs/is-seismic-retrofitting-really-necessary-for-my-older-house-or-is-it-mostly-upse.json`](./faqs/is-seismic-retrofitting-really-necessary-for-my-older-house-or-is-it-mostly-upse.json) — schema
+- [`faqs/kitchen-remodeling-what-should-i-ask-a-kitchen-remodeling-contractor-before-i-si.json`](./faqs/kitchen-remodeling-what-should-i-ask-a-kitchen-remodeling-contractor-before-i-si.json) — schema
+- [`faqs/my-roof-is-leaking-after-the-recent-rain-in-la-what-should-i-do-first-and-how-ur.json`](./faqs/my-roof-is-leaking-after-the-recent-rain-in-la-what-should-i-do-first-and-how-ur.json) — schema
+- [`faqs/my-roofing-budget-is-really-tight-what-are-the-smartest-corners-i-can-and-can-t.json`](./faqs/my-roofing-budget-is-really-tight-what-are-the-smartest-corners-i-can-and-can-t.json) — schema
+- [`faqs/roofing-are-cool-roofs-really-worth-it-in-hot-areas-like-the-san-fernando-valley.json`](./faqs/roofing-are-cool-roofs-really-worth-it-in-hot-areas-like-the-san-fernando-valley.json) — schema
+- [`faqs/roofing-are-there-any-roofing-issues-specific-to-coastal-areas-like-rancho-palos.json`](./faqs/roofing-are-there-any-roofing-issues-specific-to-coastal-areas-like-rancho-palos.json) — schema
+- [`faqs/roofing-can-new-roofing-really-improve-my-home-s-energy-efficiency-and-comfort-9.json`](./faqs/roofing-can-new-roofing-really-improve-my-home-s-energy-efficiency-and-comfort-9.json) — schema
+- [`faqs/roofing-how-do-i-choose-a-trustworthy-roofing-contractor-in-los-angeles-county-8.json`](./faqs/roofing-how-do-i-choose-a-trustworthy-roofing-contractor-in-los-angeles-county-8.json) — schema
+- [`faqs/roofing-how-do-i-compare-roofing-quotes-so-i-m-not-just-picking-the-cheapest-one.json`](./faqs/roofing-how-do-i-compare-roofing-quotes-so-i-m-not-just-picking-the-cheapest-one.json) — schema
+- [`faqs/roofing-how-does-the-roofing-permit-and-inspection-process-work-in-cities-like-l.json`](./faqs/roofing-how-does-the-roofing-permit-and-inspection-process-work-in-cities-like-l.json) — schema
+- [`faqs/roofing-how-much-of-a-deposit-is-normal-for-a-roofing-project-and-when-do-i-pay-.json`](./faqs/roofing-how-much-of-a-deposit-is-normal-for-a-roofing-project-and-when-do-i-pay-.json) — schema
+- [`faqs/roofing-how-noisy-and-disruptive-is-roofing-work-and-how-can-i-minimize-the-impa.json`](./faqs/roofing-how-noisy-and-disruptive-is-roofing-work-and-how-can-i-minimize-the-impa.json) — schema
+- [`faqs/roofing-what-bathroom-remodel-mistakes-cause-the-most-regret-39.json`](./faqs/roofing-what-bathroom-remodel-mistakes-cause-the-most-regret-39.json) — schema
+- [`faqs/roofing-what-roofing-materials-work-best-for-homes-in-los-angeles-and-nearby-are.json`](./faqs/roofing-what-roofing-materials-work-best-for-homes-in-los-angeles-and-nearby-are.json) — schema
+- [`faqs/roofing-what-s-the-typical-lifespan-of-different-roofing-materials-84.json`](./faqs/roofing-what-s-the-typical-lifespan-of-different-roofing-materials-84.json) — schema
+- [`faqs/roofing-what-should-i-expect-during-the-roof-replacement-process-at-my-home-77.json`](./faqs/roofing-what-should-i-expect-during-the-roof-replacement-process-at-my-home-77.json) — schema
+- [`faqs/seismic-retrofitting-are-there-any-rebates-incentives-or-assistance-programs-for.json`](./faqs/seismic-retrofitting-are-there-any-rebates-incentives-or-assistance-programs-for.json) — schema
+- [`faqs/seismic-retrofitting-can-i-do-any-seismic-retrofitting-myself-or-is-this-always-.json`](./faqs/seismic-retrofitting-can-i-do-any-seismic-retrofitting-myself-or-is-this-always-.json) — schema
+- [`faqs/seismic-retrofitting-how-can-i-tell-if-past-owners-already-did-a-seismic-retrofi.json`](./faqs/seismic-retrofitting-how-can-i-tell-if-past-owners-already-did-a-seismic-retrofi.json) — schema
+- [`faqs/seismic-retrofitting-how-disruptive-is-seismic-retrofitting-for-tenants-in-an-oc.json`](./faqs/seismic-retrofitting-how-disruptive-is-seismic-retrofitting-for-tenants-in-an-oc.json) — schema
+- [`faqs/seismic-retrofitting-how-do-i-know-if-my-los-angeles-building-actually-needs-sei.json`](./faqs/seismic-retrofitting-how-do-i-know-if-my-los-angeles-building-actually-needs-sei.json) — schema
+- [`faqs/seismic-retrofitting-how-does-seismic-retrofitting-affect-my-building-s-resale-v.json`](./faqs/seismic-retrofitting-how-does-seismic-retrofitting-affect-my-building-s-resale-v.json) — schema
+- [`faqs/seismic-retrofitting-how-long-does-seismic-retrofitting-usually-take-from-the-fi.json`](./faqs/seismic-retrofitting-how-long-does-seismic-retrofitting-usually-take-from-the-fi.json) — schema
+- [`faqs/seismic-retrofitting-how-much-does-seismic-retrofitting-usually-cost-for-a-small.json`](./faqs/seismic-retrofitting-how-much-does-seismic-retrofitting-usually-cost-for-a-small.json) — schema
+- [`faqs/seismic-retrofitting-i-had-a-bad-experience-with-a-contractor-before-how-can-i-p.json`](./faqs/seismic-retrofitting-i-had-a-bad-experience-with-a-contractor-before-how-can-i-p.json) — schema
+- [`faqs/seismic-retrofitting-what-are-the-biggest-risks-if-i-delay-seismic-retrofitting-.json`](./faqs/seismic-retrofitting-what-are-the-biggest-risks-if-i-delay-seismic-retrofitting-.json) — schema
+- [`faqs/seismic-retrofitting-what-exactly-is-seismic-retrofitting-and-what-parts-of-my-h.json`](./faqs/seismic-retrofitting-what-exactly-is-seismic-retrofitting-and-what-parts-of-my-h.json) — schema
+- [`faqs/seismic-retrofitting-what-should-i-do-first-if-i-think-my-los-angeles-soft-story.json`](./faqs/seismic-retrofitting-what-should-i-do-first-if-i-think-my-los-angeles-soft-story.json) — schema
+- [`faqs/should-i-choose-a-built-in-grill-or-a-full-custom-outdoor-kitchen.json`](./faqs/should-i-choose-a-built-in-grill-or-a-full-custom-outdoor-kitchen.json) — schema
+- [`faqs/should-i-convert-my-existing-garage-into-an-adu-or-build-a-new-detached-unit-and.json`](./faqs/should-i-convert-my-existing-garage-into-an-adu-or-build-a-new-detached-unit-and.json) — schema
+- [`faqs/should-i-try-to-diy-my-bathroom-remodel-or-hire-professionals.json`](./faqs/should-i-try-to-diy-my-bathroom-remodel-or-hire-professionals.json) — schema
+- [`faqs/should-i-try-to-diy-my-kitchen-remodel-or-hire-professionals.json`](./faqs/should-i-try-to-diy-my-kitchen-remodel-or-hire-professionals.json) — schema
+- [`faqs/what-are-realistic-expectations-for-change-orders-on-a-commercial-construction-j.json`](./faqs/what-are-realistic-expectations-for-change-orders-on-a-commercial-construction-j.json) — schema
+- [`faqs/what-are-the-basic-eligibility-rules-for-building-an-adu-on-my-property-in-los-a.json`](./faqs/what-are-the-basic-eligibility-rules-for-building-an-adu-on-my-property-in-los-a.json) — schema
+- [`faqs/what-are-the-biggest-code-and-ada-issues-that-trip-up-commercial-construction-pr.json`](./faqs/what-are-the-biggest-code-and-ada-issues-that-trip-up-commercial-construction-pr.json) — schema
+- [`faqs/what-are-the-biggest-hidden-costs-and-gotchas-in-a-kitchen-remodel.json`](./faqs/what-are-the-biggest-hidden-costs-and-gotchas-in-a-kitchen-remodel.json) — schema
+- [`faqs/what-are-the-biggest-hidden-costs-or-gotchas-in-bathroom-remodeling.json`](./faqs/what-are-the-biggest-hidden-costs-or-gotchas-in-bathroom-remodeling.json) — schema
+- [`faqs/what-are-the-biggest-hidden-costs-that-surprise-people-during-a-home-addition.json`](./faqs/what-are-the-biggest-hidden-costs-that-surprise-people-during-a-home-addition.json) — schema
+- [`faqs/what-are-the-biggest-risks-and-things-that-can-go-wrong-with-adu-construction.json`](./faqs/what-are-the-biggest-risks-and-things-that-can-go-wrong-with-adu-construction.json) — schema
+- [`faqs/what-are-the-biggest-risks-if-i-don-t-retrofit-my-older-los-angeles-home-for-ear.json`](./faqs/what-are-the-biggest-risks-if-i-don-t-retrofit-my-older-los-angeles-home-for-ear.json) — schema
+- [`faqs/what-are-the-biggest-risks-that-can-derail-a-commercial-construction-project-and.json`](./faqs/what-are-the-biggest-risks-that-can-derail-a-commercial-construction-project-and.json) — schema
+- [`faqs/what-are-the-biggest-risks-that-can-derail-a-kitchen-remodeling-project-and-how.json`](./faqs/what-are-the-biggest-risks-that-can-derail-a-kitchen-remodeling-project-and-how.json) — schema
+- [`faqs/what-are-the-biggest-risks-with-a-custom-home-renovation-and-how-can-i-avoid-a-n.json`](./faqs/what-are-the-biggest-risks-with-a-custom-home-renovation-and-how-can-i-avoid-a-n.json) — schema
+- [`faqs/what-are-the-early-signs-that-my-roof-might-need-replacement-instead-of-just-ano.json`](./faqs/what-are-the-early-signs-that-my-roof-might-need-replacement-instead-of-just-ano.json) — schema
+- [`faqs/what-are-the-main-benefits-of-hiring-a-local-los-angeles-county-outdoor-kitchen.json`](./faqs/what-are-the-main-benefits-of-hiring-a-local-los-angeles-county-outdoor-kitchen.json) — schema
+- [`faqs/what-are-the-main-rules-and-constraints-i-should-know-before-planning-a-custom-a.json`](./faqs/what-are-the-main-rules-and-constraints-i-should-know-before-planning-a-custom-a.json) — schema
+- [`faqs/what-are-the-main-steps-in-the-bathroom-remodeling-process.json`](./faqs/what-are-the-main-steps-in-the-bathroom-remodeling-process.json) — schema
+- [`faqs/what-are-the-main-zoning-and-setback-issues-i-should-know-about-before-planning.json`](./faqs/what-are-the-main-zoning-and-setback-issues-i-should-know-about-before-planning.json) — schema
+- [`faqs/what-are-the-most-important-waterproofing-details-in-a-bathroom-remodel-so-i-don.json`](./faqs/what-are-the-most-important-waterproofing-details-in-a-bathroom-remodel-so-i-don.json) — schema
+- [`faqs/what-are-the-ongoing-maintenance-responsibilities-and-costs-after-installing-a-c.json`](./faqs/what-are-the-ongoing-maintenance-responsibilities-and-costs-after-installing-a-c.json) — schema
+- [`faqs/what-bathroom-design-trends-are-popular-now-and-which-ones-won-t-age-badly.json`](./faqs/what-bathroom-design-trends-are-popular-now-and-which-ones-won-t-age-badly.json) — schema
+- [`faqs/what-bathroom-features-give-the-best-long-term-value-and-daily-comfort.json`](./faqs/what-bathroom-features-give-the-best-long-term-value-and-daily-comfort.json) — schema
+- [`faqs/what-can-go-wrong-during-a-roofing-replacement-and-how-do-i-protect-myself-befor.json`](./faqs/what-can-go-wrong-during-a-roofing-replacement-and-how-do-i-protect-myself-befor.json) — schema
+- [`faqs/what-can-go-wrong-with-an-outdoor-kitchen-project.json`](./faqs/what-can-go-wrong-with-an-outdoor-kitchen-project.json) — schema
+- [`faqs/what-can-i-do-to-prevent-cost-overruns-on-my-remodel-addition-or-adu-project.json`](./faqs/what-can-i-do-to-prevent-cost-overruns-on-my-remodel-addition-or-adu-project.json) — schema
+- [`faqs/what-code-or-special-rules-affect-bathroom-remodels-in-california-and-la.json`](./faqs/what-code-or-special-rules-affect-bathroom-remodels-in-california-and-la.json) — schema
+- [`faqs/what-could-go-wrong-during-a-seismic-retrofit-project-and-how-do-i-protect-mysel.json`](./faqs/what-could-go-wrong-during-a-seismic-retrofit-project-and-how-do-i-protect-mysel.json) — schema
+- [`faqs/what-design-features-should-i-prioritize-to-make-a-small-adu-feel-bigger-and-ren.json`](./faqs/what-design-features-should-i-prioritize-to-make-a-small-adu-feel-bigger-and-ren.json) — schema
+- [`faqs/what-documentation-and-drawings-should-a-custom-build-contractor-provide-before.json`](./faqs/what-documentation-and-drawings-should-a-custom-build-contractor-provide-before.json) — schema
+- [`faqs/what-documents-and-information-should-i-gather-before-meeting-an-addition-contra.json`](./faqs/what-documents-and-information-should-i-gather-before-meeting-an-addition-contra.json) — schema
+- [`faqs/what-does-a-custom-home-renovation-or-addition-typically-cost-and-how-do-i-know.json`](./faqs/what-does-a-custom-home-renovation-or-addition-typically-cost-and-how-do-i-know.json) — schema
+- [`faqs/what-does-a-custom-outdoor-kitchen-usually-cost-and-what-drives-the-price-up-or.json`](./faqs/what-does-a-custom-outdoor-kitchen-usually-cost-and-what-drives-the-price-up-or.json) — schema
+- [`faqs/what-does-the-adu-design-and-permitting-process-look-like-in-los-angeles-and-how.json`](./faqs/what-does-the-adu-design-and-permitting-process-look-like-in-los-angeles-and-how.json) — schema
+- [`faqs/what-does-the-process-of-building-a-room-addition-usually-look-like-from-start-t.json`](./faqs/what-does-the-process-of-building-a-room-addition-usually-look-like-from-start-t.json) — schema
+- [`faqs/what-exactly-does-seismic-retrofitting-do-for-my-house-during-a-big-earthquake.json`](./faqs/what-exactly-does-seismic-retrofitting-do-for-my-house-during-a-big-earthquake.json) — schema
+- [`faqs/what-happens-if-my-adu-permit-application-gets-rejected-or-stuck-in-plan-check-f.json`](./faqs/what-happens-if-my-adu-permit-application-gets-rejected-or-stuck-in-plan-check-f.json) — schema
+- [`faqs/what-happens-if-the-city-delays-my-addition-permits-or-keeps-asking-for-plan-cha.json`](./faqs/what-happens-if-the-city-delays-my-addition-permits-or-keeps-asking-for-plan-cha.json) — schema
+- [`faqs/what-if-i-m-on-a-tight-budget-how-can-i-keep-adu-costs-as-low-as-possible-withou.json`](./faqs/what-if-i-m-on-a-tight-budget-how-can-i-keep-adu-costs-as-low-as-possible-withou.json) — schema
+- [`faqs/what-if-my-addition-finishes-but-the-final-inspection-doesn-t-pass-right-away.json`](./faqs/what-if-my-addition-finishes-but-the-final-inspection-doesn-t-pass-right-away.json) — schema
+- [`faqs/what-information-and-decisions-do-i-need-ready-before-asking-contractors-to-bid.json`](./faqs/what-information-and-decisions-do-i-need-ready-before-asking-contractors-to-bid.json) — schema
+- [`faqs/what-information-and-decisions-do-i-need-ready-before-meeting-a-contractor-about.json`](./faqs/what-information-and-decisions-do-i-need-ready-before-meeting-a-contractor-about.json) — schema
+- [`faqs/what-information-should-i-have-ready-before-meeting-a-contractor-about-a-home-ad.json`](./faqs/what-information-should-i-have-ready-before-meeting-a-contractor-about-a-home-ad.json) — schema
+- [`faqs/what-inspections-and-construction-milestones-should-i-expect-during-adu-construc.json`](./faqs/what-inspections-and-construction-milestones-should-i-expect-during-adu-construc.json) — schema
+- [`faqs/what-is-an-adu-and-how-does-adu-construction-actually-work-in-los-angeles-county.json`](./faqs/what-is-an-adu-and-how-does-adu-construction-actually-work-in-los-angeles-county.json) — schema
+- [`faqs/what-kind-of-maintenance-or-follow-up-should-i-expect-after-a-major-remodel-or-n.json`](./faqs/what-kind-of-maintenance-or-follow-up-should-i-expect-after-a-major-remodel-or-n.json) — schema
+- [`faqs/what-kind-of-warranty-or-guarantee-should-i-expect-on-a-bathroom-remodel.json`](./faqs/what-kind-of-warranty-or-guarantee-should-i-expect-on-a-bathroom-remodel.json) — schema
+- [`faqs/what-kinds-of-adus-can-i-build-garage-conversion-detached-above-garage-jadu-and.json`](./faqs/what-kinds-of-adus-can-i-build-garage-conversion-detached-above-garage-jadu-and.json) — schema
+- [`faqs/what-licenses-and-insurance-should-a-roofing-contractor-have-in-california.json`](./faqs/what-licenses-and-insurance-should-a-roofing-contractor-have-in-california.json) — schema
+- [`faqs/what-materials-hold-up-best-for-outdoor-kitchens-in-los-angeles-weather.json`](./faqs/what-materials-hold-up-best-for-outdoor-kitchens-in-los-angeles-weather.json) — schema
+- [`faqs/what-ongoing-maintenance-should-i-plan-for-after-my-commercial-construction-proj.json`](./faqs/what-ongoing-maintenance-should-i-plan-for-after-my-commercial-construction-proj.json) — schema
+- [`faqs/what-order-should-things-be-done-in-during-a-bathroom-remodel.json`](./faqs/what-order-should-things-be-done-in-during-a-bathroom-remodel.json) — schema
+- [`faqs/what-outdoor-kitchen-design-works-best-for-entertaining-in-los-angeles.json`](./faqs/what-outdoor-kitchen-design-works-best-for-entertaining-in-los-angeles.json) — schema
+- [`faqs/what-outdoor-kitchen-features-are-actually-worth-paying-for.json`](./faqs/what-outdoor-kitchen-features-are-actually-worth-paying-for.json) — schema
+- [`faqs/what-permits-and-approvals-are-needed-for-a-custom-home-build-or-major-addition.json`](./faqs/what-permits-and-approvals-are-needed-for-a-custom-home-build-or-major-addition.json) — schema
+- [`faqs/what-permits-and-approvals-are-required-to-build-an-adu-in-unincorporated-los-an.json`](./faqs/what-permits-and-approvals-are-required-to-build-an-adu-in-unincorporated-los-an.json) — schema
+- [`faqs/what-permits-and-approvals-do-i-need-for-a-commercial-build-out-in-los-angeles-c.json`](./faqs/what-permits-and-approvals-do-i-need-for-a-commercial-build-out-in-los-angeles-c.json) — schema
+- [`faqs/what-permits-and-approvals-do-i-need-for-a-home-addition-in-los-angeles-county.json`](./faqs/what-permits-and-approvals-do-i-need-for-a-home-addition-in-los-angeles-county.json) — schema
+- [`faqs/what-permits-do-i-actually-need-for-a-kitchen-or-bathroom-remodel-and-what-happe.json`](./faqs/what-permits-do-i-actually-need-for-a-kitchen-or-bathroom-remodel-and-what-happe.json) — schema
+- [`faqs/what-roof-maintenance-should-i-be-doing-each-year-to-avoid-big-repairs-later.json`](./faqs/what-roof-maintenance-should-i-be-doing-each-year-to-avoid-big-repairs-later.json) — schema
+- [`faqs/what-s-different-about-remodeling-a-bathroom-in-a-los-angeles-condo-or-hoa-build.json`](./faqs/what-s-different-about-remodeling-a-bathroom-in-a-los-angeles-condo-or-hoa-build.json) — schema
+- [`faqs/what-s-different-about-remodeling-a-condo-kitchen-in-los-angeles-compared-to-a-h.json`](./faqs/what-s-different-about-remodeling-a-condo-kitchen-in-los-angeles-compared-to-a-h.json) — schema
+- [`faqs/what-s-the-actual-step-by-step-process-of-a-kitchen-remodel.json`](./faqs/what-s-the-actual-step-by-step-process-of-a-kitchen-remodel.json) — schema
+- [`faqs/what-s-the-basic-step-by-step-process-for-getting-a-seismic-retrofit-done-on-my.json`](./faqs/what-s-the-basic-step-by-step-process-for-getting-a-seismic-retrofit-done-on-my.json) — schema
+- [`faqs/what-s-the-best-kitchen-layout-for-a-small-space-in-an-older-la-bungalow.json`](./faqs/what-s-the-best-kitchen-layout-for-a-small-space-in-an-older-la-bungalow.json) — schema
+- [`faqs/what-s-the-best-way-to-get-a-realistic-outdoor-kitchen-estimate-in-pasadena.json`](./faqs/what-s-the-best-way-to-get-a-realistic-outdoor-kitchen-estimate-in-pasadena.json) — schema
+- [`faqs/what-s-the-biggest-mistake-people-make-when-designing-an-outdoor-kitchen.json`](./faqs/what-s-the-biggest-mistake-people-make-when-designing-an-outdoor-kitchen.json) — schema
+- [`faqs/what-s-the-difference-between-a-home-addition-and-a-remodel-and-why-does-it-matt.json`](./faqs/what-s-the-difference-between-a-home-addition-and-a-remodel-and-why-does-it-matt.json) — schema
+- [`faqs/what-s-the-difference-between-an-adu-and-just-doing-a-regular-room-addition-for.json`](./faqs/what-s-the-difference-between-an-adu-and-just-doing-a-regular-room-addition-for.json) — schema
+- [`faqs/what-s-the-difference-between-design-build-and-traditional-design-bid-build-for.json`](./faqs/what-s-the-difference-between-design-build-and-traditional-design-bid-build-for.json) — schema
+- [`faqs/what-s-the-difference-between-seismic-retrofitting-and-a-regular-remodel-can-i-c.json`](./faqs/what-s-the-difference-between-seismic-retrofitting-and-a-regular-remodel-can-i-c.json) — schema
+- [`faqs/what-s-the-first-thing-i-should-do-if-i-m-thinking-about-building-an-adu-on-my-p.json`](./faqs/what-s-the-first-thing-i-should-do-if-i-m-thinking-about-building-an-adu-on-my-p.json) — schema
+- [`faqs/what-s-the-first-thing-i-should-figure-out-before-hiring-an-outdoor-kitchen-cont.json`](./faqs/what-s-the-first-thing-i-should-figure-out-before-hiring-an-outdoor-kitchen-cont.json) — schema
+- [`faqs/what-s-the-realistic-timeline-for-designing-and-building-an-adu-on-my-property.json`](./faqs/what-s-the-realistic-timeline-for-designing-and-building-an-adu-on-my-property.json) — schema
+- [`faqs/what-setbacks-and-property-line-rules-apply-to-adus-and-how-close-can-i-build-to.json`](./faqs/what-setbacks-and-property-line-rules-apply-to-adus-and-how-close-can-i-build-to.json) — schema
+- [`faqs/what-should-be-included-in-a-proper-roofing-estimate-or-quote.json`](./faqs/what-should-be-included-in-a-proper-roofing-estimate-or-quote.json) — schema
+- [`faqs/what-should-i-ask-a-bathroom-remodeling-contractor-before-i-sign-anything.json`](./faqs/what-should-i-ask-a-bathroom-remodeling-contractor-before-i-sign-anything.json) — schema
+- [`faqs/what-should-i-ask-a-custom-build-contractor-during-the-first-meeting-so-i-don-t.json`](./faqs/what-should-i-ask-a-custom-build-contractor-during-the-first-meeting-so-i-don-t.json) — schema
+- [`faqs/what-should-i-ask-a-kitchen-contractor-before-i-sign-anything.json`](./faqs/what-should-i-ask-a-kitchen-contractor-before-i-sign-anything.json) — schema
+- [`faqs/what-should-i-ask-a-roofer-during-the-first-meeting-so-i-don-t-regret-my-choice.json`](./faqs/what-should-i-ask-a-roofer-during-the-first-meeting-so-i-don-t-regret-my-choice.json) — schema
+- [`faqs/what-should-i-ask-an-outdoor-kitchen-contractor-before-signing-anything.json`](./faqs/what-should-i-ask-an-outdoor-kitchen-contractor-before-signing-anything.json) — schema
+- [`faqs/what-should-i-do-first-if-i-m-planning-a-full-custom-home-renovation-but-don-t-k.json`](./faqs/what-should-i-do-first-if-i-m-planning-a-full-custom-home-renovation-but-don-t-k.json) — schema
+- [`faqs/what-should-i-do-first-if-i-m-thinking-about-a-room-addition-but-have-no-idea-wh.json`](./faqs/what-should-i-do-first-if-i-m-thinking-about-a-room-addition-but-have-no-idea-wh.json) — schema
+- [`faqs/what-should-i-do-first-if-i-m-thinking-about-remodeling-my-bathroom.json`](./faqs/what-should-i-do-first-if-i-m-thinking-about-remodeling-my-bathroom.json) — schema
+- [`faqs/what-should-i-do-if-my-commercial-construction-bids-come-in-way-over-my-budget.json`](./faqs/what-should-i-do-if-my-commercial-construction-bids-come-in-way-over-my-budget.json) — schema
+- [`faqs/what-should-i-do-if-my-contractor-s-work-is-behind-schedule-or-not-matching-the.json`](./faqs/what-should-i-do-if-my-contractor-s-work-is-behind-schedule-or-not-matching-the.json) — schema
+- [`faqs/what-should-i-do-if-my-last-contractor-did-a-bad-job-on-my-bathroom-remodel.json`](./faqs/what-should-i-do-if-my-last-contractor-did-a-bad-job-on-my-bathroom-remodel.json) — schema
+- [`faqs/what-should-i-do-if-my-last-contractor-experience-was-bad-and-i-m-nervous-to-rem.json`](./faqs/what-should-i-do-if-my-last-contractor-experience-was-bad-and-i-m-nervous-to-rem.json) — schema
+- [`faqs/what-should-i-do-if-my-roofing-project-is-delayed-or-taking-much-longer-than-pro.json`](./faqs/what-should-i-do-if-my-roofing-project-is-delayed-or-taking-much-longer-than-pro.json) — schema
+- [`faqs/what-should-i-expect-during-a-commercial-tenant-improvement-ti-project-in-los-an.json`](./faqs/what-should-i-expect-during-a-commercial-tenant-improvement-ti-project-in-los-an.json) — schema
+- [`faqs/what-should-i-expect-during-a-custom-home-addition-project-while-i-m-still-livin.json`](./faqs/what-should-i-expect-during-a-custom-home-addition-project-while-i-m-still-livin.json) — schema
+- [`faqs/what-should-i-expect-during-the-inspection-and-permitting-process-for-a-seismic.json`](./faqs/what-should-i-expect-during-the-inspection-and-permitting-process-for-a-seismic.json) — schema
+- [`faqs/what-should-i-expect-during-the-outdoor-kitchen-construction-process.json`](./faqs/what-should-i-expect-during-the-outdoor-kitchen-construction-process.json) — schema
+- [`faqs/what-should-i-figure-out-first-before-starting-a-commercial-construction-project.json`](./faqs/what-should-i-figure-out-first-before-starting-a-commercial-construction-project.json) — schema
+- [`faqs/what-should-i-figure-out-first-before-starting-a-kitchen-remodel.json`](./faqs/what-should-i-figure-out-first-before-starting-a-kitchen-remodel.json) — schema
+- [`faqs/what-should-i-know-about-building-an-adu-or-garage-conversion-addition-in-los-an.json`](./faqs/what-should-i-know-about-building-an-adu-or-garage-conversion-addition-in-los-an.json) — schema
+- [`faqs/what-should-i-know-about-putting-an-outdoor-kitchen-near-a-pool.json`](./faqs/what-should-i-know-about-putting-an-outdoor-kitchen-near-a-pool.json) — schema
+- [`faqs/what-should-i-know-about-seismic-and-structural-requirements-for-commercial-buil.json`](./faqs/what-should-i-know-about-seismic-and-structural-requirements-for-commercial-buil.json) — schema
+- [`faqs/what-should-i-know-before-installing-a-custom-inground-pool-in-los-angeles-count.json`](./faqs/what-should-i-know-before-installing-a-custom-inground-pool-in-los-angeles-count.json) — schema
+- [`faqs/what-should-i-look-for-when-choosing-a-contractor-for-a-home-addition.json`](./faqs/what-should-i-look-for-when-choosing-a-contractor-for-a-home-addition.json) — schema
+- [`faqs/what-should-i-look-for-when-choosing-a-contractor-for-adu-construction-in-los-an.json`](./faqs/what-should-i-look-for-when-choosing-a-contractor-for-adu-construction-in-los-an.json) — schema
+- [`faqs/what-should-i-prioritize-if-my-kitchen-remodel-budget-is-limited-but-i-still-wan.json`](./faqs/what-should-i-prioritize-if-my-kitchen-remodel-budget-is-limited-but-i-still-wan.json) — schema
+- [`faqs/what-should-i-watch-for-in-a-commercial-construction-contract-before-i-sign-it.json`](./faqs/what-should-i-watch-for-in-a-commercial-construction-contract-before-i-sign-it.json) — schema
+- [`faqs/what-should-i-watch-out-for-in-an-addition-contract-before-i-sign-anything.json`](./faqs/what-should-i-watch-out-for-in-an-addition-contract-before-i-sign-anything.json) — schema
+- [`faqs/what-should-i-watch-out-for-when-putting-a-pool-outdoor-kitchen-and-patio-all-to.json`](./faqs/what-should-i-watch-out-for-when-putting-a-pool-outdoor-kitchen-and-patio-all-to.json) — schema
+- [`faqs/what-special-issues-should-i-expect-when-adding-onto-an-older-los-angeles-home.json`](./faqs/what-special-issues-should-i-expect-when-adding-onto-an-older-los-angeles-home.json) — schema
+- [`faqs/what-special-roofing-issues-should-homeowners-in-los-angeles-county-watch-out-fo.json`](./faqs/what-special-roofing-issues-should-homeowners-in-los-angeles-county-watch-out-fo.json) — schema
+- [`faqs/what-specific-challenges-should-i-expect-with-commercial-construction-in-los-ang.json`](./faqs/what-specific-challenges-should-i-expect-with-commercial-construction-in-los-ang.json) — schema
+- [`faqs/what-type-of-roofing-material-is-best-for-a-house-in-los-angeles-county.json`](./faqs/what-type-of-roofing-material-is-best-for-a-house-in-los-angeles-county.json) — schema
+- [`faqs/what-types-of-buildings-are-considered-high-priority-for-seismic-retrofitting-in.json`](./faqs/what-types-of-buildings-are-considered-high-priority-for-seismic-retrofitting-in.json) — schema
+- [`faqs/what-warranties-and-post-construction-support-should-i-expect-on-a-commercial-pr.json`](./faqs/what-warranties-and-post-construction-support-should-i-expect-on-a-commercial-pr.json) — schema
+- [`faqs/when-is-diy-reasonable-for-home-improvements-and-when-should-i-definitely-hire-a.json`](./faqs/when-is-diy-reasonable-for-home-improvements-and-when-should-i-definitely-hire-a.json) — schema
+- [`faqs/when-should-i-absolutely-hire-a-professional-instead-of-attempting-diy-for-remod.json`](./faqs/when-should-i-absolutely-hire-a-professional-instead-of-attempting-diy-for-remod.json) — schema
+- [`faqs/where-do-i-even-start-if-i-m-thinking-about-a-home-addition-on-my-house.json`](./faqs/where-do-i-even-start-if-i-m-thinking-about-a-home-addition-on-my-house.json) — schema
+- [`faqs/why-are-my-kitchen-remodel-quotes-so-different-in-price-for-the-same-project.json`](./faqs/why-are-my-kitchen-remodel-quotes-so-different-in-price-for-the-same-project.json) — schema
+- [`faqs/why-do-commercial-construction-projects-in-la-always-seem-to-get-delayed-and-wha.json`](./faqs/why-do-commercial-construction-projects-in-la-always-seem-to-get-delayed-and-wha.json) — schema
+- [`faqs/will-a-kitchen-remodel-actually-increase-my-home-s-value-in-los-angeles.json`](./faqs/will-a-kitchen-remodel-actually-increase-my-home-s-value-in-los-angeles.json) — schema
+- [`faqs/will-a-new-roof-help-lower-my-energy-bills-in-a-hot-area-like-los-angeles.json`](./faqs/will-a-new-roof-help-lower-my-energy-bills-in-a-hot-area-like-los-angeles.json) — schema
+- [`faqs/will-a-new-roof-increase-my-home-s-value-or-help-if-i-plan-to-sell-soon.json`](./faqs/will-a-new-roof-increase-my-home-s-value-or-help-if-i-plan-to-sell-soon.json) — schema
+- [`faqs/will-building-an-adu-increase-my-property-taxes-a-lot-in-los-angeles-county.json`](./faqs/will-building-an-adu-increase-my-property-taxes-a-lot-in-los-angeles-county.json) — schema
+- [`faqs/will-seismic-retrofitting-lower-my-earthquake-insurance-premium-or-make-it-easie.json`](./faqs/will-seismic-retrofitting-lower-my-earthquake-insurance-premium-or-make-it-easie.json) — schema
+
+### Q&A (2)
+- [`qna.md`](./qna.md) — Q&A (markdown)
+- [`qnas.jsonld`](./qnas.jsonld) — Q&A ItemList
+
+### Help Articles (43)
+- [`help-articles.jsonld`](./help-articles.jsonld) — Help articles ItemList
+- [`help-articles.md`](./help-articles.md) — Help articles (markdown)
+- [`help/can-i-build-an-adu-on-my-property-in-los-angeles-county.json`](./help/can-i-build-an-adu-on-my-property-in-los-angeles-county.json) — schema
+- [`help/can-i-even-build-an-adu-on-my-property-in-los-angeles.json`](./help/can-i-even-build-an-adu-on-my-property-in-los-angeles.json) — schema
+- [`help/can-i-really-build-an-adu-in-my-la-backyard.json`](./help/can-i-really-build-an-adu-in-my-la-backyard.json) — schema
+- [`help/do-i-need-a-permit-for-a-simple-bathroom-remodel.json`](./help/do-i-need-a-permit-for-a-simple-bathroom-remodel.json) — schema
+- [`help/do-i-need-a-permit-for-my-kitchen-remodel.json`](./help/do-i-need-a-permit-for-my-kitchen-remodel.json) — schema
+- [`help/do-i-really-need-a-permit-to-replace-my-roof-in-la.json`](./help/do-i-really-need-a-permit-to-replace-my-roof-in-la.json) — schema
+- [`help/how-can-i-avoid-common-kitchen-remodeling-delays.json`](./help/how-can-i-avoid-common-kitchen-remodeling-delays.json) — schema
+- [`help/how-can-i-keep-my-commercial-build-on-time-and-on-budget.json`](./help/how-can-i-keep-my-commercial-build-on-time-and-on-budget.json) — schema
+- [`help/how-can-i-make-an-addition-feel-like-part-of-my-original-home.json`](./help/how-can-i-make-an-addition-feel-like-part-of-my-original-home.json) — schema
+- [`help/how-can-i-make-my-new-bathroom-actually-last.json`](./help/how-can-i-make-my-new-bathroom-actually-last.json) — schema
+- [`help/how-do-i-start-an-adu-project-the-right-way-in-los-angeles.json`](./help/how-do-i-start-an-adu-project-the-right-way-in-los-angeles.json) — schema
+- [`help/how-does-a-seismic-retrofit-actually-work.json`](./help/how-does-a-seismic-retrofit-actually-work.json) — schema
+- [`help/how-to-avoid-common-kitchen-remodel-mistakes-in-los-angeles.json`](./help/how-to-avoid-common-kitchen-remodel-mistakes-in-los-angeles.json) — schema
+- [`help/how-to-budget-for-your-adu-without-nasty-surprises.json`](./help/how-to-budget-for-your-adu-without-nasty-surprises.json) — schema
+- [`help/how-to-get-your-adu-project-started-the-right-way.json`](./help/how-to-get-your-adu-project-started-the-right-way.json) — schema
+- [`help/how-to-know-if-your-roofer-is-doing-a-good-job.json`](./help/how-to-know-if-your-roofer-is-doing-a-good-job.json) — schema
+- [`help/how-to-plan-a-kitchen-remodel-and-avoid-the-headaches.json`](./help/how-to-plan-a-kitchen-remodel-and-avoid-the-headaches.json) — schema
+- [`help/how-to-tell-if-an-adu-is-right-for-your-property.json`](./help/how-to-tell-if-an-adu-is-right-for-your-property.json) — schema
+- [`help/is-it-better-to-repair-or-replace-my-leaky-roof.json`](./help/is-it-better-to-repair-or-replace-my-leaky-roof.json) — schema
+- [`help/is-it-possible-to-build-an-adu-on-my-la-property.json`](./help/is-it-possible-to-build-an-adu-on-my-la-property.json) — schema
+- [`help/is-my-building-a-candidate-for-a-seismic-retrofit.json`](./help/is-my-building-a-candidate-for-a-seismic-retrofit.json) — schema
+- [`help/my-commercial-project-is-complex-when-do-i-need-a-full-pro-team.json`](./help/my-commercial-project-is-complex-when-do-i-need-a-full-pro-team.json) — schema
+- [`help/my-roofer-wants-to-put-new-shingles-over-the-old-ones-is-that-okay.json`](./help/my-roofer-wants-to-put-new-shingles-over-the-old-ones-is-that-okay.json) — schema
+- [`help/planning-a-pasadena-kitchen-remodel-avoid-these-common-mistakes.json`](./help/planning-a-pasadena-kitchen-remodel-avoid-these-common-mistakes.json) — schema
+- [`help/rethinking-your-garage-can-it-be-more-than-just-storage.json`](./help/rethinking-your-garage-can-it-be-more-than-just-storage.json) — schema
+- [`help/running-out-of-room-key-questions-for-a-home-addition.json`](./help/running-out-of-room-key-questions-for-a-home-addition.json) — schema
+- [`help/the-biggest-mistakes-to-avoid-with-your-adu-build.json`](./help/the-biggest-mistakes-to-avoid-with-your-adu-build.json) — schema
+- [`help/thinking-about-a-home-addition-in-la-read-this-first.json`](./help/thinking-about-a-home-addition-in-la-read-this-first.json) — schema
+- [`help/what-are-cool-roofs-and-do-i-have-to-get-one.json`](./help/what-are-cool-roofs-and-do-i-have-to-get-one.json) — schema
+- [`help/what-are-the-biggest-mistakes-to-avoid-when-building-an-adu.json`](./help/what-are-the-biggest-mistakes-to-avoid-when-building-an-adu.json) — schema
+- [`help/what-are-the-biggest-mistakes-to-avoid-with-a-home-addition.json`](./help/what-are-the-biggest-mistakes-to-avoid-with-a-home-addition.json) — schema
+- [`help/what-are-the-biggest-mistakes-to-avoid-with-your-los-angeles-adu.json`](./help/what-are-the-biggest-mistakes-to-avoid-with-your-los-angeles-adu.json) — schema
+- [`help/what-are-the-most-common-and-costly-seismic-retrofitting-mistakes.json`](./help/what-are-the-most-common-and-costly-seismic-retrofitting-mistakes.json) — schema
+- [`help/what-hidden-problems-could-my-bathroom-remodel-uncover.json`](./help/what-hidden-problems-could-my-bathroom-remodel-uncover.json) — schema
+- [`help/what-s-the-difference-between-design-build-and-traditional-construction.json`](./help/what-s-the-difference-between-design-build-and-traditional-construction.json) — schema
+- [`help/what-s-the-right-sequence-for-a-kitchen-remodeling-project.json`](./help/what-s-the-right-sequence-for-a-kitchen-remodeling-project.json) — schema
+- [`help/what-should-i-budget-for-a-home-addition.json`](./help/what-should-i-budget-for-a-home-addition.json) — schema
+- [`help/what-should-i-expect-during-a-kitchen-renovation.json`](./help/what-should-i-expect-during-a-kitchen-renovation.json) — schema
+- [`help/what-should-i-expect-from-a-kitchen-remodel-in-pasadena.json`](./help/what-should-i-expect-from-a-kitchen-remodel-in-pasadena.json) — schema
+- [`help/why-does-my-flat-roof-keep-leaking.json`](./help/why-does-my-flat-roof-keep-leaking.json) — schema
+- [`help/why-your-pasadena-kitchen-remodel-might-get-complicated.json`](./help/why-your-pasadena-kitchen-remodel-might-get-complicated.json) — schema
+
+### Topical Hubs (3)
+- [`semantic-authority-pages.json`](./semantic-authority-pages.json) — Semantic authority pages
+- [`topical-hubs.jsonld`](./topical-hubs.jsonld) — Topical hubs ItemList
+- [`topical-hubs.md`](./topical-hubs.md) — Topical hubs (markdown)
+
+### Web Pages (27)
+- [`webpages/adu-construction-hub.json`](./webpages/adu-construction-hub.json) — webpage
+- [`webpages/adu-construction-los-angeles-hub.json`](./webpages/adu-construction-los-angeles-hub.json) — webpage
+- [`webpages/bathroom-remodeling-hub.json`](./webpages/bathroom-remodeling-hub.json) — webpage
+- [`webpages/bathroom-remodeling-los-angeles-hub.json`](./webpages/bathroom-remodeling-los-angeles-hub.json) — webpage
+- [`webpages/commercial-construction-hub.json`](./webpages/commercial-construction-hub.json) — webpage
+- [`webpages/commercial-construction-los-angeles-hub.json`](./webpages/commercial-construction-los-angeles-hub.json) — webpage
+- [`webpages/custom-additions-design-hub.json`](./webpages/custom-additions-design-hub.json) — webpage
+- [`webpages/custom-adu-build-hub.json`](./webpages/custom-adu-build-hub.json) — webpage
+- [`webpages/custom-build-contractor-hub.json`](./webpages/custom-build-contractor-hub.json) — webpage
+- [`webpages/custom-home-build-hub.json`](./webpages/custom-home-build-hub.json) — webpage
+- [`webpages/custom-home-outdoor-construction-hub.json`](./webpages/custom-home-outdoor-construction-hub.json) — webpage
+- [`webpages/custom-home-renovations-hub.json`](./webpages/custom-home-renovations-hub.json) — webpage
+- [`webpages/custom-outdoor-kitchen-hub.json`](./webpages/custom-outdoor-kitchen-hub.json) — webpage
+- [`webpages/custom-outdoor-patio-hub.json`](./webpages/custom-outdoor-patio-hub.json) — webpage
+- [`webpages/custom-pool-installation-hub.json`](./webpages/custom-pool-installation-hub.json) — webpage
+- [`webpages/garage-renovations-hub.json`](./webpages/garage-renovations-hub.json) — webpage
+- [`webpages/garage-renovations-los-angeles-hub.json`](./webpages/garage-renovations-los-angeles-hub.json) — webpage
+- [`webpages/general-contractor-los-angeles-hub.json`](./webpages/general-contractor-los-angeles-hub.json) — webpage
+- [`webpages/home-additions-hub.json`](./webpages/home-additions-hub.json) — webpage
+- [`webpages/home-additions-los-angeles-hub.json`](./webpages/home-additions-los-angeles-hub.json) — webpage
+- [`webpages/kitchen-remodeling-hub.json`](./webpages/kitchen-remodeling-hub.json) — webpage
+- [`webpages/kitchen-remodeling-los-angeles-hub.json`](./webpages/kitchen-remodeling-los-angeles-hub.json) — webpage
+- [`webpages/roofing-contractor-hub.json`](./webpages/roofing-contractor-hub.json) — webpage
+- [`webpages/roofing-contractor-los-angeles-hub.json`](./webpages/roofing-contractor-los-angeles-hub.json) — webpage
+- [`webpages/room-additions-hub.json`](./webpages/room-additions-hub.json) — webpage
+- [`webpages/seismic-retrofitting-hub.json`](./webpages/seismic-retrofitting-hub.json) — webpage
+- [`webpages/seismic-retrofitting-los-angeles-hub.json`](./webpages/seismic-retrofitting-los-angeles-hub.json) — webpage
+
+### Public Pages (7)
+- [`about.html`](./about.html) — LLM-optimized public page
+- [`contact.html`](./contact.html) — LLM-optimized public page
+- [`faqs.html`](./faqs.html) — LLM-optimized public page
+- [`help.html`](./help.html) — LLM-optimized public page
+- [`index.html`](./index.html) — LLM-optimized public page
+- [`services.html`](./services.html) — LLM-optimized public page
+- [`testimonials.html`](./testimonials.html) — LLM-optimized public page
+
+### Reviews (5)
+- [`reviews.jsonld`](./reviews.jsonld) — Reviews ItemList
+- [`reviews/larry-kenjoshua-review.json`](./reviews/larry-kenjoshua-review.json) — schema
+- [`reviews/marion-zeddy-review.json`](./reviews/marion-zeddy-review.json) — schema
+- [`reviews/nandy-milan-review.json`](./reviews/nandy-milan-review.json) — schema
+- [`testimonials.jsonld`](./testimonials.jsonld) — Testimonials ItemList
+
+### Press (1)
+- [`media-mentions.jsonld`](./media-mentions.jsonld) — Media mentions ItemList
+
+### Awards (4)
+- [`associations.jsonld`](./associations.jsonld) — Associations ItemList
+- [`awards.jsonld`](./awards.jsonld) — Awards ItemList
+- [`credentials.json`](./credentials.json) — Credentials summary
+- [`licenses.jsonld`](./licenses.jsonld) — Licenses ItemList
+
+### Case Results (1)
+- [`case-results.jsonld`](./case-results.jsonld) — Case results ItemList
+
+### Site Pages (11)
+- [`about.html`](./about.html) — About page
+- [`case-results.html`](./case-results.html) — Case results page
+- [`contact.html`](./contact.html) — Contact page
+- [`faqs.html`](./faqs.html) — FAQs page
+- [`help.html`](./help.html) — Help page
+- [`locations.html`](./locations.html) — Locations page
+- [`qnas.html`](./qnas.html) — Q&A page
+- [`reviews.html`](./reviews.html) — Reviews page
+- [`services.html`](./services.html) — Services page
+- [`team.html`](./team.html) — Team page
+- [`topical-hubs.html`](./topical-hubs.html) — Topical hubs page
+
+### Data Files (16)
+- [`data/case-results.json`](./data/case-results.json) — Case results data
+- [`data/entity.json`](./data/entity.json) — Entity data (JSON)
+- [`data/entity.jsonl`](./data/entity.jsonl) — Entity data (JSONL)
+- [`data/entity.yaml`](./data/entity.yaml) — Entity data (YAML)
+- [`data/faqs.json`](./data/faqs.json) — FAQs data
+- [`data/help-articles.json`](./data/help-articles.json) — Help articles data
+- [`data/internal-links.json`](./data/internal-links.json) — Internal links index
+- [`data/knowledge-graph.json`](./data/knowledge-graph.json) — Knowledge graph @graph
+- [`data/locations.json`](./data/locations.json) — Locations data
+- [`data/qnas.json`](./data/qnas.json) — Q&A data
+- [`data/research-sources.json`](./data/research-sources.json) — Approved research items with source attribution
+- [`data/reviews.json`](./data/reviews.json) — Reviews data
+- [`data/services.json`](./data/services.json) — Services data
+- [`data/source-map.json`](./data/source-map.json) — Source-map of all entity files
+- [`data/source-provenance.json`](./data/source-provenance.json) — External source provenance for approved research
+- [`data/team.json`](./data/team.json) — Team data
+
+### Compliance & Review (5)
+- [`ai-disclaimer.md`](./ai-disclaimer.md) — AI disclaimer
+- [`approval-log.json`](./approval-log.json) — Content approval log
+- [`content-review-status.json`](./content-review-status.json) — Content review status
+- [`data-sources.md`](./data-sources.md) — Data sources
+- [`legal-disclaimer.md`](./legal-disclaimer.md) — Legal disclaimer
+
+### Security & Humans (2)
+- [`humans.txt`](./humans.txt) — humans.txt
+- [`security.txt`](./security.txt) — Security.txt (RFC 9116)
+
+

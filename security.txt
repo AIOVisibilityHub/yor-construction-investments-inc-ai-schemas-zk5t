@@ -1,0 +1,4 @@
+Contact: yorconstruction.com/contact
+Expires: 2027-06-11T20:39:52.577Z
+Preferred-Languages: en
+Canonical: yorconstruction.com/security.txt

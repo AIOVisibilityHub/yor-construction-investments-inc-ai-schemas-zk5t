@@ -1,0 +1,1190 @@
+{
+  "generatedAt": "2026-06-11T20:39:52.569Z",
+  "kind": "semantic-authority",
+  "total": 41,
+  "items": [
+    {
+      "name": "How to Avoid Common Kitchen Remodel Mistakes in Los Angeles",
+      "step": [
+        {
+          "name": "Step 1",
+          "text": "A kitchen remodel is a big investment, so the last thing you want is a costly and stressful mistake. After years of working on projects across Los Angeles County, we've seen a few common slip-ups that are easy to avoid.",
+          "@type": "HowToStep",
+          "position": 1
+        },
+        {
+          "name": "Step 2",
+          "text": "First, don't assume you don't need a permit. Moving even one plumbing line or electrical outlet usually requires one. Starting work without it can lead to fines and having to tear out finished work for inspections. It's the number-one pitfall.",
+          "@type": "HowToStep",
+          "position": 2
+        },
+        {
+          "name": "Step 3",
+          "text": "Second, plan your layout according to code. California's Electrical Code has specific rules for outlet spacing over countertops (basically, you need them every four feet) and required clearances. A poorly planned layout can fail inspection and force a costly redesign.",
+          "@type": "HowToStep",
+          "position": 3
+        },
+        {
+          "name": "Step 4",
+          "text": "Third, get your ventilation right. A common mistake is venting a range hood into an attic or wall cavity. Code requires it to vent all the way to the exterior. Inspectors definitely look for this!",
+          "@type": "HowToStep",
+          "position": 4
+        },
+        {
+          "name": "Step 5",
+          "text": "Finally, don't forget lead times. Custom cabinets and specialty appliances can take weeks or months to arrive. Ordering these items before demolition even starts is key to keeping your project on schedule. When you need a team that sweats these details for you, call YOR Construction for a free estimate.",
+          "@type": "HowToStep",
+          "position": 5
+        }
+      ],
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "description": "How to Avoid Common Kitchen Remodel Mistakes in Los Angeles"
+    },
+    {
+      "name": "What's the Right Sequence for a Kitchen Remodeling Project?",
+      "step": [
+        {
+          "name": "Step 1",
+          "text": "You've got your dream kitchen design finalized, and you're ready to go! So, what happens next? A successful, low-stress remodel follows a specific sequence of steps that revolves around city inspections.",
+          "@type": "HowToStep",
+          "position": 1
+        },
+        {
+          "name": "Step 2",
+          "text": "First and foremost: permits. Before a single sledgehammer is swung, all necessary permits from your local building department (like LADBS or Pasadena's) must be secured. This process alone can take a few weeks, so it's step zero.",
+          "@type": "HowToStep",
+          "position": 2
+        },
+        {
+          "name": "Step 3",
+          "text": "Next comes the messy part: demo and rough-in. After the old kitchen is gone, the team will do any framing and run the new plumbing, electrical wiring, and HVAC ducts. Each of these trades requires a separate \"rough\" inspection to ensure they're correctly installed *before* they get hidden behind walls.",
+          "@type": "HowToStep",
+          "position": 3
+        },
+        {
+          "name": "Step 4",
+          "text": "Once those inspections are passed, you get walls! Insulation and drywall go up, and things start to feel like a room again. After that, the finish materials that make your kitchen unique can be installed: flooring, cabinets, countertops, and tile.",
+          "@type": "HowToStep",
+          "position": 4
+        },
+        {
+          "name": "Step 5",
+          "text": "Finally, the project concludes with fixtures and a final inspection. Faucets, lights, outlets, and appliances are installed, and the building inspector gives their final approval. Juggling these steps is a contractor's main job. If you want a pro to manage the process, contact YOR Construction today.",
+          "@type": "HowToStep",
+          "position": 5
+        }
+      ],
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "description": "What's the Right Sequence for a Kitchen Remodeling Project?"
+    },
+    {
+      "@type": "QAPage",
+      "about": {
+        "@type": "GeneralContractor",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ]
+      },
+      "@context": "https://schema.org",
+      "mainEntity": {
+        "name": "Do I Really Need a Permit to Replace My Roof in LA?",
+        "text": "Do I Really Need a Permit to Replace My Roof in LA?",
+        "@type": "Question",
+        "answerCount": 1,
+        "acceptedAnswer": {
+          "text": "We get this question all the time, and it makes sense to ask. Since you're just replacing what's already there, it can feel like maintenance. However, in nearly all jurisdictions in Los Angeles County, the answer is yes, you absolutely need a permit to reroof your home.\n\nA roof is a critical part of your home's structure and fire safety system. Local building departments in cities like Los Angeles, Pasadena, and Rancho Palos Verdes issue permits to ensure the job is done to current codes. An inspector will check that any damaged sheathing is repaired and that the right underlayment and materials are used.\n\nThis is especially important in the wildfire-prone hillside areas throughout our region. The permit process verifies that your new roof uses Class A fire-rated materials, which are mandatory in high-fire-severity zones. It also ensures that if you already have two or more layers of old roofing, a full tear-off is performed, as required by code.\n\nDon't let a contractor tell you a permit isn't needed. Navigating the permit process is part of a qualified roofer's job. If you want to ensure your new roof is safe, compliant, and done right, schedule a free estimate with YOR Construction.",
+          "@type": "Answer",
+          "author": {
+            "name": "YOR Construction & Investments, Inc.",
+            "@type": "Organization"
+          }
+        }
+      }
+    },
+    {
+      "@type": "QAPage",
+      "about": {
+        "@type": "GeneralContractor",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ]
+      },
+      "@context": "https://schema.org",
+      "mainEntity": {
+        "name": "What Are 'Cool Roofs' and Do I Have to Get One?",
+        "text": "What Are 'Cool Roofs' and Do I Have to Get One?",
+        "@type": "Question",
+        "answerCount": 1,
+        "acceptedAnswer": {
+          "text": "If you're researching a new roof in Southern California, you've probably encountered the term 'cool roof.' It's a key part of California's energy code, Title 24, and it's something you'll need to consider.\n\nA cool roof is designed to reflect more sunlight and absorb less heat than a traditional roof. By staying cooler, it reduces the amount of heat transferred into your home, which means your AC doesn't have to work as hard. This lowers your energy bills and reduces strain on the power grid, a big concern in our sunny climate.\n\nSo, is it mandatory? It's a little complicated, but in Los Angeles county, they are often required to meet the state's energy efficiency standards. The specific requirements can depend on factors like your climate zone and the slope of your roof. The good news is that you're not just limited to bright white anymore. Many modern roofing materials, including shingles and tiles in a variety of colors, meet the 'cool roof' standards for reflectivity and emittance.\n\nUnderstanding which products qualify and meet the requirements for your specific home can be tricky. It's a perfect conversation to have with a knowledgeable roofer. If you're ready to explore your options, contact YOR Construction for a professional consultation.",
+          "@type": "Answer",
+          "author": {
+            "name": "YOR Construction & Investments, Inc.",
+            "@type": "Organization"
+          }
+        }
+      }
+    },
+    {
+      "@type": "Article",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "@context": "https://schema.org",
+      "headline": "My Roofer Wants to Put New Shingles Over the Old Ones. Is That Okay?",
+      "publisher": {
+        "url": "yorconstruction.com",
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "articleBody": "Getting a quote for a roof 'overlay' can be tempting. It's almost always cheaper than a full tear-off, but it's one of those situations where saving money now can cost you a lot more down the road.\n\nFirst, there's the building code to consider. In most LA-area jurisdictions, you are not allowed to have more than two layers of roofing material on your home. If you already have more than one, a tear-off isn't just a good idea—it's the law. An overlay would fail inspection.\n\nSecond, an overlay conceals the true condition of your roof deck. You're simply covering up any potential soft spots, rot, or water damage in the underlying wood sheathing. This can lead to serious structural problems and leaks that a new layer of shingles won't stop.\n\nThird, performance is compromised. A new roof performs best when it's installed on a clean, flat surface. An overlay can result in a lumpy appearance and can even shorten the lifespan of your new shingles, potentially voiding the manufacturer's warranty.\n\nFor a durable, watertight, and fully warrantied roof, a complete tear-off is the professional standard. If you want a roof done right, with no shortcuts, call YOR Construction for a proper evaluation.",
+      "datePublished": "2026-06-03"
+    },
+    {
+      "@type": "QAPage",
+      "about": {
+        "@type": "GeneralContractor",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ]
+      },
+      "@context": "https://schema.org",
+      "mainEntity": {
+        "name": "Can I Even Build an ADU on My Property in Los Angeles?",
+        "text": "Can I Even Build an ADU on My Property in Los Angeles?",
+        "@type": "Question",
+        "answerCount": 1,
+        "acceptedAnswer": {
+          "text": "It's the first question on every homeowner's mind: is an ADU even possible on my lot? Navigating the rules in Los Angeles County can feel tricky, but the answer is often a resounding 'yes' thanks to friendlier state laws. The key is knowing which rules apply to you.\n\nFirst, you have to confirm your local zoning. Whether your home is in the City of Los Angeles, Pasadena, or an unincorporated area determines which regulations you'll follow. For example, LA City residents can use the ZIMAS tool to check their property. A crucial first step is verifying your lot's specific constraints, like setbacks (often just 4 feet from the side and rear), height limits, and total lot coverage allowances.\n\nWorried about space? California law now requires that local agencies must allow at least an 800-square-foot ADU, as long as it meets basic criteria. And what about parking? That's another common concern, especially for garage conversions. The good news is that if your property is within a half-mile of public transit, you typically don't need to replace the parking spot, which is a huge advantage for many homeowners in the region.\n\nUnderstanding whether a detached unit, a JADU (up to 500 sq ft inside your home), or a garage conversion is the best fit requires weighing these rules against your budget and goals. Getting a professional assessment for your property in Sherman Oaks, Valley Village, or Rancho Palos Verdes is the best way to get a clear answer. If you're ready to find out what's possible, our team can provide a free consultation to evaluate your lot.",
+          "@type": "Answer",
+          "author": {
+            "name": "YOR Construction & Investments, Inc.",
+            "@type": "Organization"
+          }
+        }
+      }
+    },
+    {
+      "name": "How to Get Your ADU Project Started the Right Way",
+      "step": [
+        {
+          "name": "Step 1",
+          "text": "So, you're ready to build an accessory dwelling unit! Taking that first step can feel overwhelming, but a smooth project always starts with a solid plan. Breaking the initial phase down into clear steps makes it manageable and helps you avoid major headaches down the road.",
+          "@type": "HowToStep",
+          "position": 1
+        },
+        {
+          "name": "Step 2",
+          "text": "First up is the feasibility check. Before you fall in love with a design, you need to confirm your property is eligible and what you're allowed to build. This involves a deep dive into your local jurisdiction's rules—whether that's LA City, Pasadena, or another municipality. This step clarifies crucial details like maximum size, height, and setback requirements. Working with a design-build firm from the start simplifies this, as they can handle the upfront research for you.",
+          "@type": "HowToStep",
+          "position": 2
+        },
+        {
+          "name": "Step 3",
+          "text": "Next comes the design and planning phase. This is where your vision starts to take shape. You'll decide between a detached unit, an attached addition, or a garage conversion. You can create a custom plan or, in some cases, use pre-approved standard plans which can sometimes shorten the review process. This is the stage where you align your goals with your budget and site constraints.",
+          "@type": "HowToStep",
+          "position": 3
+        },
+        {
+          "name": "Step 4",
+          "text": "Finally, it's time for permitting. Your completed plans are submitted to the local building department. State law now requires a decision within 60 days, but the process involves careful coordination. A professional who knows how to respond to comments from planning, building, and safety departments is invaluable here. Kickstart your project with confidence by having an expert team handle everything from initial designs to final permits. Call us today to learn about our integrated design-build process.",
+          "@type": "HowToStep",
+          "position": 4
+        }
+      ],
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "description": "How to Get Your ADU Project Started the Right Way"
+    },
+    {
+      "@type": "Article",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "@context": "https://schema.org",
+      "headline": "The Biggest Mistakes to Avoid With Your ADU Build",
+      "publisher": {
+        "url": "yorconstruction.com",
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "articleBody": "Building an ADU is an exciting investment, but a few common missteps can quickly lead to budget overruns and frustrating delays. Knowing what to watch out for from the very beginning can make all the difference.\n\nOne of the most frequent mistakes is underestimating the 'soft costs.' Homeowners create a budget for construction but forget about everything else. Line items for architectural design, structural engineering, site surveys, and city permit fees can add up. It's crucial that your total budget accounts for these expenses, as well as potential utility hookup fees, from day one.\n\nAnother issue we often see is neglecting utility capacity. You have to confirm that your property's existing electrical service, water line, and sewer connection can support the new dwelling. Discovering a needed upgrade late in the game can cause significant delays and unexpected costs right when you're trying to pass final inspections. A good contractor assesses this early on.\n\nFinally, don't start any work before you have approved permits in hand. It's tempting to get a head start on demolition or site prep, but doing so can create massive problems. Working without permits can lead to fines, stop-work orders, and having to tear down what you've already built. The best way to avoid these pitfalls is with careful, professional planning. If you're looking for a partner to guide you through the process in the Los Angeles area, contact YOR Construction for a clear, comprehensive estimate.",
+      "datePublished": "2026-06-03"
+    },
+    {
+      "@type": "QAPage",
+      "about": {
+        "@type": "GeneralContractor",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ]
+      },
+      "@context": "https://schema.org",
+      "mainEntity": {
+        "name": "What Should I Budget For a Home Addition?",
+        "text": "What Should I Budget For a Home Addition?",
+        "@type": "Question",
+        "answerCount": 1,
+        "acceptedAnswer": {
+          "text": "Planning an addition is exciting, but figuring out the budget can be a huge source of stress. It’s about more than just a cost-per-square-foot estimate; you need to look at the total picture to avoid surprises.\n\nFirst, understand that the final cost depends on the complexity. Are you adding a simple room or a two-story addition with a kitchen or bath? The latter involves more plumbing, electrical, and high-end finishes, which increases the price. Second, always—always—set aside a contingency fund. We recommend 10-20% of your total budget. In construction, especially with older homes, you never know what you'll find when you open up a wall. This fund covers those unforeseen issues without derailing your project. Finally, remember that costs like architectural design, engineering, and permits are part of the budget, too.\n\nA professional can help you get a clear, realistic cost breakdown from the start. If you’re ready to take the next step, contact YOR Construction & Investments for a free consultation and estimate to get your project on solid financial ground.",
+          "@type": "Answer",
+          "author": {
+            "name": "YOR Construction & Investments, Inc.",
+            "@type": "Organization"
+          }
+        }
+      }
+    },
+    {
+      "name": "How Can I Make an Addition Feel Like Part of My Original Home?",
+      "step": [
+        {
+          "name": "Step 1",
+          "text": "You don't want your new addition to look 'tacked on.' The goal is to make it feel like it was always there, blending seamlessly with your existing home. Achieving this is about smart, integrated design, not just building a box onto the side of your house.",
+          "@type": "HowToStep",
+          "position": 1
+        },
+        {
+          "name": "Step 2",
+          "text": "The key is to think about the project holistically. How will the new space connect to the old? You have to consider traffic flow from room to room, making sure it feels natural and doesn't create awkward bottlenecks. Attention to detail is also critical—matching the roofline, window styles, and exterior materials is essential for creating a cohesive look. Inside, think about how natural light will carry through the space and how the new layout will serve your family's daily life. This is where a design-build approach really shines, as the design and construction teams work together from the start to ensure the vision is executed perfectly.",
+          "@type": "HowToStep",
+          "position": 2
+        },
+        {
+          "name": "Step 3",
+          "text": "Our team at YOR Construction specializes in creating additions that truly elevate your home. If you want a seamless final product, let’s talk about your vision. Contact us for a free estimate.",
+          "@type": "HowToStep",
+          "position": 3
+        }
+      ],
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "description": "How Can I Make an Addition Feel Like Part of My Original Home?"
+    },
+    {
+      "@type": "Article",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "@context": "https://schema.org",
+      "headline": "What Are the Biggest Mistakes to Avoid With a Home Addition?",
+      "publisher": {
+        "url": "yorconstruction.com",
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "articleBody": "A home addition is a major undertaking, and a few common missteps can cause big headaches. Knowing what they are ahead of time can save you from a lot of stress and unexpected costs.\n\nOne of the biggest mistakes is not doing your due diligence on zoning rules and permits *before* you start designing. Imagine creating the perfect plan, only to find out it violates local setback or height restrictions. Always check regulations first. Another major error is failing to create a realistic budget that includes a 10-20% contingency fund for surprises. Without it, an unexpected issue can bring your project to a halt. Finally, don’t hire a contractor based on the lowest bid alone. Poor quality work, code violations, and legal issues are far more expensive in the long run. Make sure your contractor is licensed, insured, and has a strong reputation for this type of work.\n\nWorking with an experienced design-build firm helps you avoid these pitfalls. At YOR Construction, we manage the entire process, from regulations to budgeting. Contact us for a free consultation.",
+      "datePublished": "2026-06-03"
+    },
+    {
+      "@type": "QAPage",
+      "about": {
+        "@type": "GeneralContractor",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ]
+      },
+      "@context": "https://schema.org",
+      "mainEntity": {
+        "name": "What Hidden Problems Could My Bathroom Remodel Uncover?",
+        "text": "What Hidden Problems Could My Bathroom Remodel Uncover?",
+        "@type": "Question",
+        "answerCount": 1,
+        "acceptedAnswer": {
+          "text": "Starting a bathroom remodel is all about the exciting new finishes, but it’s what's behind the walls that often needs the most attention. Older bathrooms, in particular, can hide some costly and potentially hazardous surprises.\n\nThe most common issues we find are related to water. Small, slow leaks you never knew about can lead to rotted subfloors, damaged wall framing, and mold growth. During demolition, we inspect these areas carefully. Another frequent discovery is outdated or non-compliant plumbing and electrical systems. Old wiring may not be properly grounded for a wet environment, posing a serious safety risk. Uncovering these problems is actually a good thing—it gives you the chance to fix them properly and protect your home and family. That’s why it’s so important to have a contingency fund of 10-20% built into your budget. This ensures you can address these underlying issues without compromising on your vision for the new space.\n\nIf you're worried about what your remodel might uncover, let our experienced team help. Contact YOR Construction for a free estimate.",
+          "@type": "Answer",
+          "author": {
+            "name": "YOR Construction & Investments, Inc.",
+            "@type": "Organization"
+          }
+        }
+      }
+    },
+    {
+      "name": "How Can I Make My New Bathroom Actually Last?",
+      "step": [
+        {
+          "name": "Step 1",
+          "text": "A stunning bathroom is great, but its beauty will be short-lived if it’s not built to handle moisture properly. Long-term durability comes from focusing on the technical details behind the pretty finishes.",
+          "@type": "HowToStep",
+          "position": 1
+        },
+        {
+          "name": "Step 2",
+          "text": "First and foremost: waterproofing. This is not a step to cut corners on. A properly installed waterproofing membrane behind your shower tiles and on the floor is your number one defense against leaks, which can lead to rot and mold. Second, prioritize ventilation. A high-quality, properly sized exhaust fan is non-negotiable. It pulls moist air out of the room, preventing moisture from lingering and causing damage over time. Third, choose your materials wisely. Select flooring that’s slip-resistant and durable in wet conditions, and consider grout that’s stain-resistant and easier to maintain. Finally, never let an unqualified person handle your plumbing or electrical work. It’s a safety risk and can cause you to fail inspections.",
+          "@type": "HowToStep",
+          "position": 2
+        },
+        {
+          "name": "Step 3",
+          "text": "At YOR Construction, we build bathrooms that perform as well as they look. To get a project that's built right from the inside out, contact us for a free consultation.",
+          "@type": "HowToStep",
+          "position": 3
+        }
+      ],
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "description": "How Can I Make My New Bathroom Actually Last?"
+    },
+    {
+      "@type": "QAPage",
+      "about": {
+        "@type": "GeneralContractor",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ]
+      },
+      "@context": "https://schema.org",
+      "mainEntity": {
+        "name": "Do I Need a Permit for a Simple Bathroom Remodel?",
+        "text": "Do I Need a Permit for a Simple Bathroom Remodel?",
+        "@type": "Question",
+        "answerCount": 1,
+        "acceptedAnswer": {
+          "text": "It’s one of the most common questions we hear. While swapping out a faucet or painting the walls doesn't require a permit, the answer is often 'yes' for anything more involved. It’s a crucial step that protects you and your investment.\n\nAs a general rule, you will need a permit if you are changing your bathroom's layout, moving walls, or touching the plumbing or electrical systems. For example, moving a toilet, converting a tub to a walk-in shower, or adding new lighting all typically require permits. Why? Because permits trigger inspections, which ensure the work is done safely and to your local building code. This is essential for preventing leaks, electrical hazards, and structural issues. Trying to skip this step can backfire, leading to fines, orders to tear out finished work, and major problems when you eventually sell your home.\n\nNavigating the permit process can be confusing, but a professional contractor handles this for you. If you want to ensure your remodel is done correctly and legally, contact YOR Construction for a free estimate and a worry-free process.",
+          "@type": "Answer",
+          "author": {
+            "name": "YOR Construction & Investments, Inc.",
+            "@type": "Organization"
+          }
+        }
+      }
+    },
+    {
+      "name": "How Can I Avoid Common Kitchen Remodeling Delays?",
+      "step": [
+        {
+          "name": "Step 1",
+          "text": "It's the big question on everyone's mind: how do you keep your kitchen remodel on schedule? While a little disruption is inevitable, major delays often stem from a few common, and avoidable, missteps. The single biggest mistake is starting demolition before every single material and finish has been selected and ordered. It's tempting to get going, but waiting for backordered cabinets or appliances can bring your entire project to a screeching halt.",
+          "@type": "HowToStep",
+          "position": 1
+        },
+        {
+          "name": "Step 2",
+          "text": "Another frequent issue is not fully understanding the permit and inspection timeline in Los Angeles County. These steps are there for your safety, but they can add weeks to the process if not planned for properly. Finally, always have a contingency plan. Unforeseen issues, like finding old plumbing that needs updating, can pop up once walls are opened. A good plan and a solid budget account for these surprises from the start.",
+          "@type": "HowToStep",
+          "position": 2
+        },
+        {
+          "name": "Step 3",
+          "text": "When your project involves moving walls, changing layouts, or significant plumbing and electrical work, having an experienced partner is key. A professional design/build team manages all these moving parts—from ordering materials to scheduling inspections—to ensure a smoother process. If you want to keep your project on track, give YOR Construction & Investments, Inc. a call for a free consultation to see how we can help.",
+          "@type": "HowToStep",
+          "position": 3
+        }
+      ],
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "description": "How Can I Avoid Common Kitchen Remodeling Delays?"
+    },
+    {
+      "@type": "Article",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "@context": "https://schema.org",
+      "headline": "What Should I Expect During a Kitchen Renovation?",
+      "publisher": {
+        "url": "yorconstruction.com",
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "articleBody": "So, you're ready to remodel your kitchen! It's an exciting process, but it's more than just picking out new cabinets and countertops. Knowing what to expect can make the whole experience feel much more manageable. \n\nThe first phase is all about planning. This is where you and your contractor will finalize the design, layout, and budget. This step alone can take a few weeks, but it's the foundation for everything that follows. Once the plans are set and materials are ordered, the demolition begins. This part is messy but necessary to prepare for the new layout. Next comes the 'rough-in' stage, where our teams handle any new plumbing, electrical, or structural work behind the walls. After that, you'll see the space really start to take shape as cabinets, countertops, and major appliances are installed. The final phase involves all the finishing touches—like flooring, backsplash, and paint—followed by a final inspection and walkthrough to ensure every detail is perfect.\n\nA clear process and constant communication are what separate a stressful renovation from a successful one. At YOR Construction & Investments, Inc., we manage the entire project with seamless teamwork. Contact us today for a free estimate and let's get started.",
+      "datePublished": "2026-06-03"
+    },
+    {
+      "@type": "QAPage",
+      "about": {
+        "@type": "GeneralContractor",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ]
+      },
+      "@context": "https://schema.org",
+      "mainEntity": {
+        "name": "Do I Need a Permit for My Kitchen Remodel?",
+        "text": "Do I Need a Permit for My Kitchen Remodel?",
+        "@type": "Question",
+        "answerCount": 1,
+        "acceptedAnswer": {
+          "text": "That's a question we get all the time. In Los Angeles County, the answer is usually 'yes' if your remodel is more than just a simple cosmetic facelift. Think of it this way: if you're changing the kitchen's footprint, moving walls, or altering the plumbing and electrical systems, you're almost certainly going to need a permit.\n\nWhy is this so important? Permits trigger inspections, and inspections ensure the work is done safely and up to code. This isn't just about bureaucracy; it's about protecting your home and your family. Work done without a permit can cause major problems down the line, especially when you decide to sell your home. However, if you're just doing surface-level updates—like painting existing cabinets, swapping out a faucet in the same spot, or installing new flooring—you typically don't need to go through the permit process.\n\nNavigating the permitting process can feel overwhelming, but it doesn't have to be. An experienced, professional contractor handles all of this for you, ensuring everything is done correctly. The team at YOR Construction & Investments, Inc. has the expertise to manage your project from design to final inspection. Call us to discuss your vision for your new kitchen.",
+          "@type": "Answer",
+          "author": {
+            "name": "YOR Construction & Investments, Inc.",
+            "@type": "Organization"
+          }
+        }
+      }
+    },
+    {
+      "@type": "QAPage",
+      "about": {
+        "@type": "GeneralContractor",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ]
+      },
+      "@context": "https://schema.org",
+      "mainEntity": {
+        "name": "Why Does My Flat Roof Keep Leaking?",
+        "text": "Why Does My Flat Roof Keep Leaking?",
+        "@type": "Question",
+        "answerCount": 1,
+        "acceptedAnswer": {
+          "text": "It's a frustrating problem we see a lot across Los Angeles County, especially on commercial properties. You fix one leak, and another one pops up. When a flat roof has persistent leaks, the issue often isn't the roofing material itself but something more fundamental, like poor drainage or failed flashing.\n\nPonding water is a major red flag. If your roof isn't draining properly within 48 hours of a rainstorm, that standing water will eventually find a way in. The roof should have a subtle slope to guide water toward drains. Another common culprit is the flashing—the metal pieces that seal the edges around vents, walls, and HVAC units. If flashing is old, damaged, or was installed incorrectly, it creates a perfect entry point for water. Simply patching the leaky spot on the roof membrane without addressing the underlying drainage or flashing is like putting a bandage on a problem that needs surgery.\n\nSolving complex flat roof issues requires a contractor who will stand by their work and find the root cause, not just apply a temporary fix. As one of our past clients noted, we are responsive and committed to getting the job done right. Contact YOR Construction & Investments, Inc. for a free inspection and an honest assessment.",
+          "@type": "Answer",
+          "author": {
+            "name": "YOR Construction & Investments, Inc.",
+            "@type": "Organization"
+          }
+        }
+      }
+    },
+    {
+      "@type": "Article",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "@context": "https://schema.org",
+      "headline": "Is It Better to Repair or Replace My Leaky Roof?",
+      "publisher": {
+        "url": "yorconstruction.com",
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "articleBody": "When you see a water stain on your ceiling, it's easy to panic. The big question is whether you need a simple repair or a full-blown replacement. The right answer depends on a few key factors.\n\nFirst, how widespread is the problem? If you have a single, isolated leak on a relatively young roof, a professional repair is often the most sensible and cost-effective solution. However, if you're experiencing multiple leaks in different areas, it could be a sign that the entire roofing system is starting to fail. Second, consider the age of your roof. If it's approaching the end of its typical lifespan, investing in repeated repairs might be throwing good money after bad. A full replacement is a bigger upfront investment, but it provides long-term peace of mind. Finally, you can't see everything from the ground. There could be hidden damage to the substrate or wood decking underneath that needs to be addressed.\n\nUltimately, the only way to make an informed decision is with a thorough professional inspection. A qualified roofer can identify the true source and extent of the damage. For an honest evaluation and a clear estimate in the Los Angeles County area, call YOR Construction & Investments, Inc. today.",
+      "datePublished": "2026-06-03"
+    },
+    {
+      "name": "How to Know If Your Roofer Is Doing a Good Job",
+      "step": [
+        {
+          "name": "Step 1",
+          "text": "Hiring a roofer is one thing, but knowing if they're doing quality work is another. There are a few key things you can watch for during the installation that separate a professional job from a problematic one.",
+          "@type": "HowToStep",
+          "position": 1
+        },
+        {
+          "name": "Step 2",
+          "text": "It all starts before the new shingles go on. Did your roofer inspect the decking or substrate after tearing off the old roof? Skipping this step can mean covering up rot or damage, which will only cause bigger problems later. Pay attention to the details. Look for new metal flashing around chimneys, vents, and valleys—this is a critical defense against leaks and shouldn't be reused. Proper underlayment is another essential layer of protection that should be installed correctly over the entire roof deck. Finally, look at the finished product. Are the shingle lines straight? Is the area clean of debris and old nails?",
+          "@type": "HowToStep",
+          "position": 2
+        },
+        {
+          "name": "Step 3",
+          "text": "A quality roofing job is about more than just what you can see. It’s about the structural integrity and hidden details that protect your home for years. A professional makes sure these details are handled correctly. If you have concerns about your roof, contact YOR Construction & Investments, Inc. for a comprehensive evaluation and a free estimate.",
+          "@type": "HowToStep",
+          "position": 3
+        }
+      ],
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "description": "How to Know If Your Roofer Is Doing a Good Job"
+    },
+    {
+      "@type": "QAPage",
+      "about": {
+        "@type": "GeneralContractor",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ]
+      },
+      "@context": "https://schema.org",
+      "mainEntity": {
+        "name": "Is My Building a Candidate for a Seismic Retrofit?",
+        "text": "Is My Building a Candidate for a Seismic Retrofit?",
+        "@type": "Question",
+        "answerCount": 1,
+        "acceptedAnswer": {
+          "text": "If you own an older building in Los Angeles County, you've probably wondered if it's prepared for an earthquake. A seismic retrofit is a series of upgrades that strengthen a structure's ability to withstand seismic forces, but not every building needs one. So, how do you know if yours is a good candidate?\n\nFirst, consider the building's age and type. Many older structures, especially those built before modern seismic codes were enforced, have known vulnerabilities. Unreinforced masonry (URM), soft-story wood-frame buildings (like those with ground-floor parking or retail), and older concrete buildings are often primary candidates for retrofitting. The goal is to reduce the risk of collapse and major damage during a quake.\n\nNext, a retrofit focuses on creating a continuous \"load path.\" This ensures that seismic forces are safely transferred from the roof and floors down through the walls to the foundation. Common weak points include poorly connected foundations, cripple walls in crawl spaces, and inadequate connections between walls, floors, and the roof. A professional assessment will identify these specific weaknesses in your structure.\n\nUltimately, you can't be sure without a professional evaluation. While a simple visual inspection can spot some red flags, a qualified contractor needs to assess the building's plans, structure, and overall condition. They can determine your building's specific risks and recommend the most effective solutions.\n\nIf you're unsure about your property's safety, the best first step is to get an expert opinion. Contact us at YOR Construction for a free consultation and estimate to help you understand your options. ",
+          "@type": "Answer",
+          "author": {
+            "name": "YOR Construction & Investments, Inc.",
+            "@type": "Organization"
+          }
+        }
+      }
+    },
+    {
+      "name": "How Does a Seismic Retrofit Actually Work?",
+      "step": [
+        {
+          "name": "Step 1",
+          "text": "Seismic retrofitting sounds complex, but the process is pretty straightforward when broken down. It's all about methodically strengthening a building so it can better resist earthquake shaking. While every project is unique, they all follow a similar path from assessment to construction.",
+          "@type": "HowToStep",
+          "position": 1
+        },
+        {
+          "name": "Step 2",
+          "text": "It all starts with an assessment. A contractor or engineer will review your building's current condition, looking at existing drawings and conducting a physical inspection. This helps identify the key vulnerabilities, whether it's an unbraced crawl space (cripple walls), a weak foundation, or poor connections between structural elements.",
+          "@type": "HowToStep",
+          "position": 2
+        },
+        {
+          "name": "Step 3",
+          "text": "Next, we select a retrofit strategy. Based on the assessment, we decide on the best way to strengthen the building. For a wood-frame house, this might involve bolting the foundation and adding plywood shear walls. For larger commercial buildings, strategies could include adding steel brace frames, strengthening concrete columns, or creating new shear walls. The right approach depends entirely on the building's type, condition, and your performance goals.",
+          "@type": "HowToStep",
+          "position": 3
+        },
+        {
+          "name": "Step 4",
+          "text": "Finally, it's time for construction. Our teams work to implement the design, carefully sequencing the work to minimize disruption. This could involve working in crawl spaces, adding new steel frames, or reinforcing existing masonry. The focus is always on creating a continuous load path to ensure the entire building works as a single, resilient system.",
+          "@type": "HowToStep",
+          "position": 4
+        },
+        {
+          "name": "Step 5",
+          "text": "A proper retrofit requires careful planning and execution. If you're ready to make your building safer, give YOR Construction a call at 1-888-457-7746 to discuss how we can help.",
+          "@type": "HowToStep",
+          "position": 5
+        }
+      ],
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "description": "How Does a Seismic Retrofit Actually Work?"
+    },
+    {
+      "@type": "Article",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "@context": "https://schema.org",
+      "headline": "What are the Most Common (and Costly) Seismic Retrofitting Mistakes?",
+      "publisher": {
+        "url": "yorconstruction.com",
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "articleBody": "When it comes to seismic retrofitting, the details make all the difference. Doing it wrong can not only waste your investment but also fail to protect your building when you need it most. As experts in Southern California construction, we've seen a few common and costly mistakes that are easily avoided with the right approach.\n\nOne of the biggest errors is failing to create a \"continuous load path.\" Think of it like a chain. A retrofit might add strong foundation bolts (one strong link), but if those bolts aren't connected to properly braced walls, and the walls aren't properly tied to the floors and roof, the chain is broken. The entire system has to work together to safely transfer earthquake forces to the ground. An incomplete system is a failed system.\n\nAnother frequent oversight is ignoring non-structural hazards. Many people focus only on the building's frame. But in an earthquake, heavy elements like ceilings, light fixtures, and mechanical equipment can fall, causing major damage and potential injury, even if the building itself remains standing. A thorough retrofit addresses these risks, too.\n\nFinally, a one-size-fits-all approach can be dangerous. Adding very stiff elements to one part of a building without considering how it affects the rest of the structure can create new problems, like a \"soft story\" that takes on a disproportionate amount of force. A professional retrofit analyzes the entire building to ensure the solution works as a whole.\n\nAvoiding these mistakes requires experience. The team at YOR Construction has the expertise to design and build a complete solution for your property. Contact us today for a free estimate and expert guidance.",
+      "datePublished": "2026-06-03"
+    },
+    {
+      "@type": "QAPage",
+      "about": {
+        "@type": "GeneralContractor",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ]
+      },
+      "@context": "https://schema.org",
+      "mainEntity": {
+        "name": "What's the Difference Between Design-Build and Traditional Construction?",
+        "text": "What's the Difference Between Design-Build and Traditional Construction?",
+        "@type": "Question",
+        "answerCount": 1,
+        "acceptedAnswer": {
+          "text": "When you're planning a commercial project, one of the first big decisions is how you'll manage the process. You'll often hear terms like \"design-build\" and \"design-bid-build.\" Understanding the difference is key to a smooth project, and at YOR Construction, we specialize in the design-build model for its seamless teamwork and efficiency.\n\nThe traditional model is \"design-bid-build.\" In this scenario, you first hire an architect to design the entire project. Once the plans are complete, you send them out to bid to multiple general contractors. The lowest bidder usually wins the job. The main drawback here is that the design and construction teams are separate, which can lead to communication gaps, conflicts, and unexpected costs if issues arise during the build.\n\n\"Design-build,\" on the other hand, integrates the entire process from the start. You hire one company—a design-build firm—that is responsible for both the design and the construction. Our team at YOR works together under a single contract with you. This creates a unified workflow, with designers and builders collaborating from day one. It helps control costs, streamline timelines, and solve problems before they happen.\n\nThis integrated approach embodies the seamless teamwork we pride ourselves on. It means better communication, more accurate budgeting, and a single point of responsibility for you.\n\nReady to see how our design-build approach can elevate your vision? Contact YOR Construction & Investments for a free consultation on your next commercial project.",
+          "@type": "Answer",
+          "author": {
+            "name": "YOR Construction & Investments, Inc.",
+            "@type": "Organization"
+          }
+        }
+      }
+    },
+    {
+      "name": "How Can I Keep My Commercial Build On-Time and On-Budget?",
+      "step": [
+        {
+          "name": "Step 1",
+          "text": "Scope creep, delays, and budget overruns are some of the biggest fears in commercial construction. The good news is that most of these headaches can be avoided with smart planning and strong project management from the very beginning. A successful project is all about clarity and coordination.",
+          "@type": "HowToStep",
+          "position": 1
+        },
+        {
+          "name": "Step 2",
+          "text": "First, a clearly defined scope is non-negotiable. Before any dirt is moved, you need to have a detailed understanding of the project's requirements and performance goals. Vague ideas or undefined finishes are a recipe for change orders down the line, which add both time and cost. Taking the time for detailed programming and feasibility studies upfront will save you major trouble later.",
+          "@type": "HowToStep",
+          "position": 2
+        },
+        {
+          "name": "Step 3",
+          "text": "Second, ensure tight coordination between all design disciplines. The architectural, structural, and MEP (mechanical, electrical, plumbing) plans must work together perfectly. When they don't, you get on-site clashes that require costly and time-consuming rework. Using a design-build approach, where designers and builders are on the same team from the start, is one of the best ways to prevent these conflicts.",
+          "@type": "HowToStep",
+          "position": 3
+        },
+        {
+          "name": "Step 4",
+          "text": "Finally, a proactive approach to procurement and scheduling is critical. Long-lead items, like specialized equipment or certain finishes, need to be ordered well in advance. A good contractor creates a detailed project schedule and manages it actively, ensuring materials arrive on time and trade contractors are available when needed.",
+          "@type": "HowToStep",
+          "position": 4
+        },
+        {
+          "name": "Step 5",
+          "text": "At YOR Construction, our design-build process is built to deliver predictable outcomes. Get in touch for a free consulting and estimate to get your project started on the right foot.",
+          "@type": "HowToStep",
+          "position": 5
+        }
+      ],
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "description": "How Can I Keep My Commercial Build On-Time and On-Budget?"
+    },
+    {
+      "@type": "Article",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "@context": "https://schema.org",
+      "headline": "My Commercial Project is Complex. When Do I Need a Full Pro Team?",
+      "publisher": {
+        "url": "yorconstruction.com",
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "articleBody": "For a simple interior refresh, you might be able to get by with a single contractor. But when your commercial construction project involves significant complexity, an integrated team of professionals isn't just a good idea—it's essential for a successful outcome. Knowing when to make that call can save you from serious headaches.\n\nYou absolutely need a professional team for larger, multi-story buildings or those with specialized uses. Facilities like labs, healthcare clinics, or data centers have incredibly stringent technical requirements. The structural, MEP (mechanical, electrical, plumbing), and life-safety systems must be designed and integrated flawlessly to work correctly and meet code. There's simply no room for error.\n\nSignificant building performance goals also require a pro team. If you need to meet high energy-efficiency standards or have major seismic resilience requirements, you need architects and engineers who can create an integrated design. They ensure the building's structure, envelope, and systems all work together to achieve those targets, a process that goes far beyond a standard build.\n\nFinally, if you require predictable costs and schedules, a professional team is the only way to go. Lenders, insurers, and tenants often require it. A design-build firm like YOR Construction provides the comprehensive management needed to navigate complex permitting, coordinate dozens of trades, and deliver the project on time and on budget.\n\nIf your project fits any of these descriptions, let's talk. Contact YOR Construction & Investments for a free consultation and see how our integrated approach can bring your vision to life.",
+      "datePublished": "2026-06-03"
+    },
+    {
+      "@type": "QAPage",
+      "about": {
+        "@type": "GeneralContractor",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ]
+      },
+      "@context": "https://schema.org",
+      "mainEntity": {
+        "name": "Can I Build an ADU on My Property in Los Angeles County?",
+        "text": "Can I Build an ADU on My Property in Los Angeles County?",
+        "@type": "Question",
+        "answerCount": 1,
+        "acceptedAnswer": {
+          "text": "Thinking about adding an Accessory Dwelling Unit (ADU)? It's a great way to add value and space, but the first question is always, 'Can I even build one on my lot?' It's more than just having a big backyard.\n\nFirst, every city in Los Angeles County has its own specific zoning rules. These dictate setbacks (how far the ADU must be from your property lines), maximum height, and how much of your lot can be covered by buildings. These rules are the absolute first thing to check, as they determine what's possible.\n\nNext, think about the type of ADU. A brand-new, detached unit in the backyard has different requirements than converting your existing garage or basement. Conversions can often be a great option for smaller lots where a new structure wouldn't fit.\n\nFinally, remember that an ADU is a complete, independent home. It needs its own kitchen, bathroom, and entrance. The design has to be functional and meet all building codes for a long-term dwelling, not just a guest room. It can get complicated fast, which is why getting professional advice early is so important.\n\nFeeling unsure where to start? A quick chat with an experienced design-build team can clear things up. At YOR Construction & Investments, we offer a free consultation to assess your property's feasibility and help you understand your options. Contact us today!",
+          "@type": "Answer",
+          "author": {
+            "name": "YOR Construction & Investments, Inc.",
+            "@type": "Organization"
+          }
+        }
+      }
+    },
+    {
+      "name": "How to Budget for Your ADU Without Nasty Surprises",
+      "step": [
+        {
+          "name": "Step 1",
+          "text": "Let's talk about the real costs of building an ADU. If you're just using a generic 'cost per square foot' number, you might be setting yourself up for some unwelcome surprises. A realistic budget involves a lot more detail.",
+          "@type": "HowToStep",
+          "position": 1
+        },
+        {
+          "name": "Step 2",
+          "text": "First off, the type of ADU you choose is the biggest factor. A garage or basement conversion is typically the most cost-effective route, as the basic structure is already there. An attached ADU that expands on your home is the next level up, while a fully detached new build will be the most expensive, but also offers the most design freedom.",
+          "@type": "HowToStep",
+          "position": 2
+        },
+        {
+          "name": "Step 3",
+          "text": "Don't forget to budget for 'soft costs.' These are things like design and engineering plans, but also city-specific fees. Depending on the jurisdiction, building permits and special impact fees can add thousands of dollars to your total before a single nail is hammered.",
+          "@type": "HowToStep",
+          "position": 3
+        },
+        {
+          "name": "Step 4",
+          "text": "Also, consider your specific site. Is your property on a hill? Is access difficult for construction equipment? Will your utilities need significant upgrades to support a second dwelling? These site-specific factors can definitely impact the bottom line.",
+          "@type": "HowToStep",
+          "position": 4
+        },
+        {
+          "name": "Step 5",
+          "text": "A smart budget includes a contingency fund—usually 10-15%—for any unexpected issues. Having this buffer prevents a small problem from derailing your entire project. The best way to avoid surprises is to start with a detailed, itemized estimate from a trusted builder. Our team at YOR can create a transparent budget that covers every phase of your ADU project. Give us a call!",
+          "@type": "HowToStep",
+          "position": 5
+        }
+      ],
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "description": "How to Budget for Your ADU Without Nasty Surprises"
+    },
+    {
+      "@type": "Article",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "@context": "https://schema.org",
+      "headline": "What Are the Biggest Mistakes to Avoid When Building an ADU?",
+      "publisher": {
+        "url": "yorconstruction.com",
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "articleBody": "Building an ADU is an exciting project, but it's easy to make a few common missteps that can cause major delays and budget overruns. Knowing what to watch out for can make the whole process much smoother.\n\nThe single biggest mistake is starting to design or build without confirming local ADU regulations. Assuming your project is fine an lead to a permit denial, forcing you back to the drawing board. You have to verify your city's specific rules on size, height, setbacks, and even parking before you get too far.\n\nAnother common pitfall is underestimating the total cost. Homeowners often focus on the construction itself and forget to factor in design fees, engineering, city impact fees, and potential utility upgrade costs. These can add up quickly, so they need to be in your budget from day one.\n\nDon't get locked into one idea too early. Many people assume an ADU has to be a detached backyard cottage, but converting a garage, basement, or even an attic can be a much simpler and more affordable path, especially on a tight lot.\n\nThe best way to sidestep these issues is to work with a team that specializes in ADUs. An experienced design-build firm will know the local codes inside and out, preventing costly redesigns and navigating the permit process efficiently. If you're ready to get your project started on the right foot, contact YOR Construction & Investments for a free consultation.",
+      "datePublished": "2026-06-03"
+    },
+    {
+      "name": "Planning a Pasadena Kitchen Remodel? Avoid These Common Mistakes.",
+      "step": [
+        {
+          "name": "Step 1",
+          "text": "Dreaming of a new kitchen is exciting, but tackling a remodel, especially in a classic Pasadena home, can be tricky. It's easy to get lost in tile choices and cabinet styles, but a smooth project starts with avoiding a few common pitfalls.",
+          "@type": "HowToStep",
+          "position": 1
+        },
+        {
+          "name": "Step 2",
+          "text": "First, don't underestimate the planning phase. Before any walls come down, have a detailed layout finalized. This includes knowing the exact specs for your new appliances and planning where every outlet and light switch will go. Making these decisions mid-project often leads to delays and compromises. Second, never assume you don't need a permit. In Pasadena, moving a gas line, altering plumbing, or adding a new electrical circuit almost always requires a permit and inspections. It's a crucial step for safety and compliance. Finally, prepare for the unexpected. Older homes can hide surprises like outdated plumbing or rotted wood. A smart budget includes a contingency fund (around 10-15%) to cover unforeseen issues without derailing your project.",
+          "@type": "HowToStep",
+          "position": 2
+        },
+        {
+          "name": "Step 3",
+          "text": "Navigating permits and unexpected repairs is where a professional shines. To ensure your project is built to last, contact YOR Construction & Investments for a free consultation to get started.",
+          "@type": "HowToStep",
+          "position": 3
+        }
+      ],
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "description": "Planning a Pasadena Kitchen Remodel? Avoid These Common Mistakes."
+    },
+    {
+      "@type": "QAPage",
+      "about": {
+        "@type": "GeneralContractor",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ]
+      },
+      "@context": "https://schema.org",
+      "mainEntity": {
+        "name": "Can I Really Build an ADU in My LA Backyard?",
+        "text": "Can I Really Build an ADU in My LA Backyard?",
+        "@type": "Question",
+        "answerCount": 1,
+        "acceptedAnswer": {
+          "text": "Accessory Dwelling Units (ADUs) are sweeping across Los Angeles, but building one is more complex than it looks. Before you start planning your new guest house or rental unit, it’s important to understand the real-world process.\n\nFirst, you have to confirm what's even possible on your property. LA's zoning rules, setback requirements, and lot size will determine if you can build a detached unit, an attached one, or a garage conversion. Don't make the common mistake of assuming a garage conversion is a simple drywall job; they require significant structural and safety upgrades to be legal. Also, be prepared for the permitting journey. Getting your plans approved by the LADBS isn't instant and involves detailed plan checks, potential corrections, and multiple inspections. It's a timeline you must factor in. Lastly, don't forget your utilities. A new living unit needs power, water, and sewer, and your home's existing systems might not be enough. Many projects require costly electrical panel or sewer line upgrades.\n\nAn ADU is essentially a small house, with all the same rules. Working with an experienced contractor who knows the LA system is critical. Contact YOR Construction & Investments today to get a free, realistic estimate for your ADU project.",
+          "@type": "Answer",
+          "author": {
+            "name": "YOR Construction & Investments, Inc.",
+            "@type": "Organization"
+          }
+        }
+      }
+    },
+    {
+      "@type": "Article",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "@context": "https://schema.org",
+      "headline": "Thinking About a Home Addition in LA? Read This First.",
+      "publisher": {
+        "url": "yorconstruction.com",
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "articleBody": "Adding on to your home is a fantastic way to gain space, but it's one of the most complex construction projects you can undertake in Los Angeles. To get it right, you need to think like a builder from day one.\n\nYour design ideas are only as good as your zoning allows. Before you hire an architect, you need to know your lot's specific setbacks, height limits, and floor-area ratio (FAR). Designing without this information often leads to expensive redrafts. Next, understand that permits are a journey, not a checkbox. Submitting plans to the LADBS starts a plan-check process that can take weeks or months, including potential corrections. Then, construction involves a series of staged inspections you must pass before moving forward. A huge, often-overlooked challenge is structurally tying the new addition into your old house. This requires careful engineering to ensure the foundation and framing are seamlessly and safely connected. Don't forget to budget for 'soft costs' like design, engineering, and permit fees, which can add a significant amount to your total investment.\n\nA project this complex needs an expert guide. A design/build contractor who has experience with LA additions is essential for safety, compliance, and a successful outcome. Give YOR Construction & Investments a call for a free consultation.",
+      "datePublished": "2026-06-03"
+    },
+    {
+      "@type": "QAPage",
+      "about": {
+        "@type": "GeneralContractor",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ]
+      },
+      "@context": "https://schema.org",
+      "mainEntity": {
+        "name": "Is It Possible to Build an ADU on My LA Property?",
+        "text": "Is It Possible to Build an ADU on My LA Property?",
+        "@type": "Question",
+        "answerCount": 1,
+        "acceptedAnswer": {
+          "text": "Thinking about adding an Accessory Dwelling Unit (ADU) in Los Angeles? It's a fantastic way to add space, create a home for family, or generate rental income. But before you start picking out floor plans, the first step is to figure out if it's even possible on your lot. The rules can feel a bit complicated, but it usually boils down to a few key things.\n\nFirst, you'll need to check the specific zoning rules for your property. Both California state law and local Los Angeles regulations will apply. These rules dictate how large your ADU can be, where it can be placed on your property (known as setbacks), and any height limits. You'll also need to consider parking requirements, although in many cases, they might be waived. Don't forget to think about practical things, like how construction vehicles will access the site. An experienced contractor can perform a feasibility review to give you a clear picture of what's possible. Because ADUs involve complex zoning, small-space design, and full mechanical systems, it's really important to work with a team that specializes in them. One small error can delay or even prevent project approval.\n\nReady to find out what your property is capable of? Our team at YOR Construction & Investments, Inc. has extensive experience with ADUs across Los Angeles. Contact us today for a free consultation and estimate!",
+          "@type": "Answer",
+          "author": {
+            "name": "YOR Construction & Investments, Inc.",
+            "@type": "Organization"
+          }
+        }
+      }
+    },
+    {
+      "@type": "Article",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "@context": "https://schema.org",
+      "headline": "What Are the Biggest Mistakes to Avoid With Your Los Angeles ADU?",
+      "publisher": {
+        "url": "yorconstruction.com",
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "articleBody": "An ADU can be a great investment, but a few common missteps can cause major headaches, delays, and budget overruns. Knowing what to watch out for is the key to a smooth project. We've seen it all, and we're here to help you steer clear of the biggest pitfalls.\n\nOne of the most frequent mistakes is assuming any backyard spot will work without properly checking the specific zoning rules for your area. This can lead to a design that gets rejected by the city. Another major issue is underestimating utility needs. Your ADU is a full-fledged home that needs its own sewer, water, and power connections. You have to make sure your existing systems can handle the extra load or budget for necessary upgrades. We also see clients who don't plan for construction access, which can create logistical nightmares. Finally, be realistic about timelines. The city's plan check and inspection process takes time, and expecting to be done in a few weeks is just not feasible.\n\nA dedicated ADU contractor is crucial because they can anticipate these issues from the start. They'll navigate the permits, coordinate with utility companies, and manage the entire process. At YOR Construction & Investments, Inc., we specialize in building ADUs in the Los Angeles area and can help you avoid these costly mistakes. Give us a call to get started!",
+      "datePublished": "2026-06-03"
+    },
+    {
+      "name": "How Do I Start an ADU Project the Right Way in Los Angeles?",
+      "step": [
+        {
+          "name": "Step 1",
+          "text": "So, you're ready to start your ADU project! Getting off on the right foot is the most important part of the entire process. A well-planned project runs more smoothly, stays on budget, and finishes faster. Here’s a quick look at the right way to begin.",
+          "@type": "HowToStep",
+          "position": 1
+        },
+        {
+          "name": "Step 2",
+          "text": "First, don't jump straight to design. The real first step is a detailed feasibility review. This involves checking your property against California and Los Angeles ADU regulations to confirm you can actually build what you want. This step helps define the maximum size, height, and required setbacks. Next comes the design and site planning phase. This is where you'll work out the layout and how the ADU will sit on your property. Once a design is set, it goes to an engineer to create the structural plans. With a full set of plans in hand, the next critical step is submitting them to the Los Angeles Department of Building and Safety (LADBS) for permits. While you're waiting for approval, your contractor can begin coordinating with utility providers. Once you have your permit, construction can finally begin!",
+          "@type": "HowToStep",
+          "position": 2
+        },
+        {
+          "name": "Step 3",
+          "text": "Navigating the permitting process and coordinating with multiple agencies can be complex. Working with an experienced design/build firm simplifies all of this. If you want to start your ADU project with confidence, contact YOR Construction & Investments, Inc. today for a free estimate.",
+          "@type": "HowToStep",
+          "position": 3
+        }
+      ],
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "description": "How Do I Start an ADU Project the Right Way in Los Angeles?"
+    },
+    {
+      "@type": "QAPage",
+      "about": {
+        "@type": "GeneralContractor",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ]
+      },
+      "@context": "https://schema.org",
+      "mainEntity": {
+        "name": "What Should I Expect From a Kitchen Remodel in Pasadena?",
+        "text": "What Should I Expect From a Kitchen Remodel in Pasadena?",
+        "@type": "Question",
+        "answerCount": 1,
+        "acceptedAnswer": {
+          "text": "Dreaming of a new kitchen? It’s one of the most rewarding home projects, but it's natural to wonder what you're getting into. A kitchen remodel is a significant undertaking, and knowing what to expect can make the process feel much more manageable, especially in Pasadena.\n\nFirst, let's talk about the big questions. The cost can vary widely depending on your choices, and it's important to set a realistic budget from the start. You'll also need to plan for how long your kitchen will be unusable, which can be several weeks or more for a major overhaul. One of the first things you'll do is make key decisions about layout, cabinets, appliances, and finishes. These choices drive the design and the budget. Also, be prepared for permits. If you're moving walls or changing plumbing or electrical locations—which is common in kitchen remodels—you will need a permit and inspections. Trying to juggle all the moving parts, from demolition to final finishes, is where a professional team becomes essential. An experienced contractor coordinates all the different tradespeople (plumbers, electricians, painters) to keep the project on schedule.\n\nAt YOR Construction & Investments, Inc., we manage the entire process for you. If you're in Pasadena and considering a kitchen remodel, give us a call for a free, no-obligation consultation.",
+          "@type": "Answer",
+          "author": {
+            "name": "YOR Construction & Investments, Inc.",
+            "@type": "Organization"
+          }
+        }
+      }
+    },
+    {
+      "@type": "Article",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "@context": "https://schema.org",
+      "headline": "Why Your Pasadena Kitchen Remodel Might Get Complicated",
+      "publisher": {
+        "url": "yorconstruction.com",
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "articleBody": "Remodeling a kitchen in one of Pasadena's beautiful older homes can be an amazing way to blend classic architecture with modern function. But these projects often come with a few more surprises than a remodel in a newer house. Being prepared for the unexpected is key.\n\nOlder homes are full of history, but sometimes that history includes outdated plumbing and electrical systems. During a remodel, it's very common to discover that these systems need to be brought up to current building codes. This is a good thing for your family's safety, but it can add time and cost to the project. You might also find hidden structural issues once the walls are opened up. That's why it's wise to have a contingency fund—a portion of your budget set aside for unforeseen conditions. Lastly, if you're planning on heavy new features like a stone countertop island or substantial appliances, the existing floor structure might need to be reinforced.\n\nThis is exactly why hiring a contractor with experience in older Pasadena homes is so important. A seasoned pro knows what to look for, how to handle these discoveries, and can build a realistic schedule and budget from the start. YOR Construction & Investments, Inc. has the expertise to navigate these challenges smoothly. Contact us to discuss your home's potential!",
+      "datePublished": "2026-06-03"
+    },
+    {
+      "name": "How to Plan a Kitchen Remodel and Avoid the Headaches",
+      "step": [
+        {
+          "name": "Step 1",
+          "text": "A successful kitchen remodel isn’t just about the final look—it’s about a smooth, low-stress process. The secret? It's all in the planning. A little extra work upfront can save you from big headaches down the road.",
+          "@type": "HowToStep",
+          "position": 1
+        },
+        {
+          "name": "Step 2",
+          "text": "First and foremost, have a complete plan before any work begins. This means finalizing your layout, cabinets, appliances, and finishes ahead of time. Changing your mind mid-project is a recipe for delays and budget bloat. Second, triple-check your measurements. Make sure the appliances and cabinets you buy will actually fit the dimensions in your plan. There's nothing worse than a brand-new refrigerator that won't slide into its designated spot. Another pro tip is to build buffer time into your schedule. Don't assume everything will happen instantly. Permitting and inspections take time, and unexpected delays can happen. Finally, figure out a temporary kitchen setup for your family. A microwave, a coffee maker, and a plan for lots of takeout can make life much more pleasant while your main kitchen is out of commission.",
+          "@type": "HowToStep",
+          "position": 2
+        },
+        {
+          "name": "Step 3",
+          "text": "Coordinating all these details is a big job. A design/build contractor is your partner in this, ensuring every element is planned for and sequenced correctly. At YOR Construction & Investments, Inc., we create a clear plan and manage all the details for you. Ready to start planning? Give us a call!",
+          "@type": "HowToStep",
+          "position": 3
+        }
+      ],
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "description": "How to Plan a Kitchen Remodel and Avoid the Headaches"
+    },
+    {
+      "@type": "QAPage",
+      "about": {
+        "@type": "GeneralContractor",
+        "areaServed": [
+          {
+            "name": "Los Angeles County",
+            "@type": "AdministrativeArea"
+          }
+        ]
+      },
+      "@context": "https://schema.org",
+      "mainEntity": {
+        "name": "Rethinking Your Garage: Can It Be More Than Just Storage?",
+        "text": "Rethinking Your Garage: Can It Be More Than Just Storage?",
+        "@type": "Question",
+        "answerCount": 1,
+        "acceptedAnswer": {
+          "text": "Tired of your garage being a cluttered catch-all for forgotten boxes and tools? You're not alone. Many homeowners in Los Angeles County are realizing that this underutilized space has the potential to become a valuable part of their home. But turning it into a truly livable area—like a guest suite, office, or gym—is more complex than just rolling out a rug.\n\nFirst, think about what makes a room habitable. Building codes require things like proper egress (a door!), natural light, and a minimum ceiling height. Your garage might need some structural changes to meet these standards. Next, address the foundation. That concrete slab wasn't designed for indoor flooring, so it often needs to be leveled and sealed with a moisture barrier to prevent damage. You'll also need to upgrade the electrical system with dedicated circuits and figure out how to heat and cool the space efficiently. Finally, proper insulation in the walls, ceiling, and a new, insulated wall to replace the old garage door is key for comfort and energy efficiency.\n\nConverting a garage into a legal, safe, and comfortable living space requires careful planning and handling of building permits. That's where professional help becomes essential. If you're wondering what your garage could become, let's talk. Contact YOR Construction for a free consultation to explore the possibilities.",
+          "@type": "Answer",
+          "author": {
+            "name": "YOR Construction & Investments, Inc.",
+            "@type": "Organization"
+          }
+        }
+      }
+    },
+    {
+      "@type": "Article",
+      "author": {
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "@context": "https://schema.org",
+      "headline": "Running Out of Room? Key Questions for a Home Addition",
+      "publisher": {
+        "url": "yorconstruction.com",
+        "name": "YOR Construction & Investments, Inc.",
+        "@type": "Organization"
+      },
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "articleBody": "Does your home feel like it's shrinking? As your family or lifestyle changes, you might find yourself needing more space. A room addition is a fantastic way to get the square footage you need without moving, but it's a major project with a lot of moving parts. Knowing the right questions to ask is the first step.\n\nThe initial big decision is whether to build out or build up. This often depends on local zoning rules which limit how much of your lot you can cover. A professional can help you figure out what's feasible. Next, consider how the new structure will integrate with your existing home. You want it to look seamless, not like a box that was just tacked on. This involves complex work to tie into the foundation and match the roofline, siding, and windows. Don't forget about your home's systems. Your current HVAC and electrical panel might not be able to handle the extra load of a new room, so upgrades may be necessary. Finally, remember that almost every room addition requires a full set of permits and inspections.\n\nBecause of the structural and system complexities, this is a job for a pro. An experienced design-build contractor can manage the engineering, permits, and construction. Ready to expand? Call YOR Construction at 1-888-457-7746 to discuss how we can build the space you need.",
+      "datePublished": "2026-06-04"
+    },
+    {
+      "name": "How to Tell if an ADU Is Right for Your Property",
+      "step": [
+        {
+          "name": "Step 1",
+          "text": "Adding an Accessory Dwelling Unit (ADU) or 'granny flat' is an incredibly popular way to create space for family or generate rental income. But before you get too far into designing your new unit, you need to determine if it's actually a realistic option for your property. An ADU project is about more than just construction—it's about zoning, utilities, and site logistics.",
+          "@type": "HowToStep",
+          "position": 1
+        },
+        {
+          "name": "Step 2",
+          "text": "Your very first step is to check your local city's ADU ordinances. These rules will dictate the maximum allowed size, height, and where on your property you can even build. Don't skip this! Next, you have to investigate your utilities. A new living unit needs its own water, sewer, and electrical service. A common mistake is assuming your current systems can handle the extra capacity—they often can't, and upgrades add to the cost. Think about access and privacy, too. How will people get to the ADU without walking through your private yard? How can you place windows so you're not looking directly into each other's homes? Finally, remember to budget for site work like grading or pathways.",
+          "@type": "HowToStep",
+          "position": 2
+        },
+        {
+          "name": "Step 3",
+          "text": "Navigating ADU regulations and utility requirements can be tricky. Working with a contractor who has specific ADU experience is vital. If you're in Los Angeles County, contact YOR Construction for a free estimate to see if an ADU is right for you.",
+          "@type": "HowToStep",
+          "position": 3
+        }
+      ],
+      "@type": "HowTo",
+      "@context": "https://schema.org",
+      "areaServed": [
+        {
+          "name": "Los Angeles County",
+          "@type": "AdministrativeArea"
+        }
+      ],
+      "description": "How to Tell if an ADU Is Right for Your Property"
+    }
+  ]
+}

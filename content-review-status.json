@@ -1,0 +1,4299 @@
+{
+  "entity": "YOR Construction & Investments, Inc.",
+  "generatedAt": "2026-06-11T20:39:52.576Z",
+  "workflow": "research → review → approval → public",
+  "notes": "Research and Q&A items require explicit approval before publishing. Non-research entity files (services, locations, attorneys, FAQs) are produced from supplied entity data.",
+  "files": [
+    {
+      "path": "services/additions-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/bathroom-remodeling-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/kitchen-remodeling-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/roofing-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/seismic-retrofitting-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/commercial-construction-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/adu-construction-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/how-to-avoid-common-kitchen-remodel-mistakes-in-los-angeles.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/what-s-the-right-sequence-for-a-kitchen-remodeling-project.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/do-i-really-need-a-permit-to-replace-my-roof-in-la.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/what-are-cool-roofs-and-do-i-have-to-get-one.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/my-roofer-wants-to-put-new-shingles-over-the-old-ones-is-that-okay.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/can-i-even-build-an-adu-on-my-property-in-los-angeles.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/how-to-get-your-adu-project-started-the-right-way.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/the-biggest-mistakes-to-avoid-with-your-adu-build.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "organization/yor-construction-investments-inc-organization.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/marion-zeddy-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/nandy-milan-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/larry-kenjoshua-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/what-should-i-budget-for-a-home-addition.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/how-can-i-make-an-addition-feel-like-part-of-my-original-home.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/what-are-the-biggest-mistakes-to-avoid-with-a-home-addition.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/what-hidden-problems-could-my-bathroom-remodel-uncover.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/how-can-i-make-my-new-bathroom-actually-last.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/do-i-need-a-permit-for-a-simple-bathroom-remodel.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/how-can-i-avoid-common-kitchen-remodeling-delays.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/what-should-i-expect-during-a-kitchen-renovation.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/do-i-need-a-permit-for-my-kitchen-remodel.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/why-does-my-flat-roof-keep-leaking.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/is-it-better-to-repair-or-replace-my-leaky-roof.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/how-to-know-if-your-roofer-is-doing-a-good-job.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/is-my-building-a-candidate-for-a-seismic-retrofit.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/how-does-a-seismic-retrofit-actually-work.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/what-are-the-most-common-and-costly-seismic-retrofitting-mistakes.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/what-s-the-difference-between-design-build-and-traditional-construction.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/how-can-i-keep-my-commercial-build-on-time-and-on-budget.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/my-commercial-project-is-complex-when-do-i-need-a-full-pro-team.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/can-i-build-an-adu-on-my-property-in-los-angeles-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/how-to-budget-for-your-adu-without-nasty-surprises.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/what-are-the-biggest-mistakes-to-avoid-when-building-an-adu.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/commercial-construction-los-angeles-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/room-additions-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/adu-construction-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/kitchen-remodeling-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/bathroom-remodeling-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/home-additions-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/roofing-contractor-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/seismic-retrofitting-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/commercial-construction-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/garage-renovations-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/general-contractor-los-angeles-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/home-additions-los-angeles-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/bathroom-remodeling-los-angeles-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/kitchen-remodeling-los-angeles-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/roofing-contractor-los-angeles-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/seismic-retrofitting-los-angeles-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/adu-construction-los-angeles-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/garage-renovations-los-angeles-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/custom-home-outdoor-construction-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/custom-build-contractor-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/custom-home-renovations-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/custom-outdoor-kitchen-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/custom-outdoor-patio-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/custom-pool-installation-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/custom-home-build-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/custom-adu-build-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "webpages/custom-additions-design-hub.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/planning-a-pasadena-kitchen-remodel-avoid-these-common-mistakes.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/can-i-really-build-an-adu-in-my-la-backyard.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/thinking-about-a-home-addition-in-la-read-this-first.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/is-it-possible-to-build-an-adu-on-my-la-property.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/what-are-the-biggest-mistakes-to-avoid-with-your-los-angeles-adu.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/how-do-i-start-an-adu-project-the-right-way-in-los-angeles.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/what-should-i-expect-from-a-kitchen-remodel-in-pasadena.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/why-your-pasadena-kitchen-remodel-might-get-complicated.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/how-to-plan-a-kitchen-remodel-and-avoid-the-headaches.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/additions-how-long-does-a-typical-home-addition-take-from-first-idea-to-move-in-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/additions-what-permits-do-i-need-for-a-home-addition-in-los-angeles-and-who-hand.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-know-if-my-property-is-even-eligible-for-an-addition-under-loca.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-will-a-home-addition-increase-my-property-taxes-in-los-angeles-county-an.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/additions-is-it-cheaper-to-build-up-with-a-second-story-addition-or-build-out-on.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/additions-how-do-i-avoid-getting-burned-by-a-bad-contractor-on-my-addition-proje.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-are-the-biggest-hidden-costs-that-surprise-people-during-a-home-add.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-can-i-live-in-my-house-during-a-major-addition-or-is-it-smarter-to-move-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/additions-will-a-home-addition-pay-off-when-i-sell-or-am-i-overbuilding-for-my-n.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/additions-how-do-i-make-sure-my-new-addition-doesn-t-look-like-it-was-obviously-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/additions-what-s-different-about-building-an-addition-on-a-hillside-or-sloped-lo.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-does-adding-a-bedroom-or-bathroom-affect-resale-value-specifically-i.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-should-i-ask-contractors-when-getting-bids-for-a-home-addition-so-i.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-if-my-budget-is-tight-but-i-really-need-more-space-are-there-smarte.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-inspections-and-approvals-should-i-expect-during-and-after-a-home-a.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-i-had-a-bad-contractor-experience-before-how-can-i-protect-myself-this-t.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/additions-do-i-need-an-architect-for-my-addition-or-can-a-contractor-handle-the-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-special-issues-should-i-watch-out-for-when-adding-onto-an-older-hom.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-can-i-design-an-addition-that-works-for-my-family-now-but-also-lets-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-should-i-do-if-my-city-or-county-delays-my-addition-permit-or-keeps.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/additions-how-can-i-keep-construction-dust-noise-and-mess-under-control-during-a.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-information-and-decisions-do-i-need-ready-before-my-contractor-can-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-much-does-a-bathroom-remodel-usually-cost-in-los-angeles-county-25.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-do-i-need-a-permit-for-a-bathroom-remodel-in-los-angeles-26.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-long-does-a-bathroom-remodel-take-from-start-to-finish-27.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-should-i-decide-before-i-start-remodeling-my-bathroom-28.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-is-the-difference-between-a-rip-and-replace-remodel-and-a-gut-remod.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-bathroom-remodel-gives-the-best-return-on-value-30.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-can-i-live-in-my-home-during-a-bathroom-remodel-31.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/bathroom-remodeling-what-hidden-problems-show-up-during-bathroom-remodeling-32.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-much-should-i-budget-for-unexpected-issues-33.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/bathroom-remodeling-how-do-i-choose-the-right-bathroom-remodeling-contractor-34.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-questions-should-i-ask-before-signing-a-remodel-contract-35.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-should-i-remodel-the-bathroom-before-selling-my-house-36.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-bathroom-upgrades-matter-most-for-resale-in-pasadena-37.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-can-a-small-bathroom-be-remodeled-without-making-it-feel-crowded-38.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/roofing-what-bathroom-remodel-mistakes-cause-the-most-regret-39.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-know-if-my-bathroom-needs-a-full-remodel-or-just-an-update-40.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-keep-a-bathroom-remodel-on-budget-41.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-is-the-best-time-of-year-to-remodel-a-bathroom-in-sherman-oaks-42.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/bathroom-remodeling-are-walk-in-showers-worth-it-in-bathroom-remodeling-44.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-much-does-a-master-bathroom-remodel-cost-compared-with-a-guest-bathr.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-do-i-need-to-upgrade-plumbing-or-electrical-during-a-bathroom-remodel-46.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-messy-is-a-bathroom-remodel-and-how-do-i-protect-the-rest-of-the-hou.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/bathroom-remodeling-what-are-the-best-bathroom-remodeling-options-for-rancho-pal.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-if-i-want-a-bathroom-remodel-but-only-have-a-limited-budget-49.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-much-does-a-typical-kitchen-remodel-cost-in-los-angeles-county-50.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-should-i-figure-out-first-before-starting-a-kitchen-remodel-51.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-long-does-a-kitchen-remodel-usually-take-from-demo-to-finished-in-lo.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-s-the-basic-process-of-a-kitchen-remodel-step-by-step-53.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-is-a-kitchen-remodel-worth-it-for-resale-value-in-los-angeles-54.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-set-a-realistic-kitchen-remodel-budget-without-getting-burned-h.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-i-m-on-a-tight-budget-what-are-the-smartest-places-to-save-vs-spend-in-a.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-do-i-really-need-permits-for-a-kitchen-remodel-in-los-angeles-county-57.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-choose-the-right-kitchen-contractor-in-los-angeles-among-so-man.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-are-the-biggest-things-that-can-go-wrong-during-a-kitchen-remodel-5.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-should-i-remodel-my-kitchen-or-move-to-get-a-better-kitchen-in-los-angel.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-s-the-difference-between-a-full-kitchen-remodel-and-just-a-refresh-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-plan-a-kitchen-remodel-when-i-can-t-be-without-a-kitchen-for-mo.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-layout-rules-should-i-know-so-my-new-kitchen-actually-works-better-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-should-i-watch-out-for-when-comparing-multiple-kitchen-remodel-quot.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-much-does-a-small-or-condo-kitchen-remodel-typically-cost-in-los-ang.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-special-issues-come-up-when-remodeling-an-older-kitchen-in-los-ange.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-can-i-live-in-my-home-during-a-kitchen-remodel-in-los-angeles-or-is-that.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-make-sure-my-new-kitchen-design-won-t-feel-dated-in-a-few-years.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/kitchen-remodeling-what-should-i-ask-a-kitchen-remodeling-contractor-before-i-si.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-long-should-i-expect-permits-and-inspections-to-add-to-my-kitchen-re.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-are-there-any-special-design-or-construction-considerations-for-kitchens.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-is-a-diy-kitchen-remodel-realistic-or-should-i-always-hire-professionals.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-know-if-my-roof-needs-to-be-repaired-or-completely-replaced-73.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/roofing-what-roofing-materials-work-best-for-homes-in-los-angeles-and-nearby-are.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-much-does-a-new-roof-usually-cost-in-los-angeles-county-75.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-long-does-a-roof-replacement-typically-take-from-start-to-finish-76.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/roofing-what-should-i-expect-during-the-roof-replacement-process-at-my-home-77.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-often-should-i-have-my-roof-inspected-in-a-place-like-los-angeles-78.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-are-the-warning-signs-my-roof-is-about-to-start-leaking-79.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-should-i-do-right-now-if-my-roof-is-leaking-during-a-rainstorm-80.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/roofing-how-do-i-choose-a-trustworthy-roofing-contractor-in-los-angeles-county-8.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-questions-should-i-ask-a-roofer-before-i-sign-a-contract-82.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/roofing-how-much-of-a-deposit-is-normal-for-a-roofing-project-and-when-do-i-pay-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/roofing-what-s-the-typical-lifespan-of-different-roofing-materials-84.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-my-roof-is-flat-or-low-slope-what-special-issues-should-i-watch-out-for-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-can-i-just-patch-over-a-leak-myself-or-do-i-really-need-a-professional-r.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-is-a-roof-leak-always-covered-by-homeowners-insurance-87.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-is-a-roof-certification-and-do-i-need-one-when-buying-or-selling-a-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/roofing-how-does-the-roofing-permit-and-inspection-process-work-in-cities-like-l.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/roofing-are-cool-roofs-really-worth-it-in-hot-areas-like-the-san-fernando-valley.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/roofing-how-do-i-compare-roofing-quotes-so-i-m-not-just-picking-the-cheapest-one.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-are-the-biggest-risks-if-i-delay-fixing-a-known-roof-issue-92.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/roofing-can-new-roofing-really-improve-my-home-s-energy-efficiency-and-comfort-9.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-should-i-ask-or-check-if-i-had-a-bad-experience-with-a-previous-roo.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/roofing-are-there-any-roofing-issues-specific-to-coastal-areas-like-rancho-palos.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-kind-of-maintenance-should-i-be-doing-on-my-roof-each-year-96.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/roofing-how-noisy-and-disruptive-is-roofing-work-and-how-can-i-minimize-the-impa.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/seismic-retrofitting-how-do-i-know-if-my-los-angeles-building-actually-needs-sei.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/seismic-retrofitting-what-exactly-is-seismic-retrofitting-and-what-parts-of-my-h.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/seismic-retrofitting-what-should-i-do-first-if-i-think-my-los-angeles-soft-story.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/seismic-retrofitting-how-much-does-seismic-retrofitting-usually-cost-for-a-small.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/seismic-retrofitting-can-i-do-any-seismic-retrofitting-myself-or-is-this-always-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/seismic-retrofitting-how-long-does-seismic-retrofitting-usually-take-from-the-fi.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/seismic-retrofitting-what-are-the-biggest-risks-if-i-delay-seismic-retrofitting-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-s-the-difference-between-a-basic-code-minimum-seismic-retrofit-and-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-choose-the-right-seismic-retrofit-contractor-in-los-angeles-wit.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/additions-will-seismic-retrofitting-increase-my-property-taxes-in-los-angeles-co.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-kind-of-proof-or-documentation-will-i-have-after-a-seismic-retrofit.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/seismic-retrofitting-how-disruptive-is-seismic-retrofitting-for-tenants-in-an-oc.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-is-my-single-family-home-in-sherman-oaks-really-at-risk-if-it-was-built-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-are-the-typical-steps-in-a-seismic-retrofit-project-for-a-soft-stor.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/seismic-retrofitting-how-does-seismic-retrofitting-affect-my-building-s-resale-v.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-i-m-on-a-tight-budget-what-are-the-most-cost-effective-seismic-upgrades-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/seismic-retrofitting-are-there-any-rebates-incentives-or-assistance-programs-for.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-if-my-building-s-original-plans-are-missing-can-i-still-move-forwar.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-los-angeles-soft-story-retrofit-deadlines-and-requirements-differ.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/seismic-retrofitting-i-had-a-bad-experience-with-a-contractor-before-how-can-i-p.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-if-a-major-earthquake-hits-before-i-can-finish-retrofitting-my-vall.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/seismic-retrofitting-how-can-i-tell-if-past-owners-already-did-a-seismic-retrofi.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-will-my-earthquake-insurance-rates-go-down-after-i-retrofit-and-how-do-i.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-is-it-worth-retrofitting-a-small-rental-property-in-los-angeles-if-i-mig.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-choose-the-right-commercial-contractor-for-my-project-in-los-an.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/commercial-construction-what-permits-do-i-need-before-starting-commercial-constr.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/commercial-construction-how-long-does-a-commercial-construction-project-usually-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/commercial-construction-why-is-my-commercial-construction-bid-so-different-from-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/commercial-construction-what-should-i-ask-a-contractor-before-signing-a-commerci.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/commercial-construction-how-can-i-keep-my-business-open-during-commercial-constr.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-can-go-wrong-during-a-commercial-remodel-128.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-know-if-a-contractor-has-enough-experience-for-my-type-of-proje.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-is-design-build-better-than-hiring-a-separate-architect-and-contractor-1.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/commercial-construction-how-much-contingency-should-i-budget-for-commercial-cons.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-insurance-should-a-commercial-contractor-carry-132.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-get-accurate-pricing-for-a-tenant-improvement-project-133.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-is-the-difference-between-a-tenant-improvement-and-a-full-commercia.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-avoid-change-orders-on-a-commercial-job-135.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/commercial-construction-can-commercial-construction-be-done-on-a-tight-deadline-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-should-i-do-first-if-i-want-to-build-out-a-commercial-space-in-pasa.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-contractors-handle-unexpected-problems-inside-older-buildings-138.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-is-the-best-way-to-compare-commercial-contractors-139.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-know-if-my-project-needs-a-general-contractor-or-a-specialist-1.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-happens-if-construction-delays-affect-my-lease-or-opening-date-141.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-reduce-disruption-for-tenants-in-an-occupied-building-in-sherma.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-should-i-expect-during-inspections-on-a-commercial-project-143.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-make-sure-the-finished-space-is-ada-compliant-144.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/commercial-construction-what-should-i-know-before-starting-commercial-constructi.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-know-if-a-contractor-will-really-finish-the-job-after-they-star.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-know-if-my-los-angeles-property-is-even-eligible-for-an-adu-bef.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-should-i-do-first-if-i-want-to-build-an-adu-in-los-angeles-county-a.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-much-does-it-realistically-cost-to-build-an-adu-in-los-angeles-right.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-can-i-convert-my-existing-detached-garage-into-an-adu-and-is-that-cheape.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-long-does-the-whole-adu-process-take-in-los-angeles-from-idea-to-mov.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-permits-do-i-actually-need-to-build-an-adu-and-who-handles-all-that.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-s-the-step-by-step-process-to-build-an-adu-in-los-angeles-county-fr.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-is-it-worth-building-an-adu-in-los-angeles-if-i-only-plan-to-rent-it-out.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/adu-construction-what-are-the-biggest-hidden-costs-people-don-t-see-coming-with-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/adu-construction-what-can-go-wrong-during-adu-construction-and-how-do-i-avoid-ho.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-do-i-really-need-an-architect-or-designer-for-a-small-adu-or-can-a-contr.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/adu-construction-can-i-live-in-my-house-during-adu-construction-or-will-i-need-t.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/adu-construction-what-inspections-should-i-expect-during-adu-construction-and-wh.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/adu-construction-how-does-adu-construction-impact-my-property-taxes-and-insuranc.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-s-different-about-building-an-adu-in-the-city-of-los-angeles-compar.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-are-the-rules-or-timelines-different-for-adus-in-pasadena-compared-to-lo.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-my-home-is-in-sherman-oaks-valley-village-tarzana-how-does-being-in-the-.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-should-i-watch-out-for-when-building-an-adu-in-hillside-or-view-sen.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-should-i-build-a-detached-adu-or-an-attached-over-garage-adu-what-are-th.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-is-a-prefab-or-modular-adu-cheaper-or-faster-than-a-stick-built-adu-in-l.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/adu-construction-can-i-diy-parts-of-my-adu-construction-to-save-money-or-is-that.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-if-my-adu-permit-gets-delayed-or-rejected-do-i-have-any-options-bes.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-what-information-and-documents-should-i-gather-before-meeting-an-adu-con.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/general-how-do-i-choose-the-right-adu-contractor-in-los-angeles-and-avoid-gettin.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/where-do-i-even-start-if-i-m-thinking-about-a-home-addition-on-my-house.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-a-typical-room-addition-cost-and-what-s-a-realistic-budget-range.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-a-home-addition-usually-take-from-first-call-to-move-in-ready.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-permits-and-approvals-do-i-need-for-a-home-addition-in-los-angeles-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-know-if-my-house-structure-and-foundation-can-handle-a-second-story-add.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-it-cheaper-to-build-up-or-build-out-for-a-home-addition.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-avoid-my-addition-looking-like-a-weird-box-stuck-onto-my-house.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-look-for-when-choosing-a-contractor-for-a-home-addition.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-biggest-hidden-costs-that-surprise-people-during-a-home-addition.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-live-in-my-house-during-a-major-addition-or-do-i-need-to-move-out.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-plan-a-home-addition-if-my-budget-is-tight-but-i-really-need-more-space.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-know-about-building-an-adu-or-garage-conversion-addition-in-los-an.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-can-i-estimate-if-a-home-addition-will-actually-increase-my-property-value.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-documents-and-information-should-i-gather-before-meeting-an-addition-contra.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-happens-if-the-city-delays-my-addition-permits-or-keeps-asking-for-plan-cha.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-s-the-difference-between-a-home-addition-and-a-remodel-and-why-does-it-matt.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-protect-myself-from-addition-cost-overruns-and-endless-change-orders.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-special-issues-should-i-expect-when-adding-onto-an-older-los-angeles-home.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-diy-part-of-my-home-addition-to-save-money-and-which-parts-are-safe-to-tac.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-can-i-design-a-home-addition-that-works-for-my-growing-family-now-and-aging.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-watch-out-for-in-an-addition-contract-before-i-sign-anything.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-noisy-and-disruptive-is-an-addition-project-in-a-dense-area-like-los-angeles.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-if-my-addition-finishes-but-the-final-inspection-doesn-t-pass-right-away.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-do-first-if-i-m-thinking-about-remodeling-my-bathroom.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-a-full-bathroom-remodel-usually-cost-in-los-angeles-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-a-bathroom-remodel-really-take-from-start-to-finish.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/do-i-need-a-permit-to-remodel-my-bathroom-in-los-angeles-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-main-steps-in-the-bathroom-remodeling-process.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-it-worth-remodeling-a-bathroom-before-selling-my-house.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-stay-in-my-house-during-a-bathroom-remodel-or-is-that-unrealistic.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-biggest-hidden-costs-or-gotchas-in-bathroom-remodeling.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-choose-the-right-bathroom-remodeling-contractor-in-los-angeles.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-it-cheaper-to-just-update-fixtures-and-tile-instead-of-a-full-bathroom-gut.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/should-i-try-to-diy-my-bathroom-remodel-or-hire-professionals.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-set-a-realistic-bathroom-remodel-budget-if-money-is-tight.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-order-should-things-be-done-in-during-a-bathroom-remodel.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-can-i-make-a-small-bathroom-feel-bigger-without-moving-walls.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-bathroom-features-give-the-best-long-term-value-and-daily-comfort.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-ask-a-bathroom-remodeling-contractor-before-i-sign-anything.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-code-or-special-rules-affect-bathroom-remodels-in-california-and-la.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-avoid-my-bathroom-remodel-going-over-budget-once-work-starts.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-s-different-about-remodeling-a-bathroom-in-a-los-angeles-condo-or-hoa-build.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-do-if-my-last-contractor-did-a-bad-job-on-my-bathroom-remodel.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-can-i-make-my-new-bathroom-safer-for-aging-in-place-or-mobility-issues.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-bathroom-design-trends-are-popular-now-and-which-ones-won-t-age-badly.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-compare-bathroom-remodel-bids-that-are-wildly-different-in-price.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-kind-of-warranty-or-guarantee-should-i-expect-on-a-bathroom-remodel.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-figure-out-first-before-starting-a-kitchen-remodel.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-a-kitchen-remodel-usually-cost-in-los-angeles-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-a-kitchen-remodel-really-take-from-start-to-finish.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-set-a-realistic-kitchen-remodel-budget-so-i-don-t-get-blindsided-later.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-s-the-actual-step-by-step-process-of-a-kitchen-remodel.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-choose-the-right-kitchen-contractor-in-los-angeles-without-getting-burn.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-it-cheaper-to-reface-my-kitchen-cabinets-or-replace-them-entirely.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-live-in-my-house-during-a-kitchen-remodel-or-is-that-a-bad-idea.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-biggest-hidden-costs-and-gotchas-in-a-kitchen-remodel.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/do-i-really-need-permits-for-a-kitchen-remodel-in-los-angeles-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-s-the-best-kitchen-layout-for-a-small-space-in-an-older-la-bungalow.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-can-i-remodel-my-kitchen-on-a-tight-budget-without-it-looking-cheap.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-ask-a-kitchen-contractor-before-i-sign-anything.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-avoid-my-kitchen-going-out-of-style-in-a-few-years.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/will-a-kitchen-remodel-actually-increase-my-home-s-value-in-los-angeles.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-plan-a-kitchen-remodel-when-i-need-it-done-on-a-tight-deadline.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/should-i-try-to-diy-my-kitchen-remodel-or-hire-professionals.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-do-if-my-last-contractor-experience-was-bad-and-i-m-nervous-to-rem.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-design-a-kitchen-that-works-for-both-serious-cooking-and-entertaining.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-energy-efficient-and-eco-friendly-can-a-modern-kitchen-remodel-be.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-s-different-about-remodeling-a-condo-kitchen-in-los-angeles-compared-to-a-h.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-handle-kitchen-remodeling-when-i-have-kids-and-pets-at-home.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/why-are-my-kitchen-remodel-quotes-so-different-in-price-for-the-same-project.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-know-if-my-roof-really-needs-to-be-replaced-or-if-a-repair-is-enough.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-type-of-roofing-material-is-best-for-a-house-in-los-angeles-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-a-new-roof-usually-cost-in-los-angeles-and-what-really-affects-the.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-should-a-new-roof-last-in-southern-california-s-climate.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/my-roof-is-leaking-after-the-recent-rain-in-la-what-should-i-do-first-and-how-ur.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-a-roof-replacement-usually-take-from-start-to-finish.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-licenses-and-insurance-should-a-roofing-contractor-have-in-california.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-be-included-in-a-proper-roofing-estimate-or-quote.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-it-okay-to-roof-over-existing-shingles-or-should-i-insist-on-a-full-tear-off.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-can-i-tell-if-a-roofer-s-warranty-is-actually-good-or-just-marketing.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/will-a-new-roof-help-lower-my-energy-bills-in-a-hot-area-like-los-angeles.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-choose-between-three-very-different-roofing-bids-without-getting-ripped.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-stay-in-my-house-during-a-roof-replacement-or-is-it-unsafe.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-roof-maintenance-should-i-be-doing-each-year-to-avoid-big-repairs-later.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/my-roofing-budget-is-really-tight-what-are-the-smartest-corners-i-can-and-can-t.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-special-roofing-issues-should-homeowners-in-los-angeles-county-watch-out-fo.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-know-if-storm-or-wind-damage-to-my-roof-is-serious-enough-to-address-ri.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-ask-a-roofer-during-the-first-meeting-so-i-don-t-regret-my-choice.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-it-realistic-or-safe-to-do-roofing-work-myself-to-save-money.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-disruptive-is-a-roof-replacement-in-a-dense-los-angeles-neighborhood-or-mult.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/will-a-new-roof-increase-my-home-s-value-or-help-if-i-plan-to-sell-soon.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-do-if-my-roofing-project-is-delayed-or-taking-much-longer-than-pro.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-roof-inspections-work-and-when-should-i-schedule-one-in-los-angeles.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-know-if-my-los-angeles-house-actually-needs-seismic-retrofitting-or-if.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-exactly-does-seismic-retrofitting-do-for-my-house-during-a-big-earthquake.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-seismic-retrofitting-typically-cost-for-a-single-family-home-in-lo.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-seismic-retrofitting-mandatory-for-my-building-in-los-angeles-county-or-is-it.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-s-the-basic-step-by-step-process-for-getting-a-seismic-retrofit-done-on-my.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-seismic-retrofitting-usually-take-and-will-i-have-to-move-out-whil.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-do-my-own-seismic-retrofitting-as-a-diy-project-or-is-that-a-bad-idea.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-biggest-risks-if-i-don-t-retrofit-my-older-los-angeles-home-for-ear.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/does-seismic-retrofitting-actually-increase-my-home-s-value-or-is-it-just-sunk-c.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-choose-a-trustworthy-seismic-retrofit-contractor-in-los-angeles-and-avo.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-s-the-difference-between-seismic-retrofitting-and-a-regular-remodel-can-i-c.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-expect-during-the-inspection-and-permitting-process-for-a-seismic.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/are-there-any-grants-rebates-or-financial-assistance-programs-to-help-pay-for-se.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-types-of-buildings-are-considered-high-priority-for-seismic-retrofitting-in.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/if-my-budget-is-limited-what-are-the-most-important-seismic-retrofits-to-do-firs.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-can-i-tell-if-my-older-home-has-already-been-seismically-retrofitted-or-not.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/will-seismic-retrofitting-lower-my-earthquake-insurance-premium-or-make-it-easie.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-my-soft-story-apartment-building-in-los-angeles-at-risk-and-what-s-different.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-could-go-wrong-during-a-seismic-retrofit-project-and-how-do-i-protect-mysel.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-disruptive-is-seismic-retrofitting-to-my-daily-life-if-i-have-kids-and-work.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/if-i-m-planning-to-buy-an-older-house-in-los-angeles-what-should-i-look-for-or-a.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/does-seismic-retrofitting-change-how-my-house-looks-or-is-it-mostly-hidden.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/if-there-s-another-big-earthquake-after-i-retrofit-what-kind-of-damage-should-i.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-often-do-seismic-retrofit-standards-change-and-will-today-s-retrofit-become.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-figure-out-first-before-starting-a-commercial-construction-project.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-is-commercial-construction-different-from-residential-construction-and-why-d.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-choose-the-right-commercial-contractor-for-my-project-without-getting-b.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-permits-and-approvals-do-i-need-for-a-commercial-build-out-in-los-angeles-c.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-a-typical-commercial-construction-project-really-take-from-idea-to.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-commercial-construction-cost-per-square-foot-and-why-do-estimates.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-biggest-risks-that-can-derail-a-commercial-construction-project-and.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-information-and-decisions-do-i-need-ready-before-asking-contractors-to-bid.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-s-the-difference-between-design-build-and-traditional-design-bid-build-for.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-keep-my-business-running-during-commercial-construction-or-a-major-remo.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-specific-challenges-should-i-expect-with-commercial-construction-in-los-ang.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-can-i-tell-if-a-commercial-contractor-is-properly-licensed-and-insured-in-ca.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/why-do-commercial-construction-projects-in-la-always-seem-to-get-delayed-and-wha.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-do-if-my-commercial-construction-bids-come-in-way-over-my-budget.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-realistic-expectations-for-change-orders-on-a-commercial-construction-j.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-make-sure-my-new-commercial-space-is-ada-compliant-and-accessible-for-e.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-know-about-seismic-and-structural-requirements-for-commercial-buil.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-it-cheaper-to-renovate-an-existing-commercial-building-or-build-new-in-los-an.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-plan-a-commercial-construction-project-on-a-tight-budget-without-sacrif.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-warranties-and-post-construction-support-should-i-expect-on-a-commercial-pr.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-manage-a-commercial-construction-project-myself-to-save-money-or-do-i-real.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-watch-for-in-a-commercial-construction-contract-before-i-sign-it.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-early-should-i-involve-a-contractor-if-i-m-just-starting-to-think-about-a-co.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-ongoing-maintenance-should-i-plan-for-after-my-commercial-construction-proj.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-is-an-adu-and-how-does-adu-construction-actually-work-in-los-angeles-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-it-really-cost-to-build-an-adu-in-los-angeles-county-right-now.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-s-the-first-thing-i-should-do-if-i-m-thinking-about-building-an-adu-on-my-p.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-it-take-to-design-permit-and-build-an-adu-in-los-angeles-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/do-i-even-qualify-to-build-an-adu-on-my-los-angeles-county-property.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-kinds-of-adus-can-i-build-garage-conversion-detached-above-garage-jadu-and.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-big-can-my-adu-be-in-los-angeles-county-and-are-there-height-limits-i-should.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/do-i-need-extra-parking-for-an-adu-in-los-angeles-or-can-i-skip-it.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-permits-and-approvals-are-required-to-build-an-adu-in-unincorporated-los-an.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-can-i-finance-an-adu-if-i-don-t-have-a-lot-of-cash-on-hand.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-building-an-adu-in-los-angeles-county-actually-worth-it-financially.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-biggest-risks-and-things-that-can-go-wrong-with-adu-construction.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-setbacks-and-property-line-rules-apply-to-adus-and-how-close-can-i-build-to.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-convert-my-existing-detached-garage-into-an-adu-in-los-angeles-and-what-sh.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/will-building-an-adu-increase-my-property-taxes-a-lot-in-los-angeles-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-inspections-and-construction-milestones-should-i-expect-during-adu-construc.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-happens-if-my-adu-permit-application-gets-rejected-or-stuck-in-plan-check-f.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-adus-work-on-multifamily-properties-in-los-angeles-county-duplexes-and-sm.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-build-a-two-story-adu-or-an-adu-over-my-garage-in-los-angeles-or-am-i-limi.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-design-features-should-i-prioritize-to-make-a-small-adu-feel-bigger-and-ren.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-look-for-when-choosing-a-contractor-for-adu-construction-in-los-an.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-live-in-my-house-while-building-an-adu-in-the-backyard-or-will-constructio.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/are-there-any-special-adu-rules-i-should-know-about-if-my-property-is-in-the-cit.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-rent-out-my-adu-long-term-or-on-airbnb-in-los-angeles-county-and-are-there.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-if-i-m-on-a-tight-budget-how-can-i-keep-adu-costs-as-low-as-possible-withou.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-a-typical-kitchen-remodel-cost-in-los-angeles-county-and-what-s-a.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-a-full-kitchen-remodel-usually-take-from-demo-to-completion-and-wh.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-prioritize-if-my-kitchen-remodel-budget-is-limited-but-i-still-wan.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-biggest-risks-that-can-derail-a-kitchen-remodeling-project-and-how.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-a-bathroom-remodel-usually-cost-in-los-angeles-and-what-s-a-fair-p.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-a-typical-bathroom-remodel-take-and-will-i-be-without-a-shower-the.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-most-important-waterproofing-details-in-a-bathroom-remodel-so-i-don.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-value-does-a-room-addition-actually-add-to-my-home-and-is-it-worth-the.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-does-the-process-of-building-a-room-addition-usually-look-like-from-start-t.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-a-room-addition-usually-take-in-los-angeles-county-including-permi.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-main-zoning-and-setback-issues-i-should-know-about-before-planning.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-building-an-adu-in-los-angeles-still-worth-it-in-2026-and-what-kind-of-rental.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-basic-eligibility-rules-for-building-an-adu-on-my-property-in-los-a.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-does-the-adu-design-and-permitting-process-look-like-in-los-angeles-and-how.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/should-i-convert-my-existing-garage-into-an-adu-or-build-a-new-detached-unit-and.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-should-i-choose-a-commercial-construction-contractor-in-los-angeles-for-my-t.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-expect-during-a-commercial-tenant-improvement-ti-project-in-los-an.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-do-commercial-construction-or-tenant-improvement-projects-in-los-angele.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-biggest-code-and-ada-issues-that-trip-up-commercial-construction-pr.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-do-if-my-contractor-s-work-is-behind-schedule-or-not-matching-the.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-can-i-compare-multiple-bids-for-a-remodel-or-addition-when-the-prices-are-ve.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/when-should-i-absolutely-hire-a-professional-instead-of-attempting-diy-for-remod.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-information-and-decisions-do-i-need-ready-before-meeting-a-contractor-about.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-can-i-keep-my-family-safe-and-daily-life-manageable-during-a-major-kitchen-o.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-can-i-do-to-prevent-cost-overruns-on-my-remodel-addition-or-adu-project.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-a-full-kitchen-remodel-usually-cost-and-what-drives-the-price-up-o.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-do-first-if-i-m-thinking-about-a-room-addition-but-have-no-idea-wh.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-a-typical-bathroom-remodel-take-from-demo-to-completion.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-know-if-my-existing-home-structure-can-handle-a-second-story-addition.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-permits-do-i-actually-need-for-a-kitchen-or-bathroom-remodel-and-what-happe.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-can-i-tell-if-a-general-contractor-is-actually-reliable-and-not-going-to-dis.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-s-the-realistic-timeline-for-designing-and-building-an-adu-on-my-property.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-seismic-retrofitting-really-necessary-for-my-older-house-or-is-it-mostly-upse.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-should-i-budget-per-square-foot-for-an-adu-and-why-do-i-hear-such-diffe.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-s-the-difference-between-an-adu-and-just-doing-a-regular-room-addition-for.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/for-a-kitchen-remodel-how-do-i-prioritize-where-to-spend-vs-where-to-save-withou.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-disruptive-is-a-bathroom-or-kitchen-remodel-to-daily-life-and-can-we-stay-in.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/in-los-angeles-county-what-should-i-know-about-permits-and-inspections-for-a-gar.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-can-go-wrong-during-a-roofing-replacement-and-how-do-i-protect-myself-befor.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/i-ve-had-a-bad-contractor-experience-before-how-do-i-structure-a-new-remodeling.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/for-commercial-construction-in-los-angeles-what-s-different-from-renovating-a-ho.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-early-signs-that-my-roof-might-need-replacement-instead-of-just-ano.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-information-should-i-have-ready-before-meeting-a-contractor-about-a-home-ad.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/in-los-angeles-how-does-my-budget-change-if-i-want-high-end-finishes-for-a-bathr.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-phase-a-large-remodel-kitchen-baths-and-additions-to-spread-out-costs-or-i.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/for-a-garage-renovation-that-s-not-an-adu-what-should-i-consider-if-i-might-want.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-compare-bids-from-different-contractors-when-they-re-wildly-different-p.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/for-los-angeles-seismic-retrofits-and-additions-how-do-local-codes-affect-my-pro.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-kind-of-maintenance-or-follow-up-should-i-expect-after-a-major-remodel-or-n.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-pick-the-right-custom-build-contractor-for-a-major-home-renovation-so-i.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-do-first-if-i-m-planning-a-full-custom-home-renovation-but-don-t-k.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-a-custom-home-renovation-usually-take-from-design-to-move-in.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-does-a-custom-home-renovation-or-addition-typically-cost-and-how-do-i-know.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-biggest-risks-with-a-custom-home-renovation-and-how-can-i-avoid-a-n.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-does-the-custom-home-building-process-actually-work-from-empty-lot-to-move-i.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-it-cost-to-build-a-custom-home-compared-with-buying-an-existing-ho.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-permits-and-approvals-are-needed-for-a-custom-home-build-or-major-addition.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-ask-a-custom-build-contractor-during-the-first-meeting-so-i-don-t.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-know-if-my-property-is-suitable-for-a-custom-outdoor-kitchen-and-patio.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-does-a-custom-outdoor-kitchen-usually-cost-and-what-drives-the-price-up-or.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-it-take-to-design-and-build-a-custom-outdoor-kitchen-and-patio-rea.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-watch-out-for-when-putting-a-pool-outdoor-kitchen-and-patio-all-to.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-choose-between-a-concrete-patio-pavers-or-decking-for-a-custom-outdoor.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-know-before-installing-a-custom-inground-pool-in-los-angeles-count.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-a-custom-pool-really-cost-beyond-just-the-shell-price.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-ongoing-maintenance-responsibilities-and-costs-after-installing-a-c.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-building-an-adu-accessory-dwelling-unit-in-los-angeles-county-worth-it-financ.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-main-rules-and-constraints-i-should-know-before-planning-a-custom-a.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-it-take-to-design-permit-and-build-a-custom-adu-in-los-angeles-cou.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-expect-during-a-custom-home-addition-project-while-i-m-still-livin.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-stop-a-custom-build-or-renovation-project-from-constantly-going-over-bu.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-documentation-and-drawings-should-a-custom-build-contractor-provide-before.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/when-is-diy-reasonable-for-home-improvements-and-when-should-i-definitely-hire-a.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-know-if-an-outdoor-kitchen-is-worth-it-for-my-backyard-or-am-i-just-spe.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-s-the-first-thing-i-should-figure-out-before-hiring-an-outdoor-kitchen-cont.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-an-outdoor-kitchen-usually-cost-in-los-angeles-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/do-i-need-a-permit-for-an-outdoor-kitchen-in-california.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-it-take-to-build-an-outdoor-kitchen-from-start-to-finish.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-outdoor-kitchen-features-are-actually-worth-paying-for.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-materials-hold-up-best-for-outdoor-kitchens-in-los-angeles-weather.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-build-an-outdoor-kitchen-on-a-small-patio-or-tight-backyard.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-ask-an-outdoor-kitchen-contractor-before-signing-anything.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-compare-two-outdoor-kitchen-bids-without-getting-confused-by-the-price.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-can-go-wrong-with-an-outdoor-kitchen-project.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/should-i-choose-a-built-in-grill-or-a-full-custom-outdoor-kitchen.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-it-better-to-do-an-outdoor-kitchen-all-at-once-or-in-phases.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-keep-an-outdoor-kitchen-from-becoming-a-maintenance-headache.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-know-about-putting-an-outdoor-kitchen-near-a-pool.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-know-if-a-contractor-is-experienced-with-outdoor-kitchens-specifically.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-s-the-biggest-mistake-people-make-when-designing-an-outdoor-kitchen.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-add-plumbing-and-electricity-to-an-existing-patio-for-an-outdoor-kitchen.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-outdoor-kitchen-design-works-best-for-entertaining-in-los-angeles.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-space-do-i-really-need-for-an-outdoor-kitchen.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-expect-during-the-outdoor-kitchen-construction-process.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-s-the-best-way-to-get-a-realistic-outdoor-kitchen-estimate-in-pasadena.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-avoid-choosing-an-outdoor-kitchen-contractor-just-because-their-price-i.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-main-benefits-of-hiring-a-local-los-angeles-county-outdoor-kitchen.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-far-in-advance-should-i-start-planning-an-outdoor-kitchen-if-i-want-it-ready.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/paving-contractor-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/foundation-repair-contractor-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/interior-painting-services-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/fencing-contractor-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/driveway-contractor-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/solar-system-installation-services-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/retailing-walls-contractor-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/window-installation-services-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/air-conditioning-installation-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/bathroom-renovating-contractor-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/kitchen-renovating-contractor-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/room-additions-contractor-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/exterior-painting-services-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/garage-additions-contractor-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/adu-additions-contractor-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/kitchen-overhauling-contractor-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/bathroom-overhauling-contractor-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/adu-design-contractor-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/rethinking-your-garage-can-it-be-more-than-just-storage.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/running-out-of-room-key-questions-for-a-home-addition.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/how-to-tell-if-an-adu-is-right-for-your-property.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "index.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "about.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "testimonials.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "contact.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "organization.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "home-and-construction-business.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "local-business.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "entity-profile.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "business-overview.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "brand-profile.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "identifiers.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "same-as.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "about.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "contact.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "knowledge-graph.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "full-context.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "full-context.yaml",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "team.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "professionals.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "team.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "team-bios.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "team-bios.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "homeandconstructionbusiness-team.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "locations.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "service-areas.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "location-pages.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "city-service-areas.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "geo-coverage.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "practice-areas.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "specialties.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-types.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "offer-catalog.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "service-catalog.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "service-pages.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faq.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "qnas.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "qna.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help-articles.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help-articles.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "topical-hubs.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "topical-hubs.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "semantic-authority-pages.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "testimonials.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "awards.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "licenses.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "associations.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-results.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "media-mentions.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "credentials.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "about.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "locations.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "team.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "qnas.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "topical-hubs.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-results.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "contact.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/entity.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/entity.yaml",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/entity.jsonl",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/services.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/locations.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/faqs.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/qnas.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/help-articles.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/team.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/reviews.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/case-results.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/knowledge-graph.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/internal-links.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/source-map.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/research-sources.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/source-provenance.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "ai-disclaimer.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "legal-disclaimer.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data-sources.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    }
+  ]
+}

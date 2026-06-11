@@ -1,0 +1,7 @@
+/* TEAM */
+Entity: YOR Construction & Investments, Inc.
+Site: yorconstruction.com
+
+/* SITE */
+Last update: 2026-06-11
+Standards: HTML5, JSON-LD, Schema.org

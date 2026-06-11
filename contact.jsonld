@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "name": "Contact YOR Construction & Investments, Inc.",
+  "url": "yorconstruction.com/contact",
+  "mainEntity": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "telephone": "1-888-457-7746",
+    "url": "yorconstruction.com"
+  }
+}
