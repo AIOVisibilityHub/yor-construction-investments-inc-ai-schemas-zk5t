@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T20:39:52.576Z",
+  "generatedAt": "2026-06-11T20:54:15.555Z",
   "files": [
     {
       "path": "services/additions-service.json",
@@ -3820,7 +3820,7 @@
       "path": "knowledge-graph.json",
       "category": "entity",
       "purpose": "Combined Schema.org @graph",
-      "bytes": 162507,
+      "bytes": 162839,
       "mime": "application/ld+json"
     },
     {
@@ -3883,21 +3883,21 @@
       "path": "locations.jsonld",
       "category": "locations",
       "purpose": "Locations ItemList",
-      "bytes": 168,
+      "bytes": 594,
       "mime": "application/octet-stream"
     },
     {
       "path": "service-areas.jsonld",
       "category": "locations",
       "purpose": "Service areas ItemList",
-      "bytes": 172,
+      "bytes": 598,
       "mime": "application/octet-stream"
     },
     {
       "path": "location-pages.json",
       "category": "locations",
       "purpose": "Location pages data",
-      "bytes": 99,
+      "bytes": 433,
       "mime": "application/ld+json"
     },
     {
@@ -4100,7 +4100,7 @@
       "path": "locations.html",
       "category": "pages",
       "purpose": "Locations page",
-      "bytes": 1957,
+      "bytes": 2070,
       "mime": "text/html"
     },
     {
@@ -4191,7 +4191,7 @@
       "path": "data/locations.json",
       "category": "data",
       "purpose": "Locations data",
-      "bytes": 99,
+      "bytes": 433,
       "mime": "application/ld+json"
     },
     {
@@ -4240,7 +4240,7 @@
       "path": "data/knowledge-graph.json",
       "category": "data",
       "purpose": "Knowledge graph @graph",
-      "bytes": 162507,
+      "bytes": 162839,
       "mime": "application/ld+json"
     },
     {

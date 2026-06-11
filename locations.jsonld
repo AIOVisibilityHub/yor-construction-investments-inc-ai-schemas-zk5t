@@ -2,6 +2,23 @@
   "@context": "https://schema.org",
   "@type": "ItemList",
   "name": "YOR Construction & Investments, Inc. Locations",
-  "numberOfItems": 0,
-  "itemListElement": []
+  "numberOfItems": 1,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Place",
+        "name": "Los Angeles County",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles County",
+          "addressCountry": "US"
+        },
+        "areaServed": "Los Angeles County",
+        "url": "yorconstruction.com"
+      }
+    }
+  ]
 }

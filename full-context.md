@@ -16,14 +16,6 @@ YOR Construction & Investments, Inc. publishes a structured AI Data Package desi
 - **41** helpArticles
 - **1** organization
 
-## Cross-Destination Index — Related AI Data Sources
-- [canonical] YOR Construction & Investments, Inc. — canonical website — yorconstruction.com
-- [ai-data-hub] YOR Construction & Investments, Inc. — AI Data Hub — https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/ai-data.html
-- [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-zk5t
-- [mirror-pages] GitHub — AI Data Hub mirror — https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/ai-data.html
-
-Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
-
 ## Services
 - Additions
 - Bathroom Remodeling

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-06-11T20:40:16.944Z",
+  "generatedAt": "2026-06-11T20:54:15.561Z",
   "client": {
     "name": "YOR Construction & Investments, Inc.",
     "canonicalUrl": "yorconstruction.com",
@@ -44,7 +44,7 @@
   },
   "package": {
     "totalFiles": 631,
-    "totalBytes": 7095601,
+    "totalBytes": 7091774,
     "stats": {
       "qna": 734,
       "faqs": 431,
@@ -2881,7 +2881,7 @@
       },
       {
         "path": "knowledge-graph.json",
-        "bytes": 162507,
+        "bytes": 162839,
         "purpose": "Combined Schema.org @graph"
       },
       {
@@ -2930,17 +2930,17 @@
     "locations": [
       {
         "path": "locations.jsonld",
-        "bytes": 168,
+        "bytes": 594,
         "purpose": "Locations ItemList"
       },
       {
         "path": "service-areas.jsonld",
-        "bytes": 172,
+        "bytes": 598,
         "purpose": "Service areas ItemList"
       },
       {
         "path": "location-pages.json",
-        "bytes": 99,
+        "bytes": 433,
         "purpose": "Location pages data"
       },
       {
@@ -3032,7 +3032,7 @@
       },
       {
         "path": "locations.html",
-        "bytes": 1957,
+        "bytes": 2070,
         "purpose": "Locations page"
       },
       {
@@ -3099,7 +3099,7 @@
       },
       {
         "path": "data/locations.json",
-        "bytes": 99,
+        "bytes": 433,
         "purpose": "Locations data"
       },
       {
@@ -3134,7 +3134,7 @@
       },
       {
         "path": "data/knowledge-graph.json",
-        "bytes": 162507,
+        "bytes": 162839,
         "purpose": "Knowledge graph @graph"
       },
       {
@@ -3144,7 +3144,7 @@
       },
       {
         "path": "data/source-map.json",
-        "bytes": 130399,
+        "bytes": 130401,
         "purpose": "Source-map of all entity files"
       },
       {
@@ -3205,7 +3205,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 3720,
+        "bytes": 2956,
         "purpose": "LLM hint"
       },
       {
@@ -3225,32 +3225,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1800,
+        "bytes": 1049,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 327776,
+        "bytes": 326221,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 110139,
+        "bytes": 109375,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 110139,
+        "bytes": 109375,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3495,
+        "bytes": 2731,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 104514,
+        "bytes": 103750,
         "purpose": "Repository README"
       },
       {
@@ -3265,11 +3265,5 @@
       }
     ]
   },
-  "destinations": {
-    "github": {
-      "url": "https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-zk5t",
-      "pagesUrl": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/",
-      "repo": "AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-zk5t"
-    }
-  }
+  "destinations": {}
 }
