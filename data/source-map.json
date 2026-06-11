@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T22:13:10.937Z",
+  "generatedAt": "2026-06-11T23:06:57.183Z",
   "files": [
     {
       "path": "services/additions-service.json",
@@ -5528,7 +5528,7 @@
       "path": "about.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 4028,
+      "bytes": 4214,
       "mime": "text/html"
     },
     {
@@ -5549,7 +5549,7 @@
       "path": "contact.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 3731,
+      "bytes": 4190,
       "mime": "text/html"
     },
     {

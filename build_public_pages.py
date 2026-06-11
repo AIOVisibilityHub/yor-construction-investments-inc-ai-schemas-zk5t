@@ -4,6 +4,7 @@ Build Public Pages — generates rich, human-readable, AI-crawlable HTML pages
 from JSON schema files in this repository.
 """
 import sys, os, json, re, glob
+from urllib.parse import quote_plus
 from datetime import datetime, date
 
 # ═══════════════════════════════════════
@@ -101,6 +102,8 @@ _client = manifest.get('client', {}) if isinstance(manifest.get('client'), dict)
 BIZ = _client.get('name') or manifest.get('businessName', 'YOR Construction & Investments, Inc.')
 WEBSITE = _client.get('canonicalUrl') or manifest.get('canonicalUrl', '') or manifest.get('websiteUrl', 'yorconstruction.com')
 PHONE = _client.get('phone') or manifest.get('phone', '')
+EMAIL = _client.get('email') or manifest.get('email', '')
+MANIFEST_LOCATIONS = _client.get('locations') or manifest.get('locations', []) or []
 SERVICES = _client.get('services') or manifest.get('services', [])
 CITIES = _client.get('cities') or manifest.get('cities', [])
 
@@ -489,7 +492,23 @@ def build_awards():
 def build_contact():
     items = []
     first_phone = first_email = ''
-    for l in load_json('locations/*.json'):
+    locs = load_json('locations/*.json')
+    if isinstance(MANIFEST_LOCATIONS, list):
+        for ml in MANIFEST_LOCATIONS:
+            if isinstance(ml, dict):
+                locs.append({
+                    'name': ml.get('name') or f'{BIZ} Main Office',
+                    'address': {
+                        'streetAddress': ml.get('address') or '',
+                        'addressLocality': ml.get('city') or '',
+                        'addressRegion': ml.get('state') or '',
+                        'postalCode': ml.get('zip') or '',
+                    },
+                    'telephone': ml.get('phone') or PHONE,
+                    'email': ml.get('email') or EMAIL,
+                    'url': WEBSITE,
+                })
+    for l in locs:
         if not isinstance(l, dict): continue
         name = _first(l.get('name'), l.get('entity_name')) or 'Location'
         addr = l.get('address', {})
@@ -511,6 +530,8 @@ def build_contact():
         block = f'<div class="card"><h3>{esc(name)}</h3><p>'
         addr_parts = [p for p in [street, ', '.join(filter(None, [city, state])), zipc] if p]
         if addr_parts: block += f'<strong>Address:</strong> {esc(" ".join(addr_parts))}<br>'
+        if phone: block += f'<strong>Phone:</strong> <a href="tel:{esc(phone)}">{esc(phone)}</a><br>'
+        if email: block += f'<strong>Email:</strong> <a href="mailto:{esc(email)}">{esc(email)}</a><br>'
         if hours: block += f'<strong>Hours:</strong> {esc(hours)}<br>'
         if website: block += f'<strong>Website:</strong> <a href="{esc(website)}" target="_blank" rel="nofollow">{esc(website)}</a><br>'
         block += '</p>'
@@ -521,12 +542,17 @@ def build_contact():
         lng = geo.get('longitude') if isinstance(geo, dict) else None
         if isinstance(lat, (int, float)) and isinstance(lng, (int, float)):
             block += f'<div style="margin-top:1rem;"><iframe src="https://www.google.com/maps?q={lat},{lng}&z=15&output=embed" width="100%" height="320" style="border:0;border-radius:8px;" allowfullscreen loading="lazy"></iframe></div>'
+        else:
+            map_query = ' '.join(addr_parts) or name
+            if map_query:
+                block += f'<div style="margin-top:1rem;"><iframe title="Map to {esc(name)}" src="https://www.google.com/maps?q={quote_plus(map_query)}&output=embed" width="100%" height="320" style="border:0;border-radius:8px;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>'
 
         block += '</div>'
         items.append(block)
 
     # Quick contact card — use location data with manifest fallbacks
     if not first_phone and PHONE: first_phone = PHONE
+    if not first_email and EMAIL: first_email = EMAIL
     intro = '<p>We\u2019d love to hear from you. Reach out using the details below or visit us at our offices.</p>'
     if first_phone or first_email or WEBSITE:
         intro += '<div class="card"><h2>Quick Contact</h2>'
