@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-06-11T21:18:14.624Z",
+  "generatedAt": "2026-06-11T21:30:31.041Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -24,25 +24,7 @@
       "role": "ai-data-hub",
       "label": "YOR Construction & Investments, Inc. — AI Data Hub",
       "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "github",
-      "label": "GitHub repository",
-      "url": "https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-zk5t"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "github",
-      "label": "GitHub — AI Data Hub mirror",
-      "url": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/ai-data.html"
     }
   ],
-  "destinations": {
-    "github": {
-      "url": "https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-zk5t",
-      "pagesUrl": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/",
-      "repo": "AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-zk5t"
-    }
-  }
+  "destinations": {}
 }

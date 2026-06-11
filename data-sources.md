@@ -18,7 +18,7 @@ This AI Data Package for YOR Construction & Investments, Inc. is assembled from:
 - Organization & About: 1 file(s)
 - Site Pages: 11 file(s)
 - Press: 1 file(s)
-- Public Pages: 7 file(s)
+- Public Pages: 8 file(s)
 - Q&A: 202 file(s)
 - research-source: 27 file(s)
 - Reviews: 5 file(s)

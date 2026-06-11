@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T21:17:54.569Z",
+  "generatedAt": "2026-06-11T21:30:31.027Z",
   "files": [
     {
       "path": "services/additions-service.json",
@@ -5290,49 +5290,56 @@
       "path": "index.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 1936,
+      "bytes": 2044,
       "mime": "text/html"
     },
     {
       "path": "about.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 3732,
+      "bytes": 3764,
       "mime": "text/html"
     },
     {
       "path": "services.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 174034,
+      "bytes": 174066,
       "mime": "text/html"
     },
     {
       "path": "testimonials.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 3521,
+      "bytes": 3553,
       "mime": "text/html"
     },
     {
       "path": "contact.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 2264,
+      "bytes": 2296,
       "mime": "text/html"
     },
     {
       "path": "faqs.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 492995,
+      "bytes": 493027,
       "mime": "text/html"
     },
     {
       "path": "help.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 98879,
+      "bytes": 98911,
+      "mime": "text/html"
+    },
+    {
+      "path": "qnas.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 1032507,
       "mime": "text/html"
     },
     {
@@ -5836,7 +5843,7 @@
       "path": "data/internal-links.json",
       "category": "data",
       "purpose": "Internal links index",
-      "bytes": 110278,
+      "bytes": 110345,
       "mime": "application/ld+json"
     }
   ]

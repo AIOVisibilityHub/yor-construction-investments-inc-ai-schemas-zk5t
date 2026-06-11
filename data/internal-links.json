@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T21:17:54.568Z",
+  "generatedAt": "2026-06-11T21:30:31.026Z",
   "links": [
     {
       "path": "services/additions-service.json",
@@ -3047,6 +3047,10 @@
     },
     {
       "path": "help.html",
+      "category": "public"
+    },
+    {
+      "path": "qnas.html",
       "category": "public"
     },
     {

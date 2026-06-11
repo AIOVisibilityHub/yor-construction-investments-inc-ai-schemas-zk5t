@@ -1,6 +1,6 @@
 {
   "entity": "YOR Construction & Investments, Inc.",
-  "generatedAt": "2026-06-11T21:17:54.577Z",
+  "generatedAt": "2026-06-11T21:30:31.037Z",
   "workflow": "research → review → approval → public",
   "notes": "Research and Q&A items require explicit approval before publishing. Non-research entity files (services, locations, attorneys, FAQs) are produced from supplied entity data.",
   "files": [
@@ -5560,6 +5560,13 @@
     },
     {
       "path": "help.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "qnas.html",
       "status": "entity-data",
       "visibility": "published",
       "reviewedAt": null,

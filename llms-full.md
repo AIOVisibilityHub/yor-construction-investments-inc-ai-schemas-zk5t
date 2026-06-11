@@ -15,14 +15,6 @@ Package contents:
 - 41 helpArticles
 - 1 organization
 
-## Cross-Destination Index — Related AI Data Sources
-- [canonical] YOR Construction & Investments, Inc. — canonical website — yorconstruction.com
-- [ai-data-hub] YOR Construction & Investments, Inc. — AI Data Hub — https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/ai-data.html
-- [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-zk5t
-- [mirror-pages] GitHub — AI Data Hub mirror — https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/ai-data.html
-
-Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
-
 Services offered:
 - Additions
 - Bathroom Remodeling
@@ -855,12 +847,13 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/webpages/seismic-retrofitting-hub.json — webpage
 - https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/webpages/seismic-retrofitting-los-angeles-hub.json — webpage
 
-### Public Pages (7)
+### Public Pages (8)
 - https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/about.html — LLM-optimized public page
 - https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/contact.html — LLM-optimized public page
 - https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/faqs.html — LLM-optimized public page
 - https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/help.html — LLM-optimized public page
 - https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/index.html — LLM-optimized public page
+- https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/qnas.html — LLM-optimized public page
 - https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/services.html — LLM-optimized public page
 - https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/testimonials.html — LLM-optimized public page
 
