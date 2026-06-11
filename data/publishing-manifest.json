@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-06-11T20:54:15.561Z",
+  "generatedAt": "2026-06-11T20:54:36.329Z",
   "client": {
     "name": "YOR Construction & Investments, Inc.",
     "canonicalUrl": "yorconstruction.com",
@@ -44,7 +44,7 @@
   },
   "package": {
     "totalFiles": 631,
-    "totalBytes": 7091774,
+    "totalBytes": 7097900,
     "stats": {
       "qna": 734,
       "faqs": 431,
@@ -3205,7 +3205,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 2956,
+        "bytes": 3720,
         "purpose": "LLM hint"
       },
       {
@@ -3225,32 +3225,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1049,
+        "bytes": 1800,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 326221,
+        "bytes": 327776,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 109375,
+        "bytes": 110139,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 109375,
+        "bytes": 110139,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 2731,
+        "bytes": 3495,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 103750,
+        "bytes": 104514,
         "purpose": "Repository README"
       },
       {
@@ -3265,5 +3265,11 @@
       }
     ]
   },
-  "destinations": {}
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-zk5t",
+      "pagesUrl": "https://AIOVisibilityHub.github.io/yor-construction-investments-inc-ai-schemas-zk5t/",
+      "repo": "AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-zk5t"
+    }
+  }
 }
